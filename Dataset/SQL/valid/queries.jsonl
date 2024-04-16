@@ -1,0 +1,1034 @@
+{"_id": "65a4bea5c5b5eea42132566b88cf9b2b", "text": "Show the name of teachers aged either 32 or 33?", "title": "", "metadata": ""}
+{"_id": "215527e605a42a0b157b86e17b00c5dc", "text": "Which professionals have done at least two treatments? List the professional's id, role, and first name.", "title": "", "metadata": ""}
+{"_id": "1958edd8136dc9c677c083378b290bfb", "text": "How many singers are from each country?", "title": "", "metadata": ""}
+{"_id": "8d09533efe961dae85024bb88bbbf2f7", "text": "What are 3 most highly rated episodes in the TV series table and what were those ratings?", "title": "", "metadata": ""}
+{"_id": "3978e0eed7c4038d51407c21578edef9", "text": "find the code of the country where has the greatest number of players.", "title": "", "metadata": ""}
+{"_id": "8ea3f8507c8c4fdfb88937b6b345389e", "text": "What are the names and areas of countries with the top 5 largest area?", "title": "", "metadata": ""}
+{"_id": "624643c02212fda64fbdffa8bce8411a", "text": "What are the final tables made and best finishes for all poker players?", "title": "", "metadata": ""}
+{"_id": "9092218c0e326f05b21d753503ee0645", "text": "What is the number of distinct continents where Chinese is spoken?", "title": "", "metadata": ""}
+{"_id": "90588c9111c1e1ac34f3f7e1a8240921", "text": "How many ships ended up being 'Captured'?", "title": "", "metadata": ""}
+{"_id": "a6706bedb06dd4e6dfeb7cc46dfe75ae", "text": "What is the average age of the dogs who have gone through any treatments?", "title": "", "metadata": ""}
+{"_id": "66cb8f9246c0593d0d65242a646fcce4", "text": "List the vote ids, phone numbers and states of all votes.", "title": "", "metadata": ""}
+{"_id": "ae8b96328af4a9bd7d4b5773c6cc1000", "text": "How many TV Channel using language English?", "title": "", "metadata": ""}
+{"_id": "73ec1216ab0fa8ef1bb32e0beb2ade38", "text": "What region does Angola belong to and what is its population?", "title": "", "metadata": ""}
+{"_id": "f36403a9e1c9accdc93e59a06864f924", "text": "What is minimum and maximum share of TV series?", "title": "", "metadata": ""}
+{"_id": "10afef1bd9d41da6b7ebcd015baa98a2", "text": "Show the names of students who have at least 2 likes.", "title": "", "metadata": ""}
+{"_id": "d994b754841e3108241299b916c84975", "text": "List the name of the conductor with the most years of work.", "title": "", "metadata": ""}
+{"_id": "c7153bab088d0685ed8b42d54724b308", "text": "How many matches were played in each year?", "title": "", "metadata": ""}
+{"_id": "db12eea657f14a69ef00ca028817dbbb", "text": "What is the name of the course with the most students enrolled?", "title": "", "metadata": ""}
+{"_id": "e5e50fb900e56cc7da6c106123a4dfab", "text": "How many different degree names are offered?", "title": "", "metadata": ""}
+{"_id": "590cdb2da70c43676b78b325cef8a7be", "text": "Which owner has paid for the most treatments on his or her dogs? List the owner id and last name.", "title": "", "metadata": ""}
+{"_id": "a2e6534b9ef0cdd1b311f95657e5cee0", "text": "How many car models are produced by each maker ? Only list the count and the maker full name .", "title": "", "metadata": ""}
+{"_id": "00c14f86cc660b21e7ed1fb6bd28cd0f", "text": "What is the number of cars with more than 4 cylinders?", "title": "", "metadata": ""}
+{"_id": "6f60657c32fa03743fa9fe32032765d0", "text": "List the date of each treatment, together with the first name of the professional who operated it.", "title": "", "metadata": ""}
+{"_id": "c9a8c508aa61e6011816c5c398fd16a7", "text": "What is the official language spoken in the country whose head of state is Beatrix?", "title": "", "metadata": ""}
+{"_id": "367aa604b893eae1bd5d7eba16ba4e22", "text": "Who is the first student to register? List the first name, middle name and last name.", "title": "", "metadata": ""}
+{"_id": "43b9e8a0882dca028a649a491bc66b1e", "text": "What is the name of the singer with the largest net worth?", "title": "", "metadata": ""}
+{"_id": "a7028e5c0151defea4d083866f056bc6", "text": "Find the arriving date and the departing date of the dogs that received a treatment.", "title": "", "metadata": ""}
+{"_id": "e616686211bc8b97b2de5460586960f6", "text": "Find the average life expectancy and total population for each continent where the average life expectancy is shorter than 72?", "title": "", "metadata": ""}
+{"_id": "3e7f7513f2f01ae90668efc7ae5bfff3", "text": "What is the name of each continent and how many car makers are there in each one?", "title": "", "metadata": ""}
+{"_id": "bac2e1f55243c41b041a371fa4d7f87f", "text": "What are the country codes for countries that do not speak English?", "title": "", "metadata": ""}
+{"_id": "a668ee0e434c112dca55c5168cf50c81", "text": "How many cars have more than 4 cylinders?", "title": "", "metadata": ""}
+{"_id": "0e7e5c760a95d02afebf83c10b3d2208", "text": "Give the names of countries with English and French as official languages.", "title": "", "metadata": ""}
+{"_id": "1d01f7a57a6e29e6c8ef26535b6a5c05", "text": "List the record company shared by the most number of orchestras.", "title": "", "metadata": ""}
+{"_id": "0718bf0a98b47e76d2f721c4619744e3", "text": "What is the ship id and name that caused most total injuries?", "title": "", "metadata": ""}
+{"_id": "a7bfc3ce17592bf77dbfedd8bad3e9ab", "text": "What are the song titles and singer names?", "title": "", "metadata": ""}
+{"_id": "c0f9547b22fe4c1eabe9e38d130029ae", "text": "What is average life expectancy in the countries where English is not the official language?", "title": "", "metadata": ""}
+{"_id": "8d1ce50e2a5fb3d389879ff4b1c63590", "text": "How many documents are using the template with type code 'PPT'?", "title": "", "metadata": ""}
+{"_id": "e246eb01def780e9e3568802b697939a", "text": "Return the document id, template id, and description for the document with the name Robbin CV.", "title": "", "metadata": ""}
+{"_id": "436334b2f3fd6ea83053e5571a0ee6a6", "text": "Give me the id, role and email of the professionals who did not perform any treatment on dogs.", "title": "", "metadata": ""}
+{"_id": "624dea3f31a66b0e6920e198bcf4bc84", "text": "How many cartoons did each director create?", "title": "", "metadata": ""}
+{"_id": "9c9b741847bc53544546f090ee28f772", "text": "What are the titles of all cartoons directed by Ben Jones or Brandon Vietti?", "title": "", "metadata": ""}
+{"_id": "1469da0c98e229a4bf0d7435ab461ec1", "text": "What are the population, name and leader of the country with the largest area?", "title": "", "metadata": ""}
+{"_id": "0e8d017c16f1e79644a6a551d8441c09", "text": "Find all airlines that have flights from airport 'CVO' but not from 'APG'.", "title": "", "metadata": ""}
+{"_id": "f9e5efb5276f1f7c25cd06a201f674e0", "text": "Count the number of documents.", "title": "", "metadata": ""}
+{"_id": "faf680ad80cc76ee042fe4bab5da863d", "text": "What is the name of the conductor who has worked the greatest number of years?", "title": "", "metadata": ""}
+{"_id": "fecfe3cc0851f95b8237fddefd1fc092", "text": "What are the different template type codes?", "title": "", "metadata": ""}
+{"_id": "9fcf36d0c6b16d332b274c6bee6d5f8b", "text": "What are all of the episodes ordered by ratings?", "title": "", "metadata": ""}
+{"_id": "b01962e9dcb416c2c4601ceacb25c33b", "text": "Which of the countries has the most car makers? List the country name.", "title": "", "metadata": ""}
+{"_id": "c2c93825acbdb1d4caa26903d5487dcd", "text": "What is the number of car models that are produced by each maker and what is the id and full name of each maker?", "title": "", "metadata": ""}
+{"_id": "0381c5f1f6dc7683090884906ac726fc", "text": "What are the different template type codes, and how many documents use each type?", "title": "", "metadata": ""}
+{"_id": "b06c5ea52d737f9defeb461ee9090bde", "text": "Which continent speaks the most languages?", "title": "", "metadata": ""}
+{"_id": "815a00fbd8b2110e16758dfaeac0797d", "text": "What are the countries having at least one car maker? List name and id.", "title": "", "metadata": ""}
+{"_id": "001adde4110d958040dd12feb0a1edbf", "text": "Which airlines have less than 200 flights?", "title": "", "metadata": ""}
+{"_id": "f3701cfdc1655d37d0ea88b8e094c658", "text": "Return the id of the document with the fewest paragraphs.", "title": "", "metadata": ""}
+{"_id": "efd801289851c6ccd4accd30c4284bdf", "text": "Which flight numbers correspond to United Airlines flights?", "title": "", "metadata": ""}
+{"_id": "fb8c4438581bb89952e533b98cf2f573", "text": "Show the ids of high schoolers who have friends and are also liked by someone else.", "title": "", "metadata": ""}
+{"_id": "25211ff9f249f04b90812f13aa144b9d", "text": "Return the number of airports.", "title": "", "metadata": ""}
+{"_id": "e35a4a9e844103310d96b4f9d02ba66a", "text": "Show different citizenships and the maximum net worth of singers of each citizenship.", "title": "", "metadata": ""}
+{"_id": "cec05183fb82196f24af8f426a7753da", "text": "What are the names of poker players in descending order of earnings?", "title": "", "metadata": ""}
+{"_id": "97c7bc20b0841b06a8059f2c0dfad868", "text": "When was the last transcript released?", "title": "", "metadata": ""}
+{"_id": "2cb66b9f0d982e4a51b382084ce2897d", "text": "What is the document id with 1 to 2 paragraphs?", "title": "", "metadata": ""}
+{"_id": "0c445678de0a9e5b3b9d895c0a1ff43c", "text": "Which model of the car has the minimum horsepower?", "title": "", "metadata": ""}
+{"_id": "bc8353e8e13960a6d7af67f89be8bf16", "text": "What is the number of continents?", "title": "", "metadata": ""}
+{"_id": "63432f7515c0c8e5ff5dec9c9a5b0208", "text": "Give the flight numbers of flights leaving from Aberdeen.", "title": "", "metadata": ""}
+{"_id": "752f82500ba29191bf42a4c0b8c02163", "text": "Which address holds the most number of students currently? List the address id and all lines.", "title": "", "metadata": ""}
+{"_id": "a92693d199d43ffe67c152688422c90e", "text": "What are the names of airports in Aberdeen?", "title": "", "metadata": ""}
+{"_id": "7374e86e02f5d0837d7728ce365f6d0d", "text": "Which grades have 4 or more high schoolers?", "title": "", "metadata": ""}
+{"_id": "fb32e28257132ee11f8f34956338db44", "text": "Show the names of conductors that have conducted more than one orchestras.", "title": "", "metadata": ""}
+{"_id": "c8f676dbf8ce673f077194b7ec435c71", "text": "Find the id, last name and cell phone of the professionals who live in the state of Indiana or have performed more than two treatments.", "title": "", "metadata": ""}
+{"_id": "387dfef122238b01ede1ce6c0f7ecb54", "text": "What are the names of all the countries that became independent after 1950?", "title": "", "metadata": ""}
+{"_id": "5f9587714fb9546875eaf45e2f3ad98b", "text": "What is the horsepower of the car with the largest accelerate?", "title": "", "metadata": ""}
+{"_id": "72e1b073916d9054bc6f5cbddc45cc74", "text": "For all of the 4 cylinder cars, which model has the most horsepower?", "title": "", "metadata": ""}
+{"_id": "81702037ed7bb510e3e1cc68343ae750", "text": "What are the names of all European countries with at least 3 manufacturers?", "title": "", "metadata": ""}
+{"_id": "a9d92cea6ae56170c08ebb76407e60ce", "text": "what are all the addresses including line 1 and line 2?", "title": "", "metadata": ""}
+{"_id": "e8e1e831c7804545297638c96e4abf6d", "text": "What are the different template type codes, and how many templates correspond to each?", "title": "", "metadata": ""}
+{"_id": "f97ffd2894955af2fe8479b05a357bf9", "text": "Count the number of different nationalities.", "title": "", "metadata": ""}
+{"_id": "435c2b8119c06df8ea94a03ab1551402", "text": "What are all the makers and models?", "title": "", "metadata": ""}
+{"_id": "25a18d038832ddd39fc4cf7339ff2e3c", "text": "Return the name, location and district of all shops in descending order of number of products.", "title": "", "metadata": ""}
+{"_id": "f188dbfc00f15382f2068ca63c30b45a", "text": "Find the number of employees hired in each shop; show the shop name as well.", "title": "", "metadata": ""}
+{"_id": "fe53517f0f4da1359419c12703f18e67", "text": "What are the ids and names of each document, as well as the number of paragraphs in each?", "title": "", "metadata": ""}
+{"_id": "8b711375cc19a5f212381fe35e02ff09", "text": "What are the maximum and minimum values of area codes?", "title": "", "metadata": ""}
+{"_id": "5e371ae1408684d29394987b024b7253", "text": "What are the first names of every student who has a cat or dog as a pet?", "title": "", "metadata": ""}
+{"_id": "472522d40fb1fcfd40436683071e6717", "text": "List the emails of the professionals who live in the state of Hawaii or the state of Wisconsin.", "title": "", "metadata": ""}
+{"_id": "3b3b5d76e69fdb8e3824fbf1788e47ec", "text": "Return the names of the 3 countries with the fewest people.", "title": "", "metadata": ""}
+{"_id": "22e20ef1ebd901a6a7fa80379149dbc4", "text": "How many flights depart from City Aberdeen?", "title": "", "metadata": ""}
+{"_id": "82351cfee1eaa049fab6107eba6e80b9", "text": "What are the ids for templates that are not used in any documents?", "title": "", "metadata": ""}
+{"_id": "9125c1c3036bee80675d1b0f0b11e934", "text": "What is the total number of airlines?", "title": "", "metadata": ""}
+{"_id": "575a8c9627ce9f8d5c2692de7405211d", "text": "Return the names of the 3 most populated countries.", "title": "", "metadata": ""}
+{"_id": "6d4b59380895668c7d8d2e920504c34b", "text": "Give average earnings of poker players who are taller than 200.", "title": "", "metadata": ""}
+{"_id": "26c89a6493d19d49155c66c4ebba9324", "text": "Which city and country is the Alton airport at?", "title": "", "metadata": ""}
+{"_id": "ef231150490ede02a20d59f7a568aba5", "text": "List the names of teachers in ascending order of age.", "title": "", "metadata": ""}
+{"_id": "ff0e7e65ce6f407f09b2445fc8778da9", "text": "What is the first name and gender of the all the students who have more than one pet?", "title": "", "metadata": ""}
+{"_id": "80173b4dcf3ff1cf3816733325efc28d", "text": "What are the names of the singers and number of concerts for each person?", "title": "", "metadata": ""}
+{"_id": "f49b1685b4c934047034ed9ea50148c1", "text": "What major is every student who does not own a cat as a pet, and also how old are they?", "title": "", "metadata": ""}
+{"_id": "a69bd521e1a178ea69a95da45634c338", "text": "What are the names of conductors who have conducted at more than one orchestra?", "title": "", "metadata": ""}
+{"_id": "5acf74773d42f26ae360542bf716ccac", "text": "What are the names of the singers that have more than one songs?", "title": "", "metadata": ""}
+{"_id": "d37ce525d027d3cc5c36c74b657a665b", "text": "Find the number of concerts happened in the stadium with the highest capacity .", "title": "", "metadata": ""}
+{"_id": "f4b01b6b75dfd33bcdd71d3d16e8a24a", "text": "How many courses are there?", "title": "", "metadata": ""}
+{"_id": "4c4d501b0f8f990a45aa06738f43fad7", "text": "What are the names of the winner and loser who played in the longest match?", "title": "", "metadata": ""}
+{"_id": "627770a3aa75639839aef63d1ef748ae", "text": "List all cartoon directed by \"Ben Jones\".", "title": "", "metadata": ""}
+{"_id": "698d27e918020fd5851190de5eb9186d", "text": "Return the grade for the high schooler named Kyle.", "title": "", "metadata": ""}
+{"_id": "1ecad54deb79afda20085e84c9115e00", "text": "Return the type code of the template type that the most templates belong to.", "title": "", "metadata": ""}
+{"_id": "ba4a94681091d60f7df30eb86ffce022", "text": "What grade is Kyle in?", "title": "", "metadata": ""}
+{"_id": "9abef339dd8355d7f4e5dd1b635fc868", "text": "Return the average attendance across all shows.", "title": "", "metadata": ""}
+{"_id": "3d0efc68c5607b896b96f15901fb571d", "text": "What are different nationalities of people and the corresponding number of people from each nation?", "title": "", "metadata": ""}
+{"_id": "7436318d35f35943e694f21711af5169", "text": "Which countries in europe have at least 3 car manufacturers?", "title": "", "metadata": ""}
+{"_id": "597ec15fabff7efd77adca4ba418882e", "text": "What is the total population and maximum GNP in Asia?", "title": "", "metadata": ""}
+{"_id": "19967f0dc24eea8ae6baefa4955a08f6", "text": "What are the ids and texts of paragraphs in the document titled 'Welcome to NY'?", "title": "", "metadata": ""}
+{"_id": "b4d2e929ec155aa5d46e518e327c07ae", "text": "Which regions speak Dutch or English?", "title": "", "metadata": ""}
+{"_id": "4698837c84954633dfe1ee446edbddee", "text": "What are the airline names and abbreviations for airlines in the USA?", "title": "", "metadata": ""}
+{"_id": "7f17143886fdcbe22c5d0aa0e853732c", "text": "What is the model of the car with the smallest amount of horsepower?", "title": "", "metadata": ""}
+{"_id": "4881389647835e550e198f51ca3d19f9", "text": "What are airlines that have some flight departing from airport 'AHD'?", "title": "", "metadata": ""}
+{"_id": "2be38f7179c130536bcbaab75e15ab2f", "text": "Which district has both stores with less than 3000 products and stores with more than 10000 products?", "title": "", "metadata": ""}
+{"_id": "37282bfd2f2b3800f7fdf6b091be4d55", "text": "What are the names of the nations with the 3 lowest populations?", "title": "", "metadata": ""}
+{"_id": "a9f0a70251ab7f5a86191fc190b412f3", "text": "List the last name of the owner owning the youngest dog.", "title": "", "metadata": ""}
+{"_id": "28737cf0569bc525096549cad85aa6f0", "text": "What are the ids of documents that have 2 or more paragraphs?", "title": "", "metadata": ""}
+{"_id": "82ca4e3c35e6578adab84461c1138653", "text": "What is the TV Channel of TV series with Episode \"A Love of a Lifetime\"? List the TV Channel's series name.", "title": "", "metadata": ""}
+{"_id": "c0c1753744648230a2a92a557618b7ca", "text": "what are the different names of the singers that have sales more than 300000?", "title": "", "metadata": ""}
+{"_id": "82e068b1d299a5a89f49604d35276cae", "text": "What is the department description for the one whose name has the word computer?", "title": "", "metadata": ""}
+{"_id": "86b179db70220c06f616eba466b0f329", "text": "find the minimum and maximum number of products of all stores.", "title": "", "metadata": ""}
+{"_id": "228ec8084da4d0142517dda4188313b4", "text": "List the name of singers that do not have any song.", "title": "", "metadata": ""}
+{"_id": "7aaed0b5525864ca0525a98a2ce72023", "text": "Which year had the most matches?", "title": "", "metadata": ""}
+{"_id": "ffa0092271440797b44d0751708d5fc8", "text": "Which semesters do not have any student enrolled? List the semester name.", "title": "", "metadata": ""}
+{"_id": "49c0b5f39379a15c3c005c9143558602", "text": "Return the grade that has the greatest number of high schoolers.", "title": "", "metadata": ""}
+{"_id": "4fd87516c4aece82382c6ce71e787621", "text": "How many visitors below age 30 are there?", "title": "", "metadata": ""}
+{"_id": "a9435034876bdee3f2bdcdfa9b6f5b53", "text": "What are the opening year and staff number of the museum named Plaza Museum?", "title": "", "metadata": ""}
+{"_id": "a0079b3f731c9e9a8f85368977cc0345", "text": "which countries' tv channels are playing some cartoon written by Todd Casey?", "title": "", "metadata": ""}
+{"_id": "b623da4a2e67c0d80c252642537474d1", "text": "What is the count of singers?", "title": "", "metadata": ""}
+{"_id": "bd109e9f62aafe790f5df01ce60758b8", "text": "What are the orchestras that do not have any performances?", "title": "", "metadata": ""}
+{"_id": "5df636e439c84178f3b86fd755cb21e2", "text": "What is the name and country of origin of every singer who has a song with the word 'Hey' in its title?", "title": "", "metadata": ""}
+{"_id": "f10841574ab4cbf7a34725826761fd2f", "text": "Count the number of orchestras that have CD or DVD as their record format.", "title": "", "metadata": ""}
+{"_id": "9df82e378b542541a4782b9c33e6c46c", "text": "Return the country name and the numbers of languages spoken for each country that speaks at least 3 languages.", "title": "", "metadata": ""}
+{"_id": "e508ef89fd499f851c560f20a7ee897d", "text": "Sort all the shops by number products in descending order, and return the name, location and district of each shop.", "title": "", "metadata": ""}
+{"_id": "2da749335355e9a68dbaf00c3d412b23", "text": "What other details can you tell me about students in reverse alphabetical order?", "title": "", "metadata": ""}
+{"_id": "32ccf046f7a84c13981ba7bbb55fe30a", "text": "Return the maximum final tables made across all poker players who have earnings below 200000.", "title": "", "metadata": ""}
+{"_id": "99c5f2195d947e2e24bda697ea2cff82", "text": "How many total tours were there for each ranking date?", "title": "", "metadata": ""}
+{"_id": "e78de8e1c3312913558dd85894e324e2", "text": "What is the airport name for airport 'AKO'?", "title": "", "metadata": ""}
+{"_id": "4d1ff80c4ca3718c5d617489282185c0", "text": "What is the average attendance of shows?", "title": "", "metadata": ""}
+{"_id": "6457473118af526ecbcdcd4205eea377", "text": "How many different departments offer degrees?", "title": "", "metadata": ""}
+{"_id": "a0862c10a1fb69119dbfaa8813ac93ca", "text": "For the countries founded before 1930, what is the total number of distinct official languages?", "title": "", "metadata": ""}
+{"_id": "1dec15f50eb98125890e9c333185d500", "text": "How much does the most recent treatment cost?", "title": "", "metadata": ""}
+{"_id": "2f5ad3010a3e700a435e5fb2633ba25b", "text": "Find the last name of the student who has a cat that is age 3.", "title": "", "metadata": ""}
+{"_id": "3fe7aaecadccd191fd65b8e02136f7f9", "text": "What is the average rank for winners in all matches?", "title": "", "metadata": ""}
+{"_id": "206093cab3aeefb2c09b402efc05fda9", "text": "Find the name and membership level of the visitors whose membership level is higher than 4, and sort by their age from old to young.", "title": "", "metadata": ""}
+{"_id": "ce6f563bbe44fa6361940abdc79b4b8c", "text": "Show me all grades that have at least 4 students.", "title": "", "metadata": ""}
+{"_id": "53c651f55198e44cb45a0902bf1b2551", "text": "What are the minimum and maximum number of products across all the shops?", "title": "", "metadata": ""}
+{"_id": "d5739430e769a25f42c175dc53ab788f", "text": "Return the ids of templates that have the code PP or PPT.", "title": "", "metadata": ""}
+{"_id": "1185f2cdcbf5f2765960a684bda46928", "text": "What is the maximum horsepower and the make of the car models with 3 cylinders?", "title": "", "metadata": ""}
+{"_id": "96b9d5ccaf80cc8278a9bd6bec5ba077", "text": "How many conductors are there?", "title": "", "metadata": ""}
+{"_id": "018c82dcf2b529cfcf3f17a48089a066", "text": "Count the number of flights departing from 'APG'.", "title": "", "metadata": ""}
+{"_id": "4b56f280312fc1c4ed288456602cd066", "text": "Which countries have greater area than that of any country in Europe?", "title": "", "metadata": ""}
+{"_id": "9fb8b2b457b26e5b26bb0193855dafa5", "text": "Find the names of the visitors whose membership level is higher than 4, and order the results by the level from high to low.", "title": "", "metadata": ""}
+{"_id": "854baefec04d509c795e58944c3a3679", "text": "What model has the most different versions?", "title": "", "metadata": ""}
+{"_id": "33b85f076c54b67b9691c7c9dab7cf45", "text": "What is the average age for all students who do not own any pets ?", "title": "", "metadata": ""}
+{"_id": "f5d9fcacd5bf7a72ed1c74aa6a78e13e", "text": "Find the name and location of the stadiums which some concerts happened in the years of both 2014 and 2015.", "title": "", "metadata": ""}
+{"_id": "7c7def7ed45d7130ef8cbbeb30504b8e", "text": "What is the grade of each high schooler?", "title": "", "metadata": ""}
+{"_id": "5b96381eb1a297e689d1b6ea83f279dd", "text": "What is the money rank of the tallest poker player?", "title": "", "metadata": ""}
+{"_id": "079a2d4630949f7c594003c2a8410c6f", "text": "What are the names of the high schoolers and how many friends does each have?", "title": "", "metadata": ""}
+{"_id": "8e42453dace330f2ab027289e1ac37be", "text": "how many countries are in Asia?", "title": "", "metadata": ""}
+{"_id": "5645112bf128c0ad2c43f7ba9fb5839e", "text": "Which dogs are of the rarest breed? Show their names and treatment dates.", "title": "", "metadata": ""}
+{"_id": "5bc821c328457fec5a85c2814626470f", "text": "What are the names of conductors whose nationalities are not \"USA\"?", "title": "", "metadata": ""}
+{"_id": "3adcfd60badee037f44b4fef1d2520ae", "text": "What are the Asian countries which have a population larger than that of any country in Africa?", "title": "", "metadata": ""}
+{"_id": "e97ea2d52f7b201600a765acbd79b5bd", "text": "Find the first name and country code of the oldest player.", "title": "", "metadata": ""}
+{"_id": "875192bbf063a34c7d897ccb26f13947", "text": "What is the total population of Gelderland district?", "title": "", "metadata": ""}
+{"_id": "57717a3748f79e9751c208b4827fcd9b", "text": "Find the name and rank of the 3 youngest winners across all matches.", "title": "", "metadata": ""}
+{"_id": "16d2ecd388d857a29726cb0e5f90663c", "text": "For each singer name, what is the total sales for their songs?", "title": "", "metadata": ""}
+{"_id": "d0b8383692765367235b7f160ab6eb2f", "text": "Find the model of the car whose weight is below the average weight.", "title": "", "metadata": ""}
+{"_id": "2cb3d4b908d8e33200cb6e303d214e62", "text": "What are the names of cities in Europe for which English is not the official language?", "title": "", "metadata": ""}
+{"_id": "ad846e13e14dae71c44598772be6203b", "text": "What are the nationalities that are shared by at least two people?", "title": "", "metadata": ""}
+{"_id": "7db4a198108af871af5ac9061713839f", "text": "What are the average ages of losers and winners across matches?", "title": "", "metadata": ""}
+{"_id": "d0da4fe4d138285234cd492d2f9c713c", "text": "What is Kyle's id?", "title": "", "metadata": ""}
+{"_id": "6b28d61818d5009a407497c815d90864", "text": "List the airport code and name in the city of Anthony.", "title": "", "metadata": ""}
+{"_id": "e301483f9ed8df2ae3710415e82839d4", "text": "find the number of distinct country codes of all players.", "title": "", "metadata": ""}
+{"_id": "b40fe265a5d28abe7304f2c089444b6b", "text": "Find the first name of students who have cat or dog pet.", "title": "", "metadata": ""}
+{"_id": "427398342ed8b10442896c5a3bf195ea", "text": "Describe the section h.", "title": "", "metadata": ""}
+{"_id": "ea440e79c56c9518136c84de83165633", "text": "Show the date of the transcript which shows the least number of results, also list the id.", "title": "", "metadata": ""}
+{"_id": "380c0e3a80bba08eae969840888cc912", "text": "How many airlines are from USA?", "title": "", "metadata": ""}
+{"_id": "3505885af1fce76262304ac2ec818f86", "text": "How many languages are spoken in Aruba?", "title": "", "metadata": ""}
+{"_id": "d02d4540fe62968d4e94fc05748fe274", "text": "What is all the information about hiring?", "title": "", "metadata": ""}
+{"_id": "19821cf6299a5a26272a670eb6ae0e49", "text": "What is the country with the most number of TV Channels and how many does it have?", "title": "", "metadata": ""}
+{"_id": "4eb1e463bae5e78f8bfbe1d264a3231e", "text": "Show the names of high schoolers who have at least 3 friends.", "title": "", "metadata": ""}
+{"_id": "e05cb0262d033d60a8a9751cbaf63f62", "text": "For model volvo, how many cylinders does the car with the least accelerate have?", "title": "", "metadata": ""}
+{"_id": "b3b6fdc757639130dd8c4e10d643af8f", "text": "How many unique languages are spoken in the world?", "title": "", "metadata": ""}
+{"_id": "8d62da102e097eab0131f4da1a23fd7e", "text": "What is the maximum capacity and the average of all stadiums ?", "title": "", "metadata": ""}
+{"_id": "e3c2986318257c451fc4bac5aa53487a", "text": "Among the cars with more than lowest horsepower, which ones do not have more than 3 cylinders? List the car makeid and make name.", "title": "", "metadata": ""}
+{"_id": "36007c81182934d7b75eca8d5473bfc1", "text": "Which owner has paid the largest amount of money in total for their dogs? Show the owner id and zip code.", "title": "", "metadata": ""}
+{"_id": "b6ce94170ef66e945da0d9b1701989fc", "text": "What is the total surface area of the continents Asia and Europe?", "title": "", "metadata": ""}
+{"_id": "05380af6450d19528a39a5586f46efa4", "text": "Which airline has most number of flights?", "title": "", "metadata": ""}
+{"_id": "ea12f09fb821749438072bf2a03559af", "text": "What is the last transcript release date?", "title": "", "metadata": ""}
+{"_id": "306b261f5df7561fb2e9336389046a3e", "text": "What are the names of documents that use templates with the code BK?", "title": "", "metadata": ""}
+{"_id": "2ac83fa245df7ae77686c3e74be23e27", "text": "Show paragraph details for paragraph with text 'Korea ' .", "title": "", "metadata": ""}
+{"_id": "4e096b2a335b8a720a7df09e9d2ee734", "text": "What are the names of the teachers and how many courses do they teach?", "title": "", "metadata": ""}
+{"_id": "dce697cd81bb76fa64cf9709223761c8", "text": "What are the first names of the students who live in Haiti permanently or have the cell phone number 09700166582 ?", "title": "", "metadata": ""}
+{"_id": "d401d834e6d4378b6932763c91ef0d7b", "text": "Which professionals have operated a treatment that costs less than the average? Give me theor first names and last names.", "title": "", "metadata": ""}
+{"_id": "04a0aedda6b7362070a103e83f157e2d", "text": "What is name of the country that speaks the largest number of languages?", "title": "", "metadata": ""}
+{"_id": "02dd94b2719df8276bcd2751235a169c", "text": "Tell me the number of dogs that have not received any treatment .", "title": "", "metadata": ""}
+{"_id": "d170a035751746832047f77ab61841de", "text": "Which airlines have departing flights from both APG and CVO airports?", "title": "", "metadata": ""}
+{"_id": "4b4bfbbe51dc85ac6fba727143479874", "text": "Count the number of templates.", "title": "", "metadata": ""}
+{"_id": "e3bba3dedc5a05c7691f0e4961b7570e", "text": "What are the names of the singers who are not French citizens?", "title": "", "metadata": ""}
+{"_id": "19d06c288d6a192b53db46a3602ad155", "text": "How many owners temporarily do not have any dogs?", "title": "", "metadata": ""}
+{"_id": "d3e91e1d72b40860bfed9722388fe5a4", "text": "List the name, date and result of each battle.", "title": "", "metadata": ""}
+{"_id": "09ef081307a7c03ef2fa52060571b51d", "text": "Which city has most number of departing flights?", "title": "", "metadata": ""}
+{"_id": "d2aa4f71910526de8b82671b9017addf", "text": "Return the code of the template type that is most commonly used in documents.", "title": "", "metadata": ""}
+{"_id": "a8eeb79ad458864e348fde06a37cb8fb", "text": "Find the production code and channel of the most recently aired cartoon .", "title": "", "metadata": ""}
+{"_id": "4d62c61ecc9c9c380c4ba18cbb27d9fb", "text": "Find the package choice and series name of the TV channel that has high definition TV.", "title": "", "metadata": ""}
+{"_id": "03d9fec1c147c494dfe301f4ec9c82d6", "text": "Return the number of United Airlines flights leaving from AHD Airport.", "title": "", "metadata": ""}
+{"_id": "9a0986450b65b51dacd9f07edff82dda", "text": "What is the most populace city that speaks English?", "title": "", "metadata": ""}
+{"_id": "b8ff84a7b258293664bf5aa7732caab6", "text": "Show all the grades of the high schoolers.", "title": "", "metadata": ""}
+{"_id": "dd59da62e677d6f12e7ca0bc0d16e8d8", "text": "Find the first name and country code of the player who did the most number of tours.", "title": "", "metadata": ""}
+{"_id": "8602e511984204e708306fbb1c5f8c22", "text": "For each citizenship, what is the maximum net worth?", "title": "", "metadata": ""}
+{"_id": "54095e1a8def22b988b24453623ab861", "text": "What are the ids of templates with template type code PP or PPT?", "title": "", "metadata": ""}
+{"_id": "d72f17f4aad41b2e5758c47aa5ea0f17", "text": "List the title of all cartoons in alphabetical order.", "title": "", "metadata": ""}
+{"_id": "9c7b3680e88154e6c70c3c8c42bc1304", "text": "Count the number of matches.", "title": "", "metadata": ""}
+{"_id": "c988695397609a29683e600f9ae3e050", "text": "For students who have pets , how many pets does each student have ? list their ids instead of names .", "title": "", "metadata": ""}
+{"_id": "217d6be854de67eee47daf8b5ae25092", "text": "Return the version numbers and template type codes of templates with a version number greater than 5.", "title": "", "metadata": ""}
+{"_id": "812d0cd88603c1a386cf5053aaa35280", "text": "What are the different years in which there were cars produced that weighed less than 4000 and also cars that weighted more than 3000 ?", "title": "", "metadata": ""}
+{"_id": "c8bffc40a7d6e9a859aee51e870fe7e8", "text": "What are the names and birth dates of people, ordered by their names in alphabetical order?", "title": "", "metadata": ""}
+{"_id": "0ada432feb1486efbbee47f5e9887aa3", "text": "What is the maximum accelerate for different number of cylinders?", "title": "", "metadata": ""}
+{"_id": "e8f470f2d10645df86ee2b3a1a80e6c6", "text": "What are the names of tournaments that have more than 10 matches?", "title": "", "metadata": ""}
+{"_id": "4e55f5eebec0d025dae8ccab96471044", "text": "Return the codes of countries that do not speak English and do not have Republics for governments.", "title": "", "metadata": ""}
+{"_id": "e87021eaa8b4b1b2bbe0578b4b0df384", "text": "list all cartoon titles and their directors ordered by their air date", "title": "", "metadata": ""}
+{"_id": "1dc74020464717778af38e9cf5172103", "text": "What language is predominantly spoken in Aruba?", "title": "", "metadata": ""}
+{"_id": "fb16933258660c243ae352c2aea6cb8f", "text": "Which cities do more than one employee under age 30 come from?", "title": "", "metadata": ""}
+{"_id": "c2fbe92535bd83c3c1ff48b300893628", "text": "What are the names, countries, and ages for every singer in descending order of age?", "title": "", "metadata": ""}
+{"_id": "8a13efa627570e72eb28dc76073dd3e3", "text": "How many transcripts are released?", "title": "", "metadata": ""}
+{"_id": "0ac9c355b905c26d5b1520e579f1ee30", "text": "Show different citizenship of singers and the number of singers of each citizenship.", "title": "", "metadata": ""}
+{"_id": "7aa4231f91b233cedcb6a0f73714ab03", "text": "What is the full name of each car maker, along with its id and how many models it produces?", "title": "", "metadata": ""}
+{"_id": "b8089c8f31a724ff7d4962684ef7c3d1", "text": "Find the name of the shops that do not hire any employee.", "title": "", "metadata": ""}
+{"_id": "086cf8ba16bb811610476b8b174430d0", "text": "Show me the cost of the most recently performed treatment.", "title": "", "metadata": ""}
+{"_id": "eea941f7b33e3c46b7c41f919fd7d818", "text": "Which professionals live in a city containing the substring 'West'? List his or her role, street, city and state.", "title": "", "metadata": ""}
+{"_id": "4e7c90ebbbe04882348c68dfb5f547d4", "text": "Show all template type codes with less than three templates.", "title": "", "metadata": ""}
+{"_id": "ab2867b555c2d1d474c5a6b5266151cf", "text": "What are the name and results of the battles when the bulgarian commander is not 'Boril'", "title": "", "metadata": ""}
+{"_id": "dbb7b69bc021f805272345ae1ae2c003", "text": "What is the first, middle, and last name of the earliest school graduate?", "title": "", "metadata": ""}
+{"_id": "7f085f1bf803410483e741fcc3778df2", "text": "What is the phone number of the man with the first name Timmothy and the last name Ward?", "title": "", "metadata": ""}
+{"_id": "d286b86c387a71a8df0068d772134233", "text": "List the names of orchestras that have no performance.", "title": "", "metadata": ""}
+{"_id": "84dc368d2158eefae6023602ff0ab831", "text": "What are the full names of all players, sorted by birth date?", "title": "", "metadata": ""}
+{"_id": "8782a94a4b9dd3de9fece1c03b2d21b1", "text": "What are the different government forms and what is the total population of each for government forms that have an average life expectancy greater than 72?", "title": "", "metadata": ""}
+{"_id": "65e88e38542f715f98556dc35d9cfb43", "text": "What are the names of poker players?", "title": "", "metadata": ""}
+{"_id": "a9952e2cbc54b82aedb88222e441d8b2", "text": "What are the different countries with singers above age 20?", "title": "", "metadata": ""}
+{"_id": "bdac206ec98d95c735d763bd9158b824", "text": "Which breed do the most dogs have? Give me the breed name.", "title": "", "metadata": ""}
+{"_id": "0d6235affdff798cfeb75893b0a9f761", "text": "What is the average transcript date?", "title": "", "metadata": ""}
+{"_id": "ef67ccfa2bd766817e5c83f9be92558c", "text": "Which grade has the most high schoolers?", "title": "", "metadata": ""}
+{"_id": "1917bed3e97dc0551824f49cbe2e8308", "text": "In 1980, how many cars were made?", "title": "", "metadata": ""}
+{"_id": "9d7d8635850763e0ba9cc95356d81ac9", "text": "How many countries speak both English and Dutch?", "title": "", "metadata": ""}
+{"_id": "c13b7e54b15540cac1f58201fb49d51e", "text": "Count the number of templates of the type CV.", "title": "", "metadata": ""}
+{"_id": "404906b5a07d48300149e94828d3f632", "text": "Show the student IDs and numbers of friends corresponding to each.", "title": "", "metadata": ""}
+{"_id": "b19a41ff21eec3e070e231694ef7d924", "text": "Count the number of likes for each student id.", "title": "", "metadata": ""}
+{"_id": "4ffcbc78dbe59bedb940b9bc94b34ae4", "text": "Show the names of students who have a grade higher than 5 and have at least 2 friends.", "title": "", "metadata": ""}
+{"_id": "c5b43043a6f61ad1dd28573beb98a552", "text": "find the package option of the tv channel that do not have any cartoon directed by Ben Jones.", "title": "", "metadata": ""}
+{"_id": "a0f9ae3756e739ec46650e2ac6e4b5d0", "text": "What is Weekly Rank of TV series with Episode \"A Love of a Lifetime\"?", "title": "", "metadata": ""}
+{"_id": "31bcc08451fa21f8e3847fd877a8bc5a", "text": "What are the ids of high school students who do not have friends?", "title": "", "metadata": ""}
+{"_id": "502e165e204d9c7ef86b9fa10754fc50", "text": "What are the names of the teachers whose courses have not been arranged?", "title": "", "metadata": ""}
+{"_id": "1147e0776beca64291e76d7aaebbab05", "text": "What is the average horsepower for all cars produced before 1980 ?", "title": "", "metadata": ""}
+{"_id": "a884400e73541e4eb55951450a6a323d", "text": "What are the emails of the professionals living in either the state of Hawaii or the state of Wisconsin?", "title": "", "metadata": ""}
+{"_id": "b8a5112e402fb63a25c41b56ed67a285", "text": "How many high schoolers are there?", "title": "", "metadata": ""}
+{"_id": "1bcae1057b1e43a5288acf558bc29e2c", "text": "What are the names and ids of all countries with at least one car maker?", "title": "", "metadata": ""}
+{"_id": "18c1f9a639daf8e91f9cfe50f1407239", "text": "Return the names and template ids for documents that contain the letter w in their description.", "title": "", "metadata": ""}
+{"_id": "db7c27663ed6151fd2b365953db4dafa", "text": "How many paragraphs for the document with name 'Summer Show'?", "title": "", "metadata": ""}
+{"_id": "e1b0c97524b256bdf5c945c62a2a7ea6", "text": "How many different degrees are offered?", "title": "", "metadata": ""}
+{"_id": "59507edc042345963a67be05cad59af2", "text": "Find the number of orchestras whose record format is \"CD\" or \"DVD\".", "title": "", "metadata": ""}
+{"_id": "4b64c5ccbb0083e98e5bc72aa3b77423", "text": "Which model saves the most gasoline? That is to say, have the maximum miles per gallon.", "title": "", "metadata": ""}
+{"_id": "baa2efebbaf88b86a8f4db86b861344f", "text": "Which cities are in European countries where English is not the official language?", "title": "", "metadata": ""}
+{"_id": "26f747bed46309448799aef6e5489bea", "text": "Count the number of paragraphs in the document named 'Summer Show'.", "title": "", "metadata": ""}
+{"_id": "c8fed5f05b35103d896cf778a4402947", "text": "How many different forms of governments are there in Africa?", "title": "", "metadata": ""}
+{"_id": "14dd8a7714eb7bc57cfe83d888521417", "text": "How many car models are produced in the usa?", "title": "", "metadata": ""}
+{"_id": "751ba138592d54cb1b32a3066236e9da", "text": "Count the number of employees", "title": "", "metadata": ""}
+{"_id": "f862f4a20118b247b1d18daae7b5d01a", "text": "find the number of players for each country.", "title": "", "metadata": ""}
+{"_id": "b0d6d338324f83ffa703ad22c77bf956", "text": "What are the names of conductors who have conducted orchestras founded after the year 2008?", "title": "", "metadata": ""}
+{"_id": "3e5415502411d8a4a2eccd8deae025a5", "text": "How many different addresses do the students currently live?", "title": "", "metadata": ""}
+{"_id": "fe95d78c028eb1afce7e3713a7de0e18", "text": "How many 'United Airlines' flights depart from Airport 'AHD'?", "title": "", "metadata": ""}
+{"_id": "08a12757bae803c0ee35bea83540b918", "text": "List top 3 highest Rating TV series. List the TV series's Episode and Rating.", "title": "", "metadata": ""}
+{"_id": "8b76840bb6fc0d00594f2ef03693fed2", "text": "Count the number of paragraphs.", "title": "", "metadata": ""}
+{"_id": "f9822a79b0f1d0d1b6d3a90eab6e1ac1", "text": "What is the average and maximum age for each pet type?", "title": "", "metadata": ""}
+{"_id": "17595313cdb65d30701e4e970982af64", "text": "What is the description of the department whose name has the substring the computer?", "title": "", "metadata": ""}
+{"_id": "f593d5877a6a265ebef17c68fb7022b9", "text": "What are the ids, version numbers, and type codes for each template?", "title": "", "metadata": ""}
+{"_id": "4fe74b5c5f3526da40b7f470014ee9ee", "text": "Show all template type codes and number of templates for each.", "title": "", "metadata": ""}
+{"_id": "94261e1d3b9ff461206d03efd9a84dd2", "text": "Give the ids of documents that have between one and two paragraphs.", "title": "", "metadata": ""}
+{"_id": "c51b4a1789314567820f52e411f335a7", "text": "What are the manager name and district of the shop that sells the largest number of products?", "title": "", "metadata": ""}
+{"_id": "be7532576704e575d4348fee79e99abc", "text": "What are the names of high schoolers who have a grade of over 5 and have 2 or more friends?", "title": "", "metadata": ""}
+{"_id": "023ee746d6b7a727f6ef14f961544602", "text": "How many countries does each continent have? List the continent id, continent name and the number of countries.", "title": "", "metadata": ""}
+{"_id": "ca16b0a5c7efe490b0976e122aeda93e", "text": "What are the country code and first name of the players who won in both tourney WTA Championships and Australian Open?", "title": "", "metadata": ""}
+{"_id": "f99be68dab8c5fbe41aac9e43e5368e1", "text": "Show the name of the conductor that has conducted the most number of orchestras.", "title": "", "metadata": ""}
+{"_id": "1365fb890edd1896df73959a94e4da1a", "text": "Find the number of players for each hand type.", "title": "", "metadata": ""}
+{"_id": "6bfa40c8734f309c8e7acbdc7e5eaa73", "text": "How many flights fly from Aberdeen to Ashley?", "title": "", "metadata": ""}
+{"_id": "15f04776fdc75920da0e89986373c1a0", "text": "How many official languages does Afghanistan have?", "title": "", "metadata": ""}
+{"_id": "9a434ff322d270d022e0d102a9ccc541", "text": "What airline serves the most flights?", "title": "", "metadata": ""}
+{"_id": "838733b65837ce1f27d573c2dcb8474d", "text": "What are the ids, names, and descriptions for all documents?", "title": "", "metadata": ""}
+{"_id": "81c4248c855f96531a44b49e7ce36686", "text": "What are the students' first names who have both cats and dogs as pets?", "title": "", "metadata": ""}
+{"_id": "6ff81299caf70b9776ef8cb47bca7fa4", "text": "Find the id of the pet owned by student whose last name is \u2018Smith\u2019.", "title": "", "metadata": ""}
+{"_id": "05920fe6cf07ca4fecb958b6218745fb", "text": "How many pets are owned by students that have an age greater than 20?", "title": "", "metadata": ""}
+{"_id": "e5c966d5a35a66988bba0a09d75ac2a5", "text": "Which department offers the most number of degrees? List department name and id.", "title": "", "metadata": ""}
+{"_id": "5acd3650a98825591d1a912e1f1ca700", "text": "How many paragraphs in total?", "title": "", "metadata": ""}
+{"_id": "9228a5c6f34ebe20343b7b6a27abb47f", "text": "Which unique cities are in Asian countries where Chinese is the official language ?", "title": "", "metadata": ""}
+{"_id": "b6e0b58a37710490d8fb0f4515029e07", "text": "What are the details for the paragraph that includes the text 'Korea ' ?", "title": "", "metadata": ""}
+{"_id": "69174ae5089f44e9da3ff7bf9e3e0140", "text": "Show all document ids, names and the number of paragraphs in each document.", "title": "", "metadata": ""}
+{"_id": "07f051d156b90a916798cffa3d444e19", "text": "How many singers do we have?", "title": "", "metadata": ""}
+{"_id": "bd5b4cc44aab552788c0215d9021243f", "text": "What are the codes of countries where Spanish is spoken by the largest percentage of people?", "title": "", "metadata": ""}
+{"_id": "f457a25ef0bac59f9398ab2181d816f8", "text": "Which owners live in the state whose name contains the substring 'North'? List his first name, last name and email.", "title": "", "metadata": ""}
+{"_id": "33b33d3e22be99a22a72181ca4b3700c", "text": "Give the airline with abbreviation 'UAL'.", "title": "", "metadata": ""}
+{"_id": "c5bb20ed975cb5fc9de0f36a1cb2201a", "text": "What are the countries where either English or Dutch is the official language ?", "title": "", "metadata": ""}
+{"_id": "dcbd82950e0dcf43de0d19798ba42177", "text": "Which shops' number products is above the average? Give me the shop names.", "title": "", "metadata": ""}
+{"_id": "90185247b75fcf86d63ce4128c2292f0", "text": "List the first and last name of all players in the order of birth date.", "title": "", "metadata": ""}
+{"_id": "27e8740763ed78e7387feffc5dbf19f2", "text": "How many different results are there for the battles?", "title": "", "metadata": ""}
+{"_id": "058e33d320547695d876265fab785181", "text": "Find the city with the largest population that uses English.", "title": "", "metadata": ""}
+{"_id": "da3865de5cf806a9d8299a6850aa7d5a", "text": "How many flights does airline 'JetBlue Airways' have?", "title": "", "metadata": ""}
+{"_id": "325579931583b21cd05ed297cadd1c05", "text": "How many different winners both participated in the WTA Championships and were left handed?", "title": "", "metadata": ""}
+{"_id": "10eb2d2682f5366e74c7331be07647c3", "text": "find the id of tv channels that do not play any cartoon directed by Ben Jones.", "title": "", "metadata": ""}
+{"_id": "26a136dc9339ce88d9704506cb2419e8", "text": "Find the average age of students who do not have any pet .", "title": "", "metadata": ""}
+{"_id": "21caedfe64291c8bb9f3ac99f360f3b4", "text": "What are the death and injury situations caused by the ship with tonnage 't'?", "title": "", "metadata": ""}
+{"_id": "8e384cb407e6d7146c091f1903e7ff31", "text": "List the names of teachers who have not been arranged to teach courses.", "title": "", "metadata": ""}
+{"_id": "9a0fe1783a3346ce6597c963aeed4018", "text": "Find the major and age of students who do not have a cat pet.", "title": "", "metadata": ""}
+{"_id": "cfbe64f9d91b879389b6db4b5bed726a", "text": "Count the number of high schoolers.", "title": "", "metadata": ""}
+{"_id": "c32170ef0a42b63f9dffcc1069ab439a", "text": "What country is Jetblue Airways affiliated with?", "title": "", "metadata": ""}
+{"_id": "f579ab56ec93c81156e6531fcf241bb1", "text": "What is the age of the oldest dog?", "title": "", "metadata": ""}
+{"_id": "5582192f58e8cf94c0d71e06b371501e", "text": "What is the name of each teacher and what course they teach?", "title": "", "metadata": ""}
+{"_id": "344c0ab1f921e1995c79e9ab3d3fc5ec", "text": "Return the names of friends of the high school student Kyle.", "title": "", "metadata": ""}
+{"_id": "1ba27b0b4cfa52747fa55d9f4289955c", "text": "Which models are lighter than 3500 but not built by the 'Ford Motor Company'?", "title": "", "metadata": ""}
+{"_id": "ab00b246a919f1e91bedd1b9b9016e08", "text": "Find the name and rank points of the winner who won the most times.", "title": "", "metadata": ""}
+{"_id": "349eedc3d629e788fdf5547f24b779cc", "text": "What is the best rank of losers across all matches?", "title": "", "metadata": ""}
+{"_id": "44116808f6288436e2e298295cdeef49", "text": "Find the districts in which there are both shops selling less than 3000 products and shops selling more than 10000 products.", "title": "", "metadata": ""}
+{"_id": "7ee497ba0cab712993725e3c09e0a4ec", "text": "Show the document id with paragraph text 'Brazil' and 'Ireland'.", "title": "", "metadata": ""}
+{"_id": "086eac6bec81dac2ec1429acbb2984db", "text": "Find the minimum grade of students who have no friends.", "title": "", "metadata": ""}
+{"_id": "d7189cea978b1f3700d600f4e2e62713", "text": "Find the number of cartoons directed by each of the listed directors.", "title": "", "metadata": ""}
+{"_id": "29a39ae6d075c926d8ced147360cde7b", "text": "Give the flight numbers of flights landing at APG.", "title": "", "metadata": ""}
+{"_id": "26290bb6f32b029b14091227c5c10050", "text": "Give the code of the airport with the least flights.", "title": "", "metadata": ""}
+{"_id": "02ff823eb317f1c88aa1ac7245684d24", "text": "What is the car model with the highest mpg ?", "title": "", "metadata": ""}
+{"_id": "90c7a86313643c2263e7043731e89a4f", "text": "What are the first, middle, and last names, along with the ids, of all students who enrolled in 2 degree programs in one semester?", "title": "", "metadata": ""}
+{"_id": "8d6a5f55c84d4e4f18bd59fc1efe1a46", "text": "Show the names of singers that have more than one song.", "title": "", "metadata": ""}
+{"_id": "a0434b6c93edb79aa6bec541c5598098", "text": "List all the student details in reversed lexicographical order.", "title": "", "metadata": ""}
+{"_id": "2c1a29c23721857aafffeb561999e0cb", "text": "What are the notes of the death events which has substring 'East'?", "title": "", "metadata": ""}
+{"_id": "779bfe7dae7684afbd95c0e904788f72", "text": "What is the id and weight of every pet who is older than 1?", "title": "", "metadata": ""}
+{"_id": "6880705680efd184bcb48269e665c24a", "text": "What is the language that is used by the largest number of Asian nations?", "title": "", "metadata": ""}
+{"_id": "10f6197e8961ea59b9cfe83d83185ad3", "text": "Find the name of tourney that has more than 10 matches.", "title": "", "metadata": ""}
+{"_id": "97664570ebb3510adb427dffbc7843bd", "text": "How many countries have a republic as their form of government?", "title": "", "metadata": ""}
+{"_id": "032971e0825f8f8d06015b757fa2d452", "text": "Count the number of dogs of an age below the average.", "title": "", "metadata": ""}
+{"_id": "5bcd5392363d175337a84f4ea7e754bd", "text": "Show template ids, version numbers, and template type codes for all templates.", "title": "", "metadata": ""}
+{"_id": "3d4f0de194ba957bd8449ff60533443f", "text": "For the cars with 4 cylinders, which model has the largest horsepower?", "title": "", "metadata": ""}
+{"_id": "0d688aa6e071962ce0c04e809a93f514", "text": "Return the record companies of orchestras, sorted descending by the years in which they were founded.", "title": "", "metadata": ""}
+{"_id": "39011632b543067198621466e496e861", "text": "Find the number of visitors who did not visit any museum opened after 2010.", "title": "", "metadata": ""}
+{"_id": "93a13b17e3442c68a4d58158cdea2379", "text": "Return the names and surface areas of the 5 largest countries.", "title": "", "metadata": ""}
+{"_id": "3c4cd464ab53ea9c1e25a250bab0e4c9", "text": "What is the description for the section named h?", "title": "", "metadata": ""}
+{"_id": "ca8d9be1bf728f526d9e14e78b4f3519", "text": "How many cars have a larger accelerate than the car with the largest horsepower?", "title": "", "metadata": ""}
+{"_id": "7ef39777fa59611ac60ddd887ab1df61", "text": "Give the flight numbers of flights leaving from APG.", "title": "", "metadata": ""}
+{"_id": "e71dd96390292184dc8e441a1de22577", "text": "How much surface area do the countires in the Carribean cover together?", "title": "", "metadata": ""}
+{"_id": "c52662d417c66c4c1e81d4c318e755b1", "text": "What is the money rank of the poker player with the highest earnings?", "title": "", "metadata": ""}
+{"_id": "b43e25b4c69149baa63929b1d2bbdbd6", "text": "What are the template ids of any templates used in more than a single document?", "title": "", "metadata": ""}
+{"_id": "b4d528538c37d4446be7debf03a1e61b", "text": "Show the date and id of the transcript with at least 2 course results.", "title": "", "metadata": ""}
+{"_id": "2d63f4f237d84ddbc5547c591e851450", "text": "What are the names of the contestants whose names are not 'Jessie Alloway'", "title": "", "metadata": ""}
+{"_id": "e67fa62cf11e90d1aceb6ed1efe915c5", "text": "What is the document id and name with greatest number of paragraphs?", "title": "", "metadata": ""}
+{"_id": "c52f2dd74c2433c23b244bdd1b4c49ab", "text": "What is the id, line 1, and line 2 of the address with the most students?", "title": "", "metadata": ""}
+{"_id": "86685a0a378457ea69f2412742f2c0f7", "text": "What is the document name and template id for document with description with the letter 'w' in it?", "title": "", "metadata": ""}
+{"_id": "ed1b771d0921de9435ef077f10de393e", "text": "How many documents do we have?", "title": "", "metadata": ""}
+{"_id": "36888b3f605e5c8aa9edd1ca0cca0263", "text": "What is the accelerate of the car make amc hornet sportabout (sw)?", "title": "", "metadata": ""}
+{"_id": "ef78e2eede8d01550d8b76e09e5db72e", "text": "Find the number of pets for each student who has any pet and student id.", "title": "", "metadata": ""}
+{"_id": "5bdaf075a3e31cea63e7f4b270f22263", "text": "What is the number of distinct languages used around the world?", "title": "", "metadata": ""}
+{"_id": "1702cdca94b71d1a74ae3ed71945cb20", "text": "What are the names of players who won in both 2013 and 2016?", "title": "", "metadata": ""}
+{"_id": "55069b7a4e57b03992ad4e8ca5a0c069", "text": "What is the number of carsw ith over 6 cylinders?", "title": "", "metadata": ""}
+{"_id": "d253643fdb2e537713fc2b6555bb2db9", "text": "Show the name and theme for all concerts and the number of singers in each concert.", "title": "", "metadata": ""}
+{"_id": "445a81a5e4007432b640e7bd15d0f5f9", "text": "Find the average rank of winners in all matches.", "title": "", "metadata": ""}
+{"_id": "a8823d45d6b121f02606a7aa3e2f1761", "text": "What are flight numbers of flights arriving at City \"Aberdeen\"?", "title": "", "metadata": ""}
+{"_id": "0cb7ecfc1497fd5b753aeac6c6f1f8f5", "text": "Who are enrolled in 2 degree programs in one semester? List the first name, middle name and last name and the id.", "title": "", "metadata": ""}
+{"_id": "8ac8ab2f43f11d094047186e213d031a", "text": "What are the towns from which at least two teachers come from?", "title": "", "metadata": ""}
+{"_id": "d85af4153cca88a8e95108927ab295ec", "text": "Find the first name, country code and birth date of the winner who has the highest rank points in all matches.", "title": "", "metadata": ""}
+{"_id": "29611798d9ef8997004c1a24631702ab", "text": "What is the largest amount of horsepower for the models with 3 cylinders and what make is it?", "title": "", "metadata": ""}
+{"_id": "d1b9d41bff11e2a2a3befabcdfa42635", "text": "What is the horsepower of the car with the greatest accelerate?", "title": "", "metadata": ""}
+{"_id": "03df1bb13baef579336bb885bad82c75", "text": "Give the total population and average surface area corresponding to countries in North America that have a surface area greater than 3000 .", "title": "", "metadata": ""}
+{"_id": "86260d3bbdf1f862e2076737c618f37d", "text": "What is the official language used in the country the name of whose head of state is Beatrix.", "title": "", "metadata": ""}
+{"_id": "de6cab3d792866a203fdb32ed935b81e", "text": "Count the number of United Airlines flights arriving in ASY Airport.", "title": "", "metadata": ""}
+{"_id": "bd50d1e65cc22ac508dbe3d9ed21e663", "text": "Show the property type descriptions of properties belonging to that code.", "title": "", "metadata": ""}
+{"_id": "9ca6043df833e42b92c5a2eb703054de", "text": "Show the names of high schoolers who have likes, and numbers of likes for each.", "title": "", "metadata": ""}
+{"_id": "798e1e77fb5490bf1e87b40b7c096d09", "text": "What are the ids and names of all countries that either have more than 3 car makers or produce fiat model ?", "title": "", "metadata": ""}
+{"_id": "ecc94560647bb833dc1d5ee107c00d8e", "text": "What are the Package Options of the TV Channels whose series names are Sky Radio?", "title": "", "metadata": ""}
+{"_id": "720a7cea18b9170ac1d9b8a56a0e31f7", "text": "List the final tables made and the best finishes of poker players.", "title": "", "metadata": ""}
+{"_id": "7e6420ebd59c3b0851d72bbe0d348be3", "text": "Show the stadium name and the number of concerts in each stadium.", "title": "", "metadata": ""}
+{"_id": "9c9ffcca1ea62f6fe4dec3da0acb9ea6", "text": "Find the type and weight of the youngest pet.", "title": "", "metadata": ""}
+{"_id": "5c1403272cab294f7902d21b4f723ebe", "text": "What are the names of the employees who never received any evaluation?", "title": "", "metadata": ""}
+{"_id": "57eeed5b254d508d2c66fedd652d9438", "text": "Which shop has the most employees? Give me the shop name.", "title": "", "metadata": ""}
+{"_id": "70ead626987d94ef72d1f7ce9b9d09b9", "text": "Return the number of flights departing from Aberdeen.", "title": "", "metadata": ""}
+{"_id": "e2ab51f7e28ca9ace9aafa4f24b7fc07", "text": "Give me Brazil\u2019s population and life expectancies.", "title": "", "metadata": ""}
+{"_id": "4eddb25b44496a3ec4909880fa2bb5a3", "text": "Which makers designed more than 3 car models? List full name and the id.", "title": "", "metadata": ""}
+{"_id": "5f955d964cb6dddd8f9e5c4cf1195a0c", "text": "What are the dog name, age and weight of the dogs that were abandoned? Note that 1 stands for yes, and 0 stands for no in the tables.", "title": "", "metadata": ""}
+{"_id": "a062ed4f4dfe047346501632f1fa1c1d", "text": "How many poker players are there?", "title": "", "metadata": ""}
+{"_id": "3d9fe3bc32890eb91d42b5d51f021a42", "text": "What are the countries that have cartoons on TV that were written by Todd Casey?", "title": "", "metadata": ""}
+{"_id": "91bc70ec9087ea141d83a84ade048eba", "text": "What are flight numbers of flights departing from Airport \"APG\"?", "title": "", "metadata": ""}
+{"_id": "5f2436a22203328ef83a3f6e3ea622e6", "text": "Show countries where a singer above age 40 and a singer below 30 are from.", "title": "", "metadata": ""}
+{"_id": "66a6a8b0532728a1843d3bea9075edc8", "text": "Show ids for all templates that are used by more than one document.", "title": "", "metadata": ""}
+{"_id": "c5d2932d6a6e60ef5002e85e024a5b8b", "text": "List the maximum weight and type for each type of pet.", "title": "", "metadata": ""}
+{"_id": "bc7c1172b175e2f646abc619403058a2", "text": "What is the earliest date of a transcript release, and what details can you tell me?", "title": "", "metadata": ""}
+{"_id": "1fa5cb388006b78a38990f993ee843af", "text": "What are the package options and the name of the series for the TV Channel that supports high definition TV?", "title": "", "metadata": ""}
+{"_id": "1e658b04d6276e89fc44011c23f428c5", "text": "Show distinct names of singers that have songs with sales more than 300000.", "title": "", "metadata": ""}
+{"_id": "085e4fd2c29dd3dbc1a66addc14d819f", "text": "What is maximum and minimum death toll caused each time?", "title": "", "metadata": ""}
+{"_id": "4c0c9d9ff3b3e8120b8189198013cfd9", "text": "How many car makers are there in each continents? List the continent name and the count.", "title": "", "metadata": ""}
+{"_id": "d76c1de0fe24cda93eb9b4077151a364", "text": "What is the average age of all the dogs?", "title": "", "metadata": ""}
+{"_id": "d33283eece6533f0a0b092721d7d65a7", "text": "What is the document id with least number of paragraphs?", "title": "", "metadata": ""}
+{"_id": "80ef628c833d73561ff1ea5180fb7f86", "text": "What are names of countries with the top 3 largest population?", "title": "", "metadata": ""}
+{"_id": "08ad97744a629f6eb33e26d776394e57", "text": "What is the hometown of the youngest teacher?", "title": "", "metadata": ""}
+{"_id": "e0fbbafeb535b134dac1477f9245435f", "text": "Show name of all students who have some friends and also are liked by someone else.", "title": "", "metadata": ""}
+{"_id": "fe0314a8a57303741031b01ccb24bf3c", "text": "What is the id of the pet owned by the student whose last name is 'Smith'?", "title": "", "metadata": ""}
+{"_id": "df9e9f3c9999c307e8ad37cc0cea917c", "text": "What are the titles of the cartoons sorted alphabetically?", "title": "", "metadata": ""}
+{"_id": "288793a2602a535e2202626c2c330943", "text": "which countries' tv channels are not playing any cartoon written by Todd Casey?", "title": "", "metadata": ""}
+{"_id": "41b166cafdc5c8ac736bca19d0fe8608", "text": "Give the nationality that is most common across all people.", "title": "", "metadata": ""}
+{"_id": "5ab9a9c7d4514dfa9520d9b1ce7c458e", "text": "What are the age and hometown of teachers?", "title": "", "metadata": ""}
+{"_id": "5bede7f1f6a8e3ca292b118a8517aec9", "text": "Return the number of likes that the high schooler named Kyle has.", "title": "", "metadata": ""}
+{"_id": "b3a7ce9b3e971b40b00250872bea91d4", "text": "How many people live in Asia, and what is the largest GNP among them?", "title": "", "metadata": ""}
+{"_id": "cb3809c26a9c6b9bd1f966495ce24f11", "text": "What is the average GNP and total population in all nations whose government is US territory?", "title": "", "metadata": ""}
+{"_id": "0ab4d1ba43da30c6441c635851681671", "text": "Count the number of conductors.", "title": "", "metadata": ""}
+{"_id": "bccb591b4c6d2d37945de4d223ec19d4", "text": "What are the regions that use English or Dutch?", "title": "", "metadata": ""}
+{"_id": "1bef83147adf0a73a8930e445b8f1673", "text": "Return the different document ids along with the number of paragraphs corresponding to each, ordered by id.", "title": "", "metadata": ""}
+{"_id": "dc67272c0e059c59cc8c3564fef134fc", "text": "What is the name of country that has the shortest life expectancy in Asia?", "title": "", "metadata": ""}
+{"_id": "3ef5635504e8a039b2892538e5ce7468", "text": "What is the document id, template id and description for document named \"Robbin CV\"?", "title": "", "metadata": ""}
+{"_id": "88562edbc62e851380433daa831aaa85", "text": "What are the codes of template types that are not used for any document?", "title": "", "metadata": ""}
+{"_id": "86ecf10ce9181cea986e069321a55a7b", "text": "What is the minimum weight of the car with 8 cylinders produced in 1974 ?", "title": "", "metadata": ""}
+{"_id": "b031e2a35ee4c263a48374b7f2eb01d4", "text": "How many templates have template type code CV?", "title": "", "metadata": ""}
+{"_id": "0f8e2b547a36bdc2364ad55efea6350f", "text": "Give the names of nations that speak both English and French.", "title": "", "metadata": ""}
+{"_id": "685e6bad9414a83af4d83a17920914d3", "text": "What are the names of the teachers ordered by ascending age?", "title": "", "metadata": ""}
+{"_id": "03bf61da28bdc7130c3152e62a9b2ba2", "text": "What are the id, role, and first name of the professionals who have performed two or more treatments?", "title": "", "metadata": ""}
+{"_id": "8fd66eefeeda705f2e868f2bb9d1ccea", "text": "What is the first, middle, and last name of the first student to register?", "title": "", "metadata": ""}
+{"_id": "06e79d314f69cf74043dd8df851bd1a7", "text": "Which airlines have a flight with destination airport AHD?", "title": "", "metadata": ""}
+{"_id": "8430dda5175fff6ac95a2bcffc83a7c2", "text": "How many countries has more than 2 car makers ?", "title": "", "metadata": ""}
+{"_id": "d7faba81bbdfaf5cc47e1edab52b8094", "text": "Return the names of the contestants whose names contain the substring 'Al' .", "title": "", "metadata": ""}
+{"_id": "5e12ae2e76f1a4bd1dceaf84f0239da8", "text": "What are the different continents and the total popuation and average life expectancy corresponding to each, for continents that have an average life expectancy less than 72?", "title": "", "metadata": ""}
+{"_id": "9a39d650a2144746d2f5a5172d526c55", "text": "What is the maximum accelerate for all the different cylinders?", "title": "", "metadata": ""}
+{"_id": "442ccd9d67b07dc2b0c6964ab0efaaa3", "text": "Find the name of the employee who got the highest one time bonus.", "title": "", "metadata": ""}
+{"_id": "8328a1bd0a3d2d280b155c322c54f169", "text": "What are the names of high schoolers who have 3 or more friends?", "title": "", "metadata": ""}
+{"_id": "15e5080b505f737ca265462d46e16d81", "text": "What is the average miles per gallon(mpg) of the cars with 4 cylinders?", "title": "", "metadata": ""}
+{"_id": "33f05ed01dc1b93e87342005c64e5afa", "text": "How many singers are there?", "title": "", "metadata": ""}
+{"_id": "b97b8ffc76d2e4de1c86355249410008", "text": "What are the names and release years for all the songs of the youngest singer?", "title": "", "metadata": ""}
+{"_id": "73c7c4759a10b0c0eca3c6e66f9989dd", "text": "Count the number of flights into ATO.", "title": "", "metadata": ""}
+{"_id": "ed7259a4d16eb6b5df92ccaacc581bf9", "text": "What is the average weight of cars each year?", "title": "", "metadata": ""}
+{"_id": "d160c2d316b3aa5083cb1f5a6dd21e77", "text": "Count the number of countries for which Spanish is the predominantly spoken language.", "title": "", "metadata": ""}
+{"_id": "49b93d2fc384ff0de1cbbe91a2378595", "text": "What is the year that had the most concerts?", "title": "", "metadata": ""}
+{"_id": "a7cb37c0444470fa7843d6bfef4fae90", "text": "What are the different models created by either the car maker General Motors or weighed more than 3500?", "title": "", "metadata": ""}
+{"_id": "dbfe53eab975d7d519404c89746ace7f", "text": "List the name of singers in ascending order of net worth.", "title": "", "metadata": ""}
+{"_id": "646fa91748442bf6dd414c4d7f86ef18", "text": "What are all the possible breed type and size type combinations?", "title": "", "metadata": ""}
+{"_id": "edae129da0fed3ec1e1b097606cdcd82", "text": "Give the names of countries that are in Europe and have a population equal to 80000.", "title": "", "metadata": ""}
+{"_id": "c13789c0b1003b925ede1a55bd98efe4", "text": "What is the name of the conductor who has conducted the most orchestras?", "title": "", "metadata": ""}
+{"_id": "608b92027aeba73d9faaf03fd1bf82ae", "text": "What is the name of the series that has the episode \"A Love of a Lifetime\"?", "title": "", "metadata": ""}
+{"_id": "899ef5b9d345fe86f68953cfdae026e2", "text": "What are the names of poker players, ordered ascending by the number of final tables they have made?", "title": "", "metadata": ""}
+{"_id": "efaf201982f6ea1c36545191af4faba8", "text": "What is the total count of teachers?", "title": "", "metadata": ""}
+{"_id": "68bc80b29b230f8651b81aafced53204", "text": "How is the math course described?", "title": "", "metadata": ""}
+{"_id": "d551202354de00d875ec544e4d7e168a", "text": "Which airlines have a flight with source airport AHD?", "title": "", "metadata": ""}
+{"_id": "c700928b09b875b1ac40565bb7dfb428", "text": "Find the distinct breed type and size type combinations for dogs.", "title": "", "metadata": ""}
+{"_id": "91e95f78e5b65e2d492288b12e13e8a6", "text": "Return the codes of countries for which Spanish is the predominantly spoken language.", "title": "", "metadata": ""}
+{"_id": "cced26abc11f1134a94b75d961c99eb7", "text": "What is the total number of people living in the nations that do not use English?", "title": "", "metadata": ""}
+{"_id": "b52b888eadd448e28b671050596780a3", "text": "List the number of different series names and contents in the TV Channel table.", "title": "", "metadata": ""}
+{"_id": "86f822f09ea7bc7fc186247fe0c0a852", "text": "What is the number of employees from each city?", "title": "", "metadata": ""}
+{"_id": "83ff4e2b71e7e4cb6b985a17a90aeb06", "text": "What is the first and second line for all addresses?", "title": "", "metadata": ""}
+{"_id": "4f2cbf6290cf15fb4d78d1d41aec980a", "text": "What is the average expected life expectancy for countries in the region of Central Africa?", "title": "", "metadata": ""}
+{"_id": "5d775333170e4d525f18c0df43a576a5", "text": "Find the id and weight of all pets whose age is older than 1.", "title": "", "metadata": ""}
+{"_id": "31f7523e113d7c072a1579951db16087", "text": "Give the name of the country in Asia with the lowest life expectancy.", "title": "", "metadata": ""}
+{"_id": "2d8b393b2b7de0521d71b9681c4f6c03", "text": "What is the total population and average area of countries in the continent of North America whose area is bigger than 3000 ?", "title": "", "metadata": ""}
+{"_id": "378891105d50c39905e2ff831bcfc622", "text": "What is the pixel aspect ratio and country of origin for all TV channels that do not use English?", "title": "", "metadata": ""}
+{"_id": "e6d58c620d772944fa93949346dd2342", "text": "Which airlines have departures from CVO but not from APG airports?", "title": "", "metadata": ""}
+{"_id": "cc1feeb76aaafe183e9d65b740651171", "text": "List the first and last name of all players who are left / L hand in the order of birth date.", "title": "", "metadata": ""}
+{"_id": "b950f29006ed75a6751dd08e7e9777ae", "text": "Return the money rank of the poker player with the greatest height.", "title": "", "metadata": ""}
+{"_id": "b0472845d80a8b42a8ca1b50c70832e9", "text": "For each language, list the number of TV Channels that use it.", "title": "", "metadata": ""}
+{"_id": "cb7f0a8a38ea915ed3be02b869679ad0", "text": "How many friends does each student have?", "title": "", "metadata": ""}
+{"_id": "cfe9942eb5d6513243bf60ca28f3cb0b", "text": "What are the locations and names of all stations with capacity between 5000 and 10000?", "title": "", "metadata": ""}
+{"_id": "c99e43dbe0d7121603307deae1e91f91", "text": "What is the first name, country code, and birth date of the player with the most winner rank points across all matches?", "title": "", "metadata": ""}
+{"_id": "a495da34693ec7c99b4fc570ba6e1d21", "text": "Find the total number of tours for each ranking date.", "title": "", "metadata": ""}
+{"_id": "5352786b95183dad26be37bf77f4a769", "text": "Show the names of conductors and the orchestras they have conducted.", "title": "", "metadata": ""}
+{"_id": "09b77b4bbb4db2686cf124b06e82c6dc", "text": "Which owner owns the most dogs? List the owner id, first name and last name.", "title": "", "metadata": ""}
+{"_id": "8be3a60bb6874a3216935dd244e7c2da", "text": "List the language used least number of TV Channel. List language and number of TV Channel.", "title": "", "metadata": ""}
+{"_id": "c44740eab8c7b2d568e1812fe9de7154", "text": "In which years cars were produced weighing no less than 3000 and no more than 4000 ?", "title": "", "metadata": ""}
+{"_id": "575636ffe5b2cddaf6071a73e5d1f986", "text": "What are the names of conductors, sorted descending by the number of years they have worked?", "title": "", "metadata": ""}
+{"_id": "34721838432dba3d1ed1f4d1b96bbc26", "text": "Count the number of distinct store locations.", "title": "", "metadata": ""}
+{"_id": "6eb4c807ceda9e802c155f9d5af3f2a3", "text": "What is the average life expectancy in African countries that are republics?", "title": "", "metadata": ""}
+{"_id": "08cdc2171a769c11bb8875f4ce7fcdb8", "text": "What is the area code in which the most voters voted?", "title": "", "metadata": ""}
+{"_id": "d956965f0e8ae943e468e74eaff4cab2", "text": "Please show the different record companies and the corresponding number of orchestras.", "title": "", "metadata": ""}
+{"_id": "87e2c828f292057d40e969f0556c31cd", "text": "What are airlines that have flights arriving at airport 'AHD'?", "title": "", "metadata": ""}
+{"_id": "c0c78f725c8bb281643239f7ba1debd9", "text": "Count the number of different nationalities of conductors.", "title": "", "metadata": ""}
+{"_id": "14abe5761af0bea20e7eed024f044b51", "text": "List the name of singers whose citizenship is not \"France\".", "title": "", "metadata": ""}
+{"_id": "de6280707c741cabe231a1a0bae848cd", "text": "Which dogs have not cost their owner more than 1000 for treatment ? List the dog names .", "title": "", "metadata": ""}
+{"_id": "c4ce819dbe4684c04a2a9aa9fe56407a", "text": "Return the names of cities that have a population between 160000 and 900000 .", "title": "", "metadata": ""}
+{"_id": "c0ac4a1d781d5e7fd746be5274615b55", "text": "What is the abbreviation of the airilne has the fewest flights and what country is it in?", "title": "", "metadata": ""}
+{"_id": "3635342b03aec7ad62d1f873e8d722b4", "text": "What are the first names of all players, and their average rankings?", "title": "", "metadata": ""}
+{"_id": "579f44db6a7831f6289acc63b7c60db1", "text": "What is the sname of every sing that does not have any song?", "title": "", "metadata": ""}
+{"_id": "479511008f65fc9a6470e73485939acd", "text": "List the name and date the battle that has lost the ship named 'Lettice' and the ship named 'HMS Atalanta'", "title": "", "metadata": ""}
+{"_id": "03a9c0b35c1096494e2cfbe60dfabceb", "text": "List the number of all matches who played in years of 2013 or 2016.", "title": "", "metadata": ""}
+{"_id": "a6bc3df92b652cc862112942f967bd5a", "text": "What is the id and type code for the template used by the most documents?", "title": "", "metadata": ""}
+{"_id": "acef7648cc05305a79851eb318116b2e", "text": "What is the first name and country code of the oldest player?", "title": "", "metadata": ""}
+{"_id": "1a3034c7f39e120a7203798924f7d601", "text": "How many distinct nationalities are there?", "title": "", "metadata": ""}
+{"_id": "023b9d5cfbc9933f33fd6f8a309e9c9e", "text": "What is the name and id of the department with the most number of degrees ?", "title": "", "metadata": ""}
+{"_id": "092a5605949ce81c0b93be89fc94b611", "text": "What are the languages used by the least number of TV Channels and how many channels use it?", "title": "", "metadata": ""}
+{"_id": "528c8868e6afdc6d44624d28f9012140", "text": "How many templates do we have?", "title": "", "metadata": ""}
+{"_id": "1799a33190b5028727f55f774b3147f8", "text": "What is the average number of injuries caused each time?", "title": "", "metadata": ""}
+{"_id": "f542600af8b018d09046328e02ccd627", "text": "List pairs of the owner's first name and the dogs's name.", "title": "", "metadata": ""}
+{"_id": "6f6ff6fcf16c4489f1e95dd512bb9cb0", "text": "Find the number of dog pets that are raised by female students (with sex F).", "title": "", "metadata": ""}
+{"_id": "27eafccbf17f1838ce38a263c32538a4", "text": "What are the names and id of courses having at most 2 sections?", "title": "", "metadata": ""}
+{"_id": "8295109d8c2d24bc0a71b4fb706f6e77", "text": "What is the name of the high schooler who has the greatest number of friends?", "title": "", "metadata": ""}
+{"_id": "88c2c7c5280fcaabcaa5081b78afa0c1", "text": "What are the number of votes from state 'NY' or 'CA'?", "title": "", "metadata": ""}
+{"_id": "3d0361724cedf0a0bd1e30ef7ca51d79", "text": "How many concerts are there in year 2014 or 2015?", "title": "", "metadata": ""}
+{"_id": "b07778f29666225c322bb5a2ff9d1791", "text": "Which country does Airline \"JetBlue Airways\" belong to?", "title": "", "metadata": ""}
+{"_id": "449bb706bdf88aa5af88daa19313a339", "text": "Return the id and type code of the template that is used for the greatest number of documents.", "title": "", "metadata": ""}
+{"_id": "e281b8a27072db71e38e14abac8dba57", "text": "What is the template type code for template type description \"Book\".", "title": "", "metadata": ""}
+{"_id": "423e19d43d310f57ee08ce29b868a1a4", "text": "What are each owner's first name, last name, and the size of their dog?", "title": "", "metadata": ""}
+{"_id": "dca69b8bb88b3de67050b19d8a9c0e34", "text": "Find the kind of program which most number of students are enrolled in?", "title": "", "metadata": ""}
+{"_id": "4a363549af3756a5abd8fdb6757693ba", "text": "How much does the youngest dog weigh?", "title": "", "metadata": ""}
+{"_id": "fe578207f255d1be807f184ae1a01b23", "text": "What is the record company used by the greatest number of orchestras?", "title": "", "metadata": ""}
+{"_id": "02a7f95552692ddc5eec071020594a8a", "text": "Return the name of the airport with code 'AKO'.", "title": "", "metadata": ""}
+{"_id": "c391f257a934dd8eda32a821565a72d9", "text": "What are the id and name of the museum visited most times?", "title": "", "metadata": ""}
+{"_id": "fa398d0be7e28704f859dda56ed2ed97", "text": "What is the maximum number of times that a course shows up in different transcripts and what is that course's enrollment id?", "title": "", "metadata": ""}
+{"_id": "b9dc4d8458549383eff0ca633ba7daaf", "text": "Who owns the youngest dog? Give me his or her last name.", "title": "", "metadata": ""}
+{"_id": "a50bb0722642bf500efd7f5d4ec45c8c", "text": "Count the number of employees for each city.", "title": "", "metadata": ""}
+{"_id": "4d9aa1b28cb665ba45f7f9c37d2db7f2", "text": "Compute the average age of all the dogs.", "title": "", "metadata": ""}
+{"_id": "bcc8edd761dcdcbc8c31301b9ba5e928", "text": "Return the name of the high school student with the most friends.", "title": "", "metadata": ""}
+{"_id": "0e18fc8a740aeb20a45676631d1ae812", "text": "What is the average weight and year for each year?", "title": "", "metadata": ""}
+{"_id": "8b2c8b62a18b867f151ab875ea569b13", "text": "Count the number of countries in Asia.", "title": "", "metadata": ""}
+{"_id": "29a38a109f5862fab6ae8511b9839a53", "text": "How many dogs went through any treatments?", "title": "", "metadata": ""}
+{"_id": "caa256dd1ad082fe4de791a33e0fa85c", "text": "How many high schoolers are in each grade?", "title": "", "metadata": ""}
+{"_id": "f75a3ff4f3f757b424bae9db3c781574", "text": "How many flights depart from 'APG'?", "title": "", "metadata": ""}
+{"_id": "2900ef7f84591ca3978b27576142179a", "text": "What are the package options of all tv channels that are not playing any cartoons directed by Ben Jones?", "title": "", "metadata": ""}
+{"_id": "deb43aeb6a35a4bad99ca5ca1a04d115", "text": "Which abbreviation corresponds to Jetblue Airways?", "title": "", "metadata": ""}
+{"_id": "8a8a4bb62a50df490c338f23877e68cc", "text": "List names of conductors in descending order of years of work.", "title": "", "metadata": ""}
+{"_id": "be81ba682cf9155e55964251a0f88696", "text": "What is the name and capacity for the stadium with the highest average attendance?", "title": "", "metadata": ""}
+{"_id": "3a5455a65c95c69f98616ec71e411d78", "text": "What are the names of the stadiums without any concerts?", "title": "", "metadata": ""}
+{"_id": "8d9bbe588ba1ee79c29733b5af1b1ff4", "text": "What is the average, minimum, and maximum age of all singers from France?", "title": "", "metadata": ""}
+{"_id": "af801cb12848d20a47a05a8db7e838e6", "text": "Count the number of documents that use the PPT template type.", "title": "", "metadata": ""}
+{"_id": "8625c0ba7b2de28be102cd4f09834ba2", "text": "Find the names of stores whose number products is more than the average number of products.", "title": "", "metadata": ""}
+{"_id": "151bf3dd90a8524c61fa364c54c7c58d", "text": "List the earnings of poker players in descending order.", "title": "", "metadata": ""}
+{"_id": "9bcd1daa570e554276b9418666560ea3", "text": "How many degrees does the engineering department offer?", "title": "", "metadata": ""}
+{"_id": "19b5dedae72aff46f5c9dae50a0aac31", "text": "How many pets have a greater weight than 10?", "title": "", "metadata": ""}
+{"_id": "123823e32104ecd25cb370d4b1a8e414", "text": "What is the maximum miles per gallon of the car with 8 cylinders or produced before 1980 ?", "title": "", "metadata": ""}
+{"_id": "98ade74fa7c7c3f1c9f30543ae4dc218", "text": "What is the name of the different car makers who produced a car in 1970?", "title": "", "metadata": ""}
+{"_id": "d31e31af5175b71f9d22f88747698634", "text": "Find the name of airports which do not have any flight in and out.", "title": "", "metadata": ""}
+{"_id": "15630c77476eb93d99b92045d6163e68", "text": "How many flights arriving in Aberdeen city?", "title": "", "metadata": ""}
+{"_id": "c05287d5fbc7e116c5b1715bc843cf26", "text": "Which employee received the biggest bonus? Give me the employee name.", "title": "", "metadata": ""}
+{"_id": "302ce4631d91b511982753d2d732be0b", "text": "Find the number of distinct name of losers.", "title": "", "metadata": ""}
+{"_id": "47aa5a4f745411f9676ee0c894d015f0", "text": "What are the names of nations speak both English and French?", "title": "", "metadata": ""}
+{"_id": "f199896b131fd5ac9c2a12f19f31f10f", "text": "What is the first name of the student whose permanent address is different from his or her current one?", "title": "", "metadata": ""}
+{"_id": "2fe89fd6297f60ef7f551f4aae1b637e", "text": "Show all template ids and number of documents using each template.", "title": "", "metadata": ""}
+{"_id": "89385e4714bdbef8624a58d29c669f99", "text": "Which language is spoken by the largest number of countries?", "title": "", "metadata": ""}
+{"_id": "66cf25dc1f46848977796a31274dbb87", "text": "What is the average edispl of the cars of model volvo?", "title": "", "metadata": ""}
+{"_id": "430b2c8032b605221f4844bad53b419e", "text": "Find the name and age of the visitor who bought the most tickets at once.", "title": "", "metadata": ""}
+{"_id": "178f8c021c321f1a5f1133c9937e6358", "text": "What are the names of students who have no friends?", "title": "", "metadata": ""}
+{"_id": "006530378badedc0e4bb312bf3dc1cc9", "text": "What is the name and capacity for the stadium with highest average attendance?", "title": "", "metadata": ""}
+{"_id": "67458e14fb1d56a54294992af78dcfea", "text": "List the contestant numbers and names, ordered by contestant name descending.", "title": "", "metadata": ""}
+{"_id": "fe62c67ff4c4b33379fef3cfe129b430", "text": "What are the names of singers ordered by ascending net worth?", "title": "", "metadata": ""}
+{"_id": "e65c7389202677d219a5bca6d1b50a18", "text": "What is the total number of unique official languages spoken in the countries that are founded before 1930?", "title": "", "metadata": ""}
+{"_id": "27b5ee3a8832c36baae858a6cf4e3400", "text": "Give me all the information about hiring.", "title": "", "metadata": ""}
+{"_id": "b4d1b56ec7330f33419ed33589921eb7", "text": "What are each professional's first name and description of the treatment they have performed?", "title": "", "metadata": ""}
+{"_id": "6a06ee05dce10666ebf40a2c8d2506b7", "text": "How many different nationalities do conductors have?", "title": "", "metadata": ""}
+{"_id": "bc9d21cf60dafdeaa30cfd22246cce3a", "text": "Find the average ranking for each player and their first name.", "title": "", "metadata": ""}
+{"_id": "fd80a7b4ba2175c0b42cbf172f5fc6a0", "text": "What is the date and id of the transcript with at least 2 courses listed?", "title": "", "metadata": ""}
+{"_id": "5cc45e99c1877be0c2b88c9a97182b4f", "text": "What is the age and hometown of every teacher?", "title": "", "metadata": ""}
+{"_id": "0561e1a89401c38d49cab3226dd1e10d", "text": "List document IDs, document names, and document descriptions for all documents.", "title": "", "metadata": ""}
+{"_id": "181c2f69d063ef273e8c57b07fe88250", "text": "For each semester, what is the name and id of the one with the most students registered?", "title": "", "metadata": ""}
+{"_id": "dff88ecf5905e9ce41e085015d47b290", "text": "How many airports do we have?", "title": "", "metadata": ""}
+{"_id": "51905341bbcf2f74c4dde14a90f855ee", "text": "What are flight numbers of flights departing from City \"Aberdeen \"?", "title": "", "metadata": ""}
+{"_id": "35e2dd4da14e5aacfc2a666c8d76589d", "text": "Find all airlines that have at least 10 flights.", "title": "", "metadata": ""}
+{"_id": "ddfb44df072f861e7705b0c98e16ba84", "text": "How many people live in Gelderland district?", "title": "", "metadata": ""}
+{"_id": "fa1cf8444ffc1b88931fea70a60020fa", "text": "What is the series name of the TV Channel that shows the cartoon \"The Rise of the Blue Beetle\"?", "title": "", "metadata": ""}
+{"_id": "f2138a3f487755a489aa62c48e5b8bf2", "text": "Sort employee names by their age in ascending order.", "title": "", "metadata": ""}
+{"_id": "0ead341e3e625a016dd584f44d816b5d", "text": "Count the number of high schoolers in grades 9 or 10.", "title": "", "metadata": ""}
+{"_id": "80b19ea2c945b947894abd6a9f29081a", "text": "Which airports do not have departing or arriving flights?", "title": "", "metadata": ""}
+{"_id": "f3f21f72cb61415e6611b5af340ee8cb", "text": "What are the population and life expectancies in Brazil?", "title": "", "metadata": ""}
+{"_id": "6d4f7a5c8a1a18e8a4e370f16a1e8ffb", "text": "Which year has most number of concerts?", "title": "", "metadata": ""}
+{"_id": "da572520dee01c69ca7efdf7561fb1b9", "text": "What is the name of the semester with no students enrolled?", "title": "", "metadata": ""}
+{"_id": "fd57b1db8fdfef67c3862e4de81441e5", "text": "Return the ids corresponding to templates with the description 'Presentation'.", "title": "", "metadata": ""}
+{"_id": "e78dd95050685cdb1add0990909cbeff", "text": "How many degrees does the engineering department have?", "title": "", "metadata": ""}
+{"_id": "ab315ab11649321d7bb83c537ee27ec2", "text": "Find the maximum weight for each type of pet. List the maximum weight and pet type.", "title": "", "metadata": ""}
+{"_id": "c54e67817344ffb77e6b97f96210fc1d", "text": "Return the country codes for countries that do not speak English.", "title": "", "metadata": ""}
+{"_id": "05eb4bdc0176895ff83df2d8ec1d6b45", "text": "What are the names and locations of the stadiums that had concerts that occurred in both 2014 and 2015?", "title": "", "metadata": ""}
+{"_id": "b335ea557131428933f88eb8d62b1b7c", "text": "What are the names and descriptions of all the sections?", "title": "", "metadata": ""}
+{"_id": "8ce2a7b120e4a18386febd0765acba09", "text": "Please show the most common citizenship of singers.", "title": "", "metadata": ""}
+{"_id": "1d31bd2999859d6a811b0e5c847e1d1a", "text": "What is the maximum mpg of the cars that had 8 cylinders or that were produced before 1980 ?", "title": "", "metadata": ""}
+{"_id": "9a9800404670b85b2f406ce54bfccacd", "text": "Find the total ranking points for each player and their first name.", "title": "", "metadata": ""}
+{"_id": "ea9eb3b3dde6b7454d0f153a9adf495f", "text": "Which are the car makers which produce at least 2 models and more than 3 car makers ? List the id and the maker .", "title": "", "metadata": ""}
+{"_id": "f79b117d3f92728eb15c698ea81b90ff", "text": "What are the descriptions for all the math courses?", "title": "", "metadata": ""}
+{"_id": "8ac82e879e2dfae97baaced45dd2bdb4", "text": "What is the name of the breed with the most dogs?", "title": "", "metadata": ""}
+{"_id": "15e219f357ae60973553571ee5e077f0", "text": "List the Episode of all TV series sorted by rating.", "title": "", "metadata": ""}
+{"_id": "9570d1b306d606fce2988aa022fdd860", "text": "What are the names of all stadiums that did not have a concert in 2014?", "title": "", "metadata": ""}
+{"_id": "b2ce18141d2c331853e72053f3982179", "text": "find the name of employee who was awarded the most times in the evaluation.", "title": "", "metadata": ""}
+{"_id": "0f249d25b23fc8e342c5ce363d24ce28", "text": "List the email, cell phone and home phone of all the professionals.", "title": "", "metadata": ""}
+{"_id": "fb851f9bd76564cbfe0190a07059379d", "text": "Return the template type description of the template type with the code AD.", "title": "", "metadata": ""}
+{"_id": "2c6093527cd21ea6e6d9a96157489b4b", "text": "what is the name and nation of the singer who have a song having 'Hey' in its name?", "title": "", "metadata": ""}
+{"_id": "5c24fd8998084c52ba39aea492de30fc", "text": "Which student has enrolled for the most times in any program? List the id, first name, middle name, last name, the number of enrollments and student id.", "title": "", "metadata": ""}
+{"_id": "99b42feba36860fc3c7a4f3699a70fb7", "text": "What are flight numbers of flights arriving at Airport \"APG\"?", "title": "", "metadata": ""}
+{"_id": "c62b8c6450f393f9cef6fa02ff2a58c5", "text": "What are the names , themes , and number of singers for every concert ?", "title": "", "metadata": ""}
+{"_id": "f19c10241980dd86a9702789d48036aa", "text": "Show names of all high school students who do not have any friends.", "title": "", "metadata": ""}
+{"_id": "7e59e67c2a2c294e7e0cbbdb4ca60a62", "text": "List singer names and number of concerts for each singer.", "title": "", "metadata": ""}
+{"_id": "886a97834f8cc0d80b108cdf5cb7cf74", "text": "Tell me the owner id and last name of the owner who spent the most on treatments of his or her dogs.", "title": "", "metadata": ""}
+{"_id": "e060de486ff1a584707a703293776fd2", "text": "Return the nationalities for which there are two or more people.", "title": "", "metadata": ""}
+{"_id": "28729ebd7dab2946acbe762ec0399362", "text": "Find the number of shops in each location.", "title": "", "metadata": ""}
+{"_id": "fa146473028c63a9ef70f08de4d463f9", "text": "Show the names and grades of each high schooler.", "title": "", "metadata": ""}
+{"_id": "8042787f61c1910b58092f2bd736c7b8", "text": "Show the number of high schoolers for each grade.", "title": "", "metadata": ""}
+{"_id": "9a60ab2a614c9fe9163fe5ef60bda525", "text": "Show titles of songs and names of singers.", "title": "", "metadata": ""}
+{"_id": "2f2596f87b520c70d7cf2d52eb30deb8", "text": "What is the zip code of the address in the city Port Chelsea?", "title": "", "metadata": ""}
+{"_id": "0c75ec3bb5b0b348f3e21640be4ed259", "text": "Show the name of singers whose birth year is either 1948 or 1949?", "title": "", "metadata": ""}
+{"_id": "1087c496f9b257aa42deb3fbab6452da", "text": "Find the first names that are used for professionals or owners but are not used as dog names.", "title": "", "metadata": ""}
+{"_id": "a22b388b2536676c981d9d8c5db210e7", "text": "For each continent, list its id, name, and how many countries it has?", "title": "", "metadata": ""}
+{"_id": "96f40ce48bdb625dfbfea170634be591", "text": "What are the ids of documents that contain the paragraph text 'Brazil' and 'Ireland'?", "title": "", "metadata": ""}
+{"_id": "8ccff53c9ee692bad635dbe3f69f4123", "text": "Give the name, population, and head of state for the country that has the largest area.", "title": "", "metadata": ""}
+{"_id": "2971bd6536dd74c674ceb6c881f0a3af", "text": "Find the name of the makers that produced some cars in the year of 1970?", "title": "", "metadata": ""}
+{"_id": "2c7b8a337838290174995626c0c8e897", "text": "How many professionals have performed any treatment to dogs?", "title": "", "metadata": ""}
+{"_id": "5a02fe2b9a72d13c5c55ae6a8696302c", "text": "Return the id and name of the document with the most paragraphs.", "title": "", "metadata": ""}
+{"_id": "3d4e847443bcdc59ce90518382b3903a", "text": "What is the episode for the TV series named \"Sky Radio\"?", "title": "", "metadata": ""}
+{"_id": "56eddc37e5f22152de7ba8ae395f94bd", "text": "Show all distinct template type codes for all templates.", "title": "", "metadata": ""}
+{"_id": "f703a949b28dd58ae51954f5735ff5dd", "text": "Show the stadium name and capacity with most number of concerts in year 2014 or after.", "title": "", "metadata": ""}
+{"_id": "c44ab64db7fee174c1d32f2fd1b316ef", "text": "How many dog pets are raised by female students?", "title": "", "metadata": ""}
+{"_id": "6e7d146ef6cda6295a28be6d918f3175", "text": "How many employees are there?", "title": "", "metadata": ""}
+{"_id": "c349030dc62fa5beb9a7bd361fe2399d", "text": "What is the number of makers of care in France?", "title": "", "metadata": ""}
+{"_id": "bf8e31578ad5d8023ea831cb9d867d9d", "text": "List the dog name, age and weight of the dogs who have been abandoned? 1 stands for yes, and 0 stands for no.", "title": "", "metadata": ""}
+{"_id": "c4fd9f44f1bc26636a0adb8fc4fd9291", "text": "What are the record companies that are used by both orchestras founded before 2003 and those founded after 2003?", "title": "", "metadata": ""}
+{"_id": "41d72362b84afa2ff9ced3b55a1a1375", "text": "Find the total amount of bonus given in all the evaluations.", "title": "", "metadata": ""}
+{"_id": "772e23bb8d78d7123454651c37236a3f", "text": "Find the cities that have more than one employee under age 30.", "title": "", "metadata": ""}
+{"_id": "855d11fba7fd602a9500dc25c7e4087b", "text": "What are the names of the teachers and the courses they teach in ascending alphabetical order by the name of the teacher?", "title": "", "metadata": ""}
+{"_id": "5c00f514521ed584078bc6e9fb9f63e7", "text": "Find the name, population and expected life length of asian country with the largest area?", "title": "", "metadata": ""}
+{"_id": "47664ecbcb060b112da08d0b25c53264", "text": "What is the total ticket expense of the visitors whose membership level is 1?", "title": "", "metadata": ""}
+{"_id": "4f534570a3a676792a3a5c0e520e7cbb", "text": "Find the number of flights landing in the city of Aberdeen or Abilene.", "title": "", "metadata": ""}
+{"_id": "1aa1d56f8d3d167b300e3c19a9bb2ab7", "text": "What is the id of the semester that had both Masters and Bachelors students enrolled?", "title": "", "metadata": ""}
+{"_id": "aec709547ed45513c8d0072f1d65e8b3", "text": "Show the stadium names without any concert.", "title": "", "metadata": ""}
+{"_id": "d200b9c662c6edc92d2eac5f796348da", "text": "How many dogs have not gone through any treatment?", "title": "", "metadata": ""}
+{"_id": "4e51f08ead3f239f52f4b57c6c6f3b74", "text": "Show the name of the teacher for the math course.", "title": "", "metadata": ""}
+{"_id": "5d6b364cf925c727a94c6212a766a1fe", "text": "Find the average weight for each pet type.", "title": "", "metadata": ""}
+{"_id": "38fb240f9b3ed4bb55ea7952da77d157", "text": "How many matches were played in 2013 or 2016?", "title": "", "metadata": ""}
+{"_id": "ad47912b6d585c6af38c74e2904f47fc", "text": "What are the ids of all tv channels that have more than 2 TV channels?", "title": "", "metadata": ""}
+{"_id": "9b53c9080e42d86cfd986a0b6a7e3453", "text": "How many official languages are spoken in Afghanistan?", "title": "", "metadata": ""}
+{"_id": "a6b8f1987f8de22c63210f913f6958f8", "text": "What are the average and maximum number of tickets bought in all visits?", "title": "", "metadata": ""}
+{"_id": "6264643dc7f2e73c3576a87235d8c4ee", "text": "Find the average age of the dogs who went through treatments.", "title": "", "metadata": ""}
+{"_id": "f4043e5803cbda8319312817c4b5b326", "text": "Show all paragraph ids and texts for the document with name 'Welcome to NY'.", "title": "", "metadata": ""}
+{"_id": "e2c3883d841018a9eabfd392526904dd", "text": "What are the different models for the cards produced after 1980?", "title": "", "metadata": ""}
+{"_id": "d06bc7937b20b118fc99c85c59b1d171", "text": "What are the names of nations where both English and French are official languages?", "title": "", "metadata": ""}
+{"_id": "9d0d28ae3436dbd8beb81e8e4d78f945", "text": "How many different types of pet are there?", "title": "", "metadata": ""}
+{"_id": "3f54df641781db37771c77ffb8e51263", "text": "What are the names of the singers whose birth years are either 1948 or 1949?", "title": "", "metadata": ""}
+{"_id": "3befa7ff476e18c6104708619c25aa19", "text": "What are the birth year and citizenship of singers?", "title": "", "metadata": ""}
+{"_id": "97b956992f57b6095425eeb8c25d5870", "text": "Find the number of distinct type of pets.", "title": "", "metadata": ""}
+{"_id": "39614d2ff73f11a4ae954426cca9a360", "text": "How many flights depart from City 'Aberdeen' and have destination City 'Ashley'?", "title": "", "metadata": ""}
+{"_id": "8dd80c70ee875afee19ef58551b749de", "text": "What is the name of the visitor who visited both a museum opened before 2009 and a museum opened after 2011?", "title": "", "metadata": ""}
+{"_id": "c77e2fb072fdd2c9692d5b2aa620ddf2", "text": "How many different store locations are there?", "title": "", "metadata": ""}
+{"_id": "f8811ba7c978ce946b909df58db7599a", "text": "How many countries have governments that are republics?", "title": "", "metadata": ""}
+{"_id": "899f4153a11408be99ca71c66ccb5a25", "text": "Find the semester when both Master students and Bachelor students got enrolled in.", "title": "", "metadata": ""}
+{"_id": "44a9e736f585856310d3071f890ecddd", "text": "What are the region and population of Angola?", "title": "", "metadata": ""}
+{"_id": "296490478cd8768be3d61b91e7f23971", "text": "What are airport names at City 'Aberdeen'?", "title": "", "metadata": ""}
+{"_id": "2d96744fce63a1606c0defacbfa5e4e0", "text": "How many teachers are there?", "title": "", "metadata": ""}
+{"_id": "50ffe4443cad752c05401e548416071c", "text": "What are the maximum and minimum share of performances whose type is not \"Live final\".", "title": "", "metadata": ""}
+{"_id": "14a84b6886b2a85f2a96e02cfa2e6e72", "text": "What are the names of the dogs for which the owner has not spend more than 1000 for treatment ?", "title": "", "metadata": ""}
+{"_id": "e7687624d8ff55883a35e8489e7d7faf", "text": "Which city has most number of arriving flights?", "title": "", "metadata": ""}
+{"_id": "b6a0b6ef44a2bc58ff31d069183274d1", "text": "Find the government form name and total population for each government form whose average life expectancy is longer than 72.", "title": "", "metadata": ""}
+{"_id": "1b5a610415d0e874f285887797b148e2", "text": "How many players are there?", "title": "", "metadata": ""}
+{"_id": "3b045726264ef83cdda691cee5731812", "text": "What's the name of the course with most number of enrollments?", "title": "", "metadata": ""}
+{"_id": "a2ad1dcdef19939fe91512e2acfcfb90", "text": "Which African countries have a smaller population than that of any country in Asia?", "title": "", "metadata": ""}
+{"_id": "2f7986eba57b50a2e1473bcf12bfe7b4", "text": "Show the years in which orchestras that have given more than one performance are founded.", "title": "", "metadata": ""}
+{"_id": "70cd8ff318e57cbe4bdd35088bea36a9", "text": "What is the version number and template type code for the template with version number later than 5?", "title": "", "metadata": ""}
+{"_id": "101e7695cf2b451ad09561e576fa7878", "text": "What is the title of all the cartools that are on the TV Channel with the series name \"Sky Radio\"?", "title": "", "metadata": ""}
+{"_id": "af6e30fa4371e875440fa63343c419e9", "text": "What are the names of the people who teach math courses?", "title": "", "metadata": ""}
+{"_id": "beb10db0b15a558c533b6b9a8160e053", "text": "List all singer names in concerts in year 2014.", "title": "", "metadata": ""}
+{"_id": "385de7582f3386f6c4cc3f22aa55aee1", "text": "How many 'United Airlines' flights go to Airport 'ASY'?", "title": "", "metadata": ""}
+{"_id": "7d367fff4fbfe1f30277cf9c68b63f76", "text": "What is the code of the country with the most players?", "title": "", "metadata": ""}
+{"_id": "e49297fd4d75074e8bb89f1aa99ca06e", "text": "Which employee received the most awards in evaluations? Give me the employee name.", "title": "", "metadata": ""}
+{"_id": "aabb03f406cb712a069ec80f1dbdef8a", "text": "What are the id and names of the countries which have more than 3 car makers or produce the 'fiat' model?", "title": "", "metadata": ""}
+{"_id": "c9f6d571e86ad6e5e581b3a54396be3a", "text": "How many players are from each country?", "title": "", "metadata": ""}
+{"_id": "627ff9fe9f178fe38f69ff24d07675b9", "text": "Of all the contestants who got voted, what is the contestant number and name of the contestant who got least votes?", "title": "", "metadata": ""}
+{"_id": "a8f6300b590b27dae98c395bd9dd8a7a", "text": "Give the number of Jetblue Airways flights.", "title": "", "metadata": ""}
+{"_id": "58d7fa59fb67e08c6c7eeb5f9b73a577", "text": "What is the maker of the carr produced in the earliest year and what year was it?", "title": "", "metadata": ""}
+{"_id": "4322636e529c35b58d8cbe8e6d517838", "text": "What is the template type descriptions for template type code \"AD\".", "title": "", "metadata": ""}
+{"_id": "4ea301228245d16488c45b607c74de01", "text": "Find the states where both owners and professionals live.", "title": "", "metadata": ""}
+{"_id": "ab25a287e1523bb005a751a0fbe73701", "text": "Find the manager name and district of the shop whose number of products is the largest.", "title": "", "metadata": ""}
+{"_id": "60c0277e9359839716a27c7fd7e48456", "text": "What is the produdction code and channel of the most recent cartoon ?", "title": "", "metadata": ""}
+{"_id": "80fc8006f74d6310b509d4b1267af583", "text": "What are the African countries that have a population less than any country in Asia?", "title": "", "metadata": ""}
+{"_id": "abed56f0c67e93af9b7ec486e5366009", "text": "What is total bonus given in all evaluations?", "title": "", "metadata": ""}
+{"_id": "4d335a41433fee7c269222d7c7393577", "text": "What are the names of the teachers who are aged either 32 or 33?", "title": "", "metadata": ""}
+{"_id": "698a44fe0cccd2897f50f67b5ef5cc1f", "text": "Which airline has abbreviation 'UAL'?", "title": "", "metadata": ""}
+{"_id": "e31e065b05d647d9a67af936662094fd", "text": "Show names of teachers and the courses they are arranged to teach.", "title": "", "metadata": ""}
+{"_id": "c7e5ae1a33f1a5b0cfc76ef4cf82941e", "text": "Among the cars that do not have the minimum horsepower , what are the make ids and names of all those with less than 4 cylinders ?", "title": "", "metadata": ""}
+{"_id": "fb6aa74fe66d63ff141222bdc7ba3a25", "text": "When is the first transcript released? List the date and details.", "title": "", "metadata": ""}
+{"_id": "63fa0ac0118f8ce5cec416851098592e", "text": "What are the record companies of orchestras in descending order of years in which they were founded?", "title": "", "metadata": ""}
+{"_id": "6c661c9bd344de7e65b12f11ddf6ea7b", "text": "How many museums were opened after 2013 or before 2008?", "title": "", "metadata": ""}
+{"_id": "91760116972661aa397bae62723eff65", "text": "Show names, results and bulgarian commanders of the battles with no ships lost in the 'English Channel'.", "title": "", "metadata": ""}
+{"_id": "e74fee7e4ec48b8040bd4123046c1069", "text": "Count the number of dogs that went through a treatment.", "title": "", "metadata": ""}
+{"_id": "379ed6fe1ac4c268452d11da119c9673", "text": "What is the content of TV Channel with serial name \"Sky Radio\"?", "title": "", "metadata": ""}
+{"_id": "1468d3238904c9b0843d143d938d8bfb", "text": "Return the number of flights arriving in Aberdeen.", "title": "", "metadata": ""}
+{"_id": "74539bfcfaca685e3ad24b5e64c0e06c", "text": "Show the names of all high schoolers in grade 10.", "title": "", "metadata": ""}
+{"_id": "00215dfb021ce230408b647ce9ec7f0a", "text": "What are the citizenships that are shared by singers with a birth year before 1945 and after 1955?", "title": "", "metadata": ""}
+{"_id": "241d7a7e9b75228a52057c9feb648257", "text": "What are the first names and country codes for players who won both the WTA Championships and the Australian Open?", "title": "", "metadata": ""}
+{"_id": "014f47c5adb9055f3f1e082dec7da8b6", "text": "Show names of people whose nationality is not \"Russia\".", "title": "", "metadata": ""}
+{"_id": "d766fc71f7a4779f23c2d3cfa0cfe0ee", "text": "Which model has the most version(make) of cars?", "title": "", "metadata": ""}
+{"_id": "a918807cb78e1589d462f7bc8a63524d", "text": "Which dogs are owned by someone who lives in Virginia? List the owner's first name and the dog's name.", "title": "", "metadata": ""}
+{"_id": "0c93836fa6a3a4a12723f5593d4bd6f9", "text": "How many flights do we have?", "title": "", "metadata": ""}
+{"_id": "4453452d995e2f2d17173093a666c614", "text": "How much does the most expensive charge type costs?", "title": "", "metadata": ""}
+{"_id": "e7fc1da306c235b940a80be6cfe69547", "text": "What are the names of people who do not play poker?", "title": "", "metadata": ""}
+{"_id": "b2e1587c7cca475552782de29f7b98e8", "text": "Find the number of matches happened in each year.", "title": "", "metadata": ""}
+{"_id": "1fc785469f8b881e04924b52f23ab6b8", "text": "What is the name of the singer who is worth the most?", "title": "", "metadata": ""}
+{"_id": "9403193757486a9738f9ffa5227e345b", "text": "Return the first name, last name and email of the owners living in a state whose name contains the substring 'North'.", "title": "", "metadata": ""}
+{"_id": "182beb4b39686bcec560c292e20dc396", "text": "Find the id and name of the museum that has the most staff members?", "title": "", "metadata": ""}
+{"_id": "fdb5dab134894ba3fbee45386073d398", "text": "Show the names of singers and the total sales of their songs.", "title": "", "metadata": ""}
+{"_id": "7a3047d45e9daa30d46911763e0ffd1a", "text": "What is the description of the treatment type that costs the least money in total?", "title": "", "metadata": ""}
+{"_id": "1f697e5a940b11ca832173d6124484cd", "text": "What are the name, independence year, and surface area of the country with the smallest population?", "title": "", "metadata": ""}
+{"_id": "4a5f46072040c853c3e9db56fc773f97", "text": "What is the most common singer citizenship ?", "title": "", "metadata": ""}
+{"_id": "1bdacb51a1a02224458b2b53983726da", "text": "What is the degree summary name that has the most number of students enrolled?", "title": "", "metadata": ""}
+{"_id": "6f52da897c1981bcaeda6732efe602cc", "text": "find the pixel aspect ratio and nation of the tv channels that do not use English.", "title": "", "metadata": ""}
+{"_id": "8b59861fef3157f1b180fea6768c8d70", "text": "Show the names of high school students and their corresponding number of friends.", "title": "", "metadata": ""}
+{"_id": "24bec1c69535a421d3cf030c929e908c", "text": "What are the names of conductors as well as the corresonding orchestras that they have conducted?", "title": "", "metadata": ""}
+{"_id": "f8a38aa5615401e7716a3d5fb439480b", "text": "What are the arriving date and the departing date of the dogs who have gone through a treatment?", "title": "", "metadata": ""}
+{"_id": "745f5ae3454fcbf9e86af8acae37f7a4", "text": "Find the abbreviation and country of the airline that has fewest number of flights?", "title": "", "metadata": ""}
+{"_id": "7f036547133e0436a85cf8916b92ae00", "text": "Give the flight numbers of flights arriving in Aberdeen.", "title": "", "metadata": ""}
+{"_id": "f5ebae5ae190eec073c1f772029d9294", "text": "What are the ids of students who both have friends and are liked?", "title": "", "metadata": ""}
+{"_id": "853759558a624c7439093f7cb7ebfdbf", "text": "Find the id and cell phone of the professionals who operate two or more types of treatments.", "title": "", "metadata": ""}
+{"_id": "0e8ca646a39b5b9ba81b22a518759836", "text": "When did the episode \"A Love of a Lifetime\" air?", "title": "", "metadata": ""}
+{"_id": "ca1295de6a638587a5e7f46a51c48420", "text": "Which distinctive models are produced by maker with the full name General Motors or weighing more than 3500?", "title": "", "metadata": ""}
+{"_id": "c1323dceb95eb2200c1b5a9e4aecd347", "text": "What are the earnings of poker players, ordered descending by value?", "title": "", "metadata": ""}
+{"_id": "502a4b1543909fe815b2164e62a76493", "text": "What are the first, middle, and last names for everybody enrolled in a Bachelors program?", "title": "", "metadata": ""}
+{"_id": "f4561d1668c309b3cd085a003400653d", "text": "List the names of all winners who played in both 2013 and 2016.", "title": "", "metadata": ""}
+{"_id": "4047f7067c6a3fdccb5ce3891355283d", "text": "What are the first names of all players, and their total ranking points?", "title": "", "metadata": ""}
+{"_id": "293dffbe76095c4f2b28428ca562954d", "text": "What are the names and descriptions for all the sections?", "title": "", "metadata": ""}
+{"_id": "99d657d181340e817526a9938e35c8a5", "text": "How many times at most can a course enrollment result show in different transcripts? Also show the course enrollment id.", "title": "", "metadata": ""}
+{"_id": "aa4720fa61c677bfc7297360e1879879", "text": "What are the first name and last name of the professionals who have done treatment with cost below average?", "title": "", "metadata": ""}
+{"_id": "0bbd452357fa0668eb421e8ea9e4e96e", "text": "How many battles did not lose any ship with tonnage '225'?", "title": "", "metadata": ""}
+{"_id": "5e0cee54aa28291fc90c7c814581cf82", "text": "What languages are only used by a single country with a republic government?", "title": "", "metadata": ""}
+{"_id": "f953dcec8efcbfa43c970b5a4e43ffa7", "text": "What is the birth date of the poker player with the lowest earnings?", "title": "", "metadata": ""}
+{"_id": "e7b6a57aa98449f29145c2da0105187d", "text": "What are the full names of all left handed players, in order of birth date?", "title": "", "metadata": ""}
+{"_id": "a3843dca56d59bba6436742e5b046bfa", "text": "List each language and the number of TV Channels using it.", "title": "", "metadata": ""}
+{"_id": "df8efcedfeb9da2c1a5306fcf9244162", "text": "What are the names of poker players whose earnings is higher than 300000?", "title": "", "metadata": ""}
+{"_id": "1e032df46fa697fddc12f84a5389b5bc", "text": "List the most common hometown of teachers.", "title": "", "metadata": ""}
+{"_id": "c0817355fd7d15760b1092fb665db4b9", "text": "What are the names of the singers who performed in a concert in 2014?", "title": "", "metadata": ""}
+{"_id": "ba6eb5e71862b0dff095694a1dd6b628", "text": "Show all countries and the number of singers in each country.", "title": "", "metadata": ""}
+{"_id": "544a1993cd6314639f9ab6cb78edd833", "text": "How many professionals did not operate any treatment on dogs?", "title": "", "metadata": ""}
+{"_id": "22586466b69eff653af3225cf303037e", "text": "Show all document ids and the number of paragraphs in each document. Order by document id.", "title": "", "metadata": ""}
+{"_id": "74619a1b6bfeac68c946a5c63e7a1129", "text": "What is the continent name which Anguilla belongs to?", "title": "", "metadata": ""}
+{"_id": "8ebd563ca023195f11b563f8864de3f8", "text": "What are the different models wthat are lighter than 3500 but were not built by the Ford Motor Company?", "title": "", "metadata": ""}
+{"_id": "d267e427cc4d54370bfa006d5c02b0f3", "text": "What are all different template ids used for documents, and how many times were each of them used?", "title": "", "metadata": ""}
+{"_id": "db54af8cf49870a7720cc75f195aabdd", "text": "Find the name of the winner who has the highest rank points and participated in the Australian Open tourney.", "title": "", "metadata": ""}
+{"_id": "f71a5e116bfb5a6b56d59aa188765d56", "text": "How many car makers are there in france?", "title": "", "metadata": ""}
+{"_id": "f41eee93c99713c4a00f505e489d7d5f", "text": "How many flights have destination ATO?", "title": "", "metadata": ""}
+{"_id": "d3592e5a1891c574fcb8c8d205e3596c", "text": "Which country has the most of TV Channels? List the country and number of TV Channels it has.", "title": "", "metadata": ""}
+{"_id": "7046781129ac83448d9a51d9339b7707", "text": "How many type of governments are in Africa?", "title": "", "metadata": ""}
+{"_id": "dd92f4be554f81d70550190e9c7524fe", "text": "What are the email, cell phone and home phone of each professional?", "title": "", "metadata": ""}
+{"_id": "812cda771ba9dbc85b42e6017b6f2c1f", "text": "Which professional did not operate any treatment on dogs? List the professional's id, role and email.", "title": "", "metadata": ""}
+{"_id": "637b59e2c73fb28be5e35905560e25d2", "text": "Give the names of poker players who have earnings above 300000.", "title": "", "metadata": ""}
+{"_id": "9adf348371741d43b40ce1f0d2a80cf8", "text": "What is the total number of singers?", "title": "", "metadata": ""}
+{"_id": "16107e731d8cf9c295647300a103ff20", "text": "Find the average number of staff working for the museums that were open before 2009.", "title": "", "metadata": ""}
+{"_id": "cb7df8dc66b2d71cc2fc602e72741999", "text": "How many flights land in Aberdeen or Abilene?", "title": "", "metadata": ""}
+{"_id": "e5ba65424b36cf78b41fcc5a89c9b4a1", "text": "Find the year that has the most number of matches.", "title": "", "metadata": ""}
+{"_id": "759e3d1f6cafd8a78b6c162bd4006681", "text": "Find the first name of the students who permanently live in the country Haiti or have the cell phone number 09700166582 .", "title": "", "metadata": ""}
+{"_id": "bdab013ca915eed4b705faa5baeb2800", "text": "List the names and birth dates of people in ascending alphabetical order of name.", "title": "", "metadata": ""}
+{"_id": "ca6bbfdefb826bb9ce3a141a29a5c204", "text": "Find the names of employees who never won any award in the evaluation.", "title": "", "metadata": ""}
+{"_id": "c7785c1255f5dffc23889e86d77b6ea6", "text": "Return the different names of cities that are in Asia and for which Chinese is the official language.", "title": "", "metadata": ""}
+{"_id": "43baca739cb9f6cb0e7c2ab6d2c56df5", "text": "Return the template type code of the template that is used by a document named Data base.", "title": "", "metadata": ""}
+{"_id": "b9365a816d29a27134f9f03117c47d41", "text": "What is the series name and country of all TV channels that are playing cartoons directed by Ben Jones and cartoons directed by Michael Chang?", "title": "", "metadata": ""}
+{"_id": "81fa5911b2673d8c007c0b6895fb6dc2", "text": "Return the money rank of the player with the greatest earnings.", "title": "", "metadata": ""}
+{"_id": "dd5fbbc09d681d55b447ab86921faab0", "text": "What are the different ids and names of the battles that lost any 'Brig' type shipes?", "title": "", "metadata": ""}
+{"_id": "a03f7e7408845067269c669c0e18def5", "text": "What is the air date of TV series with Episode \"A Love of a Lifetime\"?", "title": "", "metadata": ""}
+{"_id": "671341ad7246fa225d592155ecf1bf7e", "text": "What is the name of the winner who has won the most matches, and how many rank points does this player have?", "title": "", "metadata": ""}
+{"_id": "a10d6f507d14b45f078e6a7fceb23130", "text": "What are the country codes of countries where people use languages other than English?", "title": "", "metadata": ""}
+{"_id": "ab6b73de91931e605b08a3e8bbc7db6b", "text": "Return the number of airlines in the USA.", "title": "", "metadata": ""}
+{"_id": "b5a519e254c577ea6649b348263e3b77", "text": "What are the names of the sections in reverse alphabetical order?", "title": "", "metadata": ""}
+{"_id": "08eee379b88b1d429105933fe930fa63", "text": "List the area codes in which voters voted both for the contestant 'Tabatha Gehling' and the contestant 'Kelly Clauss'.", "title": "", "metadata": ""}
+{"_id": "7c56961113df083d92ff17f754c5f05f", "text": "Find the first name and gender of student who have more than one pet.", "title": "", "metadata": ""}
+{"_id": "8486f77d7f2c4a99b91fc52fc466245a", "text": "What are the names of countries that speak more than 2 languages, as well as how many languages they speak?", "title": "", "metadata": ""}
+{"_id": "4a5eb044be6324ea810bc052620015d0", "text": "What are all the course names of the courses which ever have students enrolled in?", "title": "", "metadata": ""}
+{"_id": "d08426143b7291144e652b85eb53992a", "text": "Return the names of poker players sorted by their earnings descending.", "title": "", "metadata": ""}
+{"_id": "e8f21184959c937a8fce102a3816918d", "text": "What is the charge amount of the most expensive charge type?", "title": "", "metadata": ""}
+{"_id": "d5823d48557ad879eb898577bc185c72", "text": "Find the program which most number of students are enrolled in. List both the id and the summary.", "title": "", "metadata": ""}
+{"_id": "aed4b2d03246b61465a001f3a103b419", "text": "Find the total number of players.", "title": "", "metadata": ""}
+{"_id": "e55487282b30e428255ad5c890e40ffe", "text": "What is the total surface area of the countries in the Caribbean region?", "title": "", "metadata": ""}
+{"_id": "58aa36eec7ea380240da6503082b05b0", "text": "Give me the description of the treatment type whose total cost is the lowest.", "title": "", "metadata": ""}
+{"_id": "d924b0da9c30d05c871ff069d01c4cca", "text": "What are the countries that are not playing cartoons written by Todd Casey?", "title": "", "metadata": ""}
+{"_id": "4ef9230314049bcd9cc4c6006c25c09b", "text": "List the first name of all the professionals along with the description of the treatment they have done.", "title": "", "metadata": ""}
+{"_id": "54253ef97e81c0b95e26b1b7e947f459", "text": "What is the code of airport that has the highest number of flights?", "title": "", "metadata": ""}
+{"_id": "7327613ad6d00915eaed2549044a4b79", "text": "How many countries exist?", "title": "", "metadata": ""}
+{"_id": "8d031179652b670efbf66a3cd1a86d00", "text": "Give the names of the nations that were founded after 1950.", "title": "", "metadata": ""}
+{"_id": "72fec116b86905cc27fdb6bac6596757", "text": "What are the ids and names of the battles that led to more than 10 people killed in total.", "title": "", "metadata": ""}
+{"_id": "ad6c5ffeeb53a3a49aec92f3a3dc34ac", "text": "Find the number of pets whose weight is heavier than 10.", "title": "", "metadata": ""}
+{"_id": "9f211df291ee081ae61dbf2f179a5979", "text": "What type of pet is the youngest animal, and how much does it weigh?", "title": "", "metadata": ""}
+{"_id": "cfaba9bb570c93a5c2c59631ed1a21d2", "text": "Whose permanent address is different from his or her current address? List his or her first name.", "title": "", "metadata": ""}
+{"_id": "cf3cb0ab986f20deb378d9f1eb0c9c36", "text": "How many different series and contents are listed in the TV Channel table?", "title": "", "metadata": ""}
+{"_id": "300d4a79dfd2c06deeed35a151e4ad5c", "text": "Show the ID of the high schooler named Kyle.", "title": "", "metadata": ""}
+{"_id": "a93a17b0afa825af75f4fc1932d45714", "text": "How many concerts occurred in 2014 or 2015?", "title": "", "metadata": ""}
+{"_id": "91ed2d452c8634ad40790dee032936fb", "text": "Show all document names using templates with template type code BK.", "title": "", "metadata": ""}
+{"_id": "2c1061d85292f493701f0a1e61ccf881", "text": "What is the number of countries with more than 2 car makers ?", "title": "", "metadata": ""}
+{"_id": "d0c43e6259fb4056e4be3432dd82315a", "text": "What are the names of the countries with no car makers?", "title": "", "metadata": ""}
+{"_id": "eb0a0aefdc2aa72e0c7635792e1b5a5c", "text": "How long is the people\u2019s average life expectancy in Central Africa?", "title": "", "metadata": ""}
+{"_id": "02529749f4410e2c4e6e47ddee920022", "text": "What are the names and grades for each high schooler?", "title": "", "metadata": ""}
+{"_id": "927c69a79c4edddfc59e0c835eed2cea", "text": "Which template type code is used by most number of documents?", "title": "", "metadata": ""}
+{"_id": "ab3220a48fdb301da2ae9b288326f8f5", "text": "Which template type code has most number of templates?", "title": "", "metadata": ""}
+{"_id": "93df473f93be00e9677d01158cc7d634", "text": "Find the total number of matches.", "title": "", "metadata": ""}
+{"_id": "b4c962abedf39e1fe3f31048e32d5f75", "text": "What region is Kabul in?", "title": "", "metadata": ""}
+{"_id": "5164e7bd760e253920468e31b880d54e", "text": "Find the series name and country of the tv channel that is playing some cartoons directed by Ben Jones and Michael Chang?", "title": "", "metadata": ""}
+{"_id": "3f62dfbbd02b30a1ba5e855d2b73cc33", "text": "What is the maximum and minimum share for the TV series?", "title": "", "metadata": ""}
+{"_id": "c5c9fb51c3f9a44707dbf683b1aff030", "text": "What are the names of conductors, ordered by age?", "title": "", "metadata": ""}
+{"_id": "4c8efce98da883fcf5b2da9e4b1df5e4", "text": "What is the average and maximum capacities for all stadiums ?", "title": "", "metadata": ""}
+{"_id": "e3e6fb5568c8c9e4a7cbe6e5a0b67ec9", "text": "What is the code of airport that has fewest number of flights?", "title": "", "metadata": ""}
+{"_id": "ca90727acd72eeae56b6b7fe8329c590", "text": "Which city has the most frequent destination airport?", "title": "", "metadata": ""}
+{"_id": "de0c44fb05869cb1802e0b57c4570062", "text": "What is the smallest weight of the car produced with 8 cylinders on 1974 ?", "title": "", "metadata": ""}
+{"_id": "bf22ec0eb5453bae2db9f8a2fa6eecd6", "text": "Which shops run with no employees? Find the shop names", "title": "", "metadata": ""}
+{"_id": "8d6e39449f1f7c876ab9189c09af3e87", "text": "Find the first name of students who have both cat and dog pets .", "title": "", "metadata": ""}
+{"_id": "fe2c819789b176737bf6789013963faf", "text": "What is the average horsepower of the cars before 1980?", "title": "", "metadata": ""}
+{"_id": "84c68d3157e5f8b429300dca2dea1953", "text": "Tell me the age of the oldest dog.", "title": "", "metadata": ""}
+{"_id": "6520a1a2d3d307fc86a55299e6b9cd13", "text": "What are the names of properties that are either houses or apartments with more than 1 room?", "title": "", "metadata": ""}
+{"_id": "74765b7aab8a24ed8de3e7d301038c48", "text": "What are the cities whose population is between 160000 and 900000?", "title": "", "metadata": ""}
+{"_id": "d323dbdbe018bdce72fd4b7a245f114c", "text": "Show ids for all templates not used by any document.", "title": "", "metadata": ""}
+{"_id": "df330130f6bf2de1bf2e7e3832b9eb90", "text": "Who is enrolled in a Bachelor degree program? List the first name, middle name, last name.", "title": "", "metadata": ""}
+{"_id": "2bc0814df320a624de2e2520cf90e4f7", "text": "What is the number of car models created by the car maker American Motor Company?", "title": "", "metadata": ""}
+{"_id": "ed018593f96b6bb0e509db10185947fa", "text": "How many cities in each district have a population that is above the average population across all cities?", "title": "", "metadata": ""}
+{"_id": "769b0d6eae0db087ca67277894b65679", "text": "Show the hometowns shared by at least two teachers.", "title": "", "metadata": ""}
+{"_id": "90288fce5d7258313842f8e1e99a778c", "text": "What are the template ids with template type description \"Presentation\".", "title": "", "metadata": ""}
+{"_id": "180a1ee0b4c0fe19410ce1b389978aaa", "text": "How many shops are there in each location?", "title": "", "metadata": ""}
+{"_id": "073f2bd9afaf814c46e258bd6d26e173", "text": "How many cars has over 6 cylinders?", "title": "", "metadata": ""}
+{"_id": "38522c0636f30e681c028f5f2706e533", "text": "How many contestants did not get voted?", "title": "", "metadata": ""}
+{"_id": "b31c8f8da52dde576bebf8369d17ef3a", "text": "What is the total number of countries where Spanish is spoken by the largest percentage of people?", "title": "", "metadata": ""}
+{"_id": "1e6292925663bbaae3e8b996646118a7", "text": "How many available features are there in total?", "title": "", "metadata": ""}
+{"_id": "844c210498f3587e8a08a25e1f0a7714", "text": "What are the names of people who are not from Russia?", "title": "", "metadata": ""}
+{"_id": "13f47327f053e6a0eff9c45b4cb65f98", "text": "What is the count of the car models produced in the United States?", "title": "", "metadata": ""}
+{"_id": "f7dfd3d1180fb5b2b9ef51bb6bf4b984", "text": "List all airline names and their abbreviations in \"USA\".", "title": "", "metadata": ""}
+{"_id": "378752f452fa2cc85b7d842dd16c5765", "text": "Please show the name of the conductor that has conducted orchestras founded after 2008.", "title": "", "metadata": ""}
+{"_id": "e2612c2481f22239bf3811b9765c8e54", "text": "Return the names of conductors that do not have the nationality \"USA\".", "title": "", "metadata": ""}
+{"_id": "8f643a4d09d36fff20a7630d388adb49", "text": "What are the number of concerts that occurred in the stadium with the largest capacity ?", "title": "", "metadata": ""}
+{"_id": "0376b337e0324828d852194e0f09b8c2", "text": "Show name, country, age for all singers ordered by age from the oldest to the youngest.", "title": "", "metadata": ""}
+{"_id": "b43c916b4dbe95182e62b68d5b9accb9", "text": "How many airlines do we have?", "title": "", "metadata": ""}
+{"_id": "68484cfb3e1c2ffc210675b992ff349f", "text": "What are the names of high schoolers who both have friends and are liked?", "title": "", "metadata": ""}
+{"_id": "b2b14894ccd3439f7b92eccda661b85b", "text": "What is the feature type name of feature AirCon?", "title": "", "metadata": ""}
+{"_id": "1efa999e93261b7bb87e6f8f3d10db77", "text": "List all song names by singers above the average age.", "title": "", "metadata": ""}
+{"_id": "e9cd1e1d8aa48e27d181b52a26e7142f", "text": "What is the abbreviation of Airline \"JetBlue Airways\"?", "title": "", "metadata": ""}
+{"_id": "0b5d0c5cbf9b6a574cbfe6b026cb8fcb", "text": "What are all distinct countries where singers above age 20 are from?", "title": "", "metadata": ""}
+{"_id": "c02b543110cfa8c9bd83af82c473da1f", "text": "What are each owner's first name and their dogs's name?", "title": "", "metadata": ""}
+{"_id": "b88e2cd47b6e6a832edc239a34d76aa0", "text": "Show names of teachers and the courses they are arranged to teach in ascending alphabetical order of the teacher's name.", "title": "", "metadata": ""}
+{"_id": "afdb2edf0f562e3e14b4b97627ba494f", "text": "What are years of founding for orchestras that have had more than a single performance?", "title": "", "metadata": ""}
+{"_id": "02d9f0dd2b8817ffa63f6e8960455f71", "text": "What are the codes of the countries that do not speak English and whose government forms are not Republic?", "title": "", "metadata": ""}
+{"_id": "6f3799f0ed71e089b4a418059435b27c", "text": "Show location and name for all stadiums with a capacity between 5000 and 10000.", "title": "", "metadata": ""}
+{"_id": "8ec71a5e709c9a2efcc07a21953d9a70", "text": "Count the number of friends Kyle has.", "title": "", "metadata": ""}
+{"_id": "add738d72bb970a8fec2df0f503a8d5c", "text": "What are the names of high schoolers who have likes, and how many likes does each have?", "title": "", "metadata": ""}
+{"_id": "3acea4f4701f93587b6d5fd27b1656e7", "text": "What are the cost and treatment type description of each treatment?", "title": "", "metadata": ""}
+{"_id": "e2351c27a5a3243f7919c9854a841af7", "text": "What are the birth years and citizenships of the singers?", "title": "", "metadata": ""}
+{"_id": "e899b5cee0cd21944492b025f12e7b04", "text": "For each shop, return the number of employees working there and the name of the shop.", "title": "", "metadata": ""}
+{"_id": "9ae94e7a96334167308dc1a43655defc", "text": "Find the average grade of all students who have some friends.", "title": "", "metadata": ""}
+{"_id": "f39a2d37986b138bf5c74cfd3699159d", "text": "Find the make and production time of the cars that were produced in the earliest year?", "title": "", "metadata": ""}
+{"_id": "1a32dcc7c9603f85eb9f4b68d4f3ed62", "text": "What is the number of the cars with horsepower more than 150?", "title": "", "metadata": ""}
+{"_id": "b3f64d1b526268ff5770dbcdb452c765", "text": "Which professionals live in the state of Indiana or have done treatment on more than 2 treatments? List his or her id, last name and cell phone.", "title": "", "metadata": ""}
+{"_id": "fd9fe625370d7862694021b6c2245326", "text": "Give the airport code and airport name corresonding to the city Anthony.", "title": "", "metadata": ""}
+{"_id": "de3d2cf99261ff788a0836ae31416323", "text": "What is the number of cars with a horsepower greater than 150?", "title": "", "metadata": ""}
+{"_id": "147716397b9a48287d5b0ee596ff8d4a", "text": "What are the ids of the TV channels that do not have any cartoons directed by Ben Jones?", "title": "", "metadata": ""}
+{"_id": "5e801a9ad17d8d526f2a12377c828e7a", "text": "Find the codes of countries that have more than 50 players.", "title": "", "metadata": ""}
+{"_id": "43be944c98be559d81cd8e945d26cc75", "text": "List the names of employees and sort in ascending order of age.", "title": "", "metadata": ""}
+{"_id": "c918f0f2242af47317d8d66a38033c2d", "text": "Return the different descriptions for templates that have been used in a document.", "title": "", "metadata": ""}
+{"_id": "d9cf4a139ea883b1c569dcabbf1fac4a", "text": "What is the semester which most student registered in? Show both the name and the id.", "title": "", "metadata": ""}
+{"_id": "52629172c312bd994831a5720a302afa", "text": "Show names of teachers that teach at least two courses.", "title": "", "metadata": ""}
+{"_id": "4617ea9b352864a1dd5df832fe63d6ca", "text": "Give the mean life expectancy of countries in which English is not the official language.", "title": "", "metadata": ""}
+{"_id": "c8f391b28513f5cb9c0da31369646704", "text": "On average, when were the transcripts printed?", "title": "", "metadata": ""}
+{"_id": "d05146ba841617cf090f4761a4a08fb2", "text": "What is the first name and country code of the player with the most tours?", "title": "", "metadata": ""}
+{"_id": "8c2fffb0ec0d02ec7d364dacc5be56d7", "text": "Which countries have either English or Dutch as an official language?", "title": "", "metadata": ""}
+{"_id": "33727d3677af35d0400565bf8f25df51", "text": "What is the program id and the summary of the degree that has the most students enrolled?", "title": "", "metadata": ""}
+{"_id": "e836fcfd15fbd2f0cbc22336dfb2810b", "text": "Find the last name of the students who currently live in the state of North Carolina but have not registered in any degree program.", "title": "", "metadata": ""}
+{"_id": "fcfa7a3e6cf8ec7453769d710650c3ad", "text": "How many orchestras does each record company manage?", "title": "", "metadata": ""}
+{"_id": "ae23775ca7b47eb881f6da1d3ea94b34", "text": "Show all template type codes and the number of documents using each type.", "title": "", "metadata": ""}
+{"_id": "3753b457aaf08071fc51f50f3dba2bdb", "text": "What are the names of the countries that are in the continent of Europe and have a population of 80000?", "title": "", "metadata": ""}
+{"_id": "919b2523784cbbc18b2b2ecad668693f", "text": "What is the average earnings of poker players?", "title": "", "metadata": ""}
+{"_id": "d4ffca10e625ed1060a7329d28dffc05", "text": "What is the number of cartoones written by Joseph Kuhr?", "title": "", "metadata": ""}
+{"_id": "e04c7ef98bd7f587c90306fc7b29a6f2", "text": "What are the names of the teachers whose hometown is not `` Little Lever Urban District '' ?", "title": "", "metadata": ""}
+{"_id": "3cccf572886f562e5164e467e4fc185d", "text": "Find the average and maximum age for each type of pet.", "title": "", "metadata": ""}
+{"_id": "db695166565e71328bb1fd94a2caadfe", "text": "How many TV Channels use the English language?", "title": "", "metadata": ""}
+{"_id": "6e3e4db3b4ea8250b01a00c2c3539c86", "text": "What is the name of the country with the most car makers?", "title": "", "metadata": ""}
+{"_id": "2ffc134715b2e5953de766ef1aada0fe", "text": "How many people are there of each nationality?", "title": "", "metadata": ""}
+{"_id": "e4aa4b6b5b97b8d8f4f834d1d5e19ef2", "text": "Which Asian countries have a population that is larger than any country in Africa?", "title": "", "metadata": ""}
+{"_id": "1731ccff780996ba4879dad3abdf2e8f", "text": "What is the content of the series Sky Radio?", "title": "", "metadata": ""}
+{"_id": "a8e7b1f070ba82ed6f3103bbf41f031c", "text": "Find the role, street, city and state of the professionals living in a city that contains the substring 'West'.", "title": "", "metadata": ""}
+{"_id": "fd321d18516d43866c44c78dbb87a62a", "text": "What are the names of the teachers who teach at least two courses?", "title": "", "metadata": ""}
+{"_id": "483ac3cda086c1a577c680e3a69fb752", "text": "Find the first name and age of students who have a pet.", "title": "", "metadata": ""}
+{"_id": "9b0f3a2bd1191076095263f4de4c25d7", "text": "List each owner's first name, last name, and the size of his for her dog.", "title": "", "metadata": ""}
+{"_id": "02bd8c49c827c7bee85605f0c9069da1", "text": "For each citizenship, how many singers are from that country?", "title": "", "metadata": ""}
+{"_id": "d2c0d898997c020cd6fe70c804902e65", "text": "Which language is the most popular in Aruba?", "title": "", "metadata": ""}
+{"_id": "c7003c74cb9958beec3e97b680da62ea", "text": "How many likes does Kyle have?", "title": "", "metadata": ""}
+{"_id": "b94055190f87a3f2d704679c7db84348", "text": "What is the name of the winner with the most rank points who participated in the Australian Open tournament?", "title": "", "metadata": ""}
+{"_id": "8b2b9ed0f99ad77801d4c3d68377f6fa", "text": "Find the first name and age of students who have a dog but do not have a cat as a pet.", "title": "", "metadata": ""}
+{"_id": "f1f0e86ec57d972177c6787ef52a9900", "text": "What are the names and ranks of the three youngest winners across all matches?", "title": "", "metadata": ""}
+{"_id": "90d88e985c08aa0ca4d57002fcbd3031", "text": "Count the number of United Airlines flights that arrive in Aberdeen.", "title": "", "metadata": ""}
+{"_id": "79dfcb6e8a76fbae643591e07a1745b5", "text": "Return the average earnings across all poker players.", "title": "", "metadata": ""}
+{"_id": "778d29beee54f83a7c8bb68562396c46", "text": "Give the mean GNP and total population of nations which are considered US territory.", "title": "", "metadata": ""}
+{"_id": "626c31dc26767db86abe05106c73107b", "text": "Which states have both owners and professionals living there?", "title": "", "metadata": ""}
+{"_id": "4b6d5c358758a8070af6c1294647caf7", "text": "List the names of people that are not poker players.", "title": "", "metadata": ""}
+{"_id": "432edb1483e255a8c36dc5470008c3ef", "text": "find the names of museums which have more staff than the minimum staff number of all museums opened after 2010.", "title": "", "metadata": ""}
+{"_id": "e73597549579c0d3d578d010059a509a", "text": "What is the Package Option of TV Channel with serial name \"Sky Radio\"?", "title": "", "metadata": ""}
+{"_id": "1315cedce608b28dc790d79f8aadd492", "text": "Where is the youngest teacher from?", "title": "", "metadata": ""}
+{"_id": "38212e1d306e498d07a269a2b8e2333a", "text": "What are the names of all courses that have some students enrolled?", "title": "", "metadata": ""}
+{"_id": "a7a530ec12e7c12660dcf9fbff8a5b2f", "text": "Show the record companies shared by orchestras founded before 2003 and after 2003.", "title": "", "metadata": ""}
+{"_id": "493c05a58126a2c098870415136b5d65", "text": "How many cartoons were written by \"Joseph Kuhr\"?", "title": "", "metadata": ""}
+{"_id": "f8f4c668a95efc3cfcd6c3cd329a149e", "text": "What are the ids and makers of all car makers that produce at least 2 models and make more than 3 cars?", "title": "", "metadata": ""}
+{"_id": "add8a1da3277af2d9d2d1af4a9d29c64", "text": "Find the average age of losers and winners of all matches.", "title": "", "metadata": ""}
+{"_id": "2348ca16e4cc06a9007372c956b22c77", "text": "Show names for all stadiums except for stadiums having a concert in year 2014.", "title": "", "metadata": ""}
+{"_id": "919e2699ada898b6b6bc8c2f56487e15", "text": "Show the citizenship shared by singers with birth year before 1945 and after 1955.", "title": "", "metadata": ""}
+{"_id": "baf401ce32c22523ce917b567bc70909", "text": "What are the date and the operating professional's first name of each treatment?", "title": "", "metadata": ""}
+{"_id": "f7ede685e0bc09b7e8846a7fd8fed3d8", "text": "Return the owner id, first name and last name of the owner who has the most dogs.", "title": "", "metadata": ""}
+{"_id": "f00628926d1d3977174865f209a254b3", "text": "Show the names of all of the high schooler Kyle's friends.", "title": "", "metadata": ""}
+{"_id": "7aaa4564d3be7001191067a798732d53", "text": "Show the name and the release year of the song by the youngest singer.", "title": "", "metadata": ""}
+{"_id": "2557bd532efc13c842b9ef1d38e3a437", "text": "What is the average grade of students who have friends?", "title": "", "metadata": ""}
+{"_id": "d718cd3da00c0eb74636684a23e6085a", "text": "What is the name and capacity of the stadium with the most concerts after 2013 ?", "title": "", "metadata": ""}
+{"_id": "b1c253ab281bc03f4852ed0b4a7d612f", "text": "What are the names of students who have 2 or more likes?", "title": "", "metadata": ""}
+{"_id": "457ed27584530772477721f183ba6dca", "text": "What is the average age of the visitors whose membership level is not higher than 4?", "title": "", "metadata": ""}
+{"_id": "f34343e6f00907d911731c964b11d890", "text": "What are the name of the countries where there is not a single car maker?", "title": "", "metadata": ""}
+{"_id": "49d08c64d77d9ea206e462b6ebbf1de0", "text": "How many people live in countries that do not speak English?", "title": "", "metadata": ""}
+{"_id": "e8e5b9e291b21c9b63c63ae858dd7d6b", "text": "What is the airport code of the airport with the most flights?", "title": "", "metadata": ""}
+{"_id": "dd745f449196bcdbf84571df6e709086", "text": "What are all the song names by singers who are older than average?", "title": "", "metadata": ""}
+{"_id": "ef18ad229feb48dcee8c8469fce361ab", "text": "Find the id of students who do not have a cat pet.", "title": "", "metadata": ""}
+{"_id": "5c06e01e1dff2b7b4f1af4e0b9f5f679", "text": "Show all paragraph texts for the document \"Customer reviews\".", "title": "", "metadata": ""}
+{"_id": "ec8374c277f734112fddda5978d0e64d", "text": "Show names of teachers and the number of courses they teach.", "title": "", "metadata": ""}
+{"_id": "6d9a41bb2dfd67c0ae735f78fcb54f82", "text": "Find the first names of owners living in Virginia and the names of dogs they own.", "title": "", "metadata": ""}
+{"_id": "fe12f6e14867c4adec11279f12d7a75b", "text": "Give the name, year of independence, and surface area of the country that has the lowest population.", "title": "", "metadata": ""}
+{"_id": "d8222c094fb2c2550085828d593d856b", "text": "What is the number of nations that use English and Dutch?", "title": "", "metadata": ""}
+{"_id": "e9c43f9d3e6f4af3eb8902d9abdba065", "text": "Find the weight of the youngest dog.", "title": "", "metadata": ""}
+{"_id": "cc43fde3ca74e283840e77a0be4d0f88", "text": "Which professionals have done at least two types of treatments? List the professional id and cell phone.", "title": "", "metadata": ""}
+{"_id": "cb4371ddf6b7de892548da39209213e7", "text": "What are the different addresses that have students living there?", "title": "", "metadata": ""}
+{"_id": "11b65f2238fa064544b2cba915adc80f", "text": "What are the first names and birth dates of players from the USA?", "title": "", "metadata": ""}
+{"_id": "db1d752b7f1a3d7e869488eb399b23f7", "text": "What are the countries that have greater surface area than any country in Europe?", "title": "", "metadata": ""}
+{"_id": "f3e0e52a03098c76e029b02da7ee11b0", "text": "What are the id, name and membership level of visitors who have spent the largest amount of money in total in all museum tickets?", "title": "", "metadata": ""}
+{"_id": "1890be31053162eb91bf9c9c5a4fb9b7", "text": "Give the country codes for countries in which people speak langauges that are not English.", "title": "", "metadata": ""}
+{"_id": "cdec44d004343d77f8ccc6ee19fc8ebf", "text": "Return the lowest version number, along with its corresponding template type code.", "title": "", "metadata": ""}
+{"_id": "b5a52562599eacd4b303b9e04b2e2777", "text": "List the name of teachers whose hometown is not `` Little Lever Urban District '' .", "title": "", "metadata": ""}
+{"_id": "590948ab84289de24f140081175960c4", "text": "Which first names are used for professionals or owners but are not used as dog names?", "title": "", "metadata": ""}
+{"_id": "96aea238d146e231d3c016ceba80e61d", "text": "Which language is the most popular on the Asian continent?", "title": "", "metadata": ""}
+{"_id": "d5283d455442193347940b0d2b4739fa", "text": "How many distinct countries do players come from?", "title": "", "metadata": ""}
+{"_id": "1d96317e75e9816d43dcb84a5bf048d3", "text": "List the arrival date and the departure date for all the dogs.", "title": "", "metadata": ""}
+{"_id": "361932f0e8902d290610aa3239a7ec90", "text": "What is the mobile phone number of the student named Timmothy Ward ?", "title": "", "metadata": ""}
+{"_id": "75f40f997045a917b6c9bd1ed6286284", "text": "What is the average edispl for all volvos?", "title": "", "metadata": ""}
+{"_id": "53e78a546233bcde5d0588eec6057f1f", "text": "What is the average earnings of poker players with height higher than 200?", "title": "", "metadata": ""}
+{"_id": "908f4862b4a80dd0ca5280331ecb35a8", "text": "What are the makers and models?", "title": "", "metadata": ""}
+{"_id": "133096b3d463d047631f9a1703a85afe", "text": "How many states are there?", "title": "", "metadata": ""}
+{"_id": "c270c719ba40f44c92ba0db8df2fce5c", "text": "Find the owner id and zip code of the owner who spent the most money in total for his or her dogs.", "title": "", "metadata": ""}
+{"_id": "a78e28638c21c70be3adbd80cc2c47d4", "text": "Find the number of professionals who have not treated any dogs.", "title": "", "metadata": ""}
+{"_id": "72eba491f812ce602a64b0e0d095dc76", "text": "Show all template type codes and descriptions.", "title": "", "metadata": ""}
+{"_id": "3420d053f3fbedeacac70eff3c8ece32", "text": "What is the average, minimum, and maximum age for all French singers?", "title": "", "metadata": ""}
+{"_id": "ba6334e9a7f739148df3f1716eef5ba4", "text": "Return the maximum and minimum shares for performances that do not have the type \"Live final\".", "title": "", "metadata": ""}
+{"_id": "1e679ccdfbfa66810a484f6e1c9fc1c8", "text": "Find the number of left handed winners who participated in the WTA Championships.", "title": "", "metadata": ""}
+{"_id": "324714835af95335d2e3c036b2dcf1a6", "text": "List the section_name in reversed lexicographical order.", "title": "", "metadata": ""}
+{"_id": "fdfb8f952d715ace30e1a7e5b0d869ec", "text": "Give the name of the nation that uses the greatest amount of languages.", "title": "", "metadata": ""}
+{"_id": "92e21dbbb00f254ea9a40f31e311d42b", "text": "What is the first name of every student who has a dog but does not have a cat?", "title": "", "metadata": ""}
+{"_id": "131a752615167850196afad886edb4b9", "text": "What are the names and ids of every course with less than 2 sections?", "title": "", "metadata": ""}
+{"_id": "ba6db30aeb4945f41d82b3ecec18d400", "text": "What the smallest version number and its template type code?", "title": "", "metadata": ""}
+{"_id": "66c76bfc8954e92099967c8f25d15c83", "text": "What is the lowest grade of students who do not have any friends?", "title": "", "metadata": ""}
+{"_id": "6d8419d217276d83d8adab959d0165cc", "text": "Return the names of all the poker players.", "title": "", "metadata": ""}
+{"_id": "17e5a229f09e941677681afa6bb65917", "text": "Give the language that is spoken in the most countries.", "title": "", "metadata": ""}
+{"_id": "b91f2202101cc4229167e4db25ff6c32", "text": "How many players are there for each hand type?", "title": "", "metadata": ""}
+{"_id": "71dc9678ce04572f6272da009e603224", "text": "What are the codes of template types that have fewer than 3 templates?", "title": "", "metadata": ""}
+{"_id": "8b39fada2804a763ddfa910c6fa39ed4", "text": "How much does each charge type costs? List both charge type and amount.", "title": "", "metadata": ""}
+{"_id": "f82b8b1ae1be43737ad4f14192145ddc", "text": "What are the distinct battle names which are between bulgarian commander 'Kaloyan' and latin commander 'Baldwin I'?", "title": "", "metadata": ""}
+{"_id": "ab0f9244db892f4d7f7e09db4338488d", "text": "How many countries are listed?", "title": "", "metadata": ""}
+{"_id": "4c441a0c565258d17df0cfad068e0b67", "text": "What are the names and ids of all makers with more than 3 models?", "title": "", "metadata": ""}
+{"_id": "bfc3d42735c6a17d8965ccd8c954254e", "text": "Please show the record formats of orchestras in ascending order of count.", "title": "", "metadata": ""}
+{"_id": "8f82783bc144ec8656f03eaf578c4023", "text": "What is the average miles per gallon of all the cards with 4 cylinders?", "title": "", "metadata": ""}
+{"_id": "18fd0f033dc57724df45d93b02ec6b62", "text": "Which city is the most frequent source airport?", "title": "", "metadata": ""}
+{"_id": "08b41baf9d945b4ebfe8876f3ef90b55", "text": "Give the average life expectancy for countries in Africa which are republics?", "title": "", "metadata": ""}
+{"_id": "e2756cd4b50f653803da823fe8848eb9", "text": "What are the distinct template type descriptions for the templates ever used by any document?", "title": "", "metadata": ""}
+{"_id": "18f77a2c7735ab1f52d5d8bfebca079b", "text": "List the title of all cartoon directed by \"Ben Jones\" or \"Brandon Vietti\".", "title": "", "metadata": ""}
+{"_id": "c1722942f00aa07b22757c58bdee95c8", "text": "Return the birth date of the poker player with the lowest earnings.", "title": "", "metadata": ""}
+{"_id": "8c759f173e9a6a7582b778b4ff33e246", "text": "What is the zip code for Port Chelsea?", "title": "", "metadata": ""}
+{"_id": "a4d58220b37cc7ae84cbed1549bd8483", "text": "What are the arriving date and the departing date of all the dogs?", "title": "", "metadata": ""}
+{"_id": "a6da9981546c2bb47d5b751de0a7b6d2", "text": "How many different templates do all document use?", "title": "", "metadata": ""}
+{"_id": "3ca5f917e501a7aebd263ee6d2df4bb1", "text": "What is the name and directors of all the cartoons that are ordered by air date?", "title": "", "metadata": ""}
+{"_id": "d4da500076ecf70bd9a4a54c7b8f1d57", "text": "Give the city and country for the Alton airport.", "title": "", "metadata": ""}
+{"_id": "a489c2c8952cadde5245493870639102", "text": "How many continents are there?", "title": "", "metadata": ""}
+{"_id": "a5b61583b521370ea8e6ca278398fb7e", "text": "List the title of all Cartoons showed on TV Channel with series name \"Sky Radio\".", "title": "", "metadata": ""}
+{"_id": "dfa42b3f3bb92cc66c749fe14c024c97", "text": "Who is the earliest graduate of the school? List the first name, middle name and last name.", "title": "", "metadata": ""}
+{"_id": "d0c169ff1ec4d260b2e20054ac27c7d3", "text": "What is the most common nationality of people?", "title": "", "metadata": ""}
+{"_id": "8635cb02d5dee1abc5a450f0f2c6dff9", "text": "What are the names of all high schoolers in grade 10?", "title": "", "metadata": ""}
+{"_id": "bfac30c975b9c3b351feb13c608958c5", "text": "List the names of the dogs of the rarest breed and the treatment dates of them.", "title": "", "metadata": ""}
+{"_id": "63862bb88ef42844d1c40b95cf3366cb", "text": "How much does the car accelerate that makes amc hornet sportabout (sw)?", "title": "", "metadata": ""}
+{"_id": "7b1e21b423f975d2261f92f4009ef43d", "text": "Which region is the city Kabul located in?", "title": "", "metadata": ""}
+{"_id": "f4a2c3e583a4404c8f86d83004b07caf", "text": "What is the maximum number of final tables made among poker players with earnings less than 200000?", "title": "", "metadata": ""}
+{"_id": "ababf35f474d3344cb44e701625dd354", "text": "How many models does each car maker produce? List maker full name, id and the number.", "title": "", "metadata": ""}
+{"_id": "72030f443d46c56c77fed33f44b4931e", "text": "How many courses in total are listed?", "title": "", "metadata": ""}
+{"_id": "478c7899e4e7d008ddca311cf003518b", "text": "Give the total surface area covered by countries in Asia or Europe.", "title": "", "metadata": ""}
+{"_id": "5d278b9df426b71fcb0e1c6fc67ffcdb", "text": "Show all template type codes that are not used by any document.", "title": "", "metadata": ""}
+{"_id": "0d7f5bf88f87a21cb0cd619ca26f4234", "text": "What is the name of the museum that had no visitor yet?", "title": "", "metadata": ""}
+{"_id": "7e0c7b49f720a849749fc1d941b75b24", "text": "find the id, name and age for visitors who visited some museums more than once.", "title": "", "metadata": ""}
+{"_id": "755ecd0ec805ae4b2848aa8264fa06ff", "text": "How many departments offer any degree?", "title": "", "metadata": ""}
+{"_id": "b1c19050af86cbfcda5c2b4341c251fd", "text": "What is the total number of languages used in Aruba?", "title": "", "metadata": ""}
+{"_id": "1a2d79a5bb304d05034b5b452c9e3887", "text": "How many different loser names are there?", "title": "", "metadata": ""}
+{"_id": "9d6e53011299a2b7e0fbd8c11dbbcb63", "text": "What are the create dates, states, and phone numbers of the votes that were for the contestant named 'Tabatha Gehling'?", "title": "", "metadata": ""}
+{"_id": "194e24619fa8d401fa3a3d69d5a0cdbd", "text": "List the first name and birth date of all players from the country with code USA.", "title": "", "metadata": ""}
+{"_id": "ea1f865cac46f95863b542245e657e11", "text": "Find number of pets owned by students who are older than 20.", "title": "", "metadata": ""}
+{"_id": "5bc12733005910b6699103bc92036400", "text": "What are flight numbers of Airline \"United Airlines\"?", "title": "", "metadata": ""}
+{"_id": "ac06e3df395ac301e1da0299cd950ab7", "text": "List the Episode of all TV series showed on TV Channel with series name \"Sky Radio\".", "title": "", "metadata": ""}
+{"_id": "eec01ffa6827cd96964180369d9270b9", "text": "What are the major record formats of orchestras, sorted by their frequency?", "title": "", "metadata": ""}
+{"_id": "4d71314b2089bcdc4f1dc892e0253990", "text": "List the cost of each treatment and the corresponding treatment type description.", "title": "", "metadata": ""}
+{"_id": "ed3d848d6a5c9847256c9ea7af52b1ca", "text": "Show different hometown of teachers and the number of teachers from each hometown.", "title": "", "metadata": ""}
+{"_id": "a8f319900886c5fc1618e37fcb678a6d", "text": "How many continents speak Chinese?", "title": "", "metadata": ""}
+{"_id": "d212e27da765e707b965c130c41e50dc", "text": "Count the number of poker players.", "title": "", "metadata": ""}
+{"_id": "974fc03dfeee9b0e0dffe4ddd0ae1bc4", "text": "List all document ids with at least two paragraphs.", "title": "", "metadata": ""}
+{"_id": "d95de58bf2d852c093e3aba625b761ef", "text": "What are the last name of the students who live in North Carolina but have not registered in any degree programs?", "title": "", "metadata": ""}
+{"_id": "1c38619315efebb9a9bb6f64c96af597", "text": "Return the number of flights.", "title": "", "metadata": ""}
+{"_id": "3df6e1f91c6e6d9e907ab8523eeee9da", "text": "What are the paragraph texts for the document with the name 'Customer reviews'?", "title": "", "metadata": ""}
+{"_id": "d6f7247e6c1a14e7b237d50b4d027a85", "text": "How many car models were produced by the maker with full name American Motor Company?", "title": "", "metadata": ""}
+{"_id": "d3f9c0822291b80272bbc31dce072243", "text": "List the name and tonnage ordered by in descending alphaetical order for the names.", "title": "", "metadata": ""}
+{"_id": "9d769cdc5bb03cf278915c747af3e3d8", "text": "What is the last name of the student who has a cat that is 3 years old?", "title": "", "metadata": ""}
+{"_id": "4f7b3bc5a6eada2f0ac048ccc095a9ba", "text": "find the names of loser and winner who played in the match with greatest number of minutes.", "title": "", "metadata": ""}
+{"_id": "23186c3388ac31a3154c9665be76dde6", "text": "Find the number of professionals who have ever treated dogs.", "title": "", "metadata": ""}
+{"_id": "0199732389e44639a5b45fb9acd88a6b", "text": "Give the name of the student with the most likes.", "title": "", "metadata": ""}
+{"_id": "aea1e4f50d38c22258882a2b19db00f4", "text": "What is last date created of votes from the state 'CA'?", "title": "", "metadata": ""}
+{"_id": "bb360847a7e0fe3d8190af4348ffd6f7", "text": "List the names of poker players ordered by the final tables made in ascending order.", "title": "", "metadata": ""}
+{"_id": "e83e0763f636551aa0abb88944d45096", "text": "For a volvo model, how many cylinders does the version with least accelerate have?", "title": "", "metadata": ""}
+{"_id": "545130f367dc5fb7b364d761b572c9b0", "text": "Find the number of cities in each district whose population is greater than the average population of cities?", "title": "", "metadata": ""}
+{"_id": "c53d25c9d5ada3b6fce166147adfcefd", "text": "What are the contestant numbers and names of the contestants who had at least two votes?", "title": "", "metadata": ""}
+{"_id": "a5c7edb8f13b743b4a82ff47ae4a5dbf", "text": "List each charge type and its amount.", "title": "", "metadata": ""}
+{"_id": "7faeb6dffc87ffca5870cd6d675881f1", "text": "How many United Airlines flights go to City 'Aberdeen'?", "title": "", "metadata": ""}
+{"_id": "3ded46ce0d93a1f1aabc9e48f1b0843c", "text": "What are the names of all cartoons directed by Ben Jones?", "title": "", "metadata": ""}
+{"_id": "2bb9dc6a518d31b9b3a1e73d0357c21c", "text": "Find all airlines that have fewer than 200 flights.", "title": "", "metadata": ""}
+{"_id": "6a69bac9a5bd1437211414303f810367", "text": "For each stadium, how many concerts play there?", "title": "", "metadata": ""}
+{"_id": "39d35f5ea17bb95c03ac7beba7acd1de", "text": "What are the name, population, and life expectancy of the largest Asian country by land?", "title": "", "metadata": ""}
+{"_id": "a09e31fa1a50aba16f3a447f93c28252", "text": "How many dogs have an age below the average?", "title": "", "metadata": ""}
+{"_id": "03dbfba6df006b336206333fc9b992d7", "text": "How many likes correspond to each student id?", "title": "", "metadata": ""}
+{"_id": "bb3445b6fa5cea5ef6187da3f0a16da2", "text": "Which airlines have at least 10 flights?", "title": "", "metadata": ""}
+{"_id": "8a960a6e95ab0f9d9df69b598c02557c", "text": "What is the average weight for each type of pet?", "title": "", "metadata": ""}
+{"_id": "939a7b858dbf4e7905972af615a5e729", "text": "For each hometown, how many teachers are there?", "title": "", "metadata": ""}
+{"_id": "7105ab695706b833b23cd085e7bbadbe", "text": "What are the different first names and ages of the students who do have pets?", "title": "", "metadata": ""}
+{"_id": "4d420c73f61300e468c0f981a7499a17", "text": "Which continent has the most diverse languages?", "title": "", "metadata": ""}
+{"_id": "4e423cd5b3e69399a43780cd1a0be87b", "text": "What are the ids of the students who do not own cats as pets?", "title": "", "metadata": ""}
+{"_id": "aa325d509884849b11e88547e37fd649", "text": "Show ids of all students who do not have any friends.", "title": "", "metadata": ""}
+{"_id": "2dd6832f9e1b295dcf3ce8afa4c33cb5", "text": "Find the highest rank of losers in all matches.", "title": "", "metadata": ""}
+{"_id": "998586db1d176e0f6e736c6ad5429580", "text": "What is the name of the shop that is hiring the largest number of employees?", "title": "", "metadata": ""}
+{"_id": "59658d900a1811353fc29cabf1414af0", "text": "What are the codes of countries with more than 50 players?", "title": "", "metadata": ""}
+{"_id": "c34dc1a6eaada0f29931c77f417e8739", "text": "What is the first, middle, and last name, along with the id and number of enrollments, for the student who enrolled the most in any program?", "title": "", "metadata": ""}
+{"_id": "5a16276792501a0f4f2731733315eae6", "text": "What is the TV Channel that shows the cartoon \"The Rise of the Blue Beetle!\"? List the TV Channel's series name.", "title": "", "metadata": ""}
+{"_id": "c54f014f596991894523ae1c3ab90707", "text": "What is the language spoken by the largest percentage of people in each country?", "title": "", "metadata": ""}
+{"_id": "b31b084ab18c252189a1f0e280fd66ef", "text": "Which distinct car models are the produced after 1980?", "title": "", "metadata": ""}
+{"_id": "2b93fd3fe32dbffa368e83c5430559dc", "text": "Count the number of different templates used for documents.", "title": "", "metadata": ""}
+{"_id": "c5e0d860e18d2ef3e5994141fc5b5b71", "text": "how many cars were produced in 1980?", "title": "", "metadata": ""}
+{"_id": "7f90875ba287fc95449b33ebd45997d2", "text": "What is the number of cars with a greater accelerate than the one with the most horsepower?", "title": "", "metadata": ""}
+{"_id": "c33dc753bac4167ab38595145713a057", "text": "How many transcripts are listed?", "title": "", "metadata": ""}
+{"_id": "a264078b3fb6b94c85b66493bb3bd301", "text": "What is the model for the car with a weight smaller than the average?", "title": "", "metadata": ""}
+{"_id": "18838c8dfce6b7bdb6b11d032e785bc2", "text": "Which continent is Anguilla in?", "title": "", "metadata": ""}
+{"_id": "e8e8212c741cd22be5ed0a39bc3d22dc", "text": "List the names of conductors in ascending order of age.", "title": "", "metadata": ""}
+{"_id": "eb0ce9e4538c4a93f8b772d7e401165c", "text": "find id of the tv channels that from the countries where have more than two tv channels.", "title": "", "metadata": ""}
+{"_id": "c0b12029ed4dce141c564bf7b6d0a309", "text": "What is the name of the high schooler who has the greatest number of likes?", "title": "", "metadata": ""}
+{"_id": "40897ac8e6115f3951a2c158cac8f909", "text": "Which languages are spoken by only one country in republic governments?", "title": "", "metadata": ""}
+{"_id": "f19c80700cb5964256ba9d960b5fd0ca", "text": "What is the template type code of the template used by document with the name \"Data base\"?", "title": "", "metadata": ""}
+{"_id": "93d2416c2a1dcadb40acff2ce96087b0", "text": "Find all airlines that have flights from both airports 'APG' and 'CVO'.", "title": "", "metadata": ""}
+{"_id": "cd6b5780edfd5822285addd3b650bf2a", "text": "What are the type codes and descriptions for all template types?", "title": "", "metadata": ""}
+{"_id": "9b0473f0b09b91258abd2fc8beb306a8", "text": "What are the country codes of the different countries, and what are the languages spoken by the greatest percentage of people for each?", "title": "", "metadata": ""}
+{"_id": "8b94156ca00344853ac8d34a6fb68b2a", "text": "What are the distinct states and create time of all votes?", "title": "", "metadata": ""}
+{"_id": "caa3806ee8a8b29ff30f9a4ec8bbbc02", "text": "How many friends does the high school student Kyle have?", "title": "", "metadata": ""}
+{"_id": "41af8f4b3395fd04aaaccda1c9400e1a", "text": "What is the weekly rank for the episode \"A Love of a Lifetime\"?", "title": "", "metadata": ""}
+{"_id": "518908251886b639777b576bc30623fe", "text": "How many high schoolers are there in grade 9 or 10?", "title": "", "metadata": ""}
+{"_id": "4190a747b95e9b558425d0e7b31b8943", "text": "Find the number of owners who do not own any dogs at this moment.", "title": "", "metadata": ""}
+{"_id": "d73f12fcb50db64bcc3df4c690cd4fab", "text": "What is the most commmon hometowns for teachers?", "title": "", "metadata": ""}
+{"_id": "349588da331d1db01bc71853da0274b1", "text": "Return the type code of the template type with the description \"Book\".", "title": "", "metadata": ""}
+{"_id": "8ec4fc3f288b65be6b32dbbe0da3ab93", "text": "What is the date and id of the transcript with the least number of results?", "title": "", "metadata": ""}

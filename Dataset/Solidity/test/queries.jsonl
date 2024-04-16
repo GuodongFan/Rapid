@@ -1,0 +1,1000 @@
+{"_id": "b371a54a552e873a68dae7169cdcdf30", "text": "Replace the owner with a new owner .", "title": "", "metadata": ""}
+{"_id": "0036aa473e95f8af4d0738876fb8ec35", "text": "computes the real cap based on the given cap key .", "title": "", "metadata": ""}
+{"_id": "b533a6a0c7dbc8e98f13fa825b5b82f6", "text": "This is a constructor function which means the following function name has to match the contract name declared above .", "title": "", "metadata": ""}
+{"_id": "7d3f72f7d9efb3f0dabbd98e713a9ca5", "text": "Define amount of Kitten Coins to hold in order to get holder reward .", "title": "", "metadata": ""}
+{"_id": "77948a93d3db77a045c0f62885538333", "text": "balance of a particular account .", "title": "", "metadata": ""}
+{"_id": "8885ffbe9fa225cd01e8800c36394a0f", "text": "Burn BNTTs from Users .", "title": "", "metadata": ""}
+{"_id": "24f8d9ecebcbd9a518564d2c8674dae4", "text": "This method update the current state of tranches and currentRound .", "title": "", "metadata": ""}
+{"_id": "23f6ceb2667b12b2d2e530d0179ca803", "text": "When the castle would be no more . . .", "title": "", "metadata": ""}
+{"_id": "724d482e22a9aa37ad829bc199f9339b", "text": "Logs the data request with the requested ID .", "title": "", "metadata": ""}
+{"_id": "2e260e106d01740e677ca94abda578c3", "text": "Ability for controller to step down .", "title": "", "metadata": ""}
+{"_id": "c6e6a9f25b7b4b707e24da4bc93dd1a7", "text": "This function opens the contract up for token withdrawals .", "title": "", "metadata": ""}
+{"_id": "26a66147fd678e5a348d7e2db65980e7", "text": "public interface to the directory of games .", "title": "", "metadata": ""}
+{"_id": "10478a4341d0fd29c4c0752582bbcdb8", "text": "Allows any user to retrieve their asigned prize .", "title": "", "metadata": ""}
+{"_id": "8f37712a78e8800bdab5400f277eecb4", "text": "add a new casino .", "title": "", "metadata": ""}
+{"_id": "187a3a7634ae0e277c891205c54975be", "text": "Transfer of tokens from one account to another .", "title": "", "metadata": ""}
+{"_id": "d260a14ea8aa3cb3ed0aeb2cca436a68", "text": "Toggle locked flag .", "title": "", "metadata": ""}
+{"_id": "5ab062ac4da5a97f1d26dd3d2cff3f77", "text": "Allows the pendingOwner address to finalize the transfer , as long as it is called within the specified start and end time .", "title": "", "metadata": ""}
+{"_id": "b70bfb33d1c3343d28a827aecd888a9b", "text": "Override transfer .", "title": "", "metadata": ""}
+{"_id": "0a760cbbdc82bfd6c951020b40681155", "text": "Allocate tokens to the users .", "title": "", "metadata": ""}
+{"_id": "17e467f4b6abece0f171a7024e6005fe", "text": "allowance is not allowed .", "title": "", "metadata": ""}
+{"_id": "5b3919406a6712263bfdfa03df389e77", "text": "Delegates execution to an implementation contract .", "title": "", "metadata": ""}
+{"_id": "9b60c2d8f297775b857d7b35084a72af", "text": "All pending operations will be canceled ! .", "title": "", "metadata": ""}
+{"_id": "2b02aa4190e67e878b5f658353278af7", "text": "check length min max .", "title": "", "metadata": ""}
+{"_id": "49625ac16dd3b78ddd503dfeeac6b49e", "text": "Set the cooldown for childbirth .", "title": "", "metadata": ""}
+{"_id": "8fad77cdebb238bbd341354b25eac149", "text": "Sets the contract address that is allowed to call vacate on this contract .", "title": "", "metadata": ""}
+{"_id": "dbc28376cbab89bea19d43305c872e4c", "text": "buy tokens for Ehter .", "title": "", "metadata": ""}
+{"_id": "523252fdee6efbedb04a523f2b383bd4", "text": "tokenUnits Number of token base units required per grain .", "title": "", "metadata": ""}
+{"_id": "388c70bd5aa04b386b9cffe210e16b31", "text": "Change multiSigAddress .", "title": "", "metadata": ""}
+{"_id": "b73c9ef3a5f5229fd5f25be94fb6a6a0", "text": "true if burnToken function has ended .", "title": "", "metadata": ""}
+{"_id": "7d1de0b3d4b221a533e61c587e1d57c9", "text": "If Token Generation Minimum is Not Met , TGE Participants can call this func and request for refund .", "title": "", "metadata": ""}
+{"_id": "99bba1e92a7e39d17de3886ad4521dc4", "text": "requires quorum so it's callable only via a script executed by this contract .", "title": "", "metadata": ""}
+{"_id": "85fc1d790f269e2cb88fea04dc9eadd3", "text": "The balance of tokens in the wallet .", "title": "", "metadata": ""}
+{"_id": "9593d62fa0a22c486c71dba99c5d7a19", "text": "Get Rate : number of wei to buy 0 . 01 Mozo token .", "title": "", "metadata": ""}
+{"_id": "60964a3a180ac4179be6f36b54f9f890", "text": "This will be invoked by the owner , when owner wants to rescue ethers .", "title": "", "metadata": ""}
+{"_id": "68d6171998934ba326ac94360fd99bf6", "text": "Owner Configuation .", "title": "", "metadata": ""}
+{"_id": "ae8f6dc49a840a4c71fec9b5fcc5ee79", "text": "returns tokens amount and value of USD .", "title": "", "metadata": ""}
+{"_id": "7fedd6561164b10282243ae0443f3b39", "text": "User authorisation management methods .", "title": "", "metadata": ""}
+{"_id": "91e1d213c26d3cd1439c440e608bea84", "text": "customer buy a box .", "title": "", "metadata": ""}
+{"_id": "c2b753558629c76ed6b340eb0518f06d", "text": "Gets the sale prices of any Property in ETH and PXL .", "title": "", "metadata": ""}
+{"_id": "356ef4ef0cf96196af589fb106b6c38e", "text": "the total remaining free trial drops of a token .", "title": "", "metadata": ""}
+{"_id": "88d90c5399af03f91abf4d9427cb7bdb", "text": "Transferring ownership from this contract also destroys the contract .", "title": "", "metadata": ""}
+{"_id": "7d729b29087c220b652932794df11285", "text": "Transfers sender's tokens to a given address .", "title": "", "metadata": ""}
+{"_id": "1665521a0a873b5758464876bda0a855", "text": "Allows owner to change the exchange rate of tokens ( default 0 . 005 Ether ) .", "title": "", "metadata": ""}
+{"_id": "b2d5dc7daf093b935e30dc8686461773", "text": "can be called by provider on CANCELED subscription to return a subscription deposit to customer immediately .", "title": "", "metadata": ""}
+{"_id": "b7ca9b71a58509b58bec582a7047ed24", "text": "Sets the approval expiry window , called before the contract is locked .", "title": "", "metadata": ""}
+{"_id": "b1bd8ce02597020bf10f4a78edf0ba09", "text": "Get BOP balance for provided address .", "title": "", "metadata": ""}
+{"_id": "1196e5a0f7d4a467e4910435504baa81", "text": "it is recommended to define functions which can neither read the state of blockchain nor write in it as pure instead of constant .", "title": "", "metadata": ""}
+{"_id": "0df5d16e377a8a4ca1257112c940f458", "text": "reallocates the unsold and leftover bounty tokens .", "title": "", "metadata": ""}
+{"_id": "f2182e4dc94b21c571dcd2d78482d700", "text": "In case the user requested a withdrawal and changes his mind .", "title": "", "metadata": ""}
+{"_id": "2dabff36e3f7f9180fd9b58e2d990b3e", "text": "Mint some tokens and assign them to an address .", "title": "", "metadata": ""}
+{"_id": "6c0fda6a0f6f20c2a8c51d64c97103f3", "text": "Internal function for determining the current bonus : ( It is assumed that this function is only called during the ico ) .", "title": "", "metadata": ""}
+{"_id": "06891c0a328698e00d37e7799e257b4e", "text": "Call token allocate function on all token bankrolls .", "title": "", "metadata": ""}
+{"_id": "f3d493859f9bd36b752ab0d51724aa2b", "text": "Transfer the balance from token owner's account to to account - Owner's account must have sufficient balance to transfer - 0 value transfers are allowed - dev override .", "title": "", "metadata": ""}
+{"_id": "d2ebf961ec1ef289ddca2a4304becb32", "text": "Function to send token to user address .", "title": "", "metadata": ""}
+{"_id": "babc7dcb7e181ecfc71c9389f91290d3", "text": "Extract 256-bit worth of data from the bytes stream .", "title": "", "metadata": ""}
+{"_id": "084dea4663b89fcda5b92c21d138a195", "text": "Returns all the relevant information about a specific element .", "title": "", "metadata": ""}
+{"_id": "d63aaa1751a9518ce9255ecb00416c33", "text": "Reverts if not operational .", "title": "", "metadata": ""}
+{"_id": "6d6c17ea6eb4502ae355173ff12f767c", "text": "Calculates the total payout amount , commission , and donation amounts .", "title": "", "metadata": ""}
+{"_id": "4cc6e8605b754f304bda68a5b4834089", "text": "Delete transaction .", "title": "", "metadata": ""}
+{"_id": "3e5f4f3af001bbb5b1d35cfc5e001978", "text": "The external function to add another dungeon floor by its ID , only contract owners can alter dungeon state .", "title": "", "metadata": ""}
+{"_id": "d51b09206923fb85b0be46cfe52fb65e", "text": "Calculate the number of tokens to be transferred to the investor address based on the invested ethers .", "title": "", "metadata": ""}
+{"_id": "567520c88a28ee0d6ad792cff1e20495", "text": "Owner can allow a crowdsale contract to distribute tokens .", "title": "", "metadata": ""}
+{"_id": "4b5037d13d5da29463575e437c5a2662", "text": "Creates a request , assigning it the next ID .", "title": "", "metadata": ""}
+{"_id": "61944311aafb0529f0e8e0859e86a631", "text": "Assign allowance _value to _spender address to use the msg . sender .", "title": "", "metadata": ""}
+{"_id": "6d1d3f05639f73397463fc898b448301", "text": "Take deposit of funds .", "title": "", "metadata": ""}
+{"_id": "b1ab48dd51af81c79e874d42cf404024", "text": "Withdraw deposited funds .", "title": "", "metadata": ""}
+{"_id": "b10ddf3eddcb76270f88d86d90f78a46", "text": "Can act only one from payers .", "title": "", "metadata": ""}
+{"_id": "68d024097be3f2129e7ad6474e0ee62b", "text": "called by owner for transfer tokens .", "title": "", "metadata": ""}
+{"_id": "3cbe8f8f1558a7f4a532a8f2e81cd658", "text": "Pay on a behalf of the sender .", "title": "", "metadata": ""}
+{"_id": "0a7082c2e7cbf896385ec663673acea7", "text": "Add burning man .", "title": "", "metadata": ""}
+{"_id": "9e17e8454c26f0384b9f53501462c734", "text": "Add staff to whitelist .", "title": "", "metadata": ""}
+{"_id": "c4b97c42653556fb04b54556ef146232", "text": "Freeze the account at the target address .", "title": "", "metadata": ""}
+{"_id": "9f961a9e466f4857a50498ac94651b14", "text": "Set the address that has the authority to approve users by KYC .", "title": "", "metadata": ""}
+{"_id": "83465c0045f5a19760a18504d0f31480", "text": "Price of a registered asset in format ( bool areRecent , uint prices , uint decimals ) .", "title": "", "metadata": ""}
+{"_id": "582ca78e17597f3dd77ad57dcf855b50", "text": "Remove an auction .", "title": "", "metadata": ""}
+{"_id": "6f83573f8de13d3d4ed02c777788d223", "text": "Retrieve the dividends of the owner .", "title": "", "metadata": ""}
+{"_id": "86f32686a1582ab6265b06eef46b7b57", "text": "Create a new product contract .", "title": "", "metadata": ""}
+{"_id": "8c4365c6ab949fc2fc444b9392e25144", "text": "Execute spin .", "title": "", "metadata": ""}
+{"_id": "11c8e6ac67ed2e6efa79220fbc6c8253", "text": "Allow anyone to contribute to the buy executer's reward .", "title": "", "metadata": ""}
+{"_id": "41c2f8b0625fcd7a97f66bb5e48c27e8", "text": "Function to donate for event .", "title": "", "metadata": ""}
+{"_id": "d6b4c7a55cf02b84586e1420273cfa27", "text": "Adds an owner .", "title": "", "metadata": ""}
+{"_id": "3877997bc6921bf569072173499e2128", "text": "Checks if enough fee provided .", "title": "", "metadata": ""}
+{"_id": "0a3f4245f144e90c14034912b70bbfbe", "text": "returns current game state .", "title": "", "metadata": ""}
+{"_id": "d4e339754d5908ae125d14c9451acd0a", "text": "calculates wmount of WPX we get , given the wei and the rates we've defined per 1 eth .", "title": "", "metadata": ""}
+{"_id": "dec81c0208b567c01343399cd1907390", "text": "pause and unpause an ICO , only sender allowed to .", "title": "", "metadata": ""}
+{"_id": "fa1adbfb0be83647a6e6602098716c16", "text": "Called by the owner of the contract to close the Sale .", "title": "", "metadata": ""}
+{"_id": "67c64222ca5c0f586122f5e8843a5ea6", "text": "Add KYC'ed addresses to the whitelist .", "title": "", "metadata": ""}
+{"_id": "95fcaea0de3fa13f692130684cfc9444", "text": "modifier to allow actions for everybody .", "title": "", "metadata": ""}
+{"_id": "b5318566e37c616732b1dd9f65934e1b", "text": "Just a safeguard for people who might invest and then loose the key .", "title": "", "metadata": ""}
+{"_id": "edda59b015ccc6746ce503005b9264b5", "text": "returns the owner of a soul .", "title": "", "metadata": ""}
+{"_id": "8f69598877822976d4209a4472c862f7", "text": "Put a LinglongCat up for auction .", "title": "", "metadata": ""}
+{"_id": "75790de468102727a46c0f6f1868dc04", "text": "Allocate tokens to specified address .", "title": "", "metadata": ""}
+{"_id": "9cbae6a29df1b067d44cfccd97872413", "text": "The function can be called only before or after the tokens have been releasesd .", "title": "", "metadata": ""}
+{"_id": "56fc380a37701592f183ddb11b6713b2", "text": "provides the bonus .", "title": "", "metadata": ""}
+{"_id": "98e0a7cdd8ed698d911d4639caa26abc", "text": "locks ERC721 behaviour , allowing for trading on third party platforms .", "title": "", "metadata": ""}
+{"_id": "da027a6366986f438db560a0254f4948", "text": "address of this smart contract .", "title": "", "metadata": ""}
+{"_id": "ac23c9a1885e92e9dbcad76410b90d8b", "text": "Sets the alias for the msg . sender's .", "title": "", "metadata": ""}
+{"_id": "675955cec9ef22b8022a14d952595e54", "text": "cast a vote for an account .", "title": "", "metadata": ""}
+{"_id": "a7cb24b8bed9a5a29ea4861b4727fb7c", "text": "Lockup a specific address until given time .", "title": "", "metadata": ""}
+{"_id": "8708ce901e55f3f4d3cb26ebfb6025d0", "text": "Only the KittyGym and Arena contracts may make changes to KittyData ! .", "title": "", "metadata": ""}
+{"_id": "84769d29f720fb0736736f8173cd7e72", "text": "Set enabled status of the account .", "title": "", "metadata": ""}
+{"_id": "3ed601fe4a22eff581158938705e6ac9", "text": "sends the given value to the next investor ( s ) in the list .", "title": "", "metadata": ""}
+{"_id": "a053e9d5875a89d529488ad1beb176ed", "text": "Change the address of the treasury , the address to which the payments are forwarded to .", "title": "", "metadata": ""}
+{"_id": "f624e978aa000a52df0692a2bbe4a5c1", "text": "helper function .", "title": "", "metadata": ""}
+{"_id": "8b983fcecd3287c5b956defe3101adb7", "text": "! Migrate holders of tokens to the new contract .", "title": "", "metadata": ""}
+{"_id": "a1d991f90e6931a0dc3473a7e51c39aa", "text": "store the gas price as a storage variable for easy reference , and thne change the gas price using the proper oraclize function .", "title": "", "metadata": ""}
+{"_id": "2668b99a36c080b7808b8bf324c37cab", "text": "Send tokens to Partner .", "title": "", "metadata": ""}
+{"_id": "21a9e86c095cb2642ebfd374157e4fcb", "text": "Self-register a new DIN and set the resolver .", "title": "", "metadata": ""}
+{"_id": "ae000a30c1cae9742646a4786fa6ddee", "text": "internal function to transfer ownership of team .", "title": "", "metadata": ""}
+{"_id": "62e535a144ac5a4a853303306c621158", "text": "sets the param keted by the provided name to the provided value .", "title": "", "metadata": ""}
+{"_id": "289dbdf811c8823fab353d318f0beb53", "text": "setToken Function used to set the token address into the contract .", "title": "", "metadata": ""}
+{"_id": "ffda356041f3d82c2168dd90b1b10205", "text": "manually perform healthcheck .", "title": "", "metadata": ""}
+{"_id": "90c87a5e7ac4846ffe8d28aeb116da15", "text": "Function set new token wallet address .", "title": "", "metadata": ""}
+{"_id": "fbcf12f4487dc72bab921df84c2c34d1", "text": "Check that address is registered .", "title": "", "metadata": ""}
+{"_id": "787aaf06033d0c0e6166beb6e803aef3", "text": "Returns current tokens total supply .", "title": "", "metadata": ""}
+{"_id": "d4bfc11218d1757294a4072c796d816b", "text": "call add minter from TAU token after contract deploying .", "title": "", "metadata": ""}
+{"_id": "353b2f043cae3d34832f1325c2b48ac7", "text": "Transfer shares to another address see : https : / / github . com / ethereum / EIPs / issues / 20 .", "title": "", "metadata": ""}
+{"_id": "85d3764b09322f98dd01056a2a015f2c", "text": "Close the fund .", "title": "", "metadata": ""}
+{"_id": "33df90e9d7a9909da5b6ce3fb863c298", "text": "Distribute tokens out .", "title": "", "metadata": ""}
+{"_id": "10a85fcccb8ba20a9f72d0dbd82152f2", "text": "to collect all fees paid till now .", "title": "", "metadata": ""}
+{"_id": "9b8f7399d29d392c2601a47a619f58ba", "text": "Updates token fee for approving a transfer .", "title": "", "metadata": ""}
+{"_id": "a4173290244458e93a2ccf2c3a280ae1", "text": "burn tokens from sender balance .", "title": "", "metadata": ""}
+{"_id": "08d4bdd36dfdf43dde34d3c44ef13fdb", "text": "Generic substitution for require ( ) .", "title": "", "metadata": ""}
+{"_id": "bd6d08406e50a0752b1f78a367809769", "text": "Public getter for the action mapping doesn't work in web3 . js .", "title": "", "metadata": ""}
+{"_id": "39e2455ecd4ff00bb0c55e43420efb1a", "text": "the contract owner can delete a target address from the blacklist .", "title": "", "metadata": ""}
+{"_id": "431e3bbc06b6ebd746f712f0efc29ebf", "text": "helper method to get token details , name , symbol and totalSupply in one go .", "title": "", "metadata": ""}
+{"_id": "cedf08e8b18f4bbd19a89d5e70b09071", "text": "Function checks how much you can remove the Token .", "title": "", "metadata": ""}
+{"_id": "961a82cbdde2661e05e76969aa9076a9", "text": "Returns the stake actualAmount for active personal stakes for an address .", "title": "", "metadata": ""}
+{"_id": "40e5e3b0216f51d503179d747a7a51be", "text": "This function enables the whitelisted application ( internal application ) to set the ICO end date and can only be used once .", "title": "", "metadata": ""}
+{"_id": "e911e2140366fde36f9f0603116a439c", "text": "sets the controller .", "title": "", "metadata": ""}
+{"_id": "ccb7b6cb04fd0a2dc89830c8584f5584", "text": "Sets the share cut for the owner of the contract that's charged to the seller on a successful sale .", "title": "", "metadata": ""}
+{"_id": "f5f43cb343474df589f40600857b79e0", "text": "Update access manager address .", "title": "", "metadata": ""}
+{"_id": "680ba0f1866db2f80226d465181b6a4c", "text": "Generate a giant cat image .", "title": "", "metadata": ""}
+{"_id": "8b53da5a9b5b7dbe792c8f26b7e310f5", "text": "Gets the commitment of the specified address .", "title": "", "metadata": ""}
+{"_id": "f39fc9f165bbdca64f1fd75f2a6231ce", "text": "change wallet for reserved vesting ( this make possible to set smart-contract address later ) .", "title": "", "metadata": ""}
+{"_id": "e121e31bbf2cea8b8f0d2ac8f3faa5aa", "text": "Create or update a claim about yourself .", "title": "", "metadata": ""}
+{"_id": "69130a38151066d08852fcaf9b29056a", "text": "Check is user in group .", "title": "", "metadata": ""}
+{"_id": "95a9a6ced45e045e8cdb0eaaba7e8702", "text": "ERC20Interface End .", "title": "", "metadata": ""}
+{"_id": "930d0268456eb71661ec00c0c42dbe6a", "text": "Amount of remaining tokens allowed to spent ( always 0 in our case ) .", "title": "", "metadata": ""}
+{"_id": "9742bc18db061d9eff8f35b15f88e954", "text": "Forward payment to 'to' from sender .", "title": "", "metadata": ""}
+{"_id": "53c8083e9a04323e7f62c9a8d875acd8", "text": "Add an address to the accredited list .", "title": "", "metadata": ""}
+{"_id": "8e625ac94357c5b98b95054612bd8d18", "text": "unpauseToken token for transfers .", "title": "", "metadata": ""}
+{"_id": "66b4429007a4fc8c9b859a515a93a60b", "text": "freeze multiple addresses .", "title": "", "metadata": ""}
+{"_id": "66e5e5dffd1ea7b300bdce6bbc5e53a9", "text": "For creating Tubers .", "title": "", "metadata": ""}
+{"_id": "4169193587ea9eaa1e185b28cca58122", "text": "Returns the number of decimals the token uses - e . g .", "title": "", "metadata": ""}
+{"_id": "6e268419a226a010df303e89685cb300", "text": "redeem MTU .", "title": "", "metadata": ""}
+{"_id": "2a139939d4072102a6c6e2bbbe93fa7b", "text": "token for wei according to course .", "title": "", "metadata": ""}
+{"_id": "fa3ac89c7f4356fd1bf9d8c293879f07", "text": "Handling the amount of contribution and cap logic .", "title": "", "metadata": ""}
+{"_id": "fa3ef3b09f453a969986469de221e62c", "text": "Update the symbol .", "title": "", "metadata": ""}
+{"_id": "5e5c9672510ed7e6da415f47fc00b423", "text": "Enable listing of all deeds ( alternative to ERC721Enumerable to avoid having to work with arrays ) .", "title": "", "metadata": ""}
+{"_id": "d9fae245aded4f3752f0d501f4166b97", "text": "Change the owner to _owner .", "title": "", "metadata": ""}
+{"_id": "000296803aa5808ddd999f57d561134a", "text": "Allows the owner to mint new tokens .", "title": "", "metadata": ""}
+{"_id": "2d50cc98e74d128d73f89ac453bd8f97", "text": "Set token address .", "title": "", "metadata": ""}
+{"_id": "e54a7a59c814fb65f873f31890406aec", "text": "An internal method that creates a new EtherDog and stores it .", "title": "", "metadata": ""}
+{"_id": "d11c6b3f1320f645ef88c7c565bff369", "text": "Function transfer all raised money to the founders wallet .", "title": "", "metadata": ""}
+{"_id": "4354e9f5d96257974ae5abb0fecd13c4", "text": "close who is champion bet with the champion id .", "title": "", "metadata": ""}
+{"_id": "00b7cf70eccc89a6f8bb558331cae06e", "text": "urgency situation .", "title": "", "metadata": ""}
+{"_id": "6e521a66088c30cd828203ae1adf984d", "text": "Admin fuction to add claimants .", "title": "", "metadata": ""}
+{"_id": "cc248f54d326a50c12bd226daeccb0b0", "text": "function betOnDozen / / bet type : dozen / / input : 0 for first dozen / / input : 1 for second dozen / / input : 2 for third dozen .", "title": "", "metadata": ""}
+{"_id": "87f780b6086986e6251340d387049b70", "text": "Ensure that the signature is valid , who is a certified , basic account , the gas price is sufficiently low and the value is sufficiently high .", "title": "", "metadata": ""}
+{"_id": "c214b9c99393b53f652b77f4347320e5", "text": "internal function , assuming repayment amount already transfered .", "title": "", "metadata": ""}
+{"_id": "a7e13918221e20748a47d50280870471", "text": "This function is overridden by the test Mocks .", "title": "", "metadata": ""}
+{"_id": "7b2bdd27233e12cc0f16b584a85e40c6", "text": "Get enemy combination .", "title": "", "metadata": ""}
+{"_id": "fbc387a12e837a387694556348c4a89d", "text": "Read player metadata for migration as contract owner .", "title": "", "metadata": ""}
+{"_id": "53597925fe02696c98ff1b03565dd75b", "text": "Determine the current halving number .", "title": "", "metadata": ""}
+{"_id": "3b2998db70388a5e626bc8b812918885", "text": "the crowdsale owner may withdraw any amount of ether from this contract at any time .", "title": "", "metadata": ""}
+{"_id": "2747aa6c324b018fb7c05f91fdaae16a", "text": "uint256 WSIC to warship structure .", "title": "", "metadata": ""}
+{"_id": "84fb9708251cd12fd6e08ff378d08f76", "text": "Only owner function to deliver tokens for ICO investors .", "title": "", "metadata": ""}
+{"_id": "0d780498c768d5d8cbf4143fa1019bf3", "text": "A method to signal a vote for a given _candidate .", "title": "", "metadata": ""}
+{"_id": "00ecc5460da5895292fa53824e21bf37", "text": "Get the amount of pending bets .", "title": "", "metadata": ""}
+{"_id": "590ac8f63edca736c8bbab71b6be8c52", "text": "Set address of smart contract to delegate execution of delegatable methods to .", "title": "", "metadata": ""}
+{"_id": "0d8e9eaea47e0f6289be295cfdf7ea6f", "text": "Add digix price feed .", "title": "", "metadata": ""}
+{"_id": "e24d80b47f81df40f79aaa4e28ee50c1", "text": "Transfer Estate from Previous Owner to New Owner .", "title": "", "metadata": ""}
+{"_id": "d30fac8d9b542f26c9b273376f48ac25", "text": "Internal utility function to finish pve battle , assumes that all battle finish requirements have been checked .", "title": "", "metadata": ""}
+{"_id": "669ca46ac5c51619b93aa5d88f39a1c8", "text": "get user balance of tokens on specific block .", "title": "", "metadata": ""}
+{"_id": "0a2382e1cbd4e07aa0e62ba0f0596514", "text": "Mint tokens for pre crowdsale putchases before crowdsale starts .", "title": "", "metadata": ""}
+{"_id": "a787dd3a152c87290052caa1e7893352", "text": "ERC20 transfer function , modified to only allow transfers once the sale has been finalized .", "title": "", "metadata": ""}
+{"_id": "2fed034cc42fe269db8c35f11c7e986a", "text": "rate baseRate * ( 100 + bonus ) / 100 .", "title": "", "metadata": ""}
+{"_id": "811a92464caf43e380f03c2132d6bafa", "text": "For the first 1 . 500 . 000 .", "title": "", "metadata": ""}
+{"_id": "7c7f399987f43ee0fb7bc41f499a54fe", "text": "Internal utility function to initiate pvp battle , assumes that all battle requirements have been checked .", "title": "", "metadata": ""}
+{"_id": "a7dc31bfee9d78e1d0306d36e03a526d", "text": "Can only be called once .", "title": "", "metadata": ""}
+{"_id": "c893ee0e55114cfe1ae0363d50d39c16", "text": "Accept a contribution if KYC passed .", "title": "", "metadata": ""}
+{"_id": "e4d9d38d68447df4bc4167500bf6de85", "text": "Changes the minimum amount needed to place a bet .", "title": "", "metadata": ""}
+{"_id": "32ee44da47c0e73b9cc616ede3a09d94", "text": "Retrieve a specific amount of tokens .", "title": "", "metadata": ""}
+{"_id": "8e74111cdaf19e6c18e1726b146f71df", "text": "Retrieving gifts by template .", "title": "", "metadata": ""}
+{"_id": "b8c53e75049a9c75cf44930d6dfd2e29", "text": "Must be called after crowdsale ends , to do some extra finalization ( forwarding / refunding ) work .", "title": "", "metadata": ""}
+{"_id": "12224c33f27daed623480fc46f34eefe", "text": "calculate tokens should be send to buyer by rate which is setted when deploying .", "title": "", "metadata": ""}
+{"_id": "12d14dfec1a49eddf0b4bdc90de1856a", "text": "Run distillation process .", "title": "", "metadata": ""}
+{"_id": "6451d490baf60cf94d76deb0751ec7eb", "text": "This function fortifies multiple previously claimed tiles in a single transaction .", "title": "", "metadata": ""}
+{"_id": "16c1d1875f6abd3af21025a2d62c037f", "text": "function for processing purchase in private sale .", "title": "", "metadata": ""}
+{"_id": "9266469594d1351c7e8b9954ebfc31f5", "text": "Transfer the balance from owner's account to another account only escrow can send token ( to send token private sale ) .", "title": "", "metadata": ""}
+{"_id": "5c4c767411a12e0035d74c9757d8c11e", "text": "Create a new poll .", "title": "", "metadata": ""}
+{"_id": "dbbc27fc9ca338cbfd25334cd7413233", "text": "Required state : is dstWalletLMNO set .", "title": "", "metadata": ""}
+{"_id": "05a8dc9c0df8c229490f8ed46849b6f7", "text": "Allow getting slots bankroll after 60 days only .", "title": "", "metadata": ""}
+{"_id": "237897a4e27fd3e2dd17c2a674ec7853", "text": "Takes ERC-20 tokens approved by user for using and gives him RMC tokens .", "title": "", "metadata": ""}
+{"_id": "7c0e946071694a2f258cf5121e5dd366", "text": "decide if and to whom the jackpot is released .", "title": "", "metadata": ""}
+{"_id": "4bcc66344270f10c0700612d32d90767", "text": "Returns profit for selling given number of outcome tokens .", "title": "", "metadata": ""}
+{"_id": "238e3b6d63727229a907075e45de9a51", "text": "Assign the asset share tokens to winner bid's authors .", "title": "", "metadata": ""}
+{"_id": "c414ef301b21272d10f4d9883182d2b3", "text": "get the available tokens .", "title": "", "metadata": ""}
+{"_id": "cdc6109976c83a946fbd9a2d777e4682", "text": "The available inventory of a product .", "title": "", "metadata": ""}
+{"_id": "c13dbf106d29816332ccd313a79145e7", "text": "Mint token function .", "title": "", "metadata": ""}
+{"_id": "5c1e080abd49d454dcade87f73420d5e", "text": "Allow reservation owner to close early or extend the reservation .", "title": "", "metadata": ""}
+{"_id": "023c69f5fbccf0cb11e81eb1bef05543", "text": "change lock period , only owner .", "title": "", "metadata": ""}
+{"_id": "330d58a7531edab2d9dd3429363fe0cf", "text": "Owner can send back collected ETH if soft cap is not reached or KYC is not passed .", "title": "", "metadata": ""}
+{"_id": "145148c48691480577f6f9f4c68dd6dc", "text": "Cancel auction .", "title": "", "metadata": ""}
+{"_id": "ed7773ce2ae13cd39351b430c3a10e26", "text": "Contract owner can seed the Jackpot , and get it back whenever Jackpot is paid .", "title": "", "metadata": ""}
+{"_id": "6f3651f61d3c06967c004a90a1aa41d0", "text": "Gets the sender's information .", "title": "", "metadata": ""}
+{"_id": "de2806abd522075fb10b934af3cf4015", "text": "impl tokenRecipient interface .", "title": "", "metadata": ""}
+{"_id": "62790f4fbb6fb857fbfe1cb895066364", "text": "backup withdraw , if somehow ETH gets in here .", "title": "", "metadata": ""}
+{"_id": "561aee99c25462207e64f69554ee68f8", "text": "setAdmin allows owner to change address of admin .", "title": "", "metadata": ""}
+{"_id": "f5cbe1471110a7669ccb591ba98784b4", "text": "NOTE : This is a purely internal method that * only * zeros out sellerListMapping and sellerToPrice .", "title": "", "metadata": ""}
+{"_id": "55c2db0437b6aea0723d50ef90dad263", "text": "Transfer LAND .", "title": "", "metadata": ""}
+{"_id": "61b21df7acf30749794835c6545007e8", "text": "Allow to finish loyalty part and start Presale part by owner .", "title": "", "metadata": ""}
+{"_id": "6e4871632a55dcb3e6cfc68e8c576da8", "text": "Housekeeping - called in the event this contract is no longer needed , after a LOT upgrade for example .", "title": "", "metadata": ""}
+{"_id": "004391c2e283d57c3cee51c409572cb8", "text": "Function to add new manager .", "title": "", "metadata": ""}
+{"_id": "71543ce2aedc6a71d0cd9d3b402cf78a", "text": "Stakes tokens from the caller for a particular user , and rewards that user with credits .", "title": "", "metadata": ""}
+{"_id": "121dd70cd85f5075704aff831ca114ad", "text": "Modifier to check whether the value can be stored in a 64 bit uint .", "title": "", "metadata": ""}
+{"_id": "63436d871560b61022273e9e7f37c481", "text": "Inits the bet data .", "title": "", "metadata": ""}
+{"_id": "ed91c55fc344c8378d4d2cd95e1f2f6e", "text": "Submit a order-ring for validation and settlement .", "title": "", "metadata": ""}
+{"_id": "4313e58ccc22209be641bfd1a6f93fc9", "text": "Default approval function .", "title": "", "metadata": ""}
+{"_id": "d716c1a5aad8379f23869b08ccbb8581", "text": "When MIN_CAP is not reach : 1 ) backer call the approve function of the Devvote token contract with the amount of all Devvotes they got in order to be refund 2 ) backer call the refund function of the DevvotePrefund contract with the same amount of Devvotes 3 ) backer call the withdrawPayments function of the DevvotePrefund contract to get a refund in ETH .", "title": "", "metadata": ""}
+{"_id": "0a97e1435a3b7bbe809b8adde0b35c80", "text": "x , y the X and Y coordinates of the curve point for the public key .", "title": "", "metadata": ""}
+{"_id": "9cacb579fc1bbbe91e8bb48067c57e04", "text": "Returns the current Cap .", "title": "", "metadata": ""}
+{"_id": "1a6184768d150b71c86c8735e424efb6", "text": "Set ICO Status .", "title": "", "metadata": ""}
+{"_id": "cf8591d00ecb990611f10a27afafc23e", "text": "Get the contract constant _symbol .", "title": "", "metadata": ""}
+{"_id": "f7fd336392533d2f3167ab6577ef97f0", "text": "setTokenAddress used to assign the token address into the variable only be called by founder and called only once .", "title": "", "metadata": ""}
+{"_id": "ba556e84cdec5276daa3db3e3cf7fa1f", "text": "Return the registered EOS public key for the passed address .", "title": "", "metadata": ""}
+{"_id": "67234d78743d1a4416d5ab2756016012", "text": "Funtion : Transfer tokens from other address .", "title": "", "metadata": ""}
+{"_id": "70a00c5b28b91ca103a0655cb5b278de", "text": "Facilitates batch approveAll .", "title": "", "metadata": ""}
+{"_id": "ee09005dc76acf5605b1de648202f516", "text": "Burns all remaining tokens in the owners account and sets license cost .", "title": "", "metadata": ""}
+{"_id": "c71e0ec03e7efa446240d0d92e1aeb6e", "text": "Create a new proposal .", "title": "", "metadata": ""}
+{"_id": "dfb2f46fb118b2c81558c9d5c433d07d", "text": "returns the number of matches on the contract .", "title": "", "metadata": ""}
+{"_id": "c8c6864cab8780f532da70a616c7bed8", "text": "Allows core team account FT tokens to be released .", "title": "", "metadata": ""}
+{"_id": "c4ddb2a7863452f0b9aa36d649a66af6", "text": "Calculate the offset of a given block .", "title": "", "metadata": ""}
+{"_id": "4a34bfce1db25b14fd0e9606a7be45e5", "text": "Sets the expiry time in milliseconds since 1970 .", "title": "", "metadata": ""}
+{"_id": "1a283545fd1c5ec9feacfbf1975c066d", "text": "Remove a contract address from the list of active contracts .", "title": "", "metadata": ""}
+{"_id": "0841ec15ef39806099d8a3cdf8623fba", "text": "Changes ownership of the product .", "title": "", "metadata": ""}
+{"_id": "0368152918ac58eea3ca33e8a29ef1cb", "text": "Function set new wallet address .", "title": "", "metadata": ""}
+{"_id": "e9ef1f6641d345dc527848936424bd1d", "text": "Failsafe if game needs to be removed .", "title": "", "metadata": ""}
+{"_id": "1543c75d2c15638f8737e07a34296dca", "text": "Gets the owner of the token .", "title": "", "metadata": ""}
+{"_id": "559fdb4a8e013fc540842f18e78d0cb9", "text": "isUserEntity - true if the entity was created with createUser ( ) , false if the entity is created using createVirtualEntity ( ) .", "title": "", "metadata": ""}
+{"_id": "3420c541ce8b11e0232afc0735fa2562", "text": "Function used to buy tokens .", "title": "", "metadata": ""}
+{"_id": "c762f73aff2a7be2e2159a3eef3509c8", "text": "Owner may set the standard sig to redirect to one of our pre-signed functions .", "title": "", "metadata": ""}
+{"_id": "07ab122924f5aa514ec7e73034426b60", "text": "get toc price .", "title": "", "metadata": ""}
+{"_id": "2cdcd7126a1a02e802560b6319a93fc9", "text": "Cancel order on the blackmarket to sell a certain quantity of coke at a certain price .", "title": "", "metadata": ""}
+{"_id": "5c214ab2f8a837cf8ba5ff34535122f3", "text": "Get total lottery amount .", "title": "", "metadata": ""}
+{"_id": "2805730a01c755d4219517fc06e6d346", "text": "functions Game related .", "title": "", "metadata": ""}
+{"_id": "7bf6b0c91a3ed215e48388e1f9646a17", "text": "Check if the contract relationship looks good .", "title": "", "metadata": ""}
+{"_id": "fedb33732df688dc4fa47c2ce91005b5", "text": "helper function so that UI can display amount ETH already contributed by user .", "title": "", "metadata": ""}
+{"_id": "12acbf68ccbd98afd3df17c06eab3367", "text": "Gets an address encoded as the first argument in transaction data .", "title": "", "metadata": ""}
+{"_id": "a8009436fb291511fdd64ad21adb39c4", "text": "Determine if Day-Index is a Holiday or not .", "title": "", "metadata": ""}
+{"_id": "b4dd3ec019aeb13323d2c2854c46089e", "text": "checks if the address already invested .", "title": "", "metadata": ""}
+{"_id": "8834e5d0a2cdc3357cf93918f989569e", "text": "current stage .", "title": "", "metadata": ""}
+{"_id": "b3990439ad48e55a5bc124d8b54be5ad", "text": "disallow authorized wallets to withdraw funds from the bonkroll to this address .", "title": "", "metadata": ""}
+{"_id": "25b3b09979de8a4035ab52752c096c18", "text": "show the timelock periods and locked values .", "title": "", "metadata": ""}
+{"_id": "f4b35c1c11004457c86ff7d56db1752c", "text": "Registry owner can use this function to withdraw any surplus value owned by the registry .", "title": "", "metadata": ""}
+{"_id": "048d2b6f03c02075581bdb52943cf354", "text": "Setup the whitelist .", "title": "", "metadata": ""}
+{"_id": "6d5c5294ad3f8bf9d2cad19d84427faa", "text": "Transfers ownership to new Ethereum address .", "title": "", "metadata": ""}
+{"_id": "fc41b29a2ba3d6e03c4dc92b08362558", "text": "Allows the current collector to transfer control of the contract to a newCollector .", "title": "", "metadata": ""}
+{"_id": "405f5a53756fffa1cd582bf14ecf5a35", "text": "This caps the reward amount to the minimum of ( reward , balance , dailyLimitRemaining ) .", "title": "", "metadata": ""}
+{"_id": "e361e37f92892bbdacab037fc943f68c", "text": "It is possible to hand over superOwner s authority .", "title": "", "metadata": ""}
+{"_id": "47097ea43f37187ffaf1ca73e47641c7", "text": "This function allows users to purchase Dragon Ball Z hero .", "title": "", "metadata": ""}
+{"_id": "c44d9716ae01150930629cba86fac618", "text": "The amount of bronze caps produced so far .", "title": "", "metadata": ""}
+{"_id": "8ebb2978c616bdc264841e14de6384f6", "text": "function used to update the balances map and the totalSupplyHistory .", "title": "", "metadata": ""}
+{"_id": "ea305b7222af75fa8a052b9e7eba7626", "text": "success If the set was completed successfully .", "title": "", "metadata": ""}
+{"_id": "0c5f8ea0dc80878abcab866c4f22f4e7", "text": "Setter for timePerPeriod .", "title": "", "metadata": ""}
+{"_id": "2d8e070e1f4b5b8f2251a9bf4dcf5764", "text": "Owner can allow a particular address ( a crowdsale contract ) to transfer tokens despite the lock up period .", "title": "", "metadata": ""}
+{"_id": "c359ceb60d6ce6bf1f2fec68cb09d705", "text": "Use this when you know you've lost as player 1 and you don't want to bother with revealing your move .", "title": "", "metadata": ""}
+{"_id": "5b517c633638bf3c04d3fd5365852a60", "text": "clean up game , set to inactive , refund any balances called by housekeep ONLY .", "title": "", "metadata": ""}
+{"_id": "0709173ef302395ac6cf7bab0d0ed0bf", "text": "Allows the owner to change the bonus of the current phase .", "title": "", "metadata": ""}
+{"_id": "aceeb5ae2c7d25ef262ce9cc4c6c4ac3", "text": "adds a new animal type to the game max .", "title": "", "metadata": ""}
+{"_id": "baf2c9a58e17e5d536e9bc260eb3916b", "text": "modifier to allow actions only when the contract IS not paused .", "title": "", "metadata": ""}
+{"_id": "f4830374d015aadaaf5d909a040eea68", "text": "directly mint tokens to a HTLC contract .", "title": "", "metadata": ""}
+{"_id": "8722fca9c78db464b6e9f4072359ea56", "text": "change wallet address .", "title": "", "metadata": ""}
+{"_id": "11e7a69e8c23535c18dd296f0a7c46e2", "text": "Gets the namespace for a provided address in the service locator .", "title": "", "metadata": ""}
+{"_id": "30a8dbf025a46f2b86eb739bf979ae13", "text": "Creates free token and transfer it to recipient .", "title": "", "metadata": ""}
+{"_id": "b05bff92cb4a7899b94f4df5bd12870b", "text": "functions only for owner .", "title": "", "metadata": ""}
+{"_id": "6e5c53b9c898892ab07b5e456176c954", "text": "ETH cannot get locked in this contract .", "title": "", "metadata": ""}
+{"_id": "d2721cfbdbe171ce622c9192156e68bd", "text": "efficiently calling claimAllForInvestor ( msg . sender ) .", "title": "", "metadata": ""}
+{"_id": "e1c4c6f161a8dfe7e27b78efde007953", "text": "This function will return only the price of a specific team .", "title": "", "metadata": ""}
+{"_id": "e3b3b75d8473a119e4ee605b35762d20", "text": "change next steal time .", "title": "", "metadata": ""}
+{"_id": "4b7fa9901986a38732ff70e3f84c4052", "text": "Returnes registration date of holder .", "title": "", "metadata": ""}
+{"_id": "01eb05052add041d0549b5472438bdd2", "text": "Updates the reward rate .", "title": "", "metadata": ""}
+{"_id": "9a285ce2a94fb3cbc78f5b113d1cca3e", "text": "Owner Creation / Activation .", "title": "", "metadata": ""}
+{"_id": "d5a1dabc0c5705252c9ea1c6020800e3", "text": "Creates a new round , and sets the secret ( hashed ) salt and proof of N .", "title": "", "metadata": ""}
+{"_id": "cde4b4f0d7187766f9235c3b59925e9d", "text": "_softCap : 3333000000 3333 ether ; .", "title": "", "metadata": ""}
+{"_id": "bf66229ebd01f52cd91e27c87bff4fac", "text": "Withdraws tokens other than DGZ to beneficiary .", "title": "", "metadata": ""}
+{"_id": "6a0fd31014df30edd4c264b7452104a2", "text": "Sets a block not for sale .", "title": "", "metadata": ""}
+{"_id": "188adbc4a349196a0eb02c49eb3ad1a5", "text": "claim the tokens owed for the msg . sender .", "title": "", "metadata": ""}
+{"_id": "0204ede8d070c9b94d971f423b7ffd2f", "text": "Returns all the relevant information about a specific GameItem .", "title": "", "metadata": ""}
+{"_id": "10155405e875abeccd4083dc9300aa2a", "text": "Allows users to claim segments every 1000 UNITS ( blocks ) .", "title": "", "metadata": ""}
+{"_id": "565ca8ebc4341bfd46182dd2ae1e7d9e", "text": "Token Exchange .", "title": "", "metadata": ""}
+{"_id": "ba8ff70c7df959777902d5daac6ecb20", "text": "Facilitates sale of presale tokens .", "title": "", "metadata": ""}
+{"_id": "63978cfc51fe756b33a8662a3da0726e", "text": "Prevent targets from sending or receiving tokens .", "title": "", "metadata": ""}
+{"_id": "9b65cd0e5da971090169d3c5d2cae296", "text": "remove a address from pools .", "title": "", "metadata": ""}
+{"_id": "0b4e64e12f781c4e8daee89980f50861", "text": "find out what the end date of the customers term deposit is .", "title": "", "metadata": ""}
+{"_id": "3319d19656219eb24b0960367a803277", "text": "add CZR lock .", "title": "", "metadata": ""}
+{"_id": "3f948a27e913a9b5baeea5f7e88b0d44", "text": "Transfer data layer authority .", "title": "", "metadata": ""}
+{"_id": "d6dbd833f4832ad2480828857b578a0c", "text": "resolves a challenge for the provided _propID .", "title": "", "metadata": ""}
+{"_id": "c542b4f7d10823314f67a0ed40eb6f1d", "text": "Decreases approved amount of tokens for spender .", "title": "", "metadata": ""}
+{"_id": "1a8fd1277036311a2637b039701ac527", "text": "Whitelists a list of addresses .", "title": "", "metadata": ""}
+{"_id": "2ea235c710563d5916f77d3b33a9c6a2", "text": "The function called only from shiftsale .", "title": "", "metadata": ""}
+{"_id": "804faa53ce4bba859d9a5628a4098ac5", "text": "Extend OpenZeppelin's StandardToken transferFrom function to store snapshot .", "title": "", "metadata": ""}
+{"_id": "e3ba4b9e6f8cb3079ada9f9e34bd3483", "text": "it will check amount of token delegated to spender by owner .", "title": "", "metadata": ""}
+{"_id": "7ad23bd2413602d36d658abda85bd5f9", "text": "adding intervals .", "title": "", "metadata": ""}
+{"_id": "610d0195ee667a43aeff2893761cb055", "text": "Withdraw tokens only after crowdsale ends and crowdsale is finalized .", "title": "", "metadata": ""}
+{"_id": "28a0ce5365129552e48cc8ef12cf5f6f", "text": "returns balance of tokens of Owner .", "title": "", "metadata": ""}
+{"_id": "cb6615d3f7417b7ea97447c443f27127", "text": "function to update Token address .", "title": "", "metadata": ""}
+{"_id": "db40f8ff727df183fb7963cb40e09722", "text": "Update a board status with a losing color .", "title": "", "metadata": ""}
+{"_id": "75e573318560e0fb7a5fc2ac30cea2a1", "text": "true if event has ended .", "title": "", "metadata": ""}
+{"_id": "0309d797456039df43231796cd850e06", "text": "check whether the burner is eligible burner .", "title": "", "metadata": ""}
+{"_id": "3913a409e092838c215e11da2c3c1901", "text": "Multisig msg . value .", "title": "", "metadata": ""}
+{"_id": "06b824078d0da120955d537b321b3c92", "text": "recycle throws away the potatoes of a user that rotted away .", "title": "", "metadata": ""}
+{"_id": "800cd56461e4d088fe47ad84002b25f7", "text": "The renewal interval of a product in seconds .", "title": "", "metadata": ""}
+{"_id": "81aa0110073823430bce596e2bef64d1", "text": "Any wallet owed value that's recorded under addressToFailedOldOwnerTransferAmount can use this function to withdraw that value .", "title": "", "metadata": ""}
+{"_id": "5faab84a03fcbc768c22e82cb58bf0ec", "text": "calculates winnings for the given bet and percent .", "title": "", "metadata": ""}
+{"_id": "2c5485bf9a59f88f725451741e4641d5", "text": "Owner and Admin can change the admin address .", "title": "", "metadata": ""}
+{"_id": "187d58b2876e0c923867e04e50c561b0", "text": "Simulate the creation of a leaderboard hash .", "title": "", "metadata": ""}
+{"_id": "aef5e14ac6977b5e1954f977206ee3b6", "text": "setter methods , only for the unlocked state .", "title": "", "metadata": ""}
+{"_id": "2e40999f27ed3b88ba0c5a153c112912", "text": "add content to the agreement .", "title": "", "metadata": ""}
+{"_id": "d2b28a1ec1b6cecd5c76e99e2030f0ef", "text": "Updates rate for the round .", "title": "", "metadata": ""}
+{"_id": "a1bb3fbc0c46282fd19c25b733d6f2d0", "text": "Markers can add productAccount , sha3 ( itemPublicKey ) .", "title": "", "metadata": ""}
+{"_id": "91142d54a48636323168c718053944a8", "text": "End the auction and send the highest bid to the owner .", "title": "", "metadata": ""}
+{"_id": "937b0ba319ff43498f6a2323ae6b8f67", "text": "Gets an owner by 0-indexed position .", "title": "", "metadata": ""}
+{"_id": "f56565f15f7817ccc476d40886704aa2", "text": "Sets the initial date and token .", "title": "", "metadata": ""}
+{"_id": "2b904b5277bede20f34b36dc695b7a15", "text": "Returns the ticket price for the bet .", "title": "", "metadata": ""}
+{"_id": "d46245ca03e85e2d4cbc638a831199b8", "text": "Called when tokens are bought in token sale .", "title": "", "metadata": ""}
+{"_id": "bdb1bb1e881e5cac4bf07da1b65187dd", "text": "Enable transfers , burn unsold tokens set tokenOfferingAddress to 0 .", "title": "", "metadata": ""}
+{"_id": "b47373febaa8cf710d3e697f8cf7c798", "text": "PlaceBet using Access Code , and Mode parameter .", "title": "", "metadata": ""}
+{"_id": "61b115a88ba058a07a240ca0c62f5f20", "text": "Computes transcoder status .", "title": "", "metadata": ""}
+{"_id": "da16c77543f974a0bcbfce584168b597", "text": "Fills a buy order wtih a sell order .", "title": "", "metadata": ""}
+{"_id": "392e27ad077c97af11c0890fc8a7170f", "text": "Allows anyone to transfer the Reporter tokens once trading has started .", "title": "", "metadata": ""}
+{"_id": "e7e0ac3e50dbb7b1a0d17bbb5a1c3853", "text": "Return address available allocation .", "title": "", "metadata": ""}
+{"_id": "66885c3b132a0a8a3993531a70f8a98e", "text": "transfer and lock this value only called by admins ( limit when setLock ) .", "title": "", "metadata": ""}
+{"_id": "78e901aa02fe672521ea83a468d5f47a", "text": "Transfer the ether to the beneficiaryAddress .", "title": "", "metadata": ""}
+{"_id": "92ba66b48c8769292d372dee6d47a796", "text": "_founder The address of library founder .", "title": "", "metadata": ""}
+{"_id": "d0030c80f2ee1049de4f1372af260be1", "text": "Allows users to delete their accounts .", "title": "", "metadata": ""}
+{"_id": "c10a2884fbb2d2625646340304c67cdb", "text": "Allows buyers to claim the tokens they've purchased .", "title": "", "metadata": ""}
+{"_id": "9a1e880b5c1289d590a9e710e4521d51", "text": "Transfer tokens from the caller to a new holder .", "title": "", "metadata": ""}
+{"_id": "bef45d91419b6f205f16f69942ef777c", "text": "Ensures the sale has been configured , and that the sale has not finished .", "title": "", "metadata": ""}
+{"_id": "50d4a59d48102e267a0c2bb16a7b74f3", "text": "Get the total amount of Ether needed to successfully purchase this item .", "title": "", "metadata": ""}
+{"_id": "934573d9319d9676d64b3bbd8c77ea92", "text": "Calculates and returns the bonus of the current ICO stage .", "title": "", "metadata": ""}
+{"_id": "1273a7b452a5ee885a5c85a514612752", "text": "Finish crowdsale , stop minting forever .", "title": "", "metadata": ""}
+{"_id": "fc63122277e772e78576366aa1c25af1", "text": "Function to participate in the airdrop .", "title": "", "metadata": ""}
+{"_id": "7e1e1f996a98c13824147a45e28ab822", "text": "ELHT token info returned based on Token ID transfered ( 64 at most ) .", "title": "", "metadata": ""}
+{"_id": "a606ce3cc1730f382f3cf21e9ad0eee1", "text": "Contract owner authorizes redemptions in units of 1 / 1000 ETH .", "title": "", "metadata": ""}
+{"_id": "ddab39ae3d12bfe9df5ba3f022701cfe", "text": "Allows the owner to move ether , for example to an updated contract .", "title": "", "metadata": ""}
+{"_id": "c80423bd249da7b4360b690e82b902a9", "text": "_oracleContract : Address of the Oracle contract , must implement OracleInterface .", "title": "", "metadata": ""}
+{"_id": "d02c0354ddfbf72c1cd7ccd681b4e0d2", "text": "Makes an offer to trade msg . value .", "title": "", "metadata": ""}
+{"_id": "75b8b340e951091362768708a9e271b9", "text": "balanceOfOnForHolder ; balanceOfOn .", "title": "", "metadata": ""}
+{"_id": "32d5b0591d3584ca95ae56319a8ad8d0", "text": "Checking results of the fundraiser in USD .", "title": "", "metadata": ""}
+{"_id": "95021a89c272b172839c32eb0b05be62", "text": "track balances of any rewards going out of the token pool .", "title": "", "metadata": ""}
+{"_id": "09daeb0d5ef7233fcf532d372348811e", "text": "Collect service / affiliate fee for a buy .", "title": "", "metadata": ""}
+{"_id": "29f0431ad77ea7dd8e767fd958247559", "text": "Internal function to check if transferring a specific token is allowed .", "title": "", "metadata": ""}
+{"_id": "1b11695ffe53860a51d97e56e539ee16", "text": "overriding MintableToken transferFrom to add kyc logic .", "title": "", "metadata": ""}
+{"_id": "3a3fa3eddbf0c1f82f0d433e61be76f0", "text": "Change the address for the specified role .", "title": "", "metadata": ""}
+{"_id": "79f05cbbf7ceb5b0d5afb1ab11072fc7", "text": "Withdraw contract ZRX in case new version is deployed .", "title": "", "metadata": ""}
+{"_id": "d4c5028df8b5baad0fcd30ce97ca48c4", "text": "Modifier to only allow transfers after the minting has been done .", "title": "", "metadata": ""}
+{"_id": "20754759525efc10242597cf6d0c59fb", "text": "Function to refund funds if softcap is not reached and sale period is over .", "title": "", "metadata": ""}
+{"_id": "aaccf3565a099905bb5c897e31741507", "text": "Returns true if contribution period is currently running .", "title": "", "metadata": ""}
+{"_id": "4845fddd22ec016f02ff2e66d3b32ef7", "text": "Internal function to manage ICO status when tokens are sold out .", "title": "", "metadata": ""}
+{"_id": "d8685f9b1cf6733fcfcebbf536135833", "text": "Allows the owner to add addresse that can burn tokens .", "title": "", "metadata": ""}
+{"_id": "b5e866234c9d4869f4ae34e6c389b5a8", "text": "Allow a wallet to claim ownership of an account .", "title": "", "metadata": ""}
+{"_id": "015d1223ef31b9b4106ac1afd3dd2884", "text": "Buy a collectible .", "title": "", "metadata": ""}
+{"_id": "ec32ce71a4186aa9ff1c43698874233f", "text": "returns next minimal bid or final bid on auctions that already end .", "title": "", "metadata": ""}
+{"_id": "6e34abea0e8522261e0da267e768a891", "text": "we can create promo narco , up to a limit .", "title": "", "metadata": ""}
+{"_id": "bed9b83cc4be400caffc8271a02c6d1c", "text": "Change basic ICO paraneters .", "title": "", "metadata": ""}
+{"_id": "47fa66f43a5bd41683f1f0cb66fe2096", "text": "Only the override address is allowed to change the override address .", "title": "", "metadata": ""}
+{"_id": "61b6f7fdaf2b3e64a48dda78b23e179a", "text": "approves many token ids .", "title": "", "metadata": ""}
+{"_id": "03c2b3044329e8823551fcd57342c22f", "text": "Buy DOL from VAULT by sending ETH .", "title": "", "metadata": ""}
+{"_id": "46683ed4c07af31fb38bc322ef2d0af3", "text": "When the crowdsale is finished , we send the remaining tokens back to the wallet .", "title": "", "metadata": ""}
+{"_id": "deaddd1daa6e956a7ff9d9d52a7a1730", "text": "Initiates a poll with canonical configured parameters at pollID emitted by PollCreated event .", "title": "", "metadata": ""}
+{"_id": "b83d1b5a229f59dbd0339670e165fa44", "text": "set individual stage2Crowd cap .", "title": "", "metadata": ""}
+{"_id": "59fa42d3629c73b3ddccc4d90ce37ef3", "text": "for quick overview of possible sellerBalances to calculate the possible withdraw tokens .", "title": "", "metadata": ""}
+{"_id": "b40a817dfa07abdeb15c56e0f6d130af", "text": "Get pricefeed specific information .", "title": "", "metadata": ""}
+{"_id": "e1df59351d3fc795229c0024a875de34", "text": "Set security check report URI .", "title": "", "metadata": ""}
+{"_id": "d57f71563933c16cdbd0a1474f154cdc", "text": "Returns amount of tokens that can be bought with given weiAmount .", "title": "", "metadata": ""}
+{"_id": "e82ac8ef5afc6a1f77408705893d3bbb", "text": "Sets sale status of an account .", "title": "", "metadata": ""}
+{"_id": "df43c57153a054233e3b881220b39331", "text": "this method is used to calculate Developer's Cut in the game .", "title": "", "metadata": ""}
+{"_id": "f01fa67d9bdcc75edbdd800e3c2d434b", "text": "Addition to StandardToken methods .", "title": "", "metadata": ""}
+{"_id": "060cb7399f9666fd12f6e3e73a047a4a", "text": "Throws if called by any account other than the authorized .", "title": "", "metadata": ""}
+{"_id": "a02513b026c208730f4a6ec31876638f", "text": "Sets the deposit gas cost .", "title": "", "metadata": ""}
+{"_id": "492210fae9a3f9748f425bf213b3e264", "text": "Send _value tokens to _to from msg . sender .", "title": "", "metadata": ""}
+{"_id": "bd5c36a0af3583151ee1d90745629e15", "text": "ERC20 functions .", "title": "", "metadata": ""}
+{"_id": "94c953f345029a9c79ff901c9b02d819", "text": "Disable token transfers .", "title": "", "metadata": ""}
+{"_id": "36ef199b3d7fe19966fc2db073d4e232", "text": "Transfer limited by the tradingOpen modifier ( either sale closed or 24 Dec 2017 passed ) .", "title": "", "metadata": ""}
+{"_id": "d0518be30e33798ab30acb18d095ffb0", "text": "modifier to allow actions only when the funds ARE NOT locked .", "title": "", "metadata": ""}
+{"_id": "236b18148c2b0288853785b7dcbecad2", "text": "Internal function for handling eth refunds during stage three .", "title": "", "metadata": ""}
+{"_id": "77a41e15d6c203a16448e584fdf44ada", "text": "AnimatedProject : Send Bonus To Contract .", "title": "", "metadata": ""}
+{"_id": "c2f6d1e7b2f70eefc4774064cce888bb", "text": "calculate token amont .", "title": "", "metadata": ""}
+{"_id": "107adf03427ec5b6e6b8126d4b0e8ee6", "text": "Withdraw ETH from the contract .", "title": "", "metadata": ""}
+{"_id": "0552fdcc64d1c446377659c36dba2d94", "text": "public update .", "title": "", "metadata": ""}
+{"_id": "eb3d5f00c08637796449de557a201598", "text": "override token purchase to send additional token for registered address .", "title": "", "metadata": ""}
+{"_id": "ef86429eaa75533bf53c275d72789dfa", "text": "return total amount of tokens uint256 public totalSupply ; .", "title": "", "metadata": ""}
+{"_id": "7555fb40cd6c0e21c2e1781c74599ed8", "text": "Developer status .", "title": "", "metadata": ""}
+{"_id": "8fe33056d8d96a7e53a83c04a5778c2b", "text": "allow any user to set rabbit data , with a signed message from coo .", "title": "", "metadata": ""}
+{"_id": "297e4df4df9aa31203d04eaf7b35da86", "text": "Deposits tokens in game to some user .", "title": "", "metadata": ""}
+{"_id": "200ff0e0ac2c2fe0855f9ae8023a9f17", "text": "This is invoked once for every pre-ICO address , set pricePerToken to 0 to disable .", "title": "", "metadata": ""}
+{"_id": "7bf942f829b88fb4d122461ba10114a0", "text": "If last update happened more than one day ago , update the price , save the time of current price update .", "title": "", "metadata": ""}
+{"_id": "328c0a600cc96cdfd358ff82fcbf431f", "text": "multi freeze account .", "title": "", "metadata": ""}
+{"_id": "83fac057c0928b014e5256fca11bfa21", "text": "Updates the payout for the burritos the owner has .", "title": "", "metadata": ""}
+{"_id": "595e6099bafc4f8bc4c8a9af58434321", "text": "Admin function : withdraw PLAT balance .", "title": "", "metadata": ""}
+{"_id": "8766a55afa26efb80f27ea43ffea6833", "text": "Check if all contributor's token are successfully distributed .", "title": "", "metadata": ""}
+{"_id": "3805d2594a92f876e9fb8e782590090a", "text": "All the contributors .", "title": "", "metadata": ""}
+{"_id": "f97cb4baa19837992c58b0652fc64e9f", "text": "Get the currently authorized that can be withdrawn by account _spender from account _owner .", "title": "", "metadata": ""}
+{"_id": "0c96177575b5ddac355ced0cf49f0795", "text": "Makes amount of tokens returnable for user .", "title": "", "metadata": ""}
+{"_id": "0c9c77e16da2d0742b66f0858ea6982a", "text": "Starts the auction .", "title": "", "metadata": ""}
+{"_id": "80cd90557474f39f16f4394be2cf1bdd", "text": "Reenabling after the freeze since was initiated .", "title": "", "metadata": ""}
+{"_id": "c09ad2406e885e03ed865244090a04b8", "text": "Finalizing the Token Generation Event .", "title": "", "metadata": ""}
+{"_id": "92016f8e09e57247bd2277aba7574b8a", "text": "calculates points for round of sixteen , quarter-finals and semifinals .", "title": "", "metadata": ""}
+{"_id": "ecde32088bd30dd9631d395ff568a3ea", "text": "Transfer all Ether held by the contract to the address specified by owner .", "title": "", "metadata": ""}
+{"_id": "1da416795e8f1647a4f117a670c7d144", "text": "Function to set default vesting schedule parameters .", "title": "", "metadata": ""}
+{"_id": "a628a602914b6cac750d5be10d566e2f", "text": "If there is ETH rewards and all ETH already withdrawn but contract needs to pay for transfering transactions .", "title": "", "metadata": ""}
+{"_id": "3c0edb6102846f926b44fe51cd98ea40", "text": "Burn function - name indicating the burn of ALL owner's tokens .", "title": "", "metadata": ""}
+{"_id": "b6e912822983343446f91ffad074e7bb", "text": "Utility Functions .", "title": "", "metadata": ""}
+{"_id": "070eaa7282f07cc02bb19032df6ad5f5", "text": "Returns false if amount would buy more fuel than we can sell today .", "title": "", "metadata": ""}
+{"_id": "ddb6e5798faa157a28687b22fd8ac9fa", "text": "Get the number of total tweets for a specific round .", "title": "", "metadata": ""}
+{"_id": "6f32184c71c22f42e6ddec0189687345", "text": "set allowances for other addresses .", "title": "", "metadata": ""}
+{"_id": "1ec1b5d08fbcf45e49fc7d35d621812f", "text": "what is the total supply of the xlmgold tokens .", "title": "", "metadata": ""}
+{"_id": "dc479d429636c6929c0df24202f28b38", "text": "Time utility function .", "title": "", "metadata": ""}
+{"_id": "abc3a89063c5570c63f03d3b99275c9e", "text": "Withdraws DGZ tokens to beneficiary .", "title": "", "metadata": ""}
+{"_id": "0de1e1c7d1a7aea8c4ede99bc3358749", "text": "Return the result of adding x and y , throwing an exception in case of overflow .", "title": "", "metadata": ""}
+{"_id": "3690cff75010477a6d98e130b2c4c494", "text": "This owner allocate token for private sale .", "title": "", "metadata": ""}
+{"_id": "0f4e774f540d81e1627a5ebd4440b365", "text": "Preallocate a liquid portion of tokens .", "title": "", "metadata": ""}
+{"_id": "4d8995e4af0c4e88aa7804017fd4fee8", "text": "Returns the total number of Zodiacs currently in existence .", "title": "", "metadata": ""}
+{"_id": "cc8fb7a724aa376e24dccb7063abb6b5", "text": "Contract Construtor .", "title": "", "metadata": ""}
+{"_id": "859a7bd037dc0c2002c9285662b5841b", "text": "Used in transport , challenge and train , to get the genes of a specific hero , a claim a hero if didn't have any .", "title": "", "metadata": ""}
+{"_id": "fa58874a7201f67843a8ef63afcfa195", "text": "Set an transform agent that handles .", "title": "", "metadata": ""}
+{"_id": "143c5da8c679d335bc7fea589eacef69", "text": "withdraw all ether .", "title": "", "metadata": ""}
+{"_id": "eb6ac6c237599cd3dace8091b789e737", "text": "Mint Kin tokens .", "title": "", "metadata": ""}
+{"_id": "1c5d8cd62d232bfbcc72af4bab29fbc3", "text": "execute periodic subscription payment .", "title": "", "metadata": ""}
+{"_id": "c56d69919d861092fa2866e3afe3c711", "text": "Can be called by users and token holders to check if Trump is still president .", "title": "", "metadata": ""}
+{"_id": "f9320a4b1b3432294f90e6294e8318b3", "text": "Throws if called by any account other than the burnable account .", "title": "", "metadata": ""}
+{"_id": "988bb98b9f13019eaf0c9dc9bfb60f26", "text": "Checks whether early purchase is amended .", "title": "", "metadata": ""}
+{"_id": "fc757c5de4b8c0f3cfc4c6534e73efd1", "text": "Markes the document with the passed id as visible .", "title": "", "metadata": ""}
+{"_id": "b5a841ad1aa96bdea261610084155045", "text": "Function that returns the current round .", "title": "", "metadata": ""}
+{"_id": "7b72dce50170cad71724efce550f0c67", "text": "Updates a listingHash's status from 'application' to 'listing' or resolves a challenge if one exists .", "title": "", "metadata": ""}
+{"_id": "2706a8732bd6e68f5a2010fc87dbf497", "text": "Refund poll .", "title": "", "metadata": ""}
+{"_id": "3243150cc7a5878984de5ec9507da68f", "text": "Minting Function .", "title": "", "metadata": ""}
+{"_id": "5edcc5f41b28e42f3438dc4e0f5fbd3d", "text": "Transfer tokens from one address to another checking if they are dividends to pay .", "title": "", "metadata": ""}
+{"_id": "cc2fe068da55e878c26e83cce5b66ca9", "text": "Refund investment to the investor .", "title": "", "metadata": ""}
+{"_id": "361e0e2680004efee6fe82f1c267ad30", "text": "sets the KYC contribution cap for one address .", "title": "", "metadata": ""}
+{"_id": "d9dc37e741d77bcf943da119fecee220", "text": "return the current exchange rate - LNC per Ether .", "title": "", "metadata": ""}
+{"_id": "fd5d2db0f7b2afe755c849bcdea9e1a3", "text": "Allows for updating the minimum contribution required to participate .", "title": "", "metadata": ""}
+{"_id": "1584e41b02a357a594f65edf5b4a3dd6", "text": "Manual send tokens for specified address .", "title": "", "metadata": ""}
+{"_id": "70fba81a9ed5a2e5d2f0110ffbbcc181", "text": "how many voters have voted for a given proposal ? .", "title": "", "metadata": ""}
+{"_id": "d925f4733a94087b12448cc17b62ae57", "text": "Adds user address to participants .", "title": "", "metadata": ""}
+{"_id": "00444f05ed372b16caf04e45b28e49e7", "text": "Deauthorize an issuer .", "title": "", "metadata": ""}
+{"_id": "0a3d9e3f079824315feb6b58ad787c5a", "text": "Calculate the amount of non vested tokens at a specific time .", "title": "", "metadata": ""}
+{"_id": "f9ada2c7be93c21322ea568b7a485768", "text": "Setup array with vesting stages dates and percents .", "title": "", "metadata": ""}
+{"_id": "627a3496093a902435a3ee28bf918c35", "text": "Notice of purchase of tokens by sending ether .", "title": "", "metadata": ""}
+{"_id": "4e91cc7af1d057f7db6de80a0ae6255a", "text": "return number of contributors for all campaigns .", "title": "", "metadata": ""}
+{"_id": "bac54dcdbd064209f03eedaf519ad9ef", "text": "Function for selling tokens in crowd time .", "title": "", "metadata": ""}
+{"_id": "d082d1529deffb0d6af2ddca592cc327", "text": "Check if address is a valid destination to transfer tokens to - must not be zero address - must not be the token address .", "title": "", "metadata": ""}
+{"_id": "3e08b61dd21147080bfd322f99729d1a", "text": "Add an address that can administer the token even when paused .", "title": "", "metadata": ""}
+{"_id": "416da45d72514b300dee270a2c670031", "text": "Also accept address and bytes32 types , so the user doesn't have to cast .", "title": "", "metadata": ""}
+{"_id": "69d73f3ac6f16745d338a73242979d1e", "text": "Add fee ( private ) .", "title": "", "metadata": ""}
+{"_id": "c87bb6549f18dd596fe5b144b0a56f4b", "text": "Re-entry protection .", "title": "", "metadata": ""}
+{"_id": "b0fdf0a143aab32a5eef10c6b28eb9da", "text": "filter buyers in list buyers .", "title": "", "metadata": ""}
+{"_id": "4fd1b9f8596eb865338d8c4812c8e874", "text": "modifiers are inherited , check owned pattern http : / / solidity . readthedocs . io / en / develop / contracts . html function-modifiers .", "title": "", "metadata": ""}
+{"_id": "2d12a2d13bf26ef9db8bad4df6ef4e96", "text": "Set paused to false .", "title": "", "metadata": ""}
+{"_id": "04d3c77dca1baf0ed092afd7f834e133", "text": "Tokens are first not released .", "title": "", "metadata": ""}
+{"_id": "9f162c6eed6660c394447dc755205d9a", "text": "check how many ACE Equity Tokens a spender is allowed to spend from an owner .", "title": "", "metadata": ""}
+{"_id": "6469e24f4731a00ccbfdab4dcc19c001", "text": "after we distribute the bonus tokens , we will send them back to the coin itself .", "title": "", "metadata": ""}
+{"_id": "46ceb702e78c3d8ae1cc3613b5ff2569", "text": "the balance of the given account .", "title": "", "metadata": ""}
+{"_id": "38ad478e98af77a8bff574c5db9a6124", "text": "Claims the ownership of a given unicorn ID .", "title": "", "metadata": ""}
+{"_id": "55a93471f7370d18a489903d8fbc207a", "text": "For during both paused and non-paused redemption .", "title": "", "metadata": ""}
+{"_id": "29cf16bcc340f48b10d7f3e1848d36a6", "text": "function grantAdvisorToken - Transfer advisor tokens to advisor wallet .", "title": "", "metadata": ""}
+{"_id": "5ec0daf4360d71ecec567c1c9efd0ab0", "text": "Allows the owner to transfer ERC20 tokens to the multi sig vault .", "title": "", "metadata": ""}
+{"_id": "c5eddbadb74c0fb618b3794b1dc86eef", "text": "Function to approve the transfer of the tokens and to call another contract in one step .", "title": "", "metadata": ""}
+{"_id": "6b1813627812d06149246cc4fababf7b", "text": "Transfer ownership of other contract whoes owner is this to other address .", "title": "", "metadata": ""}
+{"_id": "5037eaeb4d8d6e99da4c26efe7960fde", "text": "Gets a list of token IDs owned by the requested address .", "title": "", "metadata": ""}
+{"_id": "d97937a2c50ed9d984632d9b95d36032", "text": "endCrowdsale ( ) and endCrowdsalePublic ( ) moved to Steak contract .", "title": "", "metadata": ""}
+{"_id": "3838e24a3940f9ed8cc34e2a3f243a0f", "text": "Calculate amount of token based on wei amount .", "title": "", "metadata": ""}
+{"_id": "a6c7af4b80ba5db46d5c9dd41530e637", "text": "This function allows the token owner to rename the token after the operations have been completed and then point the audience to use the token contract .", "title": "", "metadata": ""}
+{"_id": "a2ccb4ab6bf7e918df09121495415a11", "text": "Buy option tokens .", "title": "", "metadata": ""}
+{"_id": "fbd929da479894f255d69457af5e3092", "text": "Calculates unclaimed fees of the fund manager .", "title": "", "metadata": ""}
+{"_id": "75ff1ff7f39303af2fbd735d1c41ba17", "text": "Trading limited - requires 3 weeks to have passed since the sale closed .", "title": "", "metadata": ""}
+{"_id": "1ba24a4b7f0631db703c153cf5623bfd", "text": "Function to purchase a soldier .", "title": "", "metadata": ""}
+{"_id": "fabcd5d9f7751c244ca32441bd504bcd", "text": "Function to add a minter in the list of minters .", "title": "", "metadata": ""}
+{"_id": "996bc56518368f0ceba2feda78119186", "text": "Start the distribution phase in the contract so owners can claim their tokens .", "title": "", "metadata": ""}
+{"_id": "efc848585a1246f00bac078f99352201", "text": "Internal function to remove a deed ID from the list of a given address .", "title": "", "metadata": ""}
+{"_id": "879ebe90a23e4e8464b0c3c03eb61270", "text": "Return share balance of sender .", "title": "", "metadata": ""}
+{"_id": "b2a42dfe84bb2742591bf1f0ea4641d7", "text": "Submit the properties of a bid to reveal them .", "title": "", "metadata": ""}
+{"_id": "994b94efbc185671ad2279736502a209", "text": "Allows the contract owner to add a new Sale wallet , used to hold funds safely .", "title": "", "metadata": ""}
+{"_id": "49401c1db728743884e788e090f984a3", "text": "modifier to ensure only the Contractor can execute .", "title": "", "metadata": ""}
+{"_id": "8c8587bb942782ed46061d6019924047", "text": "Moves locked tokens to team account .", "title": "", "metadata": ""}
+{"_id": "bb2144a4696087f47179927f132a0f0e", "text": "Adjusting the hasEnded function to a case where all tokens were sold .", "title": "", "metadata": ""}
+{"_id": "434a7f47cb424583bad148dbf468a62d", "text": "name function returns the name of the token .", "title": "", "metadata": ""}
+{"_id": "a6d43eb9d01d12461cdbdf26031e330f", "text": "Setting the current rate ETH / USD .", "title": "", "metadata": ""}
+{"_id": "3ea68ab835bab0791f16c303c627e666", "text": "SafeMath divide function .", "title": "", "metadata": ""}
+{"_id": "0a963d05bd9cf0928ec98859109dde9d", "text": "Airdrop tokens .", "title": "", "metadata": ""}
+{"_id": "3e5bd48e143842b65d391a0185cf83df", "text": "Refund ether to the investors ( invoke from only token ) .", "title": "", "metadata": ""}
+{"_id": "bfe71f23c3721145537eeb52db99b3d8", "text": "batch transfer for ETH . ( the .", "title": "", "metadata": ""}
+{"_id": "38159f191f58283fde7bcc65dc6d04c3", "text": "Owner can propose an address change for owner .", "title": "", "metadata": ""}
+{"_id": "520a179278ac062a911909020ecc3c3f", "text": "Interface declaration .", "title": "", "metadata": ""}
+{"_id": "cb10443f35f11f822aeacb9458a5f530", "text": "Cancel Reserved Tokens .", "title": "", "metadata": ""}
+{"_id": "f58ccf3851f8ebf4f8c06083e8013cab", "text": "functions below this line are onlyOwner .", "title": "", "metadata": ""}
+{"_id": "8a4971c0fdcff2d20b63c0e9c00ea25b", "text": "Transfer\u00eancia dos tokens .", "title": "", "metadata": ""}
+{"_id": "03192c6ffbe0a2551263cf1d68edef5c", "text": "Approve function allows users to allow others to spend a specified amount tokens on their behalf .", "title": "", "metadata": ""}
+{"_id": "14eca9c81bf4cb41c066a72644a6999d", "text": "Return funds back to the curator .", "title": "", "metadata": ""}
+{"_id": "e40392ca026ee3815a9e3ef7de1a84b3", "text": "It's separated so it doesn't have to run in constructor .", "title": "", "metadata": ""}
+{"_id": "3cc7435fec96b444a66db61d20863035", "text": "Tranfer the token balance to a specified address .", "title": "", "metadata": ""}
+{"_id": "0e0628e97843f8bb8d9ba7cbb9d6193d", "text": "Deposit wei into the exchange contract .", "title": "", "metadata": ""}
+{"_id": "9cbc75130d1737372c1302ea4f13084a", "text": "Proof that terms and conditions have been read and understood .", "title": "", "metadata": ""}
+{"_id": "a9bc2541bcc6beb101ba219326294dae", "text": "Return how many tokens left that you can spend from .", "title": "", "metadata": ""}
+{"_id": "fe81d407fc004d4dff6223e55c0a3e49", "text": "Allow the token itself to send tokens using transferFrom ( ) .", "title": "", "metadata": ""}
+{"_id": "bf4ddc3cbc9b0c85f4e9b5c07542ea5d", "text": "Sell keys .", "title": "", "metadata": ""}
+{"_id": "e9e2bafeec573bc36150413575878a93", "text": "Return child address for parent .", "title": "", "metadata": ""}
+{"_id": "f0d7abb3a27a8c52fb7464ae6dca2f44", "text": "function is callable by everyone .", "title": "", "metadata": ""}
+{"_id": "4cec854776b2cdc3fe1d8084a4fb6ac8", "text": "check rewards .", "title": "", "metadata": ""}
+{"_id": "7f5a2cf4705de4d1d523eb1c4301dd5f", "text": "Check whether the parameters of a sale are valid .", "title": "", "metadata": ""}
+{"_id": "58c54944c2641997ce6153499d84e772", "text": "Returns if given rate is within limits ; internal .", "title": "", "metadata": ""}
+{"_id": "212e802f30602473d483bead3e1eaedc", "text": "balance The number of tokens owned by owner .", "title": "", "metadata": ""}
+{"_id": "7f9172e7deffa5cb9a8ddaae9cd93532", "text": "Determines whether a value is equal to or greater than another .", "title": "", "metadata": ""}
+{"_id": "22c7f5aaabafd9d10ebf7fdd47084b13", "text": "benefit for owner .", "title": "", "metadata": ""}
+{"_id": "9640e5473d72f7ba157696f4aa445354", "text": "Log diary , time stamp is now .", "title": "", "metadata": ""}
+{"_id": "ca67afe3c256c48804ccfdd022b0c0ae", "text": "Removes burned values 123 - 120 .", "title": "", "metadata": ""}
+{"_id": "f6258c02d93f44ed8fff893057f20121", "text": "set card / watt / month .", "title": "", "metadata": ""}
+{"_id": "320ffc27473d72f72d74d4731ef1dd35", "text": "Approve remove owner request , can be call only by owner which don't call this remove owner request before .", "title": "", "metadata": ""}
+{"_id": "60a966b36af1b23faad5ea02ac9e2ca2", "text": "Returns funds to funder if ICO is unsuccessful .", "title": "", "metadata": ""}
+{"_id": "3637518afe27e8e37859532d32883cfa", "text": "Your Eth is gone forever but at least you get a consolation prize .", "title": "", "metadata": ""}
+{"_id": "ecc2cffe9c665c7dadfc719bd733c6c6", "text": "maximum investments to be accepted during the sale ( in wei ) .", "title": "", "metadata": ""}
+{"_id": "79cece17055950e9ce670eadb0fc5ea9", "text": "Transfers a tulip to another address without confirmation .", "title": "", "metadata": ""}
+{"_id": "080e414d8158d110e408111ee31c5290", "text": "Functions with this modifier can only be executed when the vesting period elapses .", "title": "", "metadata": ""}
+{"_id": "5a1fadb4a2f05acf03462573cec5c42c", "text": "only accepts a value of 0 . 1 ether .", "title": "", "metadata": ""}
+{"_id": "59bbc20bca4c1bdd76206bb49c346786", "text": "Sends Bankroll funds for additional dividends .", "title": "", "metadata": ""}
+{"_id": "1e6582472552ea9259a38af429cba82f", "text": "callin accoutn must already have sufficient tokens to approve ( . . . ) .", "title": "", "metadata": ""}
+{"_id": "d4ac5dc3a3e30a2c30f34065615da345", "text": "function to change the rate of tokens can only be called by owner wallet .", "title": "", "metadata": ""}
+{"_id": "bca92fe569befbf364900386526d833e", "text": "Distribute ERC20 token to holder s according to ratio .", "title": "", "metadata": ""}
+{"_id": "4587b2183590bf562ed0d741370e71a6", "text": "Transfer tokens from address to owner address .", "title": "", "metadata": ""}
+{"_id": "c3069eea5d816fd01a75974f5b539afb", "text": "Bet on Number .", "title": "", "metadata": ""}
+{"_id": "040d29316df53d45769ed99b49a46734", "text": "Refund bet manually if oraclize callback was not received .", "title": "", "metadata": ""}
+{"_id": "54f7d625f06ecc0936bcc49f97ec4891", "text": "Set verification slashing period .", "title": "", "metadata": ""}
+{"_id": "d32f4665a3d9a63e7a99bb9df46595a0", "text": "Sets time lock for given allocation address .", "title": "", "metadata": ""}
+{"_id": "611c82a5ada91f3722154499c9026b0f", "text": "Declines token minting for specified investor .", "title": "", "metadata": ""}
+{"_id": "efe2198a235bdb376e47e68972e32986", "text": "sets percentage for reserved wallet .", "title": "", "metadata": ""}
+{"_id": "5124e75f3aaf08064d484596603dbdf0", "text": "Setup the interface to the Blocklord contract .", "title": "", "metadata": ""}
+{"_id": "40d9338fd9fdb58da640a2ed5eccc95f", "text": "ensures dat tha straight-up original gangsta tokens up in tha contract is ghon be equally distributed meaning , no divine dump is ghon be eva possible result : healthy longevity .", "title": "", "metadata": ""}
+{"_id": "f3323763aced6363f3b94af110f4c6e9", "text": "Safety to withdraw unbought tokens back to seller .", "title": "", "metadata": ""}
+{"_id": "de21ea694370772acff489af8fa33b09", "text": "Updates the whitelistedPlannedContributions counter , subtracting the contribution about to be applied .", "title": "", "metadata": ""}
+{"_id": "b545e893ff0dcc992fe862d55b588647", "text": "Set the price of summoning a hero with Eth .", "title": "", "metadata": ""}
+{"_id": "dbd214d3e79eb3d945b20e41c81dee31", "text": "Simply log the event to track wallet interaction off-chain .", "title": "", "metadata": ""}
+{"_id": "d610fdcc3287f9d7243f6512b44bbc91", "text": "tx 2 : of a game , player two approves the SlammerTime contract to take their tokens this triggers an event to broadcast to player one that this player wants to rumble .", "title": "", "metadata": ""}
+{"_id": "8d75ae43ebcc28c3fa43e123ecbba826", "text": "functions below this line are public .", "title": "", "metadata": ""}
+{"_id": "12af2bf0ddc728969df8d640633f402d", "text": "The way to check is ico stage in variable time .", "title": "", "metadata": ""}
+{"_id": "e5cfb9be673fa8bf7e5c8973ddc5bafa", "text": "can be issued to anyone without owners concent but as this method is internal only buyToken is calling it .", "title": "", "metadata": ""}
+{"_id": "7213e57215735129455318ad18020a11", "text": "Owner can change the number available tokens for the ICO ( must be below 70 million ) .", "title": "", "metadata": ""}
+{"_id": "06b17f377ff9d6f294daa0410ebe20ba", "text": "Returns asset allowance from one holder to another .", "title": "", "metadata": ""}
+{"_id": "57190588221881421ea923b7014a656c", "text": "Propose the transfer of the EngravedToken contract ownership to _engravedAddress .", "title": "", "metadata": ""}
+{"_id": "047f0db49e0919597978fcc51aff3005", "text": "Completes a breeding auction by bidding .", "title": "", "metadata": ""}
+{"_id": "cc9e714a6893b32a38f444da0fa06784", "text": "Even the smallest person can change the course of the future .", "title": "", "metadata": ""}
+{"_id": "f217900ab9d25cacf0b239b779b4651c", "text": "Internal function to clear current approval and transfer the ownership of a given token ID .", "title": "", "metadata": ""}
+{"_id": "d19b1edf4dd0651112b9934482c82eb6", "text": "Allows the owner of the ICO contract to unpause the token contract .", "title": "", "metadata": ""}
+{"_id": "dd9b7499614a9958873492fe0783e768", "text": "Bid on the auction with the value sent together with this transaction .", "title": "", "metadata": ""}
+{"_id": "c221da7c7caa1e8c5d98647f413732f8", "text": "Buy HQX .", "title": "", "metadata": ""}
+{"_id": "e5311e9cb4d716aa3463d5b4cd4f2a8b", "text": "Proceeds are paid out right away , but the contract might receive unexpected funds .", "title": "", "metadata": ""}
+{"_id": "c3fd3670a88bb8d90f49d52f62b24fd1", "text": "batch set quota for user admin if openTag 0 , removed .", "title": "", "metadata": ""}
+{"_id": "b13f74cc2960ea9c96189b1c19b881fd", "text": "return if game is active .", "title": "", "metadata": ""}
+{"_id": "fd358ec6f52f1bafefb3cd5c8d891643", "text": "Pyramid grid writing functions .", "title": "", "metadata": ""}
+{"_id": "62b695cb72ca99abdb8ba04c0dbea511", "text": "Return the number of tokens .", "title": "", "metadata": ""}
+{"_id": "4e2a1e68c925bf545efb1fd37821eb7f", "text": "return the expected MET for ETH .", "title": "", "metadata": ""}
+{"_id": "e9df8d394c9310c4b888a80cf3ca02e6", "text": "Disapproves an User's KYC .", "title": "", "metadata": ""}
+{"_id": "6dc759e1404e5cec3d36f0f846919c16", "text": "Unpauses the smart contract .", "title": "", "metadata": ""}
+{"_id": "733325dabe0d5e7c2dc5e47a8ce9c79c", "text": "Sell amount tokens to contract ( 1 amount 0 . 000000000000000001 HERE ) .", "title": "", "metadata": ""}
+{"_id": "32b7231d807e07a388c76aef32d1f78b", "text": "Allow updating the max gas price .", "title": "", "metadata": ""}
+{"_id": "e077ce0bbab02b22fa4983a039b88762", "text": "buy artworks when likecoin transfer callback .", "title": "", "metadata": ""}
+{"_id": "ab2b0587ab370c4e8a47859a7dafb3ef", "text": "ICO methods .", "title": "", "metadata": ""}
+{"_id": "1d3c25a6313a1c34a769b23a19333d10", "text": "function to allow a coin holder add to the vote count of an option in an active ballot .", "title": "", "metadata": ""}
+{"_id": "32560e26c64c2de11218320fcb3ed0b0", "text": "Modifier throws if called by any account other than the pendingOwner .", "title": "", "metadata": ""}
+{"_id": "d92e906089659c9b3f181cc099c1eec3", "text": "Checks whether an address represents a certificate authority .", "title": "", "metadata": ""}
+{"_id": "0069105821000b9c8bfbd1eb1a4b386e", "text": "Assigns the winnings ( bounty and bonds ) to everyone who gave the accepted answer .", "title": "", "metadata": ""}
+{"_id": "389130d7686e4d4df2a6d3a4145033ec", "text": "Here go crowdsale process itself and token manipulations .", "title": "", "metadata": ""}
+{"_id": "269430c577836b3d504944d9304ec9ec", "text": "Soft cap not reached .", "title": "", "metadata": ""}
+{"_id": "f651e26012c2478cd7e4d6ead8a0be48", "text": "Set the reward divisor .", "title": "", "metadata": ""}
+{"_id": "697da29478b43629be9e0109d343c181", "text": "Create a new series .", "title": "", "metadata": ""}
+{"_id": "e666ffcaf91906b40d4ff18cdf298b0b", "text": "returns the number of coins for a specific owner .", "title": "", "metadata": ""}
+{"_id": "fe52a4db6d9592364e5fa8c97700be45", "text": "End genesis .", "title": "", "metadata": ""}
+{"_id": "cf98b1c0acf45f0189019629771c8b97", "text": "Function to propose an oracle , calle by maker .", "title": "", "metadata": ""}
+{"_id": "650e1592bed6e0658177728fe833b390", "text": "set new owner of proxy contract and remove the old one .", "title": "", "metadata": ""}
+{"_id": "fc90fff3c7285733f261bfb6cc3598f5", "text": "anyone can donate tokens to a manufacturer's pool .", "title": "", "metadata": ""}
+{"_id": "7d39adda14b0453fac152d0a282999a2", "text": "Get user balance .", "title": "", "metadata": ""}
+{"_id": "2fcb7456c8cd356e05f6455dfceac71c", "text": "Give deprive permission to a wallet for freeze tokens .", "title": "", "metadata": ""}
+{"_id": "e11b54997fc5f2df060d46741a31e8db", "text": "Function that is called when a user or another contract wants to transfer funds to smart-contract .", "title": "", "metadata": ""}
+{"_id": "e33491770b00554d7ac5897613054241", "text": "Lets the owner withdraw extra tokens , which were not sold during the auction .", "title": "", "metadata": ""}
+{"_id": "ced4df6b57ffb4806cadc4709e88d17e", "text": "getFeeToTokenConversion - Controller could be changed in the future to update this function .", "title": "", "metadata": ""}
+{"_id": "73e44b9cd2cff885e9863bdf82bf0907", "text": "Approve a new borrower .", "title": "", "metadata": ""}
+{"_id": "9e11e0c3cdc7fd28b82455766c912bec", "text": "looks up the current token price .", "title": "", "metadata": ""}
+{"_id": "37a43f72618c336af779a0c6664c059e", "text": "Returns the total number of games .", "title": "", "metadata": ""}
+{"_id": "7a96cdaf4795abfffc759c89ac5163a9", "text": "Interface marker .", "title": "", "metadata": ""}
+{"_id": "d6ac5cd53bb07ba7a89522728493f12d", "text": "The getter for paused contract variable .", "title": "", "metadata": ""}
+{"_id": "08e70f739ef6c3b73b270ba67c9ca219", "text": "Tells whether a given key is registered .", "title": "", "metadata": ""}
+{"_id": "7d9128c7d77c258e11107781c496a7fb", "text": "status functions .", "title": "", "metadata": ""}
+{"_id": "0351fec50ff56fafef888d8d49c3dd02", "text": "check user's REB balance tier .", "title": "", "metadata": ""}
+{"_id": "09e28f30e3c8a65c9cd719fd1994c77e", "text": "Creates a new promo Team with the given name , with given _price and assignes it to an address .", "title": "", "metadata": ""}
+{"_id": "1e5e5c0307a2959b0d3db95abf9cb0a0", "text": "Function to pay the creator upon success .", "title": "", "metadata": ""}
+{"_id": "10077ca058c983955a3eb5f7076104de", "text": "override getRate to integrate with rate provider .", "title": "", "metadata": ""}
+{"_id": "91b98c9775155582670daa4ca51d239f", "text": "After contract ends move funds .", "title": "", "metadata": ""}
+{"_id": "4289876ceb946d35b8998a8745c608f0", "text": "This requires that the token-holder authorizes this contract's address using the approve ( ) function .", "title": "", "metadata": ""}
+{"_id": "951b659e206547901a3a112b9fd83fa6", "text": "the rate in FARM per 1 ETH according to the time of the tx and the FARM pricing program .", "title": "", "metadata": ""}
+{"_id": "5bc6a052ab615511f4da1773904d1bdf", "text": "Convenience function to allow immediate refunds .", "title": "", "metadata": ""}
+{"_id": "140d88c83257ecf47436273ec18296b2", "text": "Manages the purchase of the tokens for a given price .", "title": "", "metadata": ""}
+{"_id": "efc14e28528ecc67e7a6506a6796594f", "text": "Set historical balance for the owner of given address as it was at the moments of snapshots with indexes in given range .", "title": "", "metadata": ""}
+{"_id": "45a187b110cb71e729e6016426e03b48", "text": "Validates arguments for changing any of the sig requirement parameters .", "title": "", "metadata": ""}
+{"_id": "bf7833c792193d62bc70ab06322bf527", "text": "Get the amount of tokens released for a vesting .", "title": "", "metadata": ""}
+{"_id": "bff6a7ce2a97ffeb990b4410d50185fd", "text": "Default assumes totalSupply can't be over max ( 2 256 - 1 ) .", "title": "", "metadata": ""}
+{"_id": "14d66043fbd401adf206c89f52ed58dc", "text": "get some stats .", "title": "", "metadata": ""}
+{"_id": "2486e5377b95a389a27b0055627c911a", "text": "Reset all the balances to 0 and the state to false .", "title": "", "metadata": ""}
+{"_id": "a1859e46297939bc1000232a3035bc7c", "text": "A token purchase with anti-money laundering and KYC checks .", "title": "", "metadata": ""}
+{"_id": "eb4d8428e142c67fd2323b60170619c7", "text": "Set News .", "title": "", "metadata": ""}
+{"_id": "dbab7b9f328bee4b101d376013d5eb1b", "text": "Transfers the balance of the sale auction contract to the ZodiacCore contract .", "title": "", "metadata": ""}
+{"_id": "52af06b397be65fd0cb90ff1f1e3f0d8", "text": "Shuts down the contract and removes it from the blockchain state .", "title": "", "metadata": ""}
+{"_id": "300c3599e57fc1b6bef438d31cde146b", "text": "delete function , used when bugs comeout .", "title": "", "metadata": ""}
+{"_id": "45762baf68fa1555a6b182826d638b29", "text": "Requesting a certification document by index is a paying feature .", "title": "", "metadata": ""}
+{"_id": "62382dae9738e14566c3bafdf5422cb8", "text": "Verify an investor .", "title": "", "metadata": ""}
+{"_id": "f718cacd1d0c0605c5b5020e8b6531e2", "text": "get various information about the match and its current state .", "title": "", "metadata": ""}
+{"_id": "30ebe38d006e879c1050bc1592fe0155", "text": "transfer token for a specified address , but different from transfer is replace msg . sender .", "title": "", "metadata": ""}
+{"_id": "09df3cf17430ae87ff476428ea2a037c", "text": "Owner can transfer out any accidentally sent ERC20 tokens excluding the token intended for this contract .", "title": "", "metadata": ""}
+{"_id": "3feff9b1de9cf55b0df4b8a581c82658", "text": "Updates the startTimestamp propety with the new _start value .", "title": "", "metadata": ""}
+{"_id": "50472333b68aa3b49defb5fd266001e8", "text": "create a new offer with setting .", "title": "", "metadata": ""}
+{"_id": "8215235f323b570c77541ab50145ee95", "text": "Transfer the balance from the sender's address to the address _to with data _data .", "title": "", "metadata": ""}
+{"_id": "b8f85d13b3576c9daf398e9613490dd5", "text": "Set current DOL prices .", "title": "", "metadata": ""}
+{"_id": "a79cad3126205f7b11baa9f842db724c", "text": "Adds a Kin token vesting grant .", "title": "", "metadata": ""}
+{"_id": "1da3dabb00df0589e826d7ad12551fa2", "text": "freeze your tokens to the specified address .", "title": "", "metadata": ""}
+{"_id": "6c79718bf1bcb6b47748b92cb8d53988", "text": "Returns all the relevant information about a specific waifu .", "title": "", "metadata": ""}
+{"_id": "8ef64156f8a831cd37543c065d2eafe1", "text": "Assigns a new address to the CEO role .", "title": "", "metadata": ""}
+{"_id": "5d5f10a4a5e560b99bcf54c3e25d6d8f", "text": "Gets the releasedToken of the specified address .", "title": "", "metadata": ""}
+{"_id": "4f7c5b766bbc3c16abeb2b871b3b3824", "text": "The actual predator attack .", "title": "", "metadata": ""}
+{"_id": "f14aee7d73fc6a844165a4cb2c0c98b9", "text": "Allow to extend ICO end date .", "title": "", "metadata": ""}
+{"_id": "92d1d5e6efdd90a1740e744b07f42734", "text": "Allow pre-approved user to take ownership of a color .", "title": "", "metadata": ""}
+{"_id": "f5ef7574c789c691f644e464a9875bd2", "text": "This function sends the pooled eth to the receiving address , calculates the of unused eth to be returned , and advances the contract to stage two .", "title": "", "metadata": ""}
+{"_id": "1905485fa07894212cdcf5099857fbd1", "text": "( entityActive , connectionEntityActive , connectionActive , data , direction , expiration ) - tupple containing the entity active and the connection fields .", "title": "", "metadata": ""}
+{"_id": "110b98039d950ae0ee07e8388689343a", "text": "agreement not locked .", "title": "", "metadata": ""}
+{"_id": "b24314a7110a880933c6472902bb27e0", "text": "checks if sequence can be represented in form of 48151623420 . . 00 .", "title": "", "metadata": ""}
+{"_id": "33af14568265be9ba52cce6f001ca613", "text": "calculate fee from the losing portion of total pot .", "title": "", "metadata": ""}
+{"_id": "f04c8afacf9b70df7666382b3e29e737", "text": "Update the constants of the network if necessary .", "title": "", "metadata": ""}
+{"_id": "9957e3c7911d664520c588f9acf94040", "text": "Perform initial token allocation between founders' addresses .", "title": "", "metadata": ""}
+{"_id": "1b1fa37ec1ce0f3e7c1059b023522e92", "text": "creates and stores a new promise object , updates the promisedTokenBalance .", "title": "", "metadata": ""}
+{"_id": "b3c052f495bcf57d6585f7c64ddf300b", "text": "Transfer tokens from allowance .", "title": "", "metadata": ""}
+{"_id": "ae08c6402743217ba3ee1cefa5286a16", "text": "batch transfer recivers to be _value .", "title": "", "metadata": ""}
+{"_id": "d1b3dbd872d6f5f6afca382776302194", "text": "Return total supply of token .", "title": "", "metadata": ""}
+{"_id": "1b499c2ad1f54cba6a82f2b4e63d2004", "text": "Start crowd-sale .", "title": "", "metadata": ""}
+{"_id": "0bab3c2ca5a52393a1dc41b5b3af6429", "text": "Removes / deletes contract .", "title": "", "metadata": ""}
+{"_id": "8b660da4bd0c63f623da85a98c086b26", "text": "changes the coldwallet2 address .", "title": "", "metadata": ""}
+{"_id": "6ee1a1e1431976b387db6582c01ba0da", "text": "Pay with Mileage .", "title": "", "metadata": ""}
+{"_id": "48be00a172d314cb1f5a088224d90966", "text": "To approve a proxy for token transfers .", "title": "", "metadata": ""}
+{"_id": "be793ce27c7690ac13fd80dc4aca44a5", "text": "Checks that a given zodiac is able to breed .", "title": "", "metadata": ""}
+{"_id": "d1908c8a3fe606240a565e3ccff7b06b", "text": "Deposit Funds .", "title": "", "metadata": ""}
+{"_id": "fd49ae56b3b82b029afb35278a127628", "text": "Method called by anyone to withdraw funds to coindrops wallet after locking period .", "title": "", "metadata": ""}
+{"_id": "8c8a61f9c098a7e71c64e9141b376f4b", "text": "Returns a newly allocated string containing the concatenation of self and other .", "title": "", "metadata": ""}
+{"_id": "e887f0cdffe7a5b1348c5475e4a07c35", "text": "Execute a multi-signature transaction from this wallet using 2 signers : one from msg . sender .", "title": "", "metadata": ""}
+{"_id": "53ab71d38afe5e28e7b091f92d526eb5", "text": "Issues unlocked tokens .", "title": "", "metadata": ""}
+{"_id": "494162be3a92d2971aae8670b5fb4764", "text": "Pay this function to add the dividends .", "title": "", "metadata": ""}
+{"_id": "b6be45b0c73b2c0e42978cdf259a786a", "text": "disable whitelist state .", "title": "", "metadata": ""}
+{"_id": "ad3712b96d8d49c7e3cc18446a10e0a0", "text": "Can only be called after presale is concluded .", "title": "", "metadata": ""}
+{"_id": "4d4a4b1611074b9c66377f91b6001ee3", "text": "cancel any outstanding multisig call .", "title": "", "metadata": ""}
+{"_id": "97638f69d75a1401eed804d199083b8a", "text": "Get back all your Ether ( fees are also refunded ) .", "title": "", "metadata": ""}
+{"_id": "128d5940314d2401128ec52299a3616b", "text": "public methods to give and take that only owners can call .", "title": "", "metadata": ""}
+{"_id": "0f0457eb1a359ad189898f739ccc55cf", "text": "issue token take from ethFundDeposit to user .", "title": "", "metadata": ""}
+{"_id": "029615a5db59c8e665606302b65235e5", "text": "create tokens , only usable while saleActive .", "title": "", "metadata": ""}
+{"_id": "26622be7348c5633b9131b377b992de3", "text": "Add prop .", "title": "", "metadata": ""}
+{"_id": "87ee0d7fe9313ed9458d6c1586154918", "text": "Factory owner can withdraw any ERC20 asset tokens from this contract .", "title": "", "metadata": ""}
+{"_id": "302eab787f9cbdcb2ef5988ce5a2d4d8", "text": "need to seal Crowdsale when it is finished completely .", "title": "", "metadata": ""}
+{"_id": "c23faa46015ccc049f880d3a47ae7aec", "text": "Get the totalSupply .", "title": "", "metadata": ""}
+{"_id": "72b2bbe2bc692d608484c9f3e2a3fc3a", "text": "allows the requester to cancel their adoption request .", "title": "", "metadata": ""}
+{"_id": "65b414d7d5efba67a9d39ae0204a748e", "text": "Internal function to create , accept and add additionals to a request as Payer .", "title": "", "metadata": ""}
+{"_id": "ffb8429681c330d41089e2583fa1d7a8", "text": "tokensAmount calculates the amount of tokens the sender is purchasing .", "title": "", "metadata": ""}
+{"_id": "619dbf841843b643b56f02a9f9585c5a", "text": "returning variable length arrays proved quite tricky . . .", "title": "", "metadata": ""}
+{"_id": "041ad6fb8214c6c6d0ea0ca43ab30ee3", "text": "Setup Token Sale Smart Contract .", "title": "", "metadata": ""}
+{"_id": "a9ddb7e65359e9312968d09a7cfe601c", "text": "Called by the owner to lock .", "title": "", "metadata": ""}
+{"_id": "6063acd9c8d2267ed8f7623a73235039", "text": "For creating Company .", "title": "", "metadata": ""}
+{"_id": "1a19e1a848d719adb024ab1709892828", "text": "Set the cooldownEndTime for the given Dog , based on its current cooldownIndex .", "title": "", "metadata": ""}
+{"_id": "98bf378e47c71c656817822bebfc87cc", "text": "Update operations .", "title": "", "metadata": ""}
+{"_id": "d13bfc96e3967e1bf9ad848b8e36434d", "text": "Assign the proceeds of the buyout .", "title": "", "metadata": ""}
+{"_id": "191d116fa76c0e7557c7019836830a7f", "text": "Get the RDN price in WEI during the auction , at the time of calling this function .", "title": "", "metadata": ""}
+{"_id": "7d072db2ac9dca0acba4f78673fdf755", "text": "Approve amount _amount of tokens to send from transaction creator to _recipient .", "title": "", "metadata": ""}
+{"_id": "6e69d1197d14aa4cc2c19a47900e5400", "text": "Modifier allowing execution only if the crowdsale is currently running .", "title": "", "metadata": ""}
+{"_id": "a8157d75d0f064fd6edfb1a20be78a51", "text": "Additional accessors .", "title": "", "metadata": ""}
+{"_id": "5f064b66745458d9e292ba3077a17505", "text": "Lock the DAICO supply until 2018-09 - 01 14 : 00 : 00 .", "title": "", "metadata": ""}
+{"_id": "9f4699891b21e134381cf5855aa6a6fa", "text": "Only when necessary such as gas price change , adjust the gas to be reimbursed on every transfer when sender account below minimum .", "title": "", "metadata": ""}
+{"_id": "3ee353fdbe0617565025358fda904bb5", "text": "Transfers the token from owner during the ICO .", "title": "", "metadata": ""}
+{"_id": "fb9485585c2282af42e97696b16684e7", "text": "Transfers the tokens from contracts balance of OBL's .", "title": "", "metadata": ""}
+{"_id": "7bbabaf399a0c96a327ef0c549397f12", "text": "Accept ethers and exchanges to purchase tokens on behalf of user msg . value .", "title": "", "metadata": ""}
+{"_id": "4a09aae1253c856969abe3f9371ccc70", "text": "Return truth if given account is allowed to buy tokens .", "title": "", "metadata": ""}
+{"_id": "ac868a5229f73ed600dcf8d1a5b8a096", "text": "A getter to find if a specified Project has been canceled .", "title": "", "metadata": ""}
+{"_id": "c3a49dd940fd32c8b9f8141a44ee832f", "text": "checks if the instance of market maker contract is open for public .", "title": "", "metadata": ""}
+{"_id": "0eb163fdc629a827dc1ace312a6a5b22", "text": "setValue used to update sequence at next snapshot .", "title": "", "metadata": ""}
+{"_id": "59c078a9941cb3ef88b43ff044313ec1", "text": "proxyPayment ( ) allows the caller to send ether to the Campaign and have the CampaignTokens created in an address of their choosing .", "title": "", "metadata": ""}
+{"_id": "aeb5e1f6f206d222241fff9c38baf5e7", "text": "Returns true if the give promise can been collected by the recipient .", "title": "", "metadata": ""}
+{"_id": "31b32b275ebe0baa42e73b93d105a289", "text": "before start : .", "title": "", "metadata": ""}
+{"_id": "d35b4fcf892b6c2333c4e2199c229f85", "text": "Allows the admin to finalize the sale and complete allocations .", "title": "", "metadata": ""}
+{"_id": "92a431d59444ce5358296752f90c605e", "text": "Withdraws the tokens .", "title": "", "metadata": ""}
+{"_id": "315b4418533eb7bb81f4ded71587b095", "text": "Purchase on a behalf of a benefactor .", "title": "", "metadata": ""}
+{"_id": "935be2b985040db54fe46316fda4515c", "text": "prepares compression data and fires event for buy or reload tx's .", "title": "", "metadata": ""}
+{"_id": "494e85a55ddce53db957eb23748c302c", "text": "Stop tokens minting forever .", "title": "", "metadata": ""}
+{"_id": "a9f86d46a57c9a4eef642f3d7ea646b3", "text": "Add a bonus to a block .", "title": "", "metadata": ""}
+{"_id": "002184650e5a05a1c407ae644797e53e", "text": "set new Rate .", "title": "", "metadata": ""}
+{"_id": "6b9a8233d6556f71fab8841777a63925", "text": "get the remain releasing period of an account .", "title": "", "metadata": ""}
+{"_id": "0ee7dab117acdfd566e8786305373b05", "text": "Function to pay out Tokens .", "title": "", "metadata": ""}
+{"_id": "9339548d70f6ea28f8abc80de4e761db", "text": "Transfer token ownership after token sale is completed .", "title": "", "metadata": ""}
+{"_id": "45c972641100580b2e1870f6089dfad5", "text": "Owner and revoke can change the revoke address .", "title": "", "metadata": ""}
+{"_id": "715e7bab6e515ea54c1d67308c78375d", "text": "Admin / bankroll function to change bankroll address .", "title": "", "metadata": ""}
+{"_id": "91ed94fb359ba6ef3305958563f53aea", "text": "Is PreSale .", "title": "", "metadata": ""}
+{"_id": "018c29b2216f1185bce3dd74da9028f9", "text": "Director can open the contribution .", "title": "", "metadata": ""}
+{"_id": "cfaa0762564b22ec2b9ad4045ac95c15", "text": "clonedTokenAddress address .", "title": "", "metadata": ""}
+{"_id": "e0358628617f54cb8e475949689dbc3a", "text": "allow for selfdestruct possibility and sending funds to owner .", "title": "", "metadata": ""}
+{"_id": "af2487ace5f410532d70054c7211ddfb", "text": "Claim tokens for economic reserve wallet .", "title": "", "metadata": ""}
+{"_id": "74352a91a660899f7ceec0c7fe4bdd83", "text": "Transfer raised amount to the company address .", "title": "", "metadata": ""}
+{"_id": "8ed8c223e13629db1b389a331eaa7f9b", "text": "Helper function that calculates the valuation of the asset in terms of an ART token quantity .", "title": "", "metadata": ""}
+{"_id": "42a2ee52a871b1eadea135e80941ae48", "text": "get with the id .", "title": "", "metadata": ""}
+{"_id": "5acf3222ebc8aa41de77b880cc9bbccd", "text": "Count ELHTs tracked by this contract .", "title": "", "metadata": ""}
+{"_id": "acb1e1e53ce2174305b87632229ea06f", "text": "initiate user when first visiting .", "title": "", "metadata": ""}
+{"_id": "d25f278baba95a4adebc46d31e8df09a", "text": "This method can be used by users holding old proxy tokens to swap for new tokens at the ratio of 1 : 2 .", "title": "", "metadata": ""}
+{"_id": "f40f16a695788bb06d0612136058a0ab", "text": "Buys tokens from sellers .", "title": "", "metadata": ""}
+{"_id": "51bcb82425679362aa4b21fc78c5fc02", "text": "Rember 18 zeros for decimals of eth ( wei ) , and 0 zeros for NSP .", "title": "", "metadata": ""}
+{"_id": "53131d3dca7337f867419dcd54e0526a", "text": "Allows to remove an admin .", "title": "", "metadata": ""}
+{"_id": "abbebe4934befc4709fcbb1bdd09e48d", "text": "Address has been verified .", "title": "", "metadata": ""}
+{"_id": "65c1f70b496a08d6e56509a732fa61cc", "text": "Modifier to mark that a function can only be executed by the owner .", "title": "", "metadata": ""}
+{"_id": "e832fd8cadc67d6b90e15d77429d015e", "text": "get total tokens .", "title": "", "metadata": ""}
+{"_id": "a27678a83dab3d1c6ce4a1aa89d78407", "text": "Gets the type of Token ( long and short token ) for the specifed token address .", "title": "", "metadata": ""}
+{"_id": "579cbea6ac682e0ef268142639f7e384", "text": "Checks if the owner have at least '_amount' shares of the company _amount 0 .", "title": "", "metadata": ""}
+{"_id": "a28e3f93817a012ee53f6f79845587ca", "text": "check ico is active or not .", "title": "", "metadata": ""}
+{"_id": "88de44f87c259034f934347221c8fb6b", "text": "Whether the burning was successful or not .", "title": "", "metadata": ""}
+{"_id": "fcb5f9f1b278335a96cece50e58c9df4", "text": "Used by \u0110App to accept Bitcoin transfers .", "title": "", "metadata": ""}
+{"_id": "5450a724fc429ecfeb37612a93aa377b", "text": "Returns how many tokens have vested .", "title": "", "metadata": ""}
+{"_id": "f60740dac5e2dfda002a89ca78474f09", "text": "Rember 18 zeros for decimals of eth ( wei ) , and 2 zeros for NVT .", "title": "", "metadata": ""}
+{"_id": "3028913577d1b3960c89c2f0470b9fb3", "text": "Throws error if order is expired .", "title": "", "metadata": ""}
+{"_id": "56c68e67d872a6a926cc4a30f2bdb747", "text": "claim back ether if buy tokens request is rejected .", "title": "", "metadata": ""}
+{"_id": "0cb4bc7ebb4caae01e253807a904b84b", "text": "transfer tokens within the lava balances .", "title": "", "metadata": ""}
+{"_id": "be4189d67cca4a1fc8fe0ce3b48d5c9c", "text": "Internal function for handling transactions with ether .", "title": "", "metadata": ""}
+{"_id": "6f3a43507d003f66079585aaf1d1f7c4", "text": "transfer ERC20 standard transfer wrapped with activated modifier .", "title": "", "metadata": ""}
+{"_id": "42e3d398995211599c5c9a029e3a0ead", "text": "x * y / 2 128 .", "title": "", "metadata": ""}
+{"_id": "2421451a92135a89c1ea4c7ee9e2d339", "text": "icoCheckup - check up call for administrators after sale is closed if min ico tokens sold , 10 percent will be distributed to company to cover various operating expenses after sale and usage dealines have been met , remaining 90 percent will be distributed to company .", "title": "", "metadata": ""}
+{"_id": "b2d057c79c36f9d352fad1eedf3071e9", "text": "Separate function as it is used by derived contracts too .", "title": "", "metadata": ""}
+{"_id": "f26c5b749ce831aa66dc468e1a136cea", "text": "Set the IPFS hash of the image of the couple .", "title": "", "metadata": ""}
+{"_id": "3d0b41fb102ece2a2b45fe53a268d002", "text": "finalization refund or excute funds .", "title": "", "metadata": ""}
+{"_id": "2fde19192b20b8b2cf7f299bb20d9c3d", "text": "Allows the owner to start / stop the trading .", "title": "", "metadata": ""}
+{"_id": "2d26bf1371862bbdb462153fbcbae716", "text": "Used to tweak and update for Game .", "title": "", "metadata": ""}
+{"_id": "4010fccb89a07db56f7000b800e09eea", "text": "Allows to buy outcome tokens from market maker .", "title": "", "metadata": ""}
+{"_id": "8be55eb5df9f6ab2dc305c3b4831fbaf", "text": "This internal function handles withdrawals during stage three .", "title": "", "metadata": ""}
+{"_id": "32006c3112f540ad94fedbc2460f66db", "text": "always allow SCs to upgrade themselves , even after lockdown .", "title": "", "metadata": ""}
+{"_id": "fe36efd5ee9c129ea56719e77335b046", "text": "Update whitelist contract .", "title": "", "metadata": ""}
+{"_id": "43f1ce50f66aa1aa38c166a5709cc193", "text": "Transfers the token owned by this contract to another address .", "title": "", "metadata": ""}
+{"_id": "878de59a22dbfc7c2a30848bf212ecc3", "text": "Transfer tokens from other address , Send _value tokens to _to on behalf of _from .", "title": "", "metadata": ""}
+{"_id": "db72c5296dcd62e2850387f9a5af0c8f", "text": "uint256 of how many tokens can one get .", "title": "", "metadata": ""}
+{"_id": "e2aeef91a20cf5be27d041bf3da78b76", "text": "returns composition price of a given token ID .", "title": "", "metadata": ""}
+{"_id": "1477c3df1d586b12eca68d8fb42d51cd", "text": "open the trading for everyone .", "title": "", "metadata": ""}
+{"_id": "0c94f955756b2e695d9295b038efd137", "text": "Requesting a confirmation that a document is a certification is a paying feature .", "title": "", "metadata": ""}
+{"_id": "816ec52d100d8078495d9828128fb5bc", "text": "Set before sale enabled .", "title": "", "metadata": ""}
+{"_id": "72f976552a23d34ad59e568bff4a7de8", "text": "Allows to refund the ETH to destination addresses .", "title": "", "metadata": ""}
+{"_id": "2d649e7b4f47d2c17956b1beb98d2a94", "text": "Changes state .", "title": "", "metadata": ""}
+{"_id": "60d5ea7a045d991533d95ac5e9977902", "text": "returns number of signers for any given function .", "title": "", "metadata": ""}
+{"_id": "f7ef798ad2f7a592a7c5f13fd534a1a9", "text": "Do we have a token address .", "title": "", "metadata": ""}
+{"_id": "ccc1c3ba16d79856fc4b31eb60a2a2bb", "text": "Purchase tokens from my reserve .", "title": "", "metadata": ""}
+{"_id": "20653baa7b2ee05cb33c643d85b3fc4f", "text": "Update only stats .", "title": "", "metadata": ""}
+{"_id": "9a14e5e14923155fea0b0777eb013c8a", "text": "returns how many dicks there have been .", "title": "", "metadata": ""}
+{"_id": "831a0f1faf2142ab922335717067c841", "text": "WorkOrder Emission .", "title": "", "metadata": ""}
+{"_id": "78d663d8f90001943e98b4bb0ed0c32a", "text": "create a CDP all the Dai in the sender's balance ( needs approval ) , and then create Dai and reinvest it in the CDP until the target liquidation price is reached ( or the minimum investment amount ) .", "title": "", "metadata": ""}
+{"_id": "52273adf49f8b5671bb6df13b680df58", "text": "Overrides _processPurchase function from Crowdsale .", "title": "", "metadata": ""}
+{"_id": "42faec05852a17953a765360e60b930b", "text": "Calculate the Fee charged on top of a value being sent .", "title": "", "metadata": ""}
+{"_id": "aa6a1256400422ba6dc4c9d3e7b77c09", "text": "Loads the ETH balances of all the accounts .", "title": "", "metadata": ""}
+{"_id": "9d6a2e18f1361c3d4959f84ebf7a6bca", "text": "Check if the amount of for a certain asset / currency has been approved in the Oversight address .", "title": "", "metadata": ""}
+{"_id": "60dfd5780e5db6a11c618bb07a19396a", "text": "Function to give token to investors .", "title": "", "metadata": ""}
+{"_id": "09fdfc9408808314142553844e992f28", "text": "This is the function that makes the list of transfers and various checks around that list , it is a little tricky , the data input is structured with the amount and the ( receiving ) addr combined as one long number and then this number is deconstructed in this function to save gas and reduce the number of 0 's that are needed to be stored on the blockchain .", "title": "", "metadata": ""}
+{"_id": "4345b3fa19b8d035d8740c3310d3c01f", "text": "Allocate tokens .", "title": "", "metadata": ""}
+{"_id": "36853405ac61a0c9784890ef7973d020", "text": "Get amount of tokens approved for transfer .", "title": "", "metadata": ""}
+{"_id": "4c14f8ab01f40bdfad0c79a7e90a65ca", "text": "Event handler that processes the token received event .", "title": "", "metadata": ""}
+{"_id": "b7130c89cc2baca7008978856af63282", "text": "investor can latch Fci by themself .", "title": "", "metadata": ""}
+{"_id": "6922793e7140a1e90541b24871665e97", "text": "Removes an existing certificate authority , preventing it from issuing new certificates .", "title": "", "metadata": ""}
+{"_id": "0bc8b6a1ed112ebd650d723816ba359e", "text": "Throws away your stash ( down the drain ; ) ) .", "title": "", "metadata": ""}
+{"_id": "db0e04f8d30dc991611a364d292b083f", "text": "withdraw ether to wallet .", "title": "", "metadata": ""}
+{"_id": "f7aba78bb8f42231f6b47d8a72b5cc26", "text": "retruns true if sale is currently active .", "title": "", "metadata": ""}
+{"_id": "9b16259fc4207a74886b7bb5feef9c2a", "text": "migrate functionality .", "title": "", "metadata": ""}
+{"_id": "3d008d38fc02c4d788a3518a440058ec", "text": "Withdraw funds from this contract .", "title": "", "metadata": ""}
+{"_id": "d57d1eb00c54aaa7fc6a8469fdfe1219", "text": "Return the maximum number of extant nomins , equal to the nomin pool plus total ( circulating ) supply .", "title": "", "metadata": ""}
+{"_id": "b3923b507573b3abb0e79719dd9fea44", "text": "called after crowdsale ends , to do some extra finalization .", "title": "", "metadata": ""}
+{"_id": "5fac4960926d0722c90fe16120a1b090", "text": "Sets if NFTs are paused or not .", "title": "", "metadata": ""}
+{"_id": "7a98d37c18d79098165321895412475c", "text": "Allows to sell outcome tokens to market maker .", "title": "", "metadata": ""}
+{"_id": "391cbb4338d06678ffe48371cc1562eb", "text": "Free daily summon .", "title": "", "metadata": ""}
+{"_id": "99f376e933a321285667fb7043d2a1dc", "text": "Grant another address the right to transfer a specific monster via transferFrom ( ) .", "title": "", "metadata": ""}
+{"_id": "aef36dc9021fc69e4dd6eac208de0059", "text": "Generates a unique key for a stock by combining the market and symbol .", "title": "", "metadata": ""}
+{"_id": "bd42a7fe2ffbe4d0be73ba770b4c9c70", "text": "This function was written by Pickeringware ltd to facilitate a refund action upon failure of KYC analysis .", "title": "", "metadata": ""}
+{"_id": "93c70ee8e35caf2f252e263bd52487e4", "text": "Modifier function to prepend to later functions in this contract in order to redner them only useable by the Etheraffle address .", "title": "", "metadata": ""}
+{"_id": "e412cc49c3190914c709e246232b2a3f", "text": "Setter for arbitrationFeePerJuror .", "title": "", "metadata": ""}
+{"_id": "1f426730c4236ac1b92255146799a3b5", "text": "Change the DINRegistrar contract .", "title": "", "metadata": ""}
+{"_id": "eee57d841c6e894cead6628d9ced683a", "text": "Batch transfer of tokens to addresses from owner's balance .", "title": "", "metadata": ""}
+{"_id": "7d7cb56b1aba87b731c61eccaaad80ea", "text": "Enable the TeamWithdraw state .", "title": "", "metadata": ""}
+{"_id": "aed0e2318d924d0187bab855faea550f", "text": "Used to set initial shareholders .", "title": "", "metadata": ""}
+{"_id": "85a0f497dc9a12a04d877c369c3985e1", "text": "change gift properties .", "title": "", "metadata": ""}
+{"_id": "8aac0124fe4a5a4838b604b1ff78fb1b", "text": "get investors' locked amount of token this lockup will be released in 3 batches : 1 .", "title": "", "metadata": ""}
+{"_id": "602f97b457c6e7cbd7dd8a7f4f0e04ab", "text": "If a bag hasn't been purchased in over timeout , reset its level back to 0 but retain the existing owner .", "title": "", "metadata": ""}
+{"_id": "4a8b592cb0c91e81315803664626c4a8", "text": "Make an investment based on pricing strategy .", "title": "", "metadata": ""}
+{"_id": "dfc83a1571088ff8c6ebc33bfab5590b", "text": "Includes BOTH locked AND unlocked tokens .", "title": "", "metadata": ""}
+{"_id": "a70338f39b5ff2d80b61e144d4230867", "text": "Allows owner to set time after which price is considered stale .", "title": "", "metadata": ""}
+{"_id": "872d1b8cddc10b3551fe636ddb365ed4", "text": "called by the owner to unpause , returns to normal state .", "title": "", "metadata": ""}
+{"_id": "1f86e661d117592cfdda487423fbd81b", "text": "This modifier is attached to the function used to purchase tokens and is used to ensure that tokens can only be purchased between the start and end dates that were set upon contract creation .", "title": "", "metadata": ""}
+{"_id": "499921209a18918701ab00a6eca41ed2", "text": "function to buy the tokens at presale .", "title": "", "metadata": ""}
+{"_id": "bec52954eb65bfe912b2423d9889d533", "text": "The participant will need to withdraw their funds from this contract if the pre sale has not achieved the minimum funding level .", "title": "", "metadata": ""}
+{"_id": "28ff0cb19cade3a832a4d5019b50f4d0", "text": "Claim all vested tokens up to current date in behaviour of an user .", "title": "", "metadata": ""}
+{"_id": "7915eae54c57aec7b8957fed977269fa", "text": "owner mints new coins the sender of this message must be the owner / minter / creator of this contract .", "title": "", "metadata": ""}
+{"_id": "0b4fc0c16c4b74b9c196b0061414e668", "text": "Function to check if crowdsale has started yet , have we passed the start block ? .", "title": "", "metadata": ""}
+{"_id": "ac69bb3086c8e645e4aa309c8ff15fca", "text": "Checks if a transcoding options string is valid .", "title": "", "metadata": ""}
+{"_id": "4ef20f5d6ef880f0cbdcec2a19f63687", "text": "Sets the points of all the tokens between the last chunk set and the amount given .", "title": "", "metadata": ""}
+{"_id": "4b09a30dc35d01c3767e8e7bd2d3922c", "text": "Removes received foreign token .", "title": "", "metadata": ""}
+{"_id": "cec660aece8573e00eaf175daeaa4a96", "text": "Allow addresses to do early participation .", "title": "", "metadata": ""}
+{"_id": "5cd6294c53c4005323cf44d374a2c134", "text": "Add wallet to additional bonus members .", "title": "", "metadata": ""}
+{"_id": "e0fff9be4a3ce4bed738dc8a98439259", "text": "Create an auction for a given deed .", "title": "", "metadata": ""}
+{"_id": "e2a64381fe2a59e3a18da09ce5ecad20", "text": "add holder to the holders list .", "title": "", "metadata": ""}
+{"_id": "106620421a24d1435f53e85f04c89f12", "text": "Check asset existance .", "title": "", "metadata": ""}
+{"_id": "c9adbefea2a8fc693616d8fd3a763e61", "text": "Withdraw ether from contract .", "title": "", "metadata": ""}
+{"_id": "f2a2bed6be1f9cc659a2d0f8dbbdf834", "text": "each pet can only be on ONE sponsored leaderboard at a time .", "title": "", "metadata": ""}
+{"_id": "f75af714e51199ed0299bec352c1a057", "text": "read transfer configurations .", "title": "", "metadata": ""}
+{"_id": "b657595438836433c18bd458f650e2ed", "text": "service transfer token function , allowed only from masters .", "title": "", "metadata": ""}
+{"_id": "52623e7a2de28b75ec5ee15ac0e5a5a4", "text": "Withdraw house stake .", "title": "", "metadata": ""}
+{"_id": "d2ef527a31d7e8d70a308d019c632171", "text": "switchToNextRound sets the startTime , endTime and tokenCap of the next phase and sets the next phase as current phase .", "title": "", "metadata": ""}
+{"_id": "9e6f9e6fee7d393247d050322edd36fe", "text": "Change Crowdsale Stage .", "title": "", "metadata": ""}
+{"_id": "181c34393b56dc448852abf981c971b0", "text": "Returns true if params are valid .", "title": "", "metadata": ""}
+{"_id": "98199cf28ef6fda773cb7b19c1348917", "text": "The contract owner can take away the ownership of any top level domain owned by this contract .", "title": "", "metadata": ""}
+{"_id": "9f66a87e70aabb7fe06da495670e91d4", "text": "External functions for wineries .", "title": "", "metadata": ""}
+{"_id": "033cf3bab5d9e6b66449457ffe03dda7", "text": "Eventually change this so that a missed payday will carry owed pay over to next payperiod .", "title": "", "metadata": ""}
+{"_id": "98338e78c299e5bae65f13db987b8a2e", "text": "user sells token for ETH user must set allowance for this contract before calling .", "title": "", "metadata": ""}
+{"_id": "9cca4a78f84874c1a9654e46508ca874", "text": "Returns tokens according to rate .", "title": "", "metadata": ""}
+{"_id": "a7f60be7b54c9c42965f5269ded1412f", "text": "Subtracts two numbers , revert ( ) s on overflow ( i . e .", "title": "", "metadata": ""}
+{"_id": "8f14b5ecd3e34efd47688c56480a949f", "text": "lock the maxSupply to its current value forever .", "title": "", "metadata": ""}
+{"_id": "4759d2e22572ae110735df830ba8a96a", "text": "Claim IBC .", "title": "", "metadata": ""}
+{"_id": "6309c5f462d54e0fff959c33e677f86c", "text": "Special Manager creation / actination .", "title": "", "metadata": ""}
+{"_id": "7e122cf9dac266d9b76d1a0ab05f86bd", "text": "Initialization function , should be called after contract deployment .", "title": "", "metadata": ""}
+{"_id": "b61b106574ce34031b62d716854345d3", "text": "Send Token .", "title": "", "metadata": ""}
+{"_id": "8395a292cbc05cf8644ba172a0eea1be", "text": "Return whether or not two orders' calldata specifications can match .", "title": "", "metadata": ""}
+{"_id": "3cb74a942630b47b10c45fb19544f06e", "text": "onlyOwner Proposes to transfer control of the contract to a new owner .", "title": "", "metadata": ""}
+{"_id": "4a84532f68cb56afaf8a93aa3ef10831", "text": "Returns the balance of specific account .", "title": "", "metadata": ""}
+{"_id": "47dc13d94911b1861ecb29f80f46fd06", "text": "Pay unpaid dividends .", "title": "", "metadata": ""}
+{"_id": "e3c07000e97ec69ef3a64fcc5ffe05e5", "text": "Gets shares ( in percents ) the user has on provided date .", "title": "", "metadata": ""}
+{"_id": "0f2eedf4a1bd180a58f0e803b4ddf784", "text": "For debugging purposes when using solidity online browser , remix and sandboxes .", "title": "", "metadata": ""}
+{"_id": "43bf98436bc028131928a458ec06ab9e", "text": "Modifier to make a function callable only by exchange contract .", "title": "", "metadata": ""}
+{"_id": "1b09ffe37c473c9faf63b482a188fcf1", "text": "Unlock vested tokens and transfer them to the grantee .", "title": "", "metadata": ""}
+{"_id": "b32290d62ec0dd825d9ddfb79d5dd23c", "text": "1 . 5 will be toward zero .", "title": "", "metadata": ""}
+{"_id": "0f1a62d99b8652a81ca01163c741a8b2", "text": "Function to get ether from contract .", "title": "", "metadata": ""}
+{"_id": "73ad0f38e63ebd07a80e0e1d2dd571c0", "text": "Get a contract by its name .", "title": "", "metadata": ""}
+{"_id": "c44ea1a400ee1bb6f9d676dae6e9cff4", "text": "internal balances .", "title": "", "metadata": ""}
+{"_id": "af93527635e0e968e5d7c4d5287055ac", "text": "transfer ownership of this SSP record .", "title": "", "metadata": ""}
+{"_id": "c3179cd7f1de4c55172dd4b09ba81f47", "text": "Allows draining of Ether .", "title": "", "metadata": ""}
+{"_id": "d104c6515d95f9954b17b34dd34ec0eb", "text": "Issue token based on Ether received .", "title": "", "metadata": ""}
+{"_id": "e2dbbe3c69eac0df47510f457bd32682", "text": "Appends uint ( in decimal ) to a string .", "title": "", "metadata": ""}
+{"_id": "1b274fd21e2ecb1e42d11dbe625d9694", "text": "This method is called by owner after contribution period ends , to distribute DNT in proportional manner .", "title": "", "metadata": ""}
+{"_id": "0b18ae3722d3e3342f0ae8e520e477a3", "text": "Remove a destroyer should they no longer require or need the the privilege .", "title": "", "metadata": ""}
+{"_id": "23c6d2d0ee13733059eaa0df92ce828e", "text": "Allows an account to enter a higher bid on a toekn .", "title": "", "metadata": ""}
+{"_id": "99786abe1054fb4d6bf5107ea6c1f11f", "text": "Retrieve Faucet's balance .", "title": "", "metadata": ""}
+{"_id": "05d6249a2f4a687ca2e8ddf49f5c2bac", "text": "To set price for EXH Token .", "title": "", "metadata": ""}
+{"_id": "40188af4d22572a4cf534df500dddb36", "text": "Returns TOTAL payout per tier when calculated using the odds method .", "title": "", "metadata": ""}
+{"_id": "8c2b769e76debf698d2f734e29c7e16b", "text": "Withdraw amount to owner .", "title": "", "metadata": ""}
+{"_id": "f997d31b8fc08ec6d27dcae143fb036e", "text": "Let's the caller create an original artwork with given genome .", "title": "", "metadata": ""}
+{"_id": "612408dc25dd1372386d12f7e954c8ae", "text": "Function to transfer tokens .", "title": "", "metadata": ""}
+{"_id": "72ca4781a24bde46d8a064f05e892f05", "text": "Returns the in array index of one position and throws on off-grid position .", "title": "", "metadata": ""}
+{"_id": "8f1a043afdd0ecc172c2de8123da6cf7", "text": "Slice 20 contiguous bytes from bytes data , starting at start .", "title": "", "metadata": ""}
+{"_id": "d0cd9cc1d836ec558ce6d1ea172a7b5d", "text": "Function modifier to check if msg . sender .", "title": "", "metadata": ""}
+{"_id": "1252c7c6895ff94f1df522253dd7f484", "text": "Return an array with the weapons of the army .", "title": "", "metadata": ""}
+{"_id": "1eabe8aadcc78e232ff6ed6798e26169", "text": "Set the PriceSetter address , which has access to set one token price in wei .", "title": "", "metadata": ""}
+{"_id": "16a0d241bef18044a38977a37dc5d3b2", "text": "Function Tokens withdraw .", "title": "", "metadata": ""}
+{"_id": "fee1bfede35d148eed3b3d01b303e361", "text": "Prevent the user from submitting the same bet again .", "title": "", "metadata": ""}
+{"_id": "251ef31b2f08311a76533e88787be1ca", "text": "The result of multiplying x and y , throwing an exception in case of overflow .", "title": "", "metadata": ""}
+{"_id": "f018a2652b886c43d34773c0899702c7", "text": "This is modifier ( a special function ) which will execute before the function execution on which it applied .", "title": "", "metadata": ""}
+{"_id": "25a93d2b881e83858d5cef9af978e258", "text": "each angel can only be on ONE sponsored leaderboard at a time .", "title": "", "metadata": ""}
+{"_id": "15bc19619f98a2198dfda2eb95fe26a3", "text": "Returns the maximum available amount that can be taken of an order .", "title": "", "metadata": ""}
+{"_id": "42442f1c70b45a21d251b69ea60d6049", "text": "Dev withdraw - splits equally among all owners of contract .", "title": "", "metadata": ""}
+{"_id": "5843df6062550b6e06ed8f38f2d87ce9", "text": "an account / contract attempts to get the coins throws on any error rather then return a false flag to minimize user errors in addition to the standard checks , the function throws if transfers are disabled .", "title": "", "metadata": ""}
+{"_id": "af1728c596e6ae678897833676535402", "text": "By default minWeiAmount 1000 .", "title": "", "metadata": ""}
+{"_id": "8ef2a13a88f9c9c0dafb2d9ae5ebb594", "text": "address The current round ( when applicable ) .", "title": "", "metadata": ""}
+{"_id": "698c164ec9679265b19e249ced4b2394", "text": "Publish article .", "title": "", "metadata": ""}
+{"_id": "80e2a0675896506ba174324574e8b6f4", "text": "Allows the owner to enable transfer .", "title": "", "metadata": ""}
+{"_id": "0cdccffb2a0f8eb8bdbd2a375eb893c7", "text": "true if _admin is removed successful .", "title": "", "metadata": ""}
+{"_id": "a9f455d6927f03c0e3b6d863f4a522f9", "text": "Allows the pendingAdmin address to finalize the change admin process .", "title": "", "metadata": ""}
+{"_id": "b5d9573b34fcae06eca5042f0bdef8de", "text": "Check if token transfer destination is valid .", "title": "", "metadata": ""}
+{"_id": "e391fa827f954ded9e4859884c711a5b", "text": "update minting agent .", "title": "", "metadata": ""}
+{"_id": "a5ab3e0efb9078930cf0af20e62d578d", "text": "Returns the total tokens which can be purchased right now .", "title": "", "metadata": ""}
+{"_id": "fbf64fbccd8e60e704bccf13b34647d4", "text": "after a day , admin finalizes the ownership change .", "title": "", "metadata": ""}
+{"_id": "7c9ea6b4d478a2c1bcb68183a6722ee1", "text": "Stakes a certain amount of tokens , this MUST transfer the given amount from the caller .", "title": "", "metadata": ""}
+{"_id": "e8209e46a72d848f8d2736f7c25a5bb4", "text": "Run bid on auction .", "title": "", "metadata": ""}
+{"_id": "d06af255ad4b19616ff354059e364592", "text": "Approve this contract , proxy for owner ( Mint ) , to spend the specified amount of tokens on behalf of msg . sender .", "title": "", "metadata": ""}
+{"_id": "0dbaadadcef93d2fc9c996ee71dda986", "text": "allows to update tokens rate for owner .", "title": "", "metadata": ""}
+{"_id": "a10faff4a68ae090d73be4c67ebffe56", "text": "Throw an exception if the amounts are not equal .", "title": "", "metadata": ""}
+{"_id": "3bce8fd9bc5da995265d4ee243b4ff15", "text": "Creates a new proxy contract for an owner and recovery .", "title": "", "metadata": ""}
+{"_id": "ee253fe8231edea818b54cd494c55a84", "text": "This function is potentially dangerous and should never be used except in extreme cases .", "title": "", "metadata": ""}
+{"_id": "383053f47e7d473489772eceefb9ae02", "text": "Changes the successor .", "title": "", "metadata": ""}
+{"_id": "daee707fbc08b6b44455c9ca0e8f06e2", "text": "how much profit ? .", "title": "", "metadata": ""}
+{"_id": "85fbcfb732e732b73301d9f26399ba61", "text": "Check if the customer's Tx of payment for MCW is spent .", "title": "", "metadata": ""}
+{"_id": "b613644317fc0be0283c3665ef3c07f6", "text": "Sets the free memory pointer to point beyond all accessed memory .", "title": "", "metadata": ""}
+{"_id": "aaa2ea0055ee7b9e04b96f9698c214e0", "text": "The ability to quickly check Round1 ( only for Round1 , only 1 time ) .", "title": "", "metadata": ""}
+{"_id": "24e8b21945c82986dd818d8504a65a65", "text": "remove address from white list .", "title": "", "metadata": ""}
+{"_id": "92b3deaca6a6e488722c2563c38880cb", "text": "process a combat , it is expencive , so provide enough gas .", "title": "", "metadata": ""}
+{"_id": "caa583b29e2495c0c7438389b5ad6440", "text": "Withdraw the balance and share pot .", "title": "", "metadata": ""}
+{"_id": "02eafc3e1c3fb237df7690b3720ef2b3", "text": "All air deliver related functions use counts insteads of wei _amount in BioX , not wei .", "title": "", "metadata": ""}
+{"_id": "08d443d15adb9f49246dbcb298e3a19c", "text": "Allows qualified crowdsale partner to purchase Star Tokens .", "title": "", "metadata": ""}
+{"_id": "bff82367b44db9797b9e16987b779eee", "text": "Modifier , Only owner can execute the function .", "title": "", "metadata": ""}
+{"_id": "54f62c5cdb8e34c0a7b7f0ecabf23dce", "text": "ERC223 fetch contract size ( must be nonzero to be a contract ) .", "title": "", "metadata": ""}
+{"_id": "01d6db32af135d3aaf18b39aac82079e", "text": "Calc possibly output ( compounding interest ) for specified input and number of payout .", "title": "", "metadata": ""}
+{"_id": "01d23fd2d0137004e0f78559fca771c9", "text": "Compute all second winners of all first round winners .", "title": "", "metadata": ""}
+{"_id": "c214fc623a225028621f7fe8b4e7131a", "text": "Check if we are in the lock period of the current round .", "title": "", "metadata": ""}
+{"_id": "816ade81f827b7b57b558145054f9d77", "text": "resets the purchaser's cap if the window duration has been met .", "title": "", "metadata": ""}
+{"_id": "28aa18f6beeba82d62d65deabf1b432a", "text": "sets the global activation fee .", "title": "", "metadata": ""}
+{"_id": "543dbfaa2c85e75f6b4bc4e12f3f70b2", "text": "Set Prices .", "title": "", "metadata": ""}
+{"_id": "8cb838a60868cbb4971efb3ed93f2924", "text": "Allows owner to sweep any ETH somehow trapped in the contract .", "title": "", "metadata": ""}
+{"_id": "de0314087927576f4a94532b1969b584", "text": "Returns true only if the gift exists and has not already been redeemed .", "title": "", "metadata": ""}
+{"_id": "010f02e4e9baea2ac068219cfd66bdea", "text": "Functions of the contract .", "title": "", "metadata": ""}
+{"_id": "523c93ebaaa7df1643a5ef8905c1a753", "text": "This function can be auto-generated by the script 'PrintFunctionFixedExpUnsafe . py' .", "title": "", "metadata": ""}
+{"_id": "0d2a492c5c0a0055fb4088622f1bc7a5", "text": "Extra functions .", "title": "", "metadata": ""}
+{"_id": "5478b0c8eb23004f05e90ae4206f3703", "text": "create a new tank type .", "title": "", "metadata": ""}
+{"_id": "21bf80d529657b28ceba4b2b227e421d", "text": "Return the state based on the timestamp .", "title": "", "metadata": ""}
+{"_id": "bf79524408edbac7ddcbd1b37394dd10", "text": "Function transferOwnership allows owner to change ownership .", "title": "", "metadata": ""}
+{"_id": "628dac987a0deb05893aa35e1754635b", "text": "start game .", "title": "", "metadata": ""}
+{"_id": "0537f7088c0f8671fb832d77efe4687e", "text": "Requires msg . sender .", "title": "", "metadata": ""}
+{"_id": "6f52a316959dbad8cbbc791bcac85e1e", "text": "Set addresses which should receive the vested team tokens share on finalization .", "title": "", "metadata": ""}
+{"_id": "aac5e191e441e96dcd54e7899cec33a5", "text": "sell eggs for eth .", "title": "", "metadata": ""}
+{"_id": "69da52dad7121e26be9548316d35a6f4", "text": "Gives admin the ability to switch prebridge states .", "title": "", "metadata": ""}
+{"_id": "acfb064efb5386677b95aad145e11118", "text": "Get invested ethereum from Pre ICO .", "title": "", "metadata": ""}
+{"_id": "d328f7c73b12b0eeb686ec850627c637", "text": "param proposalNumber proposal number param refundAmount the money should pay back param fees to be paid by claimer .", "title": "", "metadata": ""}
+{"_id": "c1d9634c7aa63973385c24b9e90ce76c", "text": "min and max for withdraw nac .", "title": "", "metadata": ""}
+{"_id": "28a87fb5bdebaf99793ddc19213f2123", "text": "returns krown balance of given address .", "title": "", "metadata": ""}
+{"_id": "6e5e24c0c19aebbb65520172b047093c", "text": "Decode an RLPItem into an address .", "title": "", "metadata": ""}
+{"_id": "6c14e3ec4433ed93a5d536ba8a311a73", "text": "Remove policy rule .", "title": "", "metadata": ""}
+{"_id": "3f9f54c8872ce2f85129f5a95d9a22fc", "text": "Function to prevent targets from sending or receiving tokens by setting Unix times .", "title": "", "metadata": ""}
+{"_id": "ff60b8d00430d2dc3b7a851069835202", "text": "This method contains the core game logic , tracking a distinct button click event and saving all relevant metadata associated with it .", "title": "", "metadata": ""}
+{"_id": "382cf050312f3b9447cec85b05139f46", "text": "anyone can call this function to update the inflation rate yearly .", "title": "", "metadata": ""}
+{"_id": "ac7c2facd4fc5c6b2b65622baac16311", "text": "public ( read only ) : unixtime to next interest payout unnecessary - just for enduser lookylooky .", "title": "", "metadata": ""}
+{"_id": "fedeeb0855483fad9f1949088c28f7a4", "text": "return the price for nth key n keys / decimals .", "title": "", "metadata": ""}
+{"_id": "9881d46a07caa778fe559fffec1577d6", "text": "Allows _spender to withdraw from your account multiple times , up to the _value amount .", "title": "", "metadata": ""}
+{"_id": "0b494aef2c740ab59eb44a6cbaa3d4cf", "text": "Withdraw functions .", "title": "", "metadata": ""}
+{"_id": "3a8ac00706f8d2353e78e36d572c7603", "text": "Converts all of caller's affiliate rewards to tokens .", "title": "", "metadata": ""}
+{"_id": "50d3a5e2edb9a6131567c88496ddad6d", "text": "function to transfer ownership for Vanity URL .", "title": "", "metadata": ""}
+{"_id": "8480688a5551d132ac17a5cee5dd188d", "text": "below are internal functions .", "title": "", "metadata": ""}
+{"_id": "4ff59120c717a3f865d6e41dbac01514", "text": "Internal transfer for AIRA .", "title": "", "metadata": ""}
+{"_id": "4da0d84e304b0fde14512ddf90170166", "text": "Get the balance of the specified address .", "title": "", "metadata": ""}
+{"_id": "81aee73ca31fe07f813e92b090503ac9", "text": "Start Contruibute .", "title": "", "metadata": ""}
+{"_id": "44160255e94f693f423c749ab881cf56", "text": "Set many pixels with one tx .", "title": "", "metadata": ""}
+{"_id": "4f5d994066c439419a30ee0a08080ef4", "text": "Throws if called before crowdsale start time .", "title": "", "metadata": ""}
+{"_id": "b78ca551dd73ed81e02fe2de020e6aab", "text": "Sends profits to Token .", "title": "", "metadata": ""}
+{"_id": "b6ab1cfc6eaab4a85ab0cddbf2ed820d", "text": "Sets the id of the last token that will be given a prize .", "title": "", "metadata": ""}
+{"_id": "12c089300bbe5f3996ae71613e2d3be7", "text": "Stage start conditions .", "title": "", "metadata": ""}
+{"_id": "de102c34b9aa2b4d5a7d2130b0a41185", "text": "Sets an external manager that will be able to call setInterfaceImplementer ( ) on behalf of the address .", "title": "", "metadata": ""}
+{"_id": "db166a601bd788124262de8e20e9679c", "text": "Whitelist funder's address .", "title": "", "metadata": ""}
+{"_id": "3c5786c12048965a81eb4dca887aa8b6", "text": "set limits logic : .", "title": "", "metadata": ""}
+{"_id": "1923a138b83f6deb29d8f253e8c4a1bd", "text": "creates AVALANCHE ICE Tokens this address will hold all tokens all community contrubutions coins will be taken from this address .", "title": "", "metadata": ""}
+{"_id": "f15fb1a676009a0d58d7fda39a01f328", "text": "Pre-sale Period .", "title": "", "metadata": ""}
+{"_id": "4aceeb473a13a205699a68ac118bddb4", "text": "Get the block numbers for all of a blob's revisions .", "title": "", "metadata": ""}
+{"_id": "af5482675c8d0a45a95f5e4376d3e3ae", "text": "Set up bounty pool .", "title": "", "metadata": ""}
+{"_id": "badabc36395edb24b956596ec3034d66", "text": "Getters getPlayer .", "title": "", "metadata": ""}
+{"_id": "2d770bc54cf267b5988ea8a182aec5d3", "text": "after a day , admin finalizes the delegation .", "title": "", "metadata": ""}
+{"_id": "adfa4c2feb04cccc4aa4c6c46168c546", "text": "Receive the WEDU token from other user .", "title": "", "metadata": ""}
+{"_id": "e1688c7064a1d29d6ff085cb22be9455", "text": "Get the price for tokens for the current stage .", "title": "", "metadata": ""}
+{"_id": "2b591286c19f85e1a668008763f95854", "text": "this serves as a lookup for new monsters to be generated since all monsters of the same id share the base stats also makes it possible to only store the monsterId on core and change this one during evolution process to save gas and additional transactions .", "title": "", "metadata": ""}
+{"_id": "13d230c91f2e8931fb998e7438cedad2", "text": "Release purchased tokens to buyers during mainsale ( as required by Eidoo's ICOEngineInterface ) .", "title": "", "metadata": ""}
+{"_id": "49c5e63f5f3b6074464a33bdcf7a539f", "text": "Reverts if called by any account other than the owner , depositor , or beneficiary .", "title": "", "metadata": ""}
+{"_id": "5c1e8333f068981a3c565f4b8193f0ce", "text": "Airdrops some tokens to some accounts .", "title": "", "metadata": ""}
+{"_id": "4921a5ca40552df58cad02cb7191075c", "text": "Checks if a given address currently has transferApproval for a certain Cutie .", "title": "", "metadata": ""}
+{"_id": "b10affc6eafb2c5d93381f745acf4041", "text": "Modifier Throws if called by any account other than the GDPOracle .", "title": "", "metadata": ""}
+{"_id": "5454704122e272bc29b5ee8285d4cf94", "text": "gets data about a specific redemption done on a specific address .", "title": "", "metadata": ""}
+{"_id": "ca1e1752631343f67199e52fba9dcbc2", "text": "transfers animals from one contract to another .", "title": "", "metadata": ""}
+{"_id": "11fe5acae101a40c714a637dc4239e0c", "text": "Add : Mint Token .", "title": "", "metadata": ""}
+{"_id": "e26ac353a2e9bfa7e1929e669ae34b30", "text": "Owner can delist by setting cap 0 .", "title": "", "metadata": ""}
+{"_id": "950950b27f2c4bbcd94057b303ca26b3", "text": "function to start the crowdsale manually can only be called from the owner wallet this function can be used if the owner wants to start the ICO before the specified start date this function can also be used to undo the stopcrowdsale , in case the crowdsale is stopped due to human error .", "title": "", "metadata": ""}
+{"_id": "84e3e56fe14a38ea4df01c4aec04357e", "text": "Returns a deed identifier of the owner at the given index .", "title": "", "metadata": ""}
+{"_id": "629d290bb13e896d637a7fa8eb7ed453", "text": "modifier to limit the number of times a function can be called to once .", "title": "", "metadata": ""}
+{"_id": "fee58fe3d8d29f134982635a18b202d2", "text": "allows to change dev fee .", "title": "", "metadata": ""}
+{"_id": "b6732df86b64c937df3d7479a27fa8f2", "text": "Override transferFrom .", "title": "", "metadata": ""}
+{"_id": "e5bf8444e122fb01db4abd089b98af1e", "text": "Sell amount tokens to contract .", "title": "", "metadata": ""}
+{"_id": "03755136837adff0d82fb1276a2c503d", "text": "enables or disables address to be sender of EUR-T .", "title": "", "metadata": ""}
+{"_id": "8e712ed31f6784df1245ab14865183d3", "text": "For refund only .", "title": "", "metadata": ""}
+{"_id": "5ae8fc176cbfa9b02b6d2f59f74435bd", "text": "Allows to buy shares .", "title": "", "metadata": ""}
+{"_id": "c8f307cfeecf497fc4b7cc7e0a73fca8", "text": "PushData - Sends an Oraclize query for entered API .", "title": "", "metadata": ""}
+{"_id": "8d4ed58227bae4c8900ab73764ea0230", "text": "Function confirm autosell .", "title": "", "metadata": ""}
+{"_id": "3836bb3a11cd5ed67f305defdbbff7fb", "text": "An internal method that creates a new Zodiac and stores it .", "title": "", "metadata": ""}
+{"_id": "399f8810abbdf840eef1a331eed22714", "text": "It will be automatically called on deploy .", "title": "", "metadata": ""}
+{"_id": "215984dcab39fd6787c28e259a8e03d1", "text": "index of new created snapshot .", "title": "", "metadata": ""}
+{"_id": "e6262589608bafefb0ae542fbc8fe14e", "text": "Get the hero's level .", "title": "", "metadata": ""}
+{"_id": "f1d74761699c628c7d4e5dc2dcdce9d3", "text": "This returns total number of tokens in existence .", "title": "", "metadata": ""}
+{"_id": "236388bcd18abc639af8c9c43b806b02", "text": "withdraw all released vesting coin to balance .", "title": "", "metadata": ""}
+{"_id": "525be4b6319fd8cc3777ee1c2beb536e", "text": "doProxyAccounting ( ) is an internal function that creates tokens for fees pledged by the owner .", "title": "", "metadata": ""}
+{"_id": "6ed8ec3ca48b6f74fec96408f729aebe", "text": "Allows for marketing contributor's reward withdrawl .", "title": "", "metadata": ""}
+{"_id": "00fb73a60aba3c133cedf26e6a055b36", "text": "Releases vested tokens back to Hut34 wallet .", "title": "", "metadata": ""}
+{"_id": "f200004db029d2f02f9bd4016b356048", "text": "Sets the symbol .", "title": "", "metadata": ""}
+{"_id": "8fcb0f0003bebdf3282e933547604e52", "text": "Allows anyone to transfer the Change tokens once trading has started .", "title": "", "metadata": ""}
+{"_id": "802ad308c942a7935424e327607f3e5d", "text": "revert if sender is whiteListAgent .", "title": "", "metadata": ""}
+{"_id": "641010c2f000631b8cb525dcf934ddab", "text": "the inflation rate begins at 100 and decreases by 30 every year until it reaches 10 at 10 the rate begins to decrease by 0 . 5 .", "title": "", "metadata": ""}
+{"_id": "89b8f5985e3054f8fda5ac145e9d146a", "text": "To transfer tokens to a user address .", "title": "", "metadata": ""}
+{"_id": "7091126060edd4c9b0ee6c5d07d5e9e2", "text": "Removes auction from public view , returns token to the seller .", "title": "", "metadata": ""}
+{"_id": "1f236862062b7a594e317a1c899c49da", "text": "Approve of minting _amount tokens that are assigned to _owner .", "title": "", "metadata": ""}
+{"_id": "63cab3288bf7a8b6079c5ba2f90da365", "text": "Get the total jackpot value , which is contract balance if the jackpot is not completed . Else .", "title": "", "metadata": ""}
+{"_id": "dc16e83f0314952c9079d891a6eed47f", "text": "Calculates how much ETH somebody can receive for selling amount BOB .", "title": "", "metadata": ""}
+{"_id": "169de713c9c82dc0e9ed5502514559a6", "text": "Modifier for accessibility to add deposit .", "title": "", "metadata": ""}
+{"_id": "17f4fbd043005be858043b123f44cbf2", "text": "choose if an address is allowed to bypass the global freeze .", "title": "", "metadata": ""}
+{"_id": "8ad01b1a7fb99abe711e665b6d5f5ff7", "text": "Callback of Oraclize Random Number .", "title": "", "metadata": ""}
+{"_id": "7bbb222a31854d00cfbd659ca1f30999", "text": "The owner can update the rate ( TCR to ETH ) .", "title": "", "metadata": ""}
+{"_id": "4deab7ef7ef8d6867ab79f56c407b302", "text": "Shows if account is frozen .", "title": "", "metadata": ""}
+{"_id": "b00944b6fd8c43e67069b4d4a8ad8200", "text": "allows the owner to send any tx , similar to a multi-sig this is necessary b / c the campaign may receive dac / campaign tokens if they transfer a pledge they own to another dac / campaign .", "title": "", "metadata": ""}
+{"_id": "d7ee7b3f7c7320bfa0f17b4f7101379e", "text": "Nullify functionality is intended to disable the contract .", "title": "", "metadata": ""}
+{"_id": "ebab78bb3ff83a1562c29293c1eb9693", "text": "function to remove a minor owner can only be called by the major / actual owner wallet .", "title": "", "metadata": ""}
+{"_id": "3a5be6a39b3c0192fac296089988f7df", "text": "Retrieve the value of the node .", "title": "", "metadata": ""}
+{"_id": "ff8413552cb64a6886d7edf57c8ba2f6", "text": "define who can transfer Tokens : owner and distributors .", "title": "", "metadata": ""}
+{"_id": "73125f60a1dd8adce6af4cd2507d6df5", "text": "Set charity address .", "title": "", "metadata": ""}
+{"_id": "a73631749e1feead2ef06a049f5b4e45", "text": "This function can set the server side address .", "title": "", "metadata": ""}

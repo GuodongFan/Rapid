@@ -1,0 +1,564 @@
+{"_id": "dabffc82d19119899a430d8122fdb989", "text": "SELECT Name FROM teacher WHERE Age = 32 OR Age = 33\n", "title": "", "metadata": ""}
+{"_id": "bdc3388fd14a65783cf495a8348ea837", "text": "SELECT T1.professional_id , T1.role_code , T1.first_name FROM Professionals AS T1 JOIN Treatments AS T2 ON T1.professional_id = T2.professional_id GROUP BY T1.professional_id HAVING count(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "ff8a973d35021f2ace8f8cfae36485f6", "text": "SELECT country , count(*) FROM singer GROUP BY country\n", "title": "", "metadata": ""}
+{"_id": "9b89d25508a45af1dec64dcfc23e1086", "text": "SELECT Episode , Rating FROM TV_series ORDER BY Rating DESC LIMIT 3;\n", "title": "", "metadata": ""}
+{"_id": "f47bb7ed6393ec96b76e81c4647b2425", "text": "SELECT country_code FROM players GROUP BY country_code ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "32012bd79b26549262f8ba2722a79381", "text": "SELECT Name , SurfaceArea FROM country ORDER BY SurfaceArea DESC LIMIT 5\n", "title": "", "metadata": ""}
+{"_id": "f0e1efbec523ce31ef32c013480d329b", "text": "SELECT Final_Table_Made , Best_Finish FROM poker_player\n", "title": "", "metadata": ""}
+{"_id": "8a185eab27796cd62c9329f691cfc8ff", "text": "SELECT COUNT( DISTINCT Continent) FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"Chinese\"\n", "title": "", "metadata": ""}
+{"_id": "077c6ca952684ccf70ef38f94ac0d1d3", "text": "SELECT count(*) FROM ship WHERE disposition_of_ship = 'Captured'\n", "title": "", "metadata": ""}
+{"_id": "36404cd040a8935a68fe0f9e1135c5f4", "text": "SELECT avg(age) FROM Dogs WHERE dog_id IN ( SELECT dog_id FROM Treatments )\n", "title": "", "metadata": ""}
+{"_id": "1bf9a9b2df6fc2ccbd6ce302eea09b17", "text": "SELECT vote_id , phone_number , state FROM votes\n", "title": "", "metadata": ""}
+{"_id": "8142d6fd7f1da147cc965cefbf2ab520", "text": "SELECT count(*) FROM TV_Channel WHERE LANGUAGE = \"English\";\n", "title": "", "metadata": ""}
+{"_id": "e0f83831f6620739d654975f4b81eaf7", "text": "SELECT Population , Region FROM country WHERE Name = \"Angola\"\n", "title": "", "metadata": ""}
+{"_id": "beef90570ee9ea5fd25f03602e65ca56", "text": "SELECT max(SHARE) , min(SHARE) FROM TV_series;\n", "title": "", "metadata": ""}
+{"_id": "aa113e4854ab764d6ba1fabab5d56e79", "text": "SELECT T2.name FROM Likes AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id GROUP BY T1.student_id HAVING count(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "3075550642b7bdf44481bc39d86a1e18", "text": "SELECT Name FROM conductor ORDER BY Year_of_Work DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "b49e37de1b75136915e31c8ff8decbe7", "text": "SELECT count(*) , YEAR FROM matches GROUP BY YEAR\n", "title": "", "metadata": ""}
+{"_id": "4042a52d6d7b83017dc84cedb95dba7d", "text": "SELECT T1.course_name FROM Courses AS T1 JOIN Student_Enrolment_Courses AS T2 ON T1.course_id = T2.course_id GROUP BY T1.course_name ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "6b0ef7dce85ff8842a75766dfbdff3fa", "text": "SELECT count(DISTINCT degree_summary_name) FROM Degree_Programs\n", "title": "", "metadata": ""}
+{"_id": "9acc054c89d9e029661ad29c92fb24d2", "text": "SELECT T1.owner_id , T1.last_name FROM Owners AS T1 JOIN Dogs AS T2 ON T1.owner_id = T2.owner_id JOIN Treatments AS T3 ON T2.dog_id = T3.dog_id GROUP BY T1.owner_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "f8f2d758c730cda7fea3d86a96e08713", "text": "select count(*) , t2.fullname from model_list as t1 join car_makers as t2 on t1.maker = t2.id group by t2.id;\n", "title": "", "metadata": ""}
+{"_id": "9cd52f8c3515f0ee72a492606f808d71", "text": "SELECT count(*) FROM CARS_DATA WHERE Cylinders > 4;\n", "title": "", "metadata": ""}
+{"_id": "7f3d05a3fec7b6aa0e8c491ce45bb28d", "text": "SELECT T1.date_of_treatment , T2.first_name FROM Treatments AS T1 JOIN Professionals AS T2 ON T1.professional_id = T2.professional_id\n", "title": "", "metadata": ""}
+{"_id": "094785fb2ab5baa649e2213e6d98c8f6", "text": "SELECT T2.Language FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T1.HeadOfState = \"Beatrix\" AND T2.IsOfficial = \"T\"\n", "title": "", "metadata": ""}
+{"_id": "46202695eb7b0899afb968041a554601", "text": "SELECT first_name , middle_name , last_name FROM Students ORDER BY date_first_registered ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "b25b1f6864c2fd8d51a859348378f4c5", "text": "SELECT Name FROM singer ORDER BY Net_Worth_Millions DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "6d5edf5612e987f1e6b8eb1abc3e3e86", "text": "SELECT DISTINCT T1.date_arrived , T1.date_departed FROM Dogs AS T1 JOIN Treatments AS T2 ON T1.dog_id = T2.dog_id\n", "title": "", "metadata": ""}
+{"_id": "cf48ef1de709685fbc084f9a49222b3b", "text": "SELECT sum(Population) , avg(LifeExpectancy) , Continent FROM country GROUP BY Continent HAVING avg(LifeExpectancy) < 72\n", "title": "", "metadata": ""}
+{"_id": "4caba0f3a6b5fd6c05d1cd9d5e79dd1d", "text": "SELECT T1.Continent , count(*) FROM CONTINENTS AS T1 JOIN COUNTRIES AS T2 ON T1.ContId = T2.continent JOIN car_makers AS T3 ON T2.CountryId = T3.Country GROUP BY T1.Continent;\n", "title": "", "metadata": ""}
+{"_id": "c05370b45d0d69d5b19a8b2f3c5d96f6", "text": "SELECT CountryCode FROM countrylanguage EXCEPT SELECT CountryCode FROM countrylanguage WHERE LANGUAGE = \"English\"\n", "title": "", "metadata": ""}
+{"_id": "2edfabd4145085bcc5792451bf612167", "text": "SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"English\" AND T2.IsOfficial = \"T\" INTERSECT SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"French\" AND T2.IsOfficial = \"T\"\n", "title": "", "metadata": ""}
+{"_id": "ef86ece584cda59d93844d8f156af5ac", "text": "SELECT Record_Company FROM orchestra GROUP BY Record_Company ORDER BY COUNT(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "1e9ce01dd3981b43d0bae79f35475802", "text": "SELECT T2.id , T2.name FROM death AS T1 JOIN ship AS t2 ON T1.caused_by_ship_id = T2.id GROUP BY T2.id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "556e33fa6a2a9c762a2612410da4dab4", "text": "SELECT T2.Title , T1.Name FROM singer AS T1 JOIN song AS T2 ON T1.Singer_ID = T2.Singer_ID\n", "title": "", "metadata": ""}
+{"_id": "0eb2861719f0aa9313ece01f55bf0605", "text": "SELECT avg(LifeExpectancy) FROM country WHERE Name NOT IN (SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"English\" AND T2.IsOfficial = \"T\")\n", "title": "", "metadata": ""}
+{"_id": "d7af3f88afe0705f99c1fff010ef0a6d", "text": "SELECT count(*) FROM Documents AS T1 JOIN Templates AS T2 ON T1.Template_ID = T2.Template_ID WHERE T2.Template_Type_Code = 'PPT'\n", "title": "", "metadata": ""}
+{"_id": "e0a872a6dfdae269ef595f704dbb94dd", "text": "SELECT document_id , template_id , Document_Description FROM Documents WHERE document_name = \"Robbin CV\"\n", "title": "", "metadata": ""}
+{"_id": "b004d0cec947f9d4c1541d80af63f8d2", "text": "SELECT professional_id , role_code , email_address FROM Professionals EXCEPT SELECT T1.professional_id , T1.role_code , T1.email_address FROM Professionals AS T1 JOIN Treatments AS T2 ON T1.professional_id = T2.professional_id\n", "title": "", "metadata": ""}
+{"_id": "52fe0434a074aa42ad65a3a083d08e93", "text": "SELECT count(*) , Directed_by FROM cartoon GROUP BY Directed_by\n", "title": "", "metadata": ""}
+{"_id": "bd164429d7a60e5b5976faa0b2601076", "text": "SELECT Title FROM Cartoon WHERE Directed_by = \"Ben Jones\" OR Directed_by = \"Brandon Vietti\";\n", "title": "", "metadata": ""}
+{"_id": "736cf0f0db9e5365076ae839b74c9713", "text": "SELECT Name , population , HeadOfState FROM country ORDER BY SurfaceArea DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "5c0bd216fe6e480c5c23c1ecd122838c", "text": "SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline WHERE T2.SourceAirport = \"CVO\" EXCEPT SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline WHERE T2.SourceAirport = \"APG\"\n", "title": "", "metadata": ""}
+{"_id": "432157d6856e95b22c5c2cf3d2ebf6f2", "text": "SELECT count(*) FROM Documents\n", "title": "", "metadata": ""}
+{"_id": "5dc433a06344ad044f964ea2f4048557", "text": "SELECT DISTINCT template_type_code FROM Templates\n", "title": "", "metadata": ""}
+{"_id": "970f86e8310b7f133746a43a24842b94", "text": "SELECT Episode FROM TV_series ORDER BY rating\n", "title": "", "metadata": ""}
+{"_id": "107caf9818e19772648f49b4b15c4fcb", "text": "SELECT T2.CountryName FROM CAR_MAKERS AS T1 JOIN COUNTRIES AS T2 ON T1.Country = T2.CountryId GROUP BY T1.Country ORDER BY Count(*) DESC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "1a1fdd52c8fa4085ad34c94de824e1f7", "text": "SELECT Count(*) , T2.FullName , T2.id FROM MODEL_LIST AS T1 JOIN CAR_MAKERS AS T2 ON T1.Maker = T2.Id GROUP BY T2.id;\n", "title": "", "metadata": ""}
+{"_id": "7b5319fe0a4512efeba4d27e17df5dea", "text": "SELECT T1.template_type_code , count(*) FROM Templates AS T1 JOIN Documents AS T2 ON T1.template_id = T2.template_id GROUP BY T1.template_type_code\n", "title": "", "metadata": ""}
+{"_id": "314e4df8e8de46eebf8cf9e87621d950", "text": "SELECT T1.Continent FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode GROUP BY T1.Continent ORDER BY COUNT(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "844856a93f16601d8545d8f0da426898", "text": "SELECT T1.CountryName , T1.CountryId FROM COUNTRIES AS T1 JOIN CAR_MAKERS AS T2 ON T1.CountryId = T2.Country GROUP BY T1.CountryId HAVING count(*) >= 1;\n", "title": "", "metadata": ""}
+{"_id": "87e7b2cb765bf6cae5389cea794e2c8f", "text": "SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline GROUP BY T1.Airline HAVING count(*) < 200\n", "title": "", "metadata": ""}
+{"_id": "6a2bdcbaaa0253c35b16a12982f1db3a", "text": "SELECT document_id FROM Paragraphs GROUP BY document_id ORDER BY count(*) ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "7111ab57a2c3b456eb151c608c07e8fd", "text": "SELECT T1.FlightNo FROM FLIGHTS AS T1 JOIN AIRLINES AS T2 ON T2.uid = T1.Airline WHERE T2.Airline = \"United Airlines\"\n", "title": "", "metadata": ""}
+{"_id": "597be6de34bb5706d0a80b4ebc1db6fc", "text": "SELECT student_id FROM Friend INTERSECT SELECT liked_id FROM Likes\n", "title": "", "metadata": ""}
+{"_id": "0f168a8070d9352edb469f2bf74f99f0", "text": "SELECT count(*) FROM AIRPORTS\n", "title": "", "metadata": ""}
+{"_id": "e39af1d8efe1de538f30622e263474ba", "text": "SELECT Citizenship , max(Net_Worth_Millions) FROM singer GROUP BY Citizenship\n", "title": "", "metadata": ""}
+{"_id": "388dcb0b53268c2217970d11d292264c", "text": "SELECT T1.Name FROM people AS T1 JOIN poker_player AS T2 ON T1.People_ID = T2.People_ID ORDER BY T2.Earnings DESC\n", "title": "", "metadata": ""}
+{"_id": "ef9246402e38c2840fae18c6ec94da3d", "text": "SELECT transcript_date FROM Transcripts ORDER BY transcript_date DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "6fed03ddc52cc1108ac082034b20d039", "text": "SELECT document_id FROM Paragraphs GROUP BY document_id HAVING count(*) BETWEEN 1 AND 2\n", "title": "", "metadata": ""}
+{"_id": "73ab3d559cb109653b8b7f3cd61dcd4b", "text": "SELECT T1.Model FROM CAR_NAMES AS T1 JOIN CARS_DATA AS T2 ON T1.MakeId = T2.Id ORDER BY T2.horsepower ASC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "92e2a8bc06ae481c8a2d88faed021098", "text": "SELECT count(*) FROM CONTINENTS;\n", "title": "", "metadata": ""}
+{"_id": "be401530d2888d757db2a06324cdd4ac", "text": "SELECT T1.FlightNo FROM FLIGHTS AS T1 JOIN AIRPORTS AS T2 ON T1.SourceAirport = T2.AirportCode WHERE T2.City = \"Aberdeen\"\n", "title": "", "metadata": ""}
+{"_id": "8e02408d6d284f68704365bf5bc47a5c", "text": "SELECT T1.address_id , T1.line_1 , T1.line_2 FROM Addresses AS T1 JOIN Students AS T2 ON T1.address_id = T2.current_address_id GROUP BY T1.address_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "2d4c91159a40f99ef9154d11fa8e4c26", "text": "SELECT AirportName FROM AIRPORTS WHERE City = \"Aberdeen\"\n", "title": "", "metadata": ""}
+{"_id": "f4b369febb629b353e1f4b41aad87a94", "text": "SELECT grade FROM Highschooler GROUP BY grade HAVING count(*) >= 4\n", "title": "", "metadata": ""}
+{"_id": "bd907c0f0973baac5f2612b67acf0627", "text": "SELECT T1.Name FROM conductor AS T1 JOIN orchestra AS T2 ON T1.Conductor_ID = T2.Conductor_ID GROUP BY T2.Conductor_ID HAVING COUNT(*) > 1\n", "title": "", "metadata": ""}
+{"_id": "08e209fb0909f284aa6ce2a84ad36c49", "text": "SELECT professional_id , last_name , cell_number FROM Professionals WHERE state = 'Indiana' UNION SELECT T1.professional_id , T1.last_name , T1.cell_number FROM Professionals AS T1 JOIN Treatments AS T2 ON T1.professional_id = T2.professional_id GROUP BY T1.professional_id HAVING count(*) > 2\n", "title": "", "metadata": ""}
+{"_id": "b8a21884d17fdee5135f2b00f206a191", "text": "SELECT Name FROM country WHERE IndepYear > 1950\n", "title": "", "metadata": ""}
+{"_id": "60c2e6cd0860e3f9cb6799ed2f0d967d", "text": "SELECT T1.horsepower FROM CARS_DATA AS T1 ORDER BY T1.accelerate DESC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "9a2df4457444fbfde1b3e6f53d4db74d", "text": "SELECT T1.Model FROM CAR_NAMES AS T1 JOIN CARS_DATA AS T2 ON T1.MakeId = T2.Id WHERE T2.Cylinders = 4 ORDER BY T2.horsepower DESC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "e28ac9f84398e469a5e4d8a1c80ddf34", "text": "SELECT T1.CountryName FROM COUNTRIES AS T1 JOIN CONTINENTS AS T2 ON T1.Continent = T2.ContId JOIN CAR_MAKERS AS T3 ON T1.CountryId = T3.Country WHERE T2.Continent = 'europe' GROUP BY T1.CountryName HAVING count(*) >= 3;\n", "title": "", "metadata": ""}
+{"_id": "f9bd54b50b146660918d5cb44d26b556", "text": "SELECT line_1 , line_2 FROM addresses\n", "title": "", "metadata": ""}
+{"_id": "fbba21091f8515a8ac8db80480ac0907", "text": "SELECT template_type_code , count(*) FROM Templates GROUP BY template_type_code\n", "title": "", "metadata": ""}
+{"_id": "afec17822b32c818913546d5c35fd863", "text": "SELECT count(DISTINCT Nationality) FROM people\n", "title": "", "metadata": ""}
+{"_id": "dfe4a422e74fe3f79a586a6ea188766a", "text": "SELECT Maker , Model FROM MODEL_LIST;\n", "title": "", "metadata": ""}
+{"_id": "2eec48a67388bee2515f61363fd69353", "text": "SELECT name , LOCATION , district FROM shop ORDER BY number_products DESC\n", "title": "", "metadata": ""}
+{"_id": "5f384c606fd2c181ec4c7c61e26c377b", "text": "SELECT count(*) , t2.name FROM hiring AS t1 JOIN shop AS t2 ON t1.shop_id = t2.shop_id GROUP BY t2.name\n", "title": "", "metadata": ""}
+{"_id": "01d6a06a700a16cae320b1259472b99d", "text": "SELECT T1.document_id , T2.document_name , count(*) FROM Paragraphs AS T1 JOIN Documents AS T2 ON T1.document_id = T2.document_id GROUP BY T1.document_id\n", "title": "", "metadata": ""}
+{"_id": "b2acdf411b379adabffc590826f141c6", "text": "SELECT max(area_code) , min(area_code) FROM area_code_state\n", "title": "", "metadata": ""}
+{"_id": "c49a9eb175e37577da781dfce81293aa", "text": "SELECT DISTINCT T1.Fname FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pettype = 'cat' OR T3.pettype = 'dog'\n", "title": "", "metadata": ""}
+{"_id": "9f5a0b019cf89751902b6c4f67319a18", "text": "SELECT email_address FROM Professionals WHERE state = 'Hawaii' OR state = 'Wisconsin'\n", "title": "", "metadata": ""}
+{"_id": "2c7ed2a4ad594e64d69d48ad2fe69a56", "text": "SELECT Name FROM country ORDER BY Population ASC LIMIT 3\n", "title": "", "metadata": ""}
+{"_id": "94760439fafd345305f84c6392179f69", "text": "SELECT count(*) FROM FLIGHTS AS T1 JOIN AIRPORTS AS T2 ON T1.SourceAirport = T2.AirportCode WHERE T2.City = \"Aberdeen\"\n", "title": "", "metadata": ""}
+{"_id": "bf4b0226f24df8dcafb6e43a7608cdb1", "text": "SELECT template_id FROM Templates EXCEPT SELECT template_id FROM Documents\n", "title": "", "metadata": ""}
+{"_id": "a03c966a71d24be747e80591509b6ae4", "text": "SELECT count(*) FROM AIRLINES\n", "title": "", "metadata": ""}
+{"_id": "24a296da33ef875378621a92a3d7148f", "text": "SELECT Name FROM country ORDER BY Population DESC LIMIT 3\n", "title": "", "metadata": ""}
+{"_id": "21c41aafd7a9e7dee1f4320b96377c12", "text": "SELECT avg(T2.Earnings) FROM people AS T1 JOIN poker_player AS T2 ON T1.People_ID = T2.People_ID WHERE T1.Height > 200\n", "title": "", "metadata": ""}
+{"_id": "4eb79073635e1450fe0056340f1e663b", "text": "SELECT City , Country FROM AIRPORTS WHERE AirportName = \"Alton\"\n", "title": "", "metadata": ""}
+{"_id": "73f552e11356350250aac0ab5afb2457", "text": "SELECT Name FROM teacher ORDER BY Age ASC\n", "title": "", "metadata": ""}
+{"_id": "e2940688cc8d62222f3f993bf4102487", "text": "SELECT T1.fname , T1.sex FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid GROUP BY T1.stuid HAVING count(*) > 1\n", "title": "", "metadata": ""}
+{"_id": "c214dc23754b92e2d06a1a33f061e625", "text": "SELECT T2.name , count(*) FROM singer_in_concert AS T1 JOIN singer AS T2 ON T1.singer_id = T2.singer_id GROUP BY T2.singer_id\n", "title": "", "metadata": ""}
+{"_id": "b3e06d2ded550aeab19c121f51a37b2c", "text": "SELECT major , age FROM student WHERE stuid NOT IN (SELECT T1.stuid FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pettype = 'cat')\n", "title": "", "metadata": ""}
+{"_id": "f8212fd6d25e3af65883e081b0b744bd", "text": "SELECT T1.Name FROM singer AS T1 JOIN song AS T2 ON T1.Singer_ID = T2.Singer_ID GROUP BY T1.Name HAVING COUNT(*) > 1\n", "title": "", "metadata": ""}
+{"_id": "be58fa0fcc8e5b33e031cce01fd7d392", "text": "select count(*) from concert where stadium_id = (select stadium_id from stadium order by capacity desc limit 1)\n", "title": "", "metadata": ""}
+{"_id": "c265cb7b54d90eb69d662a813109a526", "text": "SELECT count(*) FROM Courses\n", "title": "", "metadata": ""}
+{"_id": "2f2ed685aec86e2f95b4ab9d81e9f5ce", "text": "SELECT winner_name , loser_name FROM matches ORDER BY minutes DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "20e954a35d66fa589790e566e2e11eb5", "text": "SELECT Title FROM Cartoon WHERE Directed_by = \"Ben Jones\";\n", "title": "", "metadata": ""}
+{"_id": "fb8f0326bfc135da91342257ea81bc34", "text": "SELECT grade FROM Highschooler WHERE name = \"Kyle\"\n", "title": "", "metadata": ""}
+{"_id": "f6d0976a3874f5dc12194beae31356bb", "text": "SELECT template_type_code FROM Templates GROUP BY template_type_code ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "ae0cabd8ca2008e04acf547937005f7e", "text": "SELECT avg(Attendance) FROM SHOW\n", "title": "", "metadata": ""}
+{"_id": "e3b4193f6cd3b391e805384f742fb68d", "text": "SELECT Nationality , COUNT(*) FROM people GROUP BY Nationality\n", "title": "", "metadata": ""}
+{"_id": "b85fcc03ec2575ad1e72acfd66de9490", "text": "SELECT sum(Population) , max(GNP) FROM country WHERE Continent = \"Asia\"\n", "title": "", "metadata": ""}
+{"_id": "2eabd05c999e03ea96a1f2e09f6de57d", "text": "SELECT T1.paragraph_id , T1.paragraph_text FROM Paragraphs AS T1 JOIN Documents AS T2 ON T1.document_id = T2.document_id WHERE T2.Document_Name = 'Welcome to NY'\n", "title": "", "metadata": ""}
+{"_id": "0cd762da16a0453b5c0f689ef9bdc4c7", "text": "SELECT DISTINCT T1.Region FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"English\" OR T2.Language = \"Dutch\"\n", "title": "", "metadata": ""}
+{"_id": "9df6644836dc6e42e50eddbfca37ca19", "text": "SELECT Airline , Abbreviation FROM AIRLINES WHERE Country = \"USA\"\n", "title": "", "metadata": ""}
+{"_id": "f83bc5e831ee9477ee48d41f1e54ab67", "text": "SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline WHERE T2.SourceAirport = \"AHD\"\n", "title": "", "metadata": ""}
+{"_id": "edf64381ac0f61627a68bf82ab1d557d", "text": "SELECT district FROM shop WHERE Number_products < 3000 INTERSECT SELECT district FROM shop WHERE Number_products > 10000\n", "title": "", "metadata": ""}
+{"_id": "07869782c2c5c5d279e3f4d4bfee41d0", "text": "SELECT T1.last_name FROM Owners AS T1 JOIN Dogs AS T2 ON T1.owner_id = T2.owner_id WHERE T2.age = ( SELECT max(age) FROM Dogs )\n", "title": "", "metadata": ""}
+{"_id": "56e474655466d83500120cac018c3eb6", "text": "SELECT document_id FROM Paragraphs GROUP BY document_id HAVING count(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "b4f6ef47b378b155f7ff76c77678ad8b", "text": "SELECT T1.series_name FROM TV_Channel AS T1 JOIN TV_series AS T2 ON T1.id = T2.Channel WHERE T2.Episode = \"A Love of a Lifetime\";\n", "title": "", "metadata": ""}
+{"_id": "9f4c3d3cd35ec5e7faab137379cb5f91", "text": "SELECT DISTINCT T1.Name FROM singer AS T1 JOIN song AS T2 ON T1.Singer_ID = T2.Singer_ID WHERE T2.Sales > 300000\n", "title": "", "metadata": ""}
+{"_id": "92d75ecb81ac5a4b94b1d0cb33bbf15d", "text": "SELECT department_description FROM Departments WHERE department_name LIKE '%computer%'\n", "title": "", "metadata": ""}
+{"_id": "68a200c7293c27024b7243aa66b91ca1", "text": "SELECT min(Number_products) , max(Number_products) FROM shop\n", "title": "", "metadata": ""}
+{"_id": "65e432dc2c757478d6d4c51ca1cabf03", "text": "SELECT Name FROM singer WHERE Singer_ID NOT IN (SELECT Singer_ID FROM song)\n", "title": "", "metadata": ""}
+{"_id": "009b6a390a65acdd674f882a39000a8f", "text": "SELECT YEAR FROM matches GROUP BY YEAR ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "a4009a20f6e5fa0fc0ca4ad9226f538c", "text": "SELECT semester_name FROM Semesters WHERE semester_id NOT IN( SELECT semester_id FROM Student_Enrolment )\n", "title": "", "metadata": ""}
+{"_id": "53e44a7d7e69f75f5f6944571ade892a", "text": "SELECT grade FROM Highschooler GROUP BY grade ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "5033571aa0c61830cf34a87d46f454ec", "text": "SELECT count(*) FROM visitor WHERE age < 30\n", "title": "", "metadata": ""}
+{"_id": "e23c367a7bf3a6e466756cd029ade461", "text": "SELECT Num_of_Staff , Open_Year FROM museum WHERE name = 'Plaza Museum'\n", "title": "", "metadata": ""}
+{"_id": "ea641f428355dd6d9f1bdc7c5ee8c0cc", "text": "SELECT T1.country FROM TV_Channel AS T1 JOIN cartoon AS T2 ON T1.id = T2.Channel WHERE T2.written_by = 'Todd Casey'\n", "title": "", "metadata": ""}
+{"_id": "c05d49d1be327175b8d5f9dc37328783", "text": "SELECT count(*) FROM singer\n", "title": "", "metadata": ""}
+{"_id": "8f5b1381eb61507605061a03fa4c3053", "text": "SELECT Orchestra FROM orchestra WHERE Orchestra_ID NOT IN (SELECT Orchestra_ID FROM performance)\n", "title": "", "metadata": ""}
+{"_id": "8bd0405b65eef9950ba71a921b74d976", "text": "SELECT name , country FROM singer WHERE song_name LIKE '%Hey%'\n", "title": "", "metadata": ""}
+{"_id": "afacd97b0ad0ae6c5e6eea463c27e35a", "text": "SELECT COUNT(*) FROM orchestra WHERE Major_Record_Format = \"CD\" OR Major_Record_Format = \"DVD\"\n", "title": "", "metadata": ""}
+{"_id": "e02310f4c34a84efdaba88a6f16965ba", "text": "SELECT COUNT(T2.Language) , T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode GROUP BY T1.Name HAVING COUNT(*) > 2\n", "title": "", "metadata": ""}
+{"_id": "f01b88627a1abb5dad0d9b0a783db345", "text": "SELECT other_student_details FROM Students ORDER BY other_student_details DESC\n", "title": "", "metadata": ""}
+{"_id": "f1080e5174a8153ee91af6a702c58f98", "text": "SELECT max(Final_Table_Made) FROM poker_player WHERE Earnings < 200000\n", "title": "", "metadata": ""}
+{"_id": "7bd43cac4111471ca61936994289751a", "text": "SELECT sum(tours) , ranking_date FROM rankings GROUP BY ranking_date\n", "title": "", "metadata": ""}
+{"_id": "8454d1599fd8c683514497065d289dc3", "text": "SELECT AirportName FROM AIRPORTS WHERE AirportCode = \"AKO\"\n", "title": "", "metadata": ""}
+{"_id": "34647a3d773b47e86760d9714d1de640", "text": "SELECT count(DISTINCT department_id) FROM Degree_Programs\n", "title": "", "metadata": ""}
+{"_id": "7139f71de85cc0b1a4767582b08cd8fc", "text": "SELECT count(DISTINCT T2.Language) FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE IndepYear < 1930 AND T2.IsOfficial = \"T\"\n", "title": "", "metadata": ""}
+{"_id": "910557a9394812706c2d9f141c0eb569", "text": "SELECT cost_of_treatment FROM Treatments ORDER BY date_of_treatment DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "1bce17e279569d97ca5d9cda3b8d567c", "text": "SELECT T1.lname FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pet_age = 3 AND T3.pettype = 'cat'\n", "title": "", "metadata": ""}
+{"_id": "b7a4c3661b17f13a44e8b3d2b7d9d1c0", "text": "SELECT avg(winner_rank) FROM matches\n", "title": "", "metadata": ""}
+{"_id": "a688f46712ce591ca338c803910864d3", "text": "SELECT name , Level_of_membership FROM visitor WHERE Level_of_membership > 4 ORDER BY age DESC\n", "title": "", "metadata": ""}
+{"_id": "090467debb60475d15052be70f84a0d2", "text": "SELECT template_id FROM Templates WHERE template_type_code = \"PP\" OR template_type_code = \"PPT\"\n", "title": "", "metadata": ""}
+{"_id": "eced307d13b5316fdd342f1fc200e48f", "text": "SELECT T2.horsepower , T1.Make FROM CAR_NAMES AS T1 JOIN CARS_DATA AS T2 ON T1.MakeId = T2.Id WHERE T2.cylinders = 3 ORDER BY T2.horsepower DESC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "a64f58535237db05922d01ae14bbafed", "text": "SELECT count(*) FROM conductor\n", "title": "", "metadata": ""}
+{"_id": "fe416db819037d82e44b61a4fe1ec3dc", "text": "SELECT count(*) FROM FLIGHTS WHERE SourceAirport = \"APG\"\n", "title": "", "metadata": ""}
+{"_id": "7e75865ee4c918e81dc12620bf005696", "text": "SELECT Name FROM country WHERE SurfaceArea > (SELECT min(SurfaceArea) FROM country WHERE Continent = \"Europe\")\n", "title": "", "metadata": ""}
+{"_id": "416940fad3ea9b3491db33a125364bf8", "text": "SELECT name FROM visitor WHERE Level_of_membership > 4 ORDER BY Level_of_membership DESC\n", "title": "", "metadata": ""}
+{"_id": "f0d7a442456fdcc5a3e9d25c45901d08", "text": "SELECT Model FROM CAR_NAMES GROUP BY Model ORDER BY count(*) DESC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "aac81b0812f6ffac8275698f98181b79", "text": "select avg(age) from student where stuid not in (select stuid from has_pet)\n", "title": "", "metadata": ""}
+{"_id": "b67d4eee4a4ab382f594d51703d55636", "text": "SELECT T2.name , T2.location FROM concert AS T1 JOIN stadium AS T2 ON T1.stadium_id = T2.stadium_id WHERE T1.Year = 2014 INTERSECT SELECT T2.name , T2.location FROM concert AS T1 JOIN stadium AS T2 ON T1.stadium_id = T2.stadium_id WHERE T1.Year = 2015\n", "title": "", "metadata": ""}
+{"_id": "7d1bc498aecf7191d6c5d2feb27a485d", "text": "SELECT grade FROM Highschooler\n", "title": "", "metadata": ""}
+{"_id": "a8f31073846f7f6f28193be93618816d", "text": "SELECT T2.Money_Rank FROM people AS T1 JOIN poker_player AS T2 ON T1.People_ID = T2.People_ID ORDER BY T1.Height DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "23c3db964d4418efddc291039ad459d3", "text": "SELECT T2.name , count(*) FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id GROUP BY T1.student_id\n", "title": "", "metadata": ""}
+{"_id": "f7ee6ec67640009c16c5f60651209a4d", "text": "SELECT count(*) FROM country WHERE continent = \"Asia\"\n", "title": "", "metadata": ""}
+{"_id": "f59555bb225e7c22777e4771041be553", "text": "SELECT T1.name , T2.date_of_treatment FROM Dogs AS T1 JOIN Treatments AS T2 ON T1.dog_id = T2.dog_id WHERE T1.breed_code = ( SELECT breed_code FROM Dogs GROUP BY breed_code ORDER BY count(*) ASC LIMIT 1 )\n", "title": "", "metadata": ""}
+{"_id": "516d93c3d771a9a379798ff2e319b69f", "text": "SELECT Name FROM conductor WHERE Nationality != 'USA'\n", "title": "", "metadata": ""}
+{"_id": "7aeedc6a769167982ccda3e2759529d9", "text": "SELECT Name FROM country WHERE Continent = \"Asia\" AND population > (SELECT min(population) FROM country WHERE Continent = \"Africa\")\n", "title": "", "metadata": ""}
+{"_id": "63472711ddce4ed32568a1f44bb6759b", "text": "SELECT first_name , country_code FROM players ORDER BY birth_date LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "20884375a77c81106c13cd56d580432c", "text": "SELECT sum(Population) FROM city WHERE District = \"Gelderland\"\n", "title": "", "metadata": ""}
+{"_id": "5eddb5bb47c39cf634e24c15f2accc24", "text": "SELECT DISTINCT winner_name , winner_rank FROM matches ORDER BY winner_age LIMIT 3\n", "title": "", "metadata": ""}
+{"_id": "98e3a5713c7235417486a541504129bc", "text": "SELECT T1.Name , sum(T2.Sales) FROM singer AS T1 JOIN song AS T2 ON T1.Singer_ID = T2.Singer_ID GROUP BY T1.Name\n", "title": "", "metadata": ""}
+{"_id": "388d260c22320025c535dd9ef10f5603", "text": "SELECT T1.model FROM CAR_NAMES AS T1 JOIN CARS_DATA AS T2 ON T1.MakeId = T2.Id WHERE T2.Weight < (SELECT avg(Weight) FROM CARS_DATA)\n", "title": "", "metadata": ""}
+{"_id": "0bd39a8eed422246d4a55b5ade77b419", "text": "SELECT DISTINCT T2.Name FROM country AS T1 JOIN city AS T2 ON T2.CountryCode = T1.Code WHERE T1.Continent = 'Europe' AND T1.Name NOT IN (SELECT T3.Name FROM country AS T3 JOIN countrylanguage AS T4 ON T3.Code = T4.CountryCode WHERE T4.IsOfficial = 'T' AND T4.Language = 'English')\n", "title": "", "metadata": ""}
+{"_id": "3b3c0b82546b03eca683450e33b42e4f", "text": "SELECT Nationality FROM people GROUP BY Nationality HAVING COUNT(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "02f84be7b8c669b6f0b6f8aab84004f3", "text": "SELECT avg(loser_age) , avg(winner_age) FROM matches\n", "title": "", "metadata": ""}
+{"_id": "ecff973e7791a9087a47b039d8dfd57f", "text": "SELECT ID FROM Highschooler WHERE name = \"Kyle\"\n", "title": "", "metadata": ""}
+{"_id": "dfce83d010aadcdef7b998db920a46e8", "text": "SELECT AirportCode , AirportName FROM AIRPORTS WHERE city = \"Anthony\"\n", "title": "", "metadata": ""}
+{"_id": "7bec0f6bc93c2aadceef5cc86fd49851", "text": "SELECT count(DISTINCT country_code) FROM players\n", "title": "", "metadata": ""}
+{"_id": "1c0d512953e1de58f0812f8504ce02b3", "text": "SELECT section_description FROM Sections WHERE section_name = 'h'\n", "title": "", "metadata": ""}
+{"_id": "2a077aabb2371e9837da2dd3c4fc82bd", "text": "SELECT T2.transcript_date , T1.transcript_id FROM Transcript_Contents AS T1 JOIN Transcripts AS T2 ON T1.transcript_id = T2.transcript_id GROUP BY T1.transcript_id ORDER BY count(*) ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "7959b73a2098daa5c1519049d7fe34f6", "text": "SELECT count(*) FROM AIRLINES WHERE Country = \"USA\"\n", "title": "", "metadata": ""}
+{"_id": "8e293e1bc37b35a8a8f51389c069ca8f", "text": "SELECT COUNT(T2.Language) FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T1.Name = \"Aruba\"\n", "title": "", "metadata": ""}
+{"_id": "6538abd07cee48001824850c592dddb9", "text": "SELECT * FROM hiring\n", "title": "", "metadata": ""}
+{"_id": "3d376041583fcf50e23daed870a65d3e", "text": "SELECT Country , count(*) FROM TV_Channel GROUP BY Country ORDER BY count(*) DESC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "b3d842b97d68e42bd9e1a686f3862472", "text": "SELECT T2.name FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id GROUP BY T1.student_id HAVING count(*) >= 3\n", "title": "", "metadata": ""}
+{"_id": "03114ff3ae52b3a73165f30522a0d34c", "text": "SELECT T1.cylinders FROM CARS_DATA AS T1 JOIN CAR_NAMES AS T2 ON T1.Id = T2.MakeId WHERE T2.Model = 'volvo' ORDER BY T1.accelerate ASC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "c2f062b0cef544def243d7218e409c20", "text": "SELECT count(DISTINCT LANGUAGE) FROM countrylanguage\n", "title": "", "metadata": ""}
+{"_id": "d8c1b06986b63a7ffb13dfe42726dd50", "text": "select max(capacity), average from stadium\n", "title": "", "metadata": ""}
+{"_id": "ecbf8a05d219608740bf66d52d020790", "text": "SELECT T2.MakeId , T2.Make FROM CARS_DATA AS T1 JOIN CAR_NAMES AS T2 ON T1.Id = T2.MakeId WHERE T1.Horsepower > (SELECT min(Horsepower) FROM CARS_DATA) AND T1.Cylinders <= 3;\n", "title": "", "metadata": ""}
+{"_id": "ac1e76b5128795481062e246db86c743", "text": "SELECT T1.owner_id , T1.zip_code FROM Owners AS T1 JOIN Dogs AS T2 ON T1.owner_id = T2.owner_id JOIN Treatments AS T3 ON T2.dog_id = T3.dog_id GROUP BY T1.owner_id ORDER BY sum(T3.cost_of_treatment) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "fddf05d44ad0bee8f0c97fe1fc1f9fff", "text": "SELECT sum(SurfaceArea) FROM country WHERE Continent = \"Asia\" OR Continent = \"Europe\"\n", "title": "", "metadata": ""}
+{"_id": "2cd1ea5fee6252a47cd5aa05bcba12c9", "text": "SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline GROUP BY T1.Airline ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "9ab1a039d95414e0816dd56e7b77fd9d", "text": "SELECT T2.document_name FROM Templates AS T1 JOIN Documents AS T2 ON T1.template_id = T2.template_id WHERE T1.template_type_code = \"BK\"\n", "title": "", "metadata": ""}
+{"_id": "b124086aa299e8b60048bcc363091aa3", "text": "select other_details from paragraphs where paragraph_text like 'korea'\n", "title": "", "metadata": ""}
+{"_id": "1a45e67624efea712bb1159434b78b95", "text": "SELECT T2.Name , COUNT(*) FROM course_arrange AS T1 JOIN teacher AS T2 ON T1.Teacher_ID = T2.Teacher_ID GROUP BY T2.Name\n", "title": "", "metadata": ""}
+{"_id": "d8dc87a935a8d132b683ea623646f178", "text": "select t1.first_name from students as t1 join addresses as t2 on t1.permanent_address_id = t2.address_id where t2.country = 'haiti' or t1.cell_mobile_number = '09700166582'\n", "title": "", "metadata": ""}
+{"_id": "ef42546827504c90facf02669bf86c02", "text": "SELECT DISTINCT T1.first_name , T1.last_name FROM Professionals AS T1 JOIN Treatments AS T2 WHERE cost_of_treatment < ( SELECT avg(cost_of_treatment) FROM Treatments )\n", "title": "", "metadata": ""}
+{"_id": "9a568cfa3cc1612d15abda2bafd5d473", "text": "SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode GROUP BY T1.Name ORDER BY COUNT(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "d10936f862b35c49e72806602538a1b5", "text": "select count(*) from dogs where dog_id not in ( select dog_id from treatments )\n", "title": "", "metadata": ""}
+{"_id": "5167b32a37d24a933903a065dcf383a3", "text": "SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline WHERE T2.SourceAirport = \"APG\" INTERSECT SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline WHERE T2.SourceAirport = \"CVO\"\n", "title": "", "metadata": ""}
+{"_id": "1147adf146eccaeb323c945a2b4286d5", "text": "SELECT count(*) FROM Templates\n", "title": "", "metadata": ""}
+{"_id": "3cef78ce60ce4621a7b0f2e58ad64a4c", "text": "SELECT Name FROM singer WHERE Citizenship != \"France\"\n", "title": "", "metadata": ""}
+{"_id": "26414c04486cce2e639a7caf208f7ac3", "text": "SELECT count(*) FROM Owners WHERE owner_id NOT IN ( SELECT owner_id FROM Dogs )\n", "title": "", "metadata": ""}
+{"_id": "960726d8f3c19507dd950fcc86756f76", "text": "SELECT name , date FROM battle\n", "title": "", "metadata": ""}
+{"_id": "1f8206f629b752571da91815f324a933", "text": "SELECT T1.City FROM AIRPORTS AS T1 JOIN FLIGHTS AS T2 ON T1.AirportCode = T2.SourceAirport GROUP BY T1.City ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "28be3e98e90498b05088b736e41417e9", "text": "SELECT T1.template_type_code FROM Templates AS T1 JOIN Documents AS T2 ON T1.template_id = T2.template_id GROUP BY T1.template_type_code ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "e060b9f92c4da9c9974f6f044bcf6b07", "text": "select production_code , channel from cartoon order by original_air_date desc limit 1\n", "title": "", "metadata": ""}
+{"_id": "211222c0a46959958fc21960979444ae", "text": "SELECT package_option , series_name FROM TV_Channel WHERE hight_definition_TV = \"yes\"\n", "title": "", "metadata": ""}
+{"_id": "163c78723611543422973416964cdbe4", "text": "SELECT count(*) FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T2.Airline = T1.uid WHERE T1.Airline = \"United Airlines\" AND T2.SourceAirport = \"AHD\"\n", "title": "", "metadata": ""}
+{"_id": "f2026db9aedcfb10305b720ce778f18a", "text": "SELECT T1.Name , T1.Population FROM city AS T1 JOIN countrylanguage AS T2 ON T1.CountryCode = T2.CountryCode WHERE T2.Language = \"English\" ORDER BY T1.Population DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "b955f101004c57a5dec6f4fbeac94836", "text": "SELECT T1.country_code , T1.first_name FROM players AS T1 JOIN rankings AS T2 ON T1.player_id = T2.player_id ORDER BY T2.tours DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "b717e12735bb7f184176831e62ab7493", "text": "SELECT Title FROM Cartoon ORDER BY title\n", "title": "", "metadata": ""}
+{"_id": "ac3e5b52e34456f8ab6f9e05127b115f", "text": "SELECT count(*) FROM matches\n", "title": "", "metadata": ""}
+{"_id": "5d57e371564caa31739274c5f1d1db99", "text": "select count(*) , t1.stuid from student as t1 join has_pet as t2 on t1.stuid = t2.stuid group by t1.stuid\n", "title": "", "metadata": ""}
+{"_id": "8fbff5bd4b5ed36cb7ec2c14185e8fde", "text": "SELECT version_number , template_type_code FROM Templates WHERE version_number > 5\n", "title": "", "metadata": ""}
+{"_id": "d6598485ba511d1c3c9f2448a05e2e3c", "text": "select distinct year from cars_data where weight between 3000 and 4000;\n", "title": "", "metadata": ""}
+{"_id": "f9015d259757b731d4263b7ac7d04174", "text": "SELECT Name , Birth_Date FROM people ORDER BY Name ASC\n", "title": "", "metadata": ""}
+{"_id": "ae1b5df16cc4fa6b2d24c7afd63b1509", "text": "SELECT max(Accelerate) , Cylinders FROM CARS_DATA GROUP BY Cylinders;\n", "title": "", "metadata": ""}
+{"_id": "032d3c8ae6918bb5365d9a8b10e74aa6", "text": "SELECT tourney_name FROM matches GROUP BY tourney_name HAVING count(*) > 10\n", "title": "", "metadata": ""}
+{"_id": "5917ffe94a243ff239b58e66b1101dce", "text": "SELECT Code FROM country WHERE GovernmentForm != \"Republic\" EXCEPT SELECT CountryCode FROM countrylanguage WHERE LANGUAGE = \"English\"\n", "title": "", "metadata": ""}
+{"_id": "e8df343b8c8471d88afe78e5b3c05c7b", "text": "SELECT title , Directed_by FROM Cartoon ORDER BY Original_air_date\n", "title": "", "metadata": ""}
+{"_id": "e95bdd9b23c2d27e869b03b4f2c53216", "text": "SELECT T2.Language FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T1.Name = \"Aruba\" ORDER BY Percentage DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "0d285ac4960d45fcf6c5359d492c387b", "text": "SELECT city FROM employee WHERE age < 30 GROUP BY city HAVING count(*) > 1\n", "title": "", "metadata": ""}
+{"_id": "68188519020de55908c4f0ceb883e4fd", "text": "SELECT name , country , age FROM singer ORDER BY age DESC\n", "title": "", "metadata": ""}
+{"_id": "04521db4dfd6eb2415b9748f0018628b", "text": "SELECT count(*) FROM Transcripts\n", "title": "", "metadata": ""}
+{"_id": "a98e2a93b159a8811c8808df16295c17", "text": "SELECT Citizenship , COUNT(*) FROM singer GROUP BY Citizenship\n", "title": "", "metadata": ""}
+{"_id": "fe3dae33dbfcf61d964de5b24c286bc6", "text": "SELECT T1.FullName , T1.Id , count(*) FROM CAR_MAKERS AS T1 JOIN MODEL_LIST AS T2 ON T1.Id = T2.Maker GROUP BY T1.Id;\n", "title": "", "metadata": ""}
+{"_id": "e8b113aaf2eb27fc314a7713b0601327", "text": "SELECT name FROM shop WHERE shop_id NOT IN (SELECT shop_id FROM hiring)\n", "title": "", "metadata": ""}
+{"_id": "66612250568cafb9d8d539a20e5ff5a6", "text": "SELECT role_code , street , city , state FROM professionals WHERE city LIKE '%West%'\n", "title": "", "metadata": ""}
+{"_id": "23485c9cc317d49be96e8db1cacbc104", "text": "SELECT template_type_code FROM Templates GROUP BY template_type_code HAVING count(*) < 3\n", "title": "", "metadata": ""}
+{"_id": "bb05bd3714c4389a0a22d7ba0114aff2", "text": "SELECT name , RESULT FROM battle WHERE bulgarian_commander != 'Boril'\n", "title": "", "metadata": ""}
+{"_id": "4d7405373b02ac067c24a30ba5bba693", "text": "SELECT first_name , middle_name , last_name FROM Students ORDER BY date_left ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "7addc8a0c16ba0d8849c5470fc5eae2a", "text": "SELECT cell_mobile_number FROM Students WHERE first_name = 'Timmothy' AND last_name = 'Ward'\n", "title": "", "metadata": ""}
+{"_id": "e4fafb0f0971170ecee037f38f77d1b0", "text": "SELECT first_name , last_name FROM players ORDER BY birth_date\n", "title": "", "metadata": ""}
+{"_id": "ad05ee1c538b4081187cd0278edfdb01", "text": "SELECT sum(Population) , GovernmentForm FROM country GROUP BY GovernmentForm HAVING avg(LifeExpectancy) > 72\n", "title": "", "metadata": ""}
+{"_id": "ec320ea5d1b17b2badf58edef9fd73ea", "text": "SELECT T1.Name FROM people AS T1 JOIN poker_player AS T2 ON T1.People_ID = T2.People_ID\n", "title": "", "metadata": ""}
+{"_id": "bcce7ec984b3ba5d349fd6bb25c7bb76", "text": "SELECT DISTINCT country FROM singer WHERE age > 20\n", "title": "", "metadata": ""}
+{"_id": "90a767a3110d4f4340b4b090ba6679da", "text": "SELECT T1.breed_name FROM Breeds AS T1 JOIN Dogs AS T2 ON T1.breed_code = T2.breed_code GROUP BY T1.breed_name ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "6dd82385acddc48fbe251c2825936d38", "text": "SELECT avg(transcript_date) FROM Transcripts\n", "title": "", "metadata": ""}
+{"_id": "36c10bd03f6f393822be3de869529aae", "text": "SELECT count(*) FROM CARS_DATA WHERE YEAR = 1980;\n", "title": "", "metadata": ""}
+{"_id": "8b508271bed57296d3f00f835a0b389f", "text": "SELECT COUNT(*) FROM (SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"English\" INTERSECT SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"Dutch\")\n", "title": "", "metadata": ""}
+{"_id": "eff101d82c8bc426fbcbd4dc000f4b77", "text": "SELECT count(*) FROM Templates WHERE template_type_code = \"CV\"\n", "title": "", "metadata": ""}
+{"_id": "54a26509edea52b9e64d385c55544014", "text": "SELECT student_id , count(*) FROM Friend GROUP BY student_id\n", "title": "", "metadata": ""}
+{"_id": "bbdb5ad6eb7b53b6d2ac2c6727c0b500", "text": "SELECT student_id , count(*) FROM Likes GROUP BY student_id\n", "title": "", "metadata": ""}
+{"_id": "9eb13db380b717c81405ab2e0af846e0", "text": "SELECT T2.name FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id WHERE T2.grade > 5 GROUP BY T1.student_id HAVING count(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "095c876c42a66db734c29f6bde75071c", "text": "SELECT package_option FROM TV_Channel WHERE id NOT IN (SELECT channel FROM cartoon WHERE directed_by = 'Ben Jones')\n", "title": "", "metadata": ""}
+{"_id": "bad244fbc5e770df0e58f655407814fb", "text": "SELECT Weekly_Rank FROM TV_series WHERE Episode = \"A Love of a Lifetime\";\n", "title": "", "metadata": ""}
+{"_id": "8cb4df6e8cfd08a1640a9635a8e6ff6d", "text": "SELECT id FROM Highschooler EXCEPT SELECT student_id FROM Friend\n", "title": "", "metadata": ""}
+{"_id": "39a81b3bf83cf946635197bbcf8989df", "text": "SELECT Name FROM teacher WHERE Teacher_id NOT IN (SELECT Teacher_id FROM course_arrange)\n", "title": "", "metadata": ""}
+{"_id": "3bcb91a535dd2be2ce7f5733e7dfcd0c", "text": "select avg(horsepower) from cars_data where year < 1980;\n", "title": "", "metadata": ""}
+{"_id": "15ef36c688dda442fb0d43ead3b1903d", "text": "SELECT count(*) FROM Highschooler\n", "title": "", "metadata": ""}
+{"_id": "a4572baf99f45cf921f409a27e3ba767", "text": "SELECT document_name , template_id FROM Documents WHERE Document_Description LIKE \"%w%\"\n", "title": "", "metadata": ""}
+{"_id": "9e4bd3f6a248eaf5fbd8da30fe793baf", "text": "SELECT count(*) FROM Paragraphs AS T1 JOIN Documents AS T2 ON T1.document_ID = T2.document_ID WHERE T2.document_name = 'Summer Show'\n", "title": "", "metadata": ""}
+{"_id": "80c66a4166005d48650191d85a8b8d5d", "text": "SELECT T1.Model FROM CAR_NAMES AS T1 JOIN CARS_DATA AS T2 ON T1.MakeId = T2.Id ORDER BY T2.mpg DESC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "9829fb89345f1c9922265dc93b9173ed", "text": "SELECT count(DISTINCT GovernmentForm) FROM country WHERE Continent = \"Africa\"\n", "title": "", "metadata": ""}
+{"_id": "2e8acfaf70039b02e4c76bb0f605cadd", "text": "SELECT count(*) FROM MODEL_LIST AS T1 JOIN CAR_MAKERS AS T2 ON T1.Maker = T2.Id JOIN COUNTRIES AS T3 ON T2.Country = T3.CountryId WHERE T3.CountryName = 'usa';\n", "title": "", "metadata": ""}
+{"_id": "33c248cca80f61077c805a138941ce96", "text": "SELECT count(*) FROM employee\n", "title": "", "metadata": ""}
+{"_id": "c75de47c85194d2673750b9bb1b2b4bc", "text": "SELECT count(*) , country_code FROM players GROUP BY country_code\n", "title": "", "metadata": ""}
+{"_id": "22c538a7d7e51acf78f784fd15151e69", "text": "SELECT T1.Name FROM conductor AS T1 JOIN orchestra AS T2 ON T1.Conductor_ID = T2.Conductor_ID WHERE Year_of_Founded > 2008\n", "title": "", "metadata": ""}
+{"_id": "fab01410a768df70400627e8ba3f3478", "text": "SELECT count(DISTINCT current_address_id) FROM Students\n", "title": "", "metadata": ""}
+{"_id": "9d1c19d967afe250f10a506f6314fdb2", "text": "SELECT count(*) FROM Paragraphs\n", "title": "", "metadata": ""}
+{"_id": "3c3d9f1603eba8d800d881001eaa6559", "text": "SELECT avg(pet_age) , max(pet_age) , pettype FROM pets GROUP BY pettype\n", "title": "", "metadata": ""}
+{"_id": "b0125b22daca2bbe48bf17c63b5de5bf", "text": "SELECT template_id , version_number , template_type_code FROM Templates\n", "title": "", "metadata": ""}
+{"_id": "5b928910280a887bfbdddd00baed7aca", "text": "SELECT manager_name , district FROM shop ORDER BY number_products DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "389de4f3ae025eb3fe87a4f9c80fbfa2", "text": "SELECT T1.ContId , T1.Continent , count(*) FROM CONTINENTS AS T1 JOIN COUNTRIES AS T2 ON T1.ContId = T2.Continent GROUP BY T1.ContId;\n", "title": "", "metadata": ""}
+{"_id": "03ed26b4b1de9c4c90d749c66cf578df", "text": "SELECT T1.country_code , T1.first_name FROM players AS T1 JOIN matches AS T2 ON T1.player_id = T2.winner_id WHERE T2.tourney_name = 'WTA Championships' INTERSECT SELECT T1.country_code , T1.first_name FROM players AS T1 JOIN matches AS T2 ON T1.player_id = T2.winner_id WHERE T2.tourney_name = 'Australian Open'\n", "title": "", "metadata": ""}
+{"_id": "81bf8a68f18f52d3ee04137ab07ae568", "text": "SELECT T1.Name FROM conductor AS T1 JOIN orchestra AS T2 ON T1.Conductor_ID = T2.Conductor_ID GROUP BY T2.Conductor_ID ORDER BY COUNT(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "b71d740ac0e2c0065eb8b80b5828427a", "text": "SELECT count(*) , hand FROM players GROUP BY hand\n", "title": "", "metadata": ""}
+{"_id": "c7fb59be6a186eca6a38f6eeee4b1353", "text": "SELECT count(*) FROM FLIGHTS AS T1 JOIN AIRPORTS AS T2 ON T1.DestAirport = T2.AirportCode JOIN AIRPORTS AS T3 ON T1.SourceAirport = T3.AirportCode WHERE T2.City = \"Ashley\" AND T3.City = \"Aberdeen\"\n", "title": "", "metadata": ""}
+{"_id": "ec1e30f2f3e8eb764fd5bff86e0723f2", "text": "SELECT COUNT(*) FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T1.Name = \"Afghanistan\" AND IsOfficial = \"T\"\n", "title": "", "metadata": ""}
+{"_id": "1b2dac5e9a86575732b0005c212869fb", "text": "SELECT document_id , document_name , document_description FROM Documents\n", "title": "", "metadata": ""}
+{"_id": "47f23f2d0cb6e1897090fd998d04738b", "text": "SELECT T1.Fname FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pettype = 'cat' INTERSECT SELECT T1.Fname FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pettype = 'dog'\n", "title": "", "metadata": ""}
+{"_id": "5fbbe945c29075b78716b6cfeffd3217", "text": "SELECT T2.petid FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid WHERE T1.Lname = 'Smith'\n", "title": "", "metadata": ""}
+{"_id": "b6c020c9b4a0a40d39b3a514e97cddba", "text": "SELECT count(*) FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid WHERE T1.age > 20\n", "title": "", "metadata": ""}
+{"_id": "c1c3bea4ad66b59a7f7be817239e1719", "text": "SELECT T2.department_name , T1.department_id FROM Degree_Programs AS T1 JOIN Departments AS T2 ON T1.department_id = T2.department_id GROUP BY T1.department_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "3f489bd80996e29233e61b631ada09f1", "text": "select distinct t3.name from country as t1 join countrylanguage as t2 on t1.code = t2.countrycode join city as t3 on t1.code = t3.countrycode where t2.isofficial = 't' and t2.language = 'chinese' and t1.continent = \"asia\"\n", "title": "", "metadata": ""}
+{"_id": "fa9fbc24a7c3f494bd45ee8533784187", "text": "SELECT CountryCode , max(Percentage) FROM countrylanguage WHERE LANGUAGE = \"Spanish\" GROUP BY CountryCode\n", "title": "", "metadata": ""}
+{"_id": "f6b32e4d79b5fca7f2dbe98594b6aa58", "text": "SELECT first_name , last_name , email_address FROM Owners WHERE state LIKE '%North%'\n", "title": "", "metadata": ""}
+{"_id": "e918131b4bc5d721270d567ed72bdf4f", "text": "SELECT Airline FROM AIRLINES WHERE Abbreviation = \"UAL\"\n", "title": "", "metadata": ""}
+{"_id": "cc55b6f62bef31ef59ce8a63d48efdd8", "text": "select t1.name from country as t1 join countrylanguage as t2 on t1.code = t2.countrycode where t2.language = \"english\" and isofficial = \"t\" union select t1.name from country as t1 join countrylanguage as t2 on t1.code = t2.countrycode where t2.language = \"dutch\" and isofficial = \"t\"\n", "title": "", "metadata": ""}
+{"_id": "cee1339555dea088e15bcb80b9ac4972", "text": "SELECT name FROM shop WHERE number_products > (SELECT avg(number_products) FROM shop)\n", "title": "", "metadata": ""}
+{"_id": "c46e1f334fa44a5d7579c211ccbaebae", "text": "SELECT count(DISTINCT RESULT) FROM battle\n", "title": "", "metadata": ""}
+{"_id": "2f035a47a1883ba3f5c27568de18a613", "text": "SELECT count(*) FROM FLIGHTS AS T1 JOIN AIRLINES AS T2 ON T1.Airline = T2.uid WHERE T2.Airline = \"JetBlue Airways\"\n", "title": "", "metadata": ""}
+{"_id": "5ec89a82f980b4765c99b7d5fa8d2d77", "text": "SELECT count(DISTINCT winner_name) FROM matches WHERE tourney_name = 'WTA Championships' AND winner_hand = 'L'\n", "title": "", "metadata": ""}
+{"_id": "c9c79ccd1e584c71592fa1f6885f38ee", "text": "SELECT id FROM TV_Channel EXCEPT SELECT channel FROM cartoon WHERE directed_by = 'Ben Jones'\n", "title": "", "metadata": ""}
+{"_id": "8b9d67a478d3fa064bbec0f4e889755f", "text": "SELECT T1.killed , T1.injured FROM death AS T1 JOIN ship AS t2 ON T1.caused_by_ship_id = T2.id WHERE T2.tonnage = 't'\n", "title": "", "metadata": ""}
+{"_id": "b1382b02f6e121a36b9574ee8f9fe69d", "text": "SELECT Country FROM AIRLINES WHERE Airline = \"JetBlue Airways\"\n", "title": "", "metadata": ""}
+{"_id": "11c687e24b452fb9d1f06a596336ef9c", "text": "SELECT max(age) FROM Dogs\n", "title": "", "metadata": ""}
+{"_id": "9f8a417b277df04732fa9720a5b3e58c", "text": "SELECT T3.Name , T2.Course FROM course_arrange AS T1 JOIN course AS T2 ON T1.Course_ID = T2.Course_ID JOIN teacher AS T3 ON T1.Teacher_ID = T3.Teacher_ID\n", "title": "", "metadata": ""}
+{"_id": "fef6d88647397b9ded4865d2d844655f", "text": "SELECT T3.name FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id JOIN Highschooler AS T3 ON T1.friend_id = T3.id WHERE T2.name = \"Kyle\"\n", "title": "", "metadata": ""}
+{"_id": "a32564bee9645320eb9b0645d1aeb0b1", "text": "SELECT DISTINCT T1.model FROM MODEL_LIST AS T1 JOIN CAR_NAMES AS T2 ON T1.Model = T2.Model JOIN CARS_DATA AS T3 ON T2.MakeId = T3.Id JOIN CAR_MAKERS AS T4 ON T1.Maker = T4.Id WHERE T3.weight < 3500 AND T4.FullName != 'Ford Motor Company';\n", "title": "", "metadata": ""}
+{"_id": "b57838f183e5645e8eb0d3fb793d80a3", "text": "SELECT winner_name , winner_rank_points FROM matches GROUP BY winner_name ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "afbf11cf745f6421f36c6cd97cac4cc9", "text": "SELECT min(loser_rank) FROM matches\n", "title": "", "metadata": ""}
+{"_id": "b9c70ed52e5bb6bab0f9fd4c42cfaa69", "text": "SELECT document_id FROM Paragraphs WHERE paragraph_text = 'Brazil' INTERSECT SELECT document_id FROM Paragraphs WHERE paragraph_text = 'Ireland'\n", "title": "", "metadata": ""}
+{"_id": "e3ad7625c18c7d8df62ee329e909ef84", "text": "SELECT min(grade) FROM Highschooler WHERE id NOT IN (SELECT T1.student_id FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id)\n", "title": "", "metadata": ""}
+{"_id": "2d16fe6fdd0504b7a39d8f6bc25db86d", "text": "SELECT FlightNo FROM FLIGHTS WHERE DestAirport = \"APG\"\n", "title": "", "metadata": ""}
+{"_id": "76f62c7bb8676445f4bda576c083f1f5", "text": "SELECT T1.AirportCode FROM AIRPORTS AS T1 JOIN FLIGHTS AS T2 ON T1.AirportCode = T2.DestAirport OR T1.AirportCode = T2.SourceAirport GROUP BY T1.AirportCode ORDER BY count(*) LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "078815224284f4f400f392251e76027c", "text": "select t1.model from car_names as t1 join cars_data as t2 on t1.makeid = t2.id order by t2.mpg desc limit 1;\n", "title": "", "metadata": ""}
+{"_id": "d7299597b5af5edfe5e5eff9b689a9c4", "text": "SELECT T1.first_name , T1.middle_name , T1.last_name , T1.student_id FROM Students AS T1 JOIN Student_Enrolment AS T2 ON T1.student_id = T2.student_id GROUP BY T1.student_id HAVING count(*) = 2\n", "title": "", "metadata": ""}
+{"_id": "993945bbe7d9aaf1f06eee5ebe043003", "text": "SELECT note FROM death WHERE note LIKE '%East%'\n", "title": "", "metadata": ""}
+{"_id": "4510abf300a6577bd03bee143ba8b5d7", "text": "SELECT petid , weight FROM pets WHERE pet_age > 1\n", "title": "", "metadata": ""}
+{"_id": "6905ad5d1ecb3946e9427c42640b4caf", "text": "SELECT T2.Language FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T1.Continent = \"Asia\" GROUP BY T2.Language ORDER BY COUNT (*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "d43e94d43d9357a1b88c4c452e27d732", "text": "SELECT count(*) FROM country WHERE GovernmentForm = \"Republic\"\n", "title": "", "metadata": ""}
+{"_id": "47a1d8d9ca34a9b6215f5ef3d8d89a1f", "text": "SELECT count(*) FROM Dogs WHERE age < ( SELECT avg(age) FROM Dogs )\n", "title": "", "metadata": ""}
+{"_id": "c79c05ce84295cf3e2adf94946864d84", "text": "SELECT Record_Company FROM orchestra ORDER BY Year_of_Founded DESC\n", "title": "", "metadata": ""}
+{"_id": "7d9128791d07f64ac80261d7b64fbc44", "text": "SELECT count(*) FROM visitor WHERE id NOT IN (SELECT t2.visitor_id FROM museum AS t1 JOIN visit AS t2 ON t1.Museum_ID = t2.Museum_ID WHERE t1.open_year > 2010)\n", "title": "", "metadata": ""}
+{"_id": "6a3a01b7326ee932511f553f2a71d46f", "text": "SELECT COUNT(*) FROM CARS_DATA WHERE Accelerate > ( SELECT Accelerate FROM CARS_DATA ORDER BY Horsepower DESC LIMIT 1 );\n", "title": "", "metadata": ""}
+{"_id": "b74eee907cb5925ede75a5e060582265", "text": "SELECT FlightNo FROM FLIGHTS WHERE SourceAirport = \"APG\"\n", "title": "", "metadata": ""}
+{"_id": "3a55dfc63e9e48aee2b56637bb1ea474", "text": "SELECT sum(SurfaceArea) FROM country WHERE Region = \"Caribbean\"\n", "title": "", "metadata": ""}
+{"_id": "c6dfda0e8505dee3e0bd73990804ec0e", "text": "SELECT Money_Rank FROM poker_player ORDER BY Earnings DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "e8da1faade0feb85ebb7113c6960c939", "text": "SELECT template_id FROM Documents GROUP BY template_id HAVING count(*) > 1\n", "title": "", "metadata": ""}
+{"_id": "d34fc5530f3ae3fa19ae0be0cf512807", "text": "SELECT T2.transcript_date , T1.transcript_id FROM Transcript_Contents AS T1 JOIN Transcripts AS T2 ON T1.transcript_id = T2.transcript_id GROUP BY T1.transcript_id HAVING count(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "783e733edb6cb73ed1cf06589e45065a", "text": "SELECT contestant_name FROM contestants WHERE contestant_name != 'Jessie Alloway'\n", "title": "", "metadata": ""}
+{"_id": "f73d13d37bc644fe153b0697a7ab8e61", "text": "SELECT T1.document_id , T2.document_name FROM Paragraphs AS T1 JOIN Documents AS T2 ON T1.document_id = T2.document_id GROUP BY T1.document_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "208fb8792b9d7c6d7be9f71a50b7098e", "text": "SELECT T1.Accelerate FROM CARS_DATA AS T1 JOIN CAR_NAMES AS T2 ON T1.Id = T2.MakeId WHERE T2.Make = 'amc hornet sportabout (sw)';\n", "title": "", "metadata": ""}
+{"_id": "f5e38b6082f16ba63085c26b2a9487f0", "text": "SELECT count(*) , T1.stuid FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid GROUP BY T1.stuid\n", "title": "", "metadata": ""}
+{"_id": "55bb5697a4606442043c20b6407e1e9e", "text": "SELECT winner_name FROM matches WHERE YEAR = 2013 INTERSECT SELECT winner_name FROM matches WHERE YEAR = 2016\n", "title": "", "metadata": ""}
+{"_id": "ecabf3c3c47450caf86d7504806983c8", "text": "SELECT COUNT(*) FROM CARS_DATA WHERE Cylinders > 6;\n", "title": "", "metadata": ""}
+{"_id": "b70ce2effb0f27bae28d5ce91e882af6", "text": "SELECT T2.concert_name , T2.theme , count(*) FROM singer_in_concert AS T1 JOIN concert AS T2 ON T1.concert_id = T2.concert_id GROUP BY T2.concert_id\n", "title": "", "metadata": ""}
+{"_id": "0670457f129246c549a2275cde9150da", "text": "SELECT T1.FlightNo FROM FLIGHTS AS T1 JOIN AIRPORTS AS T2 ON T1.DestAirport = T2.AirportCode WHERE T2.City = \"Aberdeen\"\n", "title": "", "metadata": ""}
+{"_id": "bd31b782bce776bb6f52b013a9d42a7d", "text": "SELECT Hometown FROM teacher GROUP BY Hometown HAVING COUNT(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "77b7acc79c13b726a2047c999da73703", "text": "SELECT T1.first_name , T1.country_code , T1.birth_date FROM players AS T1 JOIN matches AS T2 ON T1.player_id = T2.winner_id ORDER BY T2.winner_rank_points DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "3f3971dde099d51f737f6002d02ef1bd", "text": "select sum(population) , avg(surfacearea) from country where continent = \"north america\" and surfacearea > 3000\n", "title": "", "metadata": ""}
+{"_id": "d0397e1644fdd4ba3c7814033a2c2ff4", "text": "SELECT count(*) FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T2.Airline = T1.uid WHERE T1.Airline = \"United Airlines\" AND T2.DestAirport = \"ASY\"\n", "title": "", "metadata": ""}
+{"_id": "0b6f74f7b661106beb8cdc84e59ea750", "text": "SELECT T2.property_type_description FROM Properties AS T1 JOIN Ref_Property_Types AS T2 ON T1.property_type_code = T2.property_type_code GROUP BY T1.property_type_code\n", "title": "", "metadata": ""}
+{"_id": "df0d92851e7c0a9c04ac30445730a472", "text": "SELECT T2.name , count(*) FROM Likes AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id GROUP BY T1.student_id\n", "title": "", "metadata": ""}
+{"_id": "7af28307317a54cb5c699346185c959a", "text": "select t1.countryid , t1.countryname from countries as t1 join car_makers as t2 on t1.countryid = t2.country group by t1.countryid having count(*) > 3 union select t1.countryid , t1.countryname from countries as t1 join car_makers as t2 on t1.countryid = t2.country join model_list as t3 on t2.id = t3.maker where t3.model = 'fiat';\n", "title": "", "metadata": ""}
+{"_id": "9a8fe55d59c31ba28d8a2beb6f5f6f5d", "text": "SELECT Package_Option FROM TV_Channel WHERE series_name = \"Sky Radio\";\n", "title": "", "metadata": ""}
+{"_id": "ef5dcb48a98a33b72335598ba25d80f1", "text": "SELECT T2.name , count(*) FROM concert AS T1 JOIN stadium AS T2 ON T1.stadium_id = T2.stadium_id GROUP BY T1.stadium_id\n", "title": "", "metadata": ""}
+{"_id": "74cbb91dd0ac067a0f959c821fe36687", "text": "SELECT pettype , weight FROM pets ORDER BY pet_age LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "b48b07ec6c98be74ef53387875cf87e7", "text": "SELECT name FROM employee WHERE Employee_ID NOT IN (SELECT Employee_ID FROM evaluation)\n", "title": "", "metadata": ""}
+{"_id": "58fe71eb8f870e3fd74c64faf1055a28", "text": "SELECT t2.name FROM hiring AS t1 JOIN shop AS t2 ON t1.shop_id = t2.shop_id GROUP BY t1.shop_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "64aa804f0d9c32d3d685cbc0035cf864", "text": "SELECT Population , LifeExpectancy FROM country WHERE Name = \"Brazil\"\n", "title": "", "metadata": ""}
+{"_id": "6c41ca264b7bea5141bdab61c472c679", "text": "SELECT T1.FullName , T1.Id FROM CAR_MAKERS AS T1 JOIN MODEL_LIST AS T2 ON T1.Id = T2.Maker GROUP BY T1.Id HAVING count(*) > 3;\n", "title": "", "metadata": ""}
+{"_id": "f91099b26c89c3efcdfb1fc7fd15139e", "text": "SELECT name , age , weight FROM Dogs WHERE abandoned_yn = 1\n", "title": "", "metadata": ""}
+{"_id": "322ecb8333007f4ffcd2ec5b3d21d751", "text": "SELECT count(*) FROM poker_player\n", "title": "", "metadata": ""}
+{"_id": "6d174a9bfac154af2459f98632bf2c5a", "text": "SELECT country FROM singer WHERE age > 40 INTERSECT SELECT country FROM singer WHERE age < 30\n", "title": "", "metadata": ""}
+{"_id": "163aaab9a4b1375435a4381b2e3cd880", "text": "SELECT max(weight) , petType FROM pets GROUP BY petType\n", "title": "", "metadata": ""}
+{"_id": "00616c0e73c6af9f4e69f2d31ff04421", "text": "SELECT transcript_date , other_details FROM Transcripts ORDER BY transcript_date ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "4706e0a8b022ca232e4edc670b18ae28", "text": "SELECT max(killed) , min(killed) FROM death\n", "title": "", "metadata": ""}
+{"_id": "faf43622959e94b617c2e253b77b25f7", "text": "SELECT avg(age) FROM Dogs\n", "title": "", "metadata": ""}
+{"_id": "f757cce3f1c73581bd2c1e5f8c6c9966", "text": "SELECT Hometown FROM teacher ORDER BY Age ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "38980fb245dfdffbb9c130f7fe8d9a12", "text": "SELECT T2.name FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id INTERSECT SELECT T2.name FROM Likes AS T1 JOIN Highschooler AS T2 ON T1.liked_id = T2.id\n", "title": "", "metadata": ""}
+{"_id": "f65f2195c3cb374d9e2a315e995abad8", "text": "SELECT country FROM TV_Channel EXCEPT SELECT T1.country FROM TV_Channel AS T1 JOIN cartoon AS T2 ON T1.id = T2.Channel WHERE T2.written_by = 'Todd Casey'\n", "title": "", "metadata": ""}
+{"_id": "176c7f8881ce1ba9376e74a76c3a96ad", "text": "SELECT Nationality FROM people GROUP BY Nationality ORDER BY COUNT(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "964b96e06d339efddcbb105b1052b6c1", "text": "SELECT Age , Hometown FROM teacher\n", "title": "", "metadata": ""}
+{"_id": "9a64b2d64ddd7e7067f098acbb5e4a20", "text": "SELECT count(*) FROM Likes AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id WHERE T2.name = \"Kyle\"\n", "title": "", "metadata": ""}
+{"_id": "087c81b5c4f1db3d3d85efe7c31b7164", "text": "SELECT avg(GNP) , sum(population) FROM country WHERE GovernmentForm = \"US Territory\"\n", "title": "", "metadata": ""}
+{"_id": "2ebaf88f17f68294207324fd77556fda", "text": "SELECT document_id , count(*) FROM Paragraphs GROUP BY document_id ORDER BY document_id\n", "title": "", "metadata": ""}
+{"_id": "cad4144bdb92da3240d4144d7638c319", "text": "SELECT Name FROM country WHERE Continent = \"Asia\" ORDER BY LifeExpectancy LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "4c907f84e1c2992c9ed23ee1ba77f2cd", "text": "SELECT template_type_code FROM Templates EXCEPT SELECT template_type_code FROM Templates AS T1 JOIN Documents AS T2 ON T1.template_id = T2.template_id\n", "title": "", "metadata": ""}
+{"_id": "7d86deb9391bd3faf1c452b27f3e1842", "text": "select min(weight) from cars_data where cylinders = 8 and year = 1974\n", "title": "", "metadata": ""}
+{"_id": "fa88dfe015f6cf346c9b03c41dcfa534", "text": "SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"English\" INTERSECT SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"French\"\n", "title": "", "metadata": ""}
+{"_id": "0f91770d36c9163888906d62c19f3cac", "text": "SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline WHERE T2.DestAirport = \"AHD\"\n", "title": "", "metadata": ""}
+{"_id": "a11d4708be7817f578fac3323befd30d", "text": "select count(*) from countries as t1 join car_makers as t2 on t1.countryid = t2.country group by t1.countryid having count(*) > 2\n", "title": "", "metadata": ""}
+{"_id": "ce67e2f6ef31f84248a63fd9668fb47f", "text": "select contestant_name from contestants where contestant_name like \"%al%\"\n", "title": "", "metadata": ""}
+{"_id": "4ff6a96e086ee44dcf418ba0aaaf10b1", "text": "SELECT t1.name FROM employee AS t1 JOIN evaluation AS t2 ON t1.Employee_ID = t2.Employee_ID ORDER BY t2.bonus DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "ce9eae4fa4fad9be54cd1f9deaed2195", "text": "SELECT avg(mpg) FROM CARS_DATA WHERE Cylinders = 4;\n", "title": "", "metadata": ""}
+{"_id": "250300973f59ef12a4c5b17704582859", "text": "SELECT song_name , song_release_year FROM singer ORDER BY age LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "cb522561dc9cce591c9f83571b3a10f3", "text": "SELECT count(*) FROM FLIGHTS WHERE DestAirport = \"ATO\"\n", "title": "", "metadata": ""}
+{"_id": "7836ff6cebcd0750efd79cf5ffada521", "text": "SELECT avg(Weight) , YEAR FROM CARS_DATA GROUP BY YEAR;\n", "title": "", "metadata": ""}
+{"_id": "fbd7d5a18207a0020f1f2cb43bcee7ee", "text": "SELECT count(*) , max(Percentage) FROM countrylanguage WHERE LANGUAGE = \"Spanish\" GROUP BY CountryCode\n", "title": "", "metadata": ""}
+{"_id": "9735641f3edd4b037fc874b806e4f0aa", "text": "SELECT YEAR FROM concert GROUP BY YEAR ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "8ae964ce7d4ed8612a4478a20af0a0bc", "text": "SELECT DISTINCT T2.Model FROM CAR_NAMES AS T1 JOIN MODEL_LIST AS T2 ON T1.Model = T2.Model JOIN CAR_MAKERS AS T3 ON T2.Maker = T3.Id JOIN CARS_DATA AS T4 ON T1.MakeId = T4.Id WHERE T3.FullName = 'General Motors' OR T4.weight > 3500;\n", "title": "", "metadata": ""}
+{"_id": "dee77f867c5ae248ef1e8140a61fc1ab", "text": "SELECT Name FROM singer ORDER BY Net_Worth_Millions ASC\n", "title": "", "metadata": ""}
+{"_id": "d82991367d14a6e0ce8138fc561192c5", "text": "SELECT DISTINCT breed_code , size_code FROM dogs\n", "title": "", "metadata": ""}
+{"_id": "dcf74249d55bd442fb5683959d91063f", "text": "SELECT Name FROM country WHERE continent = \"Europe\" AND Population = \"80000\"\n", "title": "", "metadata": ""}
+{"_id": "a1541308f92ffc3ff1ed3383d4b48e52", "text": "SELECT T1.Name FROM people AS T1 JOIN poker_player AS T2 ON T1.People_ID = T2.People_ID ORDER BY T2.Final_Table_Made\n", "title": "", "metadata": ""}
+{"_id": "751c90b8c9d02afc63fe68e76413b639", "text": "SELECT count(*) FROM teacher\n", "title": "", "metadata": ""}
+{"_id": "0ef6519713c1e76ba577e8ede49094e6", "text": "SELECT course_description FROM Courses WHERE course_name = 'math'\n", "title": "", "metadata": ""}
+{"_id": "de3e8e0e16660775135a27c46b4c19e8", "text": "SELECT sum(Population) FROM country WHERE Name NOT IN (SELECT T1.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"English\")\n", "title": "", "metadata": ""}
+{"_id": "2d9cac520dc188bf2001de23476c865f", "text": "SELECT count(DISTINCT series_name) , count(DISTINCT content) FROM TV_Channel;\n", "title": "", "metadata": ""}
+{"_id": "de1fd9ee0bcaaba9a175015836af8809", "text": "SELECT count(*) , city FROM employee GROUP BY city\n", "title": "", "metadata": ""}
+{"_id": "1374ee09ddd410614d80f27f4b7b0f82", "text": "SELECT avg(LifeExpectancy) FROM country WHERE Region = \"Central Africa\"\n", "title": "", "metadata": ""}
+{"_id": "48a838f1e47a0863de5b4c271b97d538", "text": "SELECT Pixel_aspect_ratio_PAR , country FROM tv_channel WHERE LANGUAGE != 'English'\n", "title": "", "metadata": ""}
+{"_id": "581f606cdc2e413fa3d80fea7021d64d", "text": "SELECT first_name , last_name FROM players WHERE hand = 'L' ORDER BY birth_date\n", "title": "", "metadata": ""}
+{"_id": "d357d081a5befbe716dcec0a8a8d9e8a", "text": "SELECT LANGUAGE , count(*) FROM TV_Channel GROUP BY LANGUAGE\n", "title": "", "metadata": ""}
+{"_id": "d73bff31eaef58fe2dfafc16f15ee412", "text": "SELECT LOCATION , name FROM stadium WHERE capacity BETWEEN 5000 AND 10000\n", "title": "", "metadata": ""}
+{"_id": "09217e2a78962d3c956cc389a14be438", "text": "SELECT T1.Name , T2.Orchestra FROM conductor AS T1 JOIN orchestra AS T2 ON T1.Conductor_ID = T2.Conductor_ID\n", "title": "", "metadata": ""}
+{"_id": "addf89454ae4edd0d4d6b6218bdc0d7c", "text": "SELECT T1.owner_id , T2.first_name , T2.last_name FROM Dogs AS T1 JOIN Owners AS T2 ON T1.owner_id = T2.owner_id GROUP BY T1.owner_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "570581f421ce5ff94e5231749bebb202", "text": "SELECT LANGUAGE , count(*) FROM TV_Channel GROUP BY LANGUAGE ORDER BY count(*) ASC LIMIT 1;\n", "title": "", "metadata": ""}
+{"_id": "dcd678263ce202e72c3dcb40ca2b8c2a", "text": "SELECT Name FROM conductor ORDER BY Year_of_Work DESC\n", "title": "", "metadata": ""}
+{"_id": "f86fe00762e14cfbddbe65709e01a9f7", "text": "SELECT count(DISTINCT LOCATION) FROM shop\n", "title": "", "metadata": ""}
+{"_id": "013c5f41e0fb2d931a7734e69ec59f5b", "text": "SELECT avg(LifeExpectancy) FROM country WHERE Continent = \"Africa\" AND GovernmentForm = \"Republic\"\n", "title": "", "metadata": ""}
+{"_id": "de7aa539237b5da22431cba4dad01a10", "text": "SELECT T1.area_code FROM area_code_state AS T1 JOIN votes AS T2 ON T1.state = T2.state GROUP BY T1.area_code ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "52853200de5d2be77051d43141a8bcea", "text": "SELECT Record_Company , COUNT(*) FROM orchestra GROUP BY Record_Company\n", "title": "", "metadata": ""}
+{"_id": "31f43c5d6394eeca7a7a32bd9c8ee44f", "text": "SELECT count(DISTINCT Nationality) FROM conductor\n", "title": "", "metadata": ""}
+{"_id": "67fc7565c630250f66373a9afae796ac", "text": "select name from dogs where dog_id not in ( select dog_id from treatments group by dog_id having sum(cost_of_treatment) > 1000 )\n", "title": "", "metadata": ""}
+{"_id": "8896642539840db268863627fa51e417", "text": "select name from city where population between 160000 and 900000\n", "title": "", "metadata": ""}
+{"_id": "9935ecdd01defb287ac55f7b27a8c989", "text": "SELECT T1.Abbreviation , T1.Country FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline GROUP BY T1.Airline ORDER BY count(*) LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "8b3530c212ef8c7316f7bd30bb911cbe", "text": "SELECT avg(ranking) , T1.first_name FROM players AS T1 JOIN rankings AS T2 ON T1.player_id = T2.player_id GROUP BY T1.first_name\n", "title": "", "metadata": ""}
+{"_id": "026005c6a0e943c6a746d2d32af91bbb", "text": "SELECT T1.name , T1.date FROM battle AS T1 JOIN ship AS T2 ON T1.id = T2.lost_in_battle WHERE T2.name = 'Lettice' INTERSECT SELECT T1.name , T1.date FROM battle AS T1 JOIN ship AS T2 ON T1.id = T2.lost_in_battle WHERE T2.name = 'HMS Atalanta'\n", "title": "", "metadata": ""}
+{"_id": "319878e462d2aca2b42a5ff724644b71", "text": "SELECT count(*) FROM matches WHERE YEAR = 2013 OR YEAR = 2016\n", "title": "", "metadata": ""}
+{"_id": "d4f478cd157d16277e8e86bb7ae83cfc", "text": "SELECT T1.template_id , T2.Template_Type_Code FROM Documents AS T1 JOIN Templates AS T2 ON T1.template_id = T2.template_id GROUP BY T1.template_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "7b6adf780add30a35950279d3ab0d716", "text": "select t2.department_name , t1.department_id from degree_programs as t1 join departments as t2 on t1.department_id = t2.department_id group by t1.department_id order by count(*) desc limit 1\n", "title": "", "metadata": ""}
+{"_id": "637b4e49a6c94bf119ef5d6ed4a0c4f8", "text": "SELECT avg(injured) FROM death\n", "title": "", "metadata": ""}
+{"_id": "0b503dab8a927a2937132887cb18afd9", "text": "SELECT T1.first_name , T2.name FROM Owners AS T1 JOIN Dogs AS T2 ON T1.owner_id = T2.owner_id\n", "title": "", "metadata": ""}
+{"_id": "a43145d1a337f06ba6f3ca73897401d8", "text": "SELECT count(*) FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T2.petid = T3.petid WHERE T1.sex = 'F' AND T3.pettype = 'dog'\n", "title": "", "metadata": ""}
+{"_id": "927b7a9a9c9a03d973b25328ce5e5323", "text": "SELECT T1.course_name , T1.course_id FROM Courses AS T1 JOIN Sections AS T2 ON T1.course_id = T2.course_id GROUP BY T1.course_id HAVING count(*) <= 2\n", "title": "", "metadata": ""}
+{"_id": "a082bb27970385826d9b11fbf100b61b", "text": "SELECT T2.name FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id GROUP BY T1.student_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "6e1bed637b96a6a8d85aa1bfd0644a04", "text": "SELECT count(*) FROM votes WHERE state = 'NY' OR state = 'CA'\n", "title": "", "metadata": ""}
+{"_id": "d64d7bbe7c1b80fe23c620f0e52aa53e", "text": "SELECT count(*) FROM concert WHERE YEAR = 2014 OR YEAR = 2015\n", "title": "", "metadata": ""}
+{"_id": "8a379f791fa43c36fb985870625f6006", "text": "SELECT template_type_code FROM Ref_template_types WHERE template_type_description = \"Book\"\n", "title": "", "metadata": ""}
+{"_id": "bf62d96e27792e1e40682213e8bc040d", "text": "SELECT T1.first_name , T1.last_name , T2.size_code FROM Owners AS T1 JOIN Dogs AS T2 ON T1.owner_id = T2.owner_id\n", "title": "", "metadata": ""}
+{"_id": "7a1b3de0dbe23d4e4c592d3c1a8b1bbf", "text": "SELECT T1.degree_summary_name FROM Degree_Programs AS T1 JOIN Student_Enrolment AS T2 ON T1.degree_program_id = T2.degree_program_id GROUP BY T1.degree_summary_name ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "293b98905608b55d34cea89eceeb668f", "text": "SELECT weight FROM pets ORDER BY pet_age LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "357f8a91ce0531e8065e397b14eabef1", "text": "SELECT t2.Museum_ID , t1.name FROM museum AS t1 JOIN visit AS t2 ON t1.Museum_ID = t2.Museum_ID GROUP BY t2.Museum_ID ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "8c48158b0d80052b947d0bf66f6758f7", "text": "SELECT count(*) , student_course_id FROM Transcript_Contents GROUP BY student_course_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "3d4926b752486b914cc89585123c7bd1", "text": "SELECT count(DISTINCT dog_id) FROM Treatments\n", "title": "", "metadata": ""}
+{"_id": "b93f3e50637a2cd5a230e5c6ffe7cee3", "text": "SELECT grade , count(*) FROM Highschooler GROUP BY grade\n", "title": "", "metadata": ""}
+{"_id": "e95cccad2186003730c19519bd2c3d19", "text": "SELECT Abbreviation FROM AIRLINES WHERE Airline = \"JetBlue Airways\"\n", "title": "", "metadata": ""}
+{"_id": "c89035b6f859e7d11538c419f38fa384", "text": "SELECT name , capacity FROM stadium ORDER BY average DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "0bfa82892bcd34c50a06093d3afbb212", "text": "SELECT name FROM stadium WHERE stadium_id NOT IN (SELECT stadium_id FROM concert)\n", "title": "", "metadata": ""}
+{"_id": "a0d1b3b7a3a2b382527e99f0cb981a40", "text": "SELECT avg(age) , min(age) , max(age) FROM singer WHERE country = 'France'\n", "title": "", "metadata": ""}
+{"_id": "90c0d2500f88a041b96984919e998049", "text": "SELECT Earnings FROM poker_player ORDER BY Earnings DESC\n", "title": "", "metadata": ""}
+{"_id": "274f3ec0ca6f41785eafaed2d93970d6", "text": "SELECT count(*) FROM Departments AS T1 JOIN Degree_Programs AS T2 ON T1.department_id = T2.department_id WHERE T1.department_name = 'engineer'\n", "title": "", "metadata": ""}
+{"_id": "f68569d8f2ed019a490e4d0d30d43f47", "text": "SELECT count(*) FROM pets WHERE weight > 10\n", "title": "", "metadata": ""}
+{"_id": "b5daff6ed70b0e16b874e6934e6d7879", "text": "select max(mpg) from cars_data where cylinders = 8 or year < 1980\n", "title": "", "metadata": ""}
+{"_id": "619f1cb1a6f392b3071c5cb8a43c875c", "text": "SELECT DISTINCT T1.Maker FROM CAR_MAKERS AS T1 JOIN MODEL_LIST AS T2 ON T1.Id = T2.Maker JOIN CAR_NAMES AS T3 ON T2.model = T3.model JOIN CARS_DATA AS T4 ON T3.MakeId = T4.id WHERE T4.year = '1970';\n", "title": "", "metadata": ""}
+{"_id": "ff6c5d39573b08823a7b0e51904d251a", "text": "SELECT AirportName FROM Airports WHERE AirportCode NOT IN (SELECT SourceAirport FROM Flights UNION SELECT DestAirport FROM Flights)\n", "title": "", "metadata": ""}
+{"_id": "1f429805f20ef6eff5846ec7518ab7c5", "text": "SELECT count(*) FROM FLIGHTS AS T1 JOIN AIRPORTS AS T2 ON T1.DestAirport = T2.AirportCode WHERE T2.City = \"Aberdeen\"\n", "title": "", "metadata": ""}
+{"_id": "7076160c95b78c3f4d69cf079a91fc33", "text": "SELECT count(DISTINCT loser_name) FROM matches\n", "title": "", "metadata": ""}
+{"_id": "cd423856abae12d5cc155aabebdb2d16", "text": "SELECT first_name FROM Students WHERE current_address_id != permanent_address_id\n", "title": "", "metadata": ""}
+{"_id": "82003596b07ec031000aed79b67bea1e", "text": "SELECT template_id , count(*) FROM Documents GROUP BY template_id\n", "title": "", "metadata": ""}
+{"_id": "3d269e5b69ca30aaf29b97ee438f59ce", "text": "SELECT LANGUAGE FROM countrylanguage GROUP BY LANGUAGE ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "35d4bd5b13512fa69111cb900f2680b6", "text": "SELECT avg(T2.edispl) FROM CAR_NAMES AS T1 JOIN CARS_DATA AS T2 ON T1.MakeId = T2.Id WHERE T1.Model = 'volvo';\n", "title": "", "metadata": ""}
+{"_id": "bc08276081908a6b214c2a10c117cf44", "text": "SELECT t1.name , t1.age FROM visitor AS t1 JOIN visit AS t2 ON t1.id = t2.visitor_id ORDER BY t2.num_of_ticket DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "01265a8e5aa085782fb467601df3c11d", "text": "SELECT name FROM Highschooler EXCEPT SELECT T2.name FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id\n", "title": "", "metadata": ""}
+{"_id": "4cad75466f4215c0e53e4513f706941f", "text": "SELECT contestant_number , contestant_name FROM contestants ORDER BY contestant_name DESC\n", "title": "", "metadata": ""}
+{"_id": "9b6c5add6612c693674f87d9ee399134", "text": "SELECT DISTINCT T1.first_name , T3.treatment_type_description FROM professionals AS T1 JOIN Treatments AS T2 ON T1.professional_id = T2.professional_id JOIN Treatment_types AS T3 ON T2.treatment_type_code = T3.treatment_type_code\n", "title": "", "metadata": ""}
+{"_id": "1e7e92635d14913e4f25b9f7900934ec", "text": "SELECT T1.semester_name , T1.semester_id FROM Semesters AS T1 JOIN Student_Enrolment AS T2 ON T1.semester_id = T2.semester_id GROUP BY T1.semester_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "50fa12257c1c437865f063364aeac60f", "text": "SELECT T1.Airline FROM AIRLINES AS T1 JOIN FLIGHTS AS T2 ON T1.uid = T2.Airline GROUP BY T1.Airline HAVING count(*) > 10\n", "title": "", "metadata": ""}
+{"_id": "cf88e4c5e83b50db7a2128c1442b293b", "text": "SELECT T1.series_name FROM TV_Channel AS T1 JOIN Cartoon AS T2 ON T1.id = T2.Channel WHERE T2.Title = \"The Rise of the Blue Beetle!\";\n", "title": "", "metadata": ""}
+{"_id": "d224f729c80dc549169627eec666a2f5", "text": "SELECT name FROM employee ORDER BY age\n", "title": "", "metadata": ""}
+{"_id": "e930bf425ade918fe2e078b9c0b79878", "text": "SELECT count(*) FROM Highschooler WHERE grade = 9 OR grade = 10\n", "title": "", "metadata": ""}
+{"_id": "964c95aacd623016c54d3a86e9ea23b0", "text": "SELECT T2.template_id FROM Ref_template_types AS T1 JOIN Templates AS T2 ON T1.template_type_code = T2.template_type_code WHERE T1.template_type_description = \"Presentation\"\n", "title": "", "metadata": ""}
+{"_id": "f32f2988a67263031147e8c71c664422", "text": "SELECT section_name , section_description FROM Sections\n", "title": "", "metadata": ""}
+{"_id": "965dda29f931ffb90a1933138566055f", "text": "SELECT Citizenship FROM singer GROUP BY Citizenship ORDER BY COUNT(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "ebbe08161bd73305e400ea9326055271", "text": "SELECT sum(ranking_points) , T1.first_name FROM players AS T1 JOIN rankings AS T2 ON T1.player_id = T2.player_id GROUP BY T1.first_name\n", "title": "", "metadata": ""}
+{"_id": "22364b17808c4c67156686fbd693dbb6", "text": "select t1.id , t1.maker from car_makers as t1 join model_list as t2 on t1.id = t2.maker group by t1.id having count(*) >= 2 intersect select t1.id , t1.maker from car_makers as t1 join model_list as t2 on t1.id = t2.maker join car_names as t3 on t2.model = t3.model group by t1.id having count(*) > 3;\n", "title": "", "metadata": ""}
+{"_id": "9573f9139005dca21b45e240aff8017e", "text": "SELECT name FROM stadium EXCEPT SELECT T2.name FROM concert AS T1 JOIN stadium AS T2 ON T1.stadium_id = T2.stadium_id WHERE T1.year = 2014\n", "title": "", "metadata": ""}
+{"_id": "16201669cc9d6e8b1f45234d2c494980", "text": "SELECT t1.name FROM employee AS t1 JOIN evaluation AS t2 ON t1.Employee_ID = t2.Employee_ID GROUP BY t2.Employee_ID ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "728ee00727c2a381dd49212d637f1a63", "text": "SELECT email_address , cell_number , home_phone FROM professionals\n", "title": "", "metadata": ""}
+{"_id": "cf058ff4f52b7362882ff6bfa37eaa21", "text": "SELECT template_type_description FROM Ref_template_types WHERE template_type_code = \"AD\"\n", "title": "", "metadata": ""}
+{"_id": "96265fdc9f4f3c4674245d4f55d4eaad", "text": "SELECT T1.student_id , T1.first_name , T1.middle_name , T1.last_name , count(*) , T1.student_id FROM Students AS T1 JOIN Student_Enrolment AS T2 ON T1.student_id = T2.student_id GROUP BY T1.student_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "716e1f905aa2e9190bdbe5269694689c", "text": "select t2.concert_name , t2.theme , count(*) from singer_in_concert as t1 join concert as t2 on t1.concert_id = t2.concert_id group by t2.concert_id\n", "title": "", "metadata": ""}
+{"_id": "933dc258272125d05e350e7ec77fdc0a", "text": "SELECT count(*) , LOCATION FROM shop GROUP BY LOCATION\n", "title": "", "metadata": ""}
+{"_id": "c0034d2fdbc8d56a9519b34c8a1205c9", "text": "SELECT name , grade FROM Highschooler\n", "title": "", "metadata": ""}
+{"_id": "ede7adc8e8c7c8a964097586c4563ff0", "text": "SELECT zip_postcode FROM Addresses WHERE city = 'Port Chelsea'\n", "title": "", "metadata": ""}
+{"_id": "75f836b0d08240271d641e1502b71e99", "text": "SELECT Name FROM singer WHERE Birth_Year = 1948 OR Birth_Year = 1949\n", "title": "", "metadata": ""}
+{"_id": "057ed15125b109c2063c094d1d6960aa", "text": "SELECT first_name FROM Professionals UNION SELECT first_name FROM Owners EXCEPT SELECT name FROM Dogs\n", "title": "", "metadata": ""}
+{"_id": "4663123e4c9f73b79759109147851177", "text": "SELECT count(DISTINCT professional_id) FROM Treatments\n", "title": "", "metadata": ""}
+{"_id": "e1c9dcc22b553631f1a32e50c9b95aad", "text": "SELECT T2.Episode FROM TV_Channel AS T1 JOIN TV_series AS T2 ON T1.id = T2.Channel WHERE T1.series_name = \"Sky Radio\";\n", "title": "", "metadata": ""}
+{"_id": "49b6675f433310a51bb3c167b4f92bf2", "text": "SELECT T2.name , T2.capacity FROM concert AS T1 JOIN stadium AS T2 ON T1.stadium_id = T2.stadium_id WHERE T1.year >= 2014 GROUP BY T2.stadium_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "46435a805d51ad24e00942e5c88700c5", "text": "SELECT count(*) FROM CAR_MAKERS AS T1 JOIN COUNTRIES AS T2 ON T1.Country = T2.CountryId WHERE T2.CountryName = 'france';\n", "title": "", "metadata": ""}
+{"_id": "095d3b82ea8456acf03d0a2028635366", "text": "SELECT Record_Company FROM orchestra WHERE Year_of_Founded < 2003 INTERSECT SELECT Record_Company FROM orchestra WHERE Year_of_Founded > 2003\n", "title": "", "metadata": ""}
+{"_id": "108823fbd79f5acde876ebf3a3d9f32c", "text": "SELECT sum(bonus) FROM evaluation\n", "title": "", "metadata": ""}
+{"_id": "16f4a9538abd60b6179915d089433535", "text": "SELECT T3.Name , T2.Course FROM course_arrange AS T1 JOIN course AS T2 ON T1.Course_ID = T2.Course_ID JOIN teacher AS T3 ON T1.Teacher_ID = T3.Teacher_ID ORDER BY T3.Name\n", "title": "", "metadata": ""}
+{"_id": "2bfb06abef63896c36ffb9e6d62b9886", "text": "SELECT Name , Population , LifeExpectancy FROM country WHERE Continent = \"Asia\" ORDER BY SurfaceArea DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "48d1041e53e614cb724834d2b339ba56", "text": "SELECT sum(t2.Total_spent) FROM visitor AS t1 JOIN visit AS t2 ON t1.id = t2.visitor_id WHERE t1.Level_of_membership = 1\n", "title": "", "metadata": ""}
+{"_id": "7a8401975b7950409b4cad9729632762", "text": "SELECT count(*) FROM Flights AS T1 JOIN Airports AS T2 ON T1.DestAirport = T2.AirportCode WHERE T2.city = \"Aberdeen\" OR T2.city = \"Abilene\"\n", "title": "", "metadata": ""}
+{"_id": "29a9556df39118e453bc4261d81d0850", "text": "SELECT DISTINCT T2.semester_id FROM Degree_Programs AS T1 JOIN Student_Enrolment AS T2 ON T1.degree_program_id = T2.degree_program_id WHERE degree_summary_name = 'Master' INTERSECT SELECT DISTINCT T2.semester_id FROM Degree_Programs AS T1 JOIN Student_Enrolment AS T2 ON T1.degree_program_id = T2.degree_program_id WHERE degree_summary_name = 'Bachelor'\n", "title": "", "metadata": ""}
+{"_id": "e83bc1fd1134d3a5917f99928fb2cc09", "text": "SELECT count(*) FROM Dogs WHERE dog_id NOT IN ( SELECT dog_id FROM Treatments )\n", "title": "", "metadata": ""}
+{"_id": "0eda07ded2f8e0e437c8746dd6294210", "text": "SELECT T3.Name FROM course_arrange AS T1 JOIN course AS T2 ON T1.Course_ID = T2.Course_ID JOIN teacher AS T3 ON T1.Teacher_ID = T3.Teacher_ID WHERE T2.Course = \"Math\"\n", "title": "", "metadata": ""}
+{"_id": "6371383af54d7438dbcfa4d5f95842fa", "text": "SELECT avg(weight) , pettype FROM pets GROUP BY pettype\n", "title": "", "metadata": ""}
+{"_id": "5502a8fc5013f1d5b98065ba22f0df99", "text": "SELECT id FROM tv_channel GROUP BY country HAVING count(*) > 2\n", "title": "", "metadata": ""}
+{"_id": "fe38ca06864f4e002b2fed02abbe774b", "text": "SELECT avg(num_of_ticket) , max(num_of_ticket) FROM visit\n", "title": "", "metadata": ""}
+{"_id": "605e254e521a5afefc331859ec374b35", "text": "SELECT DISTINCT T1.model FROM MODEL_LIST AS T1 JOIN CAR_NAMES AS T2 ON T1.model = T2.model JOIN CARS_DATA AS T3 ON T2.MakeId = T3.id WHERE T3.year > 1980;\n", "title": "", "metadata": ""}
+{"_id": "209e84050d1b0b512baa6ff6708bfb1d", "text": "SELECT count(DISTINCT pettype) FROM pets\n", "title": "", "metadata": ""}
+{"_id": "3e32d58b501a24aece771e5d7889fed3", "text": "SELECT Birth_Year , Citizenship FROM singer\n", "title": "", "metadata": ""}
+{"_id": "2a35d4e2d653b041dbf65e113d08ace0", "text": "SELECT t1.name FROM visitor AS t1 JOIN visit AS t2 ON t1.id = t2.visitor_id JOIN museum AS t3 ON t3.Museum_ID = t2.Museum_ID WHERE t3.open_year < 2009 INTERSECT SELECT t1.name FROM visitor AS t1 JOIN visit AS t2 ON t1.id = t2.visitor_id JOIN museum AS t3 ON t3.Museum_ID = t2.Museum_ID WHERE t3.open_year > 2011\n", "title": "", "metadata": ""}
+{"_id": "e9c71e84ef7a8d0a90231b4f8162c7fb", "text": "SELECT max(SHARE) , min(SHARE) FROM performance WHERE TYPE != \"Live final\"\n", "title": "", "metadata": ""}
+{"_id": "0d92a23e69ae841c3ecdfc573de1d2f1", "text": "SELECT T1.City FROM AIRPORTS AS T1 JOIN FLIGHTS AS T2 ON T1.AirportCode = T2.DestAirport GROUP BY T1.City ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "608bd294c54c11ede261ce6ca10b8446", "text": "SELECT count(*) FROM players\n", "title": "", "metadata": ""}
+{"_id": "07c85837a2ec9ea8c32b91135efeae19", "text": "SELECT Name FROM country WHERE Continent = \"Africa\" AND population < (SELECT min(population) FROM country WHERE Continent = \"Asia\")\n", "title": "", "metadata": ""}
+{"_id": "93822a6f89b56de5edc151ac80591075", "text": "SELECT Year_of_Founded FROM orchestra AS T1 JOIN performance AS T2 ON T1.Orchestra_ID = T2.Orchestra_ID GROUP BY T2.Orchestra_ID HAVING COUNT(*) > 1\n", "title": "", "metadata": ""}
+{"_id": "138f75ef0c609cc836dea3cb8892eaf1", "text": "SELECT T2.Title FROM TV_Channel AS T1 JOIN Cartoon AS T2 ON T1.id = T2.Channel WHERE T1.series_name = \"Sky Radio\";\n", "title": "", "metadata": ""}
+{"_id": "2c087d4d82dfc49cac62dfb6faaabcb2", "text": "SELECT T2.name FROM singer_in_concert AS T1 JOIN singer AS T2 ON T1.singer_id = T2.singer_id JOIN concert AS T3 ON T1.concert_id = T3.concert_id WHERE T3.year = 2014\n", "title": "", "metadata": ""}
+{"_id": "75a97ad0bf6d12c2f03a66c053e3e157", "text": "SELECT T1.countryId , T1.CountryName FROM Countries AS T1 JOIN CAR_MAKERS AS T2 ON T1.CountryId = T2.Country GROUP BY T1.countryId HAVING count(*) > 3 UNION SELECT T1.countryId , T1.CountryName FROM Countries AS T1 JOIN CAR_MAKERS AS T2 ON T1.CountryId = T2.Country JOIN MODEL_LIST AS T3 ON T2.Id = T3.Maker WHERE T3.Model = 'fiat';\n", "title": "", "metadata": ""}
+{"_id": "9f39609b7dbe794f28e502c53d524b0e", "text": "SELECT T1.contestant_number , T1.contestant_name FROM contestants AS T1 JOIN votes AS T2 ON T1.contestant_number = T2.contestant_number GROUP BY T1.contestant_number ORDER BY count(*) ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "6e4b6f98fdf81e16a5049ec7acc7050b", "text": "SELECT T2.Make , T1.Year FROM CARS_DATA AS T1 JOIN CAR_NAMES AS T2 ON T1.Id = T2.MakeId WHERE T1.Year = (SELECT min(YEAR) FROM CARS_DATA);\n", "title": "", "metadata": ""}
+{"_id": "4d5e3e977a4017c7ac965afbb41acc75", "text": "SELECT state FROM Owners INTERSECT SELECT state FROM Professionals\n", "title": "", "metadata": ""}
+{"_id": "27359bb4c5eb004ba1579c2e4e1fdd1e", "text": "SELECT Name FROM country WHERE Continent = \"Africa\" AND population < (SELECT max(population) FROM country WHERE Continent = \"Asia\")\n", "title": "", "metadata": ""}
+{"_id": "c74cadea39970713d6bb3e9d685e64eb", "text": "select t2.makeid , t2.make from cars_data as t1 join car_names as t2 on t1.id = t2.makeid where t1.horsepower > (select min(horsepower) from cars_data) and t1.cylinders < 4;\n", "title": "", "metadata": ""}
+{"_id": "9a28953f2a18fbea57eb3c757d9c562e", "text": "SELECT count(*) FROM museum WHERE open_year > 2013 OR open_year < 2008\n", "title": "", "metadata": ""}
+{"_id": "cca018eff927b7438e6e56a505f282ae", "text": "SELECT name , RESULT , bulgarian_commander FROM battle EXCEPT SELECT T1.name , T1.result , T1.bulgarian_commander FROM battle AS T1 JOIN ship AS T2 ON T1.id = T2.lost_in_battle WHERE T2.location = 'English Channel'\n", "title": "", "metadata": ""}
+{"_id": "51be9f86c88ea482c743049ff4141f31", "text": "SELECT Content FROM TV_Channel WHERE series_name = \"Sky Radio\";\n", "title": "", "metadata": ""}
+{"_id": "f5c165cb65838f433cf4a2152eebe1ef", "text": "SELECT name FROM Highschooler WHERE grade = 10\n", "title": "", "metadata": ""}
+{"_id": "d42b342385db104c3ce0721094671e9d", "text": "SELECT Citizenship FROM singer WHERE Birth_Year < 1945 INTERSECT SELECT Citizenship FROM singer WHERE Birth_Year > 1955\n", "title": "", "metadata": ""}
+{"_id": "b3d4a94f38e9891506ffa593f2f2f9ef", "text": "SELECT Name FROM people WHERE Nationality != \"Russia\"\n", "title": "", "metadata": ""}
+{"_id": "5e387322814e17237172374442a41b6d", "text": "SELECT T1.first_name , T2.name FROM Owners AS T1 JOIN Dogs AS T2 ON T1.owner_id = T2.owner_id WHERE T1.state = 'Virginia'\n", "title": "", "metadata": ""}
+{"_id": "4e8690373e6a474bd1fa9ed986913897", "text": "SELECT count(*) FROM FLIGHTS\n", "title": "", "metadata": ""}
+{"_id": "e1f39c14ec410d96f36119c43f86eff6", "text": "SELECT max(charge_amount) FROM Charges\n", "title": "", "metadata": ""}
+{"_id": "aeb2df1aa7a08672f02ed19fa3547740", "text": "SELECT Name FROM people WHERE People_ID NOT IN (SELECT People_ID FROM poker_player)\n", "title": "", "metadata": ""}
+{"_id": "859c143723c2f1a0b370664adffacbe6", "text": "SELECT museum_id , name FROM museum ORDER BY num_of_staff DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "d3b28eb52ade9c5ca4c6b4d96df884ee", "text": "SELECT T1.treatment_type_description FROM Treatment_types AS T1 JOIN Treatments AS T2 ON T1.treatment_type_code = T2.treatment_type_code GROUP BY T1.treatment_type_code ORDER BY sum(cost_of_treatment) ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "4818dcff0cd89b621c9fe240cd02ae27", "text": "SELECT Name , SurfaceArea , IndepYear FROM country ORDER BY Population LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "989503dd15db4ef9fddc31d98a3c8fab", "text": "select citizenship from singer group by citizenship order by count(*) desc limit 1\n", "title": "", "metadata": ""}
+{"_id": "bb8adfe6cb8b5a9693f98e04e129e835", "text": "SELECT T1.professional_id , T1.cell_number FROM Professionals AS T1 JOIN Treatments AS T2 ON T1.professional_id = T2.professional_id GROUP BY T1.professional_id HAVING count(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "66c9090755b3f945afd6436af8102f72", "text": "SELECT Air_Date FROM TV_series WHERE Episode = \"A Love of a Lifetime\";\n", "title": "", "metadata": ""}
+{"_id": "812f2ca1f22b079ab80260fb72b86aba", "text": "SELECT DISTINCT T1.first_name , T1.middle_name , T1.last_name FROM Students AS T1 JOIN Student_Enrolment AS T2 ON T1.student_id = T2.student_id JOIN Degree_Programs AS T3 ON T2.degree_program_id = T3.degree_program_id WHERE T3.degree_summary_name = 'Bachelor'\n", "title": "", "metadata": ""}
+{"_id": "02299fcaa487d3be85295f142812ab64", "text": "SELECT count(*) FROM battle WHERE id NOT IN ( SELECT lost_in_battle FROM ship WHERE tonnage = '225' );\n", "title": "", "metadata": ""}
+{"_id": "070bade2aa79aa53fbe88e9b0f728185", "text": "SELECT T2.Language FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T1.GovernmentForm = \"Republic\" GROUP BY T2.Language HAVING COUNT(*) = 1\n", "title": "", "metadata": ""}
+{"_id": "15225754af0d01dc0668db650917f184", "text": "SELECT T1.Birth_Date FROM people AS T1 JOIN poker_player AS T2 ON T1.People_ID = T2.People_ID ORDER BY T2.Earnings ASC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "25a24a35c825b954a26f996f343e6c03", "text": "SELECT T1.Name FROM people AS T1 JOIN poker_player AS T2 ON T1.People_ID = T2.People_ID WHERE T2.Earnings > 300000\n", "title": "", "metadata": ""}
+{"_id": "90b7fde04b37244142b3e8cf94298259", "text": "SELECT Hometown FROM teacher GROUP BY Hometown ORDER BY COUNT(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "47bc7e75c646afcd8dde545f88396e8a", "text": "SELECT count(*) FROM Professionals WHERE professional_id NOT IN ( SELECT professional_id FROM Treatments )\n", "title": "", "metadata": ""}
+{"_id": "35ce8a011197c8d2bbd06d38d5cace67", "text": "SELECT Continent FROM country WHERE Name = \"Anguilla\"\n", "title": "", "metadata": ""}
+{"_id": "368d15c50ceaee95845814ea2b59bffc", "text": "SELECT winner_name FROM matches WHERE tourney_name = 'Australian Open' ORDER BY winner_rank_points DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "34cc0bd2c7a214302968196295adb0df", "text": "SELECT avg(num_of_staff) FROM museum WHERE open_year < 2009\n", "title": "", "metadata": ""}
+{"_id": "d468d904ec78d5cf0fa439f024bbe6fe", "text": "SELECT DISTINCT T3.Name FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode JOIN city AS T3 ON T1.Code = T3.CountryCode WHERE T2.IsOfficial = 'T' AND T2.Language = 'Chinese' AND T1.Continent = \"Asia\"\n", "title": "", "metadata": ""}
+{"_id": "2eb98108ae2612ed823d5343cb66ac97", "text": "SELECT T1.template_type_code FROM Templates AS T1 JOIN Documents AS T2 ON T1.template_id = T2.template_id WHERE T2.document_name = \"Data base\"\n", "title": "", "metadata": ""}
+{"_id": "a131dd9090dd8dd5c169179ca57b4075", "text": "SELECT T1.series_name , T1.country FROM TV_Channel AS T1 JOIN cartoon AS T2 ON T1.id = T2.Channel WHERE T2.directed_by = 'Michael Chang' INTERSECT SELECT T1.series_name , T1.country FROM TV_Channel AS T1 JOIN cartoon AS T2 ON T1.id = T2.Channel WHERE T2.directed_by = 'Ben Jones'\n", "title": "", "metadata": ""}
+{"_id": "4d6e73441cf29097ce3245427b7f92f7", "text": "SELECT DISTINCT T1.id , T1.name FROM battle AS T1 JOIN ship AS T2 ON T1.id = T2.lost_in_battle WHERE T2.ship_type = 'Brig'\n", "title": "", "metadata": ""}
+{"_id": "81e1d0de15b9fc3ff41863404674ba08", "text": "SELECT DISTINCT CountryCode FROM countrylanguage WHERE LANGUAGE != \"English\"\n", "title": "", "metadata": ""}
+{"_id": "55de19699484b89a05bfbd9fa5108660", "text": "SELECT section_name FROM Sections ORDER BY section_name DESC\n", "title": "", "metadata": ""}
+{"_id": "c7bbbc6dec4ac87490ce891a583e5b1b", "text": "SELECT T3.area_code FROM contestants AS T1 JOIN votes AS T2 ON T1.contestant_number = T2.contestant_number JOIN area_code_state AS T3 ON T2.state = T3.state WHERE T1.contestant_name = 'Tabatha Gehling' INTERSECT SELECT T3.area_code FROM contestants AS T1 JOIN votes AS T2 ON T1.contestant_number = T2.contestant_number JOIN area_code_state AS T3 ON T2.state = T3.state WHERE T1.contestant_name = 'Kelly Clauss'\n", "title": "", "metadata": ""}
+{"_id": "f2c1ee77e4ecdac883e8f0871ec660b9", "text": "SELECT DISTINCT T1.course_name FROM Courses AS T1 JOIN Student_Enrolment_Courses AS T2 ON T1.course_id = T2.course_id\n", "title": "", "metadata": ""}
+{"_id": "c1b77afe1f824e3959ad995cef1e36ed", "text": "SELECT T1.degree_program_id , T1.degree_summary_name FROM Degree_Programs AS T1 JOIN Student_Enrolment AS T2 ON T1.degree_program_id = T2.degree_program_id GROUP BY T1.degree_program_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "095c86fa1e03e68c7e204d5b1c43e3a6", "text": "SELECT T1.AirportCode FROM AIRPORTS AS T1 JOIN FLIGHTS AS T2 ON T1.AirportCode = T2.DestAirport OR T1.AirportCode = T2.SourceAirport GROUP BY T1.AirportCode ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "15a2276ff75196fdb3aa0719d088c3a1", "text": "SELECT count(*) FROM COUNTRIES;\n", "title": "", "metadata": ""}
+{"_id": "4843fb464cdf79e9504cce552f9807de", "text": "SELECT T1.id , T1.name FROM battle AS T1 JOIN ship AS T2 ON T1.id = T2.lost_in_battle JOIN death AS T3 ON T2.id = T3.caused_by_ship_id GROUP BY T1.id HAVING sum(T3.killed) > 10\n", "title": "", "metadata": ""}
+{"_id": "113aed94aaa91a0c11b16da96ebc4021", "text": "SELECT CountryName FROM countries EXCEPT SELECT T1.CountryName FROM countries AS T1 JOIN CAR_MAKERS AS T2 ON T1.countryId = T2.Country;\n", "title": "", "metadata": ""}
+{"_id": "4a04ef5b809410bbda500be39546b455", "text": "SELECT Region FROM country AS T1 JOIN city AS T2 ON T1.Code = T2.CountryCode WHERE T2.Name = \"Kabul\"\n", "title": "", "metadata": ""}
+{"_id": "866725ca15a6a4371809fba6a8668a50", "text": "SELECT Name FROM conductor ORDER BY Age ASC\n", "title": "", "metadata": ""}
+{"_id": "4e9a1965bf02105de80dfadb092588b5", "text": "select avg(capacity) , max(capacity) from stadium\n", "title": "", "metadata": ""}
+{"_id": "50362688df5eb8bc3f0721fa4f7a5021", "text": "select t1.fname from student as t1 join has_pet as t2 on t1.stuid = t2.stuid join pets as t3 on t3.petid = t2.petid where t3.pettype = 'cat' intersect select t1.fname from student as t1 join has_pet as t2 on t1.stuid = t2.stuid join pets as t3 on t3.petid = t2.petid where t3.pettype = 'dog'\n", "title": "", "metadata": ""}
+{"_id": "9bb76deb73b0446d7ef4ce9f2322fdf0", "text": "SELECT avg(horsepower) FROM CARS_DATA WHERE YEAR < 1980;\n", "title": "", "metadata": ""}
+{"_id": "0fd8df9481a9af64a2a83a3104b973c0", "text": "SELECT property_name FROM Properties WHERE property_type_code = \"House\" UNION SELECT property_name FROM Properties WHERE property_type_code = \"Apartment\" AND room_count >\n", "title": "", "metadata": ""}
+{"_id": "5c0e94d177ada34b1e032bf10eb2bfa5", "text": "SELECT name FROM city WHERE Population BETWEEN 160000 AND 900000\n", "title": "", "metadata": ""}
+{"_id": "49f954b304763cc11a444d1d23d62f41", "text": "SELECT count(*) FROM CAR_MAKERS AS T1 JOIN MODEL_LIST AS T2 ON T1.Id = T2.Maker WHERE T1.FullName = 'American Motor Company';\n", "title": "", "metadata": ""}
+{"_id": "9970020bd08d063e2065f47e268779da", "text": "SELECT count(*) , District FROM city WHERE Population > (SELECT avg(Population) FROM city) GROUP BY District\n", "title": "", "metadata": ""}
+{"_id": "fdbe65397f45e579f2451699f2b99802", "text": "SELECT count(*) FROM contestants WHERE contestant_number NOT IN ( SELECT contestant_number FROM votes )\n", "title": "", "metadata": ""}
+{"_id": "bd6733e532431265ef0561bcc008c298", "text": "SELECT count(*) FROM Other_Available_Features\n", "title": "", "metadata": ""}
+{"_id": "a69c784ba113730089c4b80e98deda45", "text": "SELECT T2.feature_type_name FROM Other_Available_Features AS T1 JOIN Ref_Feature_Types AS T2 ON T1.feature_type_code = T2.feature_type_code WHERE T1.feature_name = \"AirCon\"\n", "title": "", "metadata": ""}
+{"_id": "f8cae49cd0b13f2982552654a9d70d12", "text": "SELECT song_name FROM singer WHERE age > (SELECT avg(age) FROM singer)\n", "title": "", "metadata": ""}
+{"_id": "53d5848bfcf5ad24a78693e54f899fdd", "text": "SELECT count(*) FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id WHERE T2.name = \"Kyle\"\n", "title": "", "metadata": ""}
+{"_id": "4e1131052d4a3a86827c189a17731a0a", "text": "SELECT T1.cost_of_treatment , T2.treatment_type_description FROM Treatments AS T1 JOIN treatment_types AS T2 ON T1.treatment_type_code = T2.treatment_type_code\n", "title": "", "metadata": ""}
+{"_id": "29696af26d67a867563224e14580ae08", "text": "SELECT avg(grade) FROM Highschooler WHERE id IN (SELECT T1.student_id FROM Friend AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id)\n", "title": "", "metadata": ""}
+{"_id": "e5d14ad7e0c429111d4895aac3a549b6", "text": "SELECT count(*) FROM CARS_DATA WHERE horsepower > 150;\n", "title": "", "metadata": ""}
+{"_id": "242f6c8e21895cfa5e08789589957dce", "text": "SELECT country_code FROM players GROUP BY country_code HAVING count(*) > 50\n", "title": "", "metadata": ""}
+{"_id": "f3c17f5a82353af3c36ac373ec179661", "text": "SELECT DISTINCT T1.template_type_description FROM Ref_template_types AS T1 JOIN Templates AS T2 ON T1.template_type_code = T2.template_type_code JOIN Documents AS T3 ON T2.Template_ID = T3.template_ID\n", "title": "", "metadata": ""}
+{"_id": "7b42587095538e3387b7df3cf0d00a58", "text": "SELECT T2.Name FROM course_arrange AS T1 JOIN teacher AS T2 ON T1.Teacher_ID = T2.Teacher_ID GROUP BY T2.Name HAVING COUNT(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "bb40e6ef8874a401362b5eec9df69e16", "text": "SELECT * FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"English\" AND IsOfficial = \"T\" UNION SELECT * FROM country AS T1 JOIN countrylanguage AS T2 ON T1.Code = T2.CountryCode WHERE T2.Language = \"Dutch\" AND IsOfficial = \"T\"\n", "title": "", "metadata": ""}
+{"_id": "a7a92851fb7615553942d7a3c2dd9d5d", "text": "SELECT T1.last_name FROM Students AS T1 JOIN Addresses AS T2 ON T1.current_address_id = T2.address_id WHERE T2.state_province_county = 'NorthCarolina' EXCEPT SELECT DISTINCT T3.last_name FROM Students AS T3 JOIN Student_Enrolment AS T4 ON T3.student_id = T4.student_id\n", "title": "", "metadata": ""}
+{"_id": "d3047bbecdeb0103f514d8d5df3d2994", "text": "SELECT avg(Earnings) FROM poker_player\n", "title": "", "metadata": ""}
+{"_id": "1944d7d9b5acc4c0da0cd184ef729973", "text": "SELECT count(*) FROM Cartoon WHERE Written_by = \"Joseph Kuhr\";\n", "title": "", "metadata": ""}
+{"_id": "a2930eb04e21437afb3102cf8afb83c2", "text": "select name from teacher where hometown != \"little lever urban district\"\n", "title": "", "metadata": ""}
+{"_id": "3c132ec445c55701d4f0b9f9ed4ad833", "text": "SELECT Name FROM country WHERE Continent = \"Asia\" AND population > (SELECT max(population) FROM country WHERE Continent = \"Africa\")\n", "title": "", "metadata": ""}
+{"_id": "dd95749517f4d675bbd0bd4b73eba3b1", "text": "SELECT DISTINCT T1.fname , T1.age FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid\n", "title": "", "metadata": ""}
+{"_id": "beb2452f86f9befce6fb919e33c62bfd", "text": "SELECT T1.fname , T1.age FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pettype = 'dog' AND T1.stuid NOT IN (SELECT T1.stuid FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pettype = 'cat')\n", "title": "", "metadata": ""}
+{"_id": "3183e6e9b3a26f33efb25b29e3cdfe67", "text": "SELECT count(*) FROM FLIGHTS AS T1 JOIN AIRPORTS AS T2 ON T1.DestAirport = T2.AirportCode JOIN AIRLINES AS T3 ON T3.uid = T1.Airline WHERE T2.City = \"Aberdeen\" AND T3.Airline = \"United Airlines\"\n", "title": "", "metadata": ""}
+{"_id": "8c9dedf3b8b21e533d31e9d56c8b967b", "text": "SELECT name FROM museum WHERE num_of_staff > (SELECT min(num_of_staff) FROM museum WHERE open_year > 2010)\n", "title": "", "metadata": ""}
+{"_id": "95089b53914828a9e0e69fe468833147", "text": "SELECT T1.Id , T1.Maker FROM CAR_MAKERS AS T1 JOIN MODEL_LIST AS T2 ON T1.Id = T2.Maker GROUP BY T1.Id HAVING count(*) >= 2 INTERSECT SELECT T1.Id , T1.Maker FROM CAR_MAKERS AS T1 JOIN MODEL_LIST AS T2 ON T1.Id = T2.Maker JOIN CAR_NAMES AS T3 ON T2.model = T3.model GROUP BY T1.Id HAVING count(*) > 3;\n", "title": "", "metadata": ""}
+{"_id": "5105a9f441d2642df1bb30f77562ef81", "text": "select t2.name , t2.capacity from concert as t1 join stadium as t2 on t1.stadium_id = t2.stadium_id where t1.year > 2013 group by t2.stadium_id order by count(*) desc limit 1\n", "title": "", "metadata": ""}
+{"_id": "723ac1be639d87cfcd13547329381934", "text": "SELECT avg(age) FROM visitor WHERE Level_of_membership <= 4\n", "title": "", "metadata": ""}
+{"_id": "bf8013e3bd38ba7f8622cb14683992b6", "text": "SELECT stuid FROM student EXCEPT SELECT T1.stuid FROM student AS T1 JOIN has_pet AS T2 ON T1.stuid = T2.stuid JOIN pets AS T3 ON T3.petid = T2.petid WHERE T3.pettype = 'cat'\n", "title": "", "metadata": ""}
+{"_id": "afb5d07e0ad01f23a468d19696fb3800", "text": "SELECT T1.paragraph_text FROM Paragraphs AS T1 JOIN Documents AS T2 ON T1.document_id = T2.document_id WHERE T2.document_name = \"Customer reviews\"\n", "title": "", "metadata": ""}
+{"_id": "8a88571be056e037bd29311c65e1024a", "text": "SELECT first_name , birth_date FROM players WHERE country_code = 'USA'\n", "title": "", "metadata": ""}
+{"_id": "00ea9589b8d0d43301595c7d2f6d3f7d", "text": "SELECT t2.visitor_id , t1.name , t1.Level_of_membership FROM visitor AS t1 JOIN visit AS t2 ON t1.id = t2.visitor_id GROUP BY t2.visitor_id ORDER BY sum(t2.Total_spent) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "2422a686d6d858fddf6f91ad85b6effe", "text": "SELECT min(Version_Number) , template_type_code FROM Templates\n", "title": "", "metadata": ""}
+{"_id": "3d3946230c0ee739d7295bf5fcea7754", "text": "SELECT date_arrived , date_departed FROM Dogs\n", "title": "", "metadata": ""}
+{"_id": "29632f0f207dbabc7eed000cb04f6688", "text": "select cell_mobile_number from students where first_name = 'timmothy' and last_name = 'ward'\n", "title": "", "metadata": ""}
+{"_id": "022cb5ba9a027a3560983bcbcf788994", "text": "SELECT count(*) FROM area_code_state\n", "title": "", "metadata": ""}
+{"_id": "a2205edc6c316b5c58c32328a1106f80", "text": "SELECT template_type_code , template_type_description FROM Ref_template_types\n", "title": "", "metadata": ""}
+{"_id": "015b48569b559dfd61ca8829fff01b94", "text": "SELECT charge_type , charge_amount FROM Charges\n", "title": "", "metadata": ""}
+{"_id": "164109a41276c69ce9419df94ba6d7e1", "text": "SELECT name FROM battle WHERE bulgarian_commander = 'Kaloyan' AND latin_commander = 'Baldwin I'\n", "title": "", "metadata": ""}
+{"_id": "e27dbfcfcce2acb6dea4c4de6cb80e4b", "text": "SELECT Major_Record_Format FROM orchestra GROUP BY Major_Record_Format ORDER BY COUNT(*) ASC\n", "title": "", "metadata": ""}
+{"_id": "3fbd8d30fba86f770dac4887aa852eda", "text": "SELECT count(DISTINCT template_id) FROM Documents\n", "title": "", "metadata": ""}
+{"_id": "6c904b1b8fcfc9e245c50328c5f08195", "text": "SELECT name FROM museum WHERE Museum_ID NOT IN (SELECT museum_id FROM visit)\n", "title": "", "metadata": ""}
+{"_id": "b2de9686711a6ca37faef9edfebd5677", "text": "SELECT t1.id , t1.name , t1.age FROM visitor AS t1 JOIN visit AS t2 ON t1.id = t2.visitor_id GROUP BY t1.id HAVING count(*) > 1\n", "title": "", "metadata": ""}
+{"_id": "26149f8103a5e00335b09400a3e77c5f", "text": "SELECT T2.created , T2.state , T2.phone_number FROM contestants AS T1 JOIN votes AS T2 ON T1.contestant_number = T2.contestant_number WHERE T1.contestant_name = 'Tabatha Gehling'\n", "title": "", "metadata": ""}
+{"_id": "2a003dac86bb0ded2138a0e9849ad9af", "text": "SELECT Hometown , COUNT(*) FROM teacher GROUP BY Hometown\n", "title": "", "metadata": ""}
+{"_id": "8946cf70f1f3663f83901258df60cbb5", "text": "SELECT name , tonnage FROM ship ORDER BY name DESC\n", "title": "", "metadata": ""}
+{"_id": "bb8e64ab32d8738e31e2cc4fd23ff739", "text": "SELECT T2.name FROM Likes AS T1 JOIN Highschooler AS T2 ON T1.student_id = T2.id GROUP BY T1.student_id ORDER BY count(*) DESC LIMIT 1\n", "title": "", "metadata": ""}
+{"_id": "0d1d481ea24d0e844aeb0eeb3c814e47", "text": "SELECT max(created) FROM votes WHERE state = 'CA'\n", "title": "", "metadata": ""}
+{"_id": "548bf797f8737f01de82f029c29cea96", "text": "SELECT T1.contestant_number , T1.contestant_name FROM contestants AS T1 JOIN votes AS T2 ON T1.contestant_number = T2.contestant_number GROUP BY T1.contestant_number HAVING count(*) >= 2\n", "title": "", "metadata": ""}
+{"_id": "1b236008b47703603b44cfdfb5e85355", "text": "SELECT LANGUAGE , CountryCode , max(Percentage) FROM countrylanguage GROUP BY CountryCode\n", "title": "", "metadata": ""}
+{"_id": "0c5f9f94e4302e7a8336c8c4889034db", "text": "SELECT DISTINCT state , created FROM votes\n", "title": "", "metadata": ""}
+{"_id": "06ae3fccda41804a42a8a43d03ea9691", "text": "SELECT T2.transcript_date , T1.transcript_id FROM Transcript_Contents AS T1 JOIN Transcripts AS T2 ON T1.transcript_id = T2.transcript_id GROUP BY T1.transcript_id ORDER BY count(*) ASC LIMIT 1", "title": "", "metadata": ""}

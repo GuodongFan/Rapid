@@ -1,0 +1,542 @@
+{"_id": "60291751e0bb78aafe49cfdc1f322d6c", "text": "converts py2 unicode / py3 bytestring into str Args : string ( unicode byte_string ) : string to be converted Returns : ( str )", "title": "", "metadata": ""}
+{"_id": "d9f518dd50be3a44614bf30a7fbcfa61", "text": "Check if filename1 and filename2 point to the same file object . There can be false negatives ie . the result is False but it is the same file anyway . Reason is that network filesystems can create different paths to the same physical file .", "title": "", "metadata": ""}
+{"_id": "3da7a4f309851c2bd1d8941ef0d0f32d", "text": "Align the position in the file to the next block of specified size", "title": "", "metadata": ""}
+{"_id": "dc0ee0a66b25d9606b2f77d010ef7ac0", "text": "Will make any functions return an iterable objects by wrapping its result in a list .", "title": "", "metadata": ""}
+{"_id": "feb2ba959717bd4bc3cd7ca66bfe3221", "text": ">>> list = [ 0 0 7 ] >>> list_to_str ( list ) 0 0 7", "title": "", "metadata": ""}
+{"_id": "e893aba2804d68ef90874335b202f407", "text": "gets the dimensions depending on python version and os", "title": "", "metadata": ""}
+{"_id": "c3f8a3cf4c9f6b5f583dd0b3278630a5", "text": "The title of this window", "title": "", "metadata": ""}
+{"_id": "2deda33255da22a85dbdf0dd7a53d35a", "text": "rounds float to closest int : rtype : int : param n : float", "title": "", "metadata": ""}
+{"_id": "f900461f355a5bbda9879ac8c4240f17", "text": "Looks at the files in a git root directory and grabs the last modified timestamp", "title": "", "metadata": ""}
+{"_id": "f4f1a257a39118fbacc2a6fa6e63b225", "text": "Checks if a string is an integer . If the string value is an integer return True otherwise return False . Args : string : a string to test .", "title": "", "metadata": ""}
+{"_id": "fc8a5fbb5d50c8f59e316aa585291e72", "text": "Remove the querystring from the end of a URL .", "title": "", "metadata": ""}
+{"_id": "8c16efe201681cd0ccbe4ded4e2e38d1", "text": "Function for checking a valid regex .", "title": "", "metadata": ""}
+{"_id": "846aaa69eccd70b7d3f98184e8df6388", "text": "Write a dict to a JSON file .", "title": "", "metadata": ""}
+{"_id": "ec90ffda624d0a80459b276cd92e82f4", "text": "Returns a copy of the list without duplicates .", "title": "", "metadata": ""}
+{"_id": "02b6d513286cda0e4b2bd52a63d2756d", "text": "Convert hex string like \\ x0A \\ xE3 to 2787 .", "title": "", "metadata": ""}
+{"_id": "89071690d1b37a7a10e29bad4f6e0312", "text": "Returns a Bokeh glyph object .", "title": "", "metadata": ""}
+{"_id": "e59b2d37b4b1731b083aefd1627f6468", "text": "Generate a new instance .", "title": "", "metadata": ""}
+{"_id": "a431e3dfa7b11380ea5c401a19254b3f", "text": "Determine if a file is empty or not .", "title": "", "metadata": ""}
+{"_id": "43a04efef0a9c5ffa8d241c7e91a1da1", "text": "Ensures that the argument is a list that either is empty or contains only strings : param arr : list : return :", "title": "", "metadata": ""}
+{"_id": "bea24f7563f58f9c465d91a0aea2e816", "text": "Get the full singular value matrix of self", "title": "", "metadata": ""}
+{"_id": "aa2882a19c88b9d7a26b4172826fc85a", "text": "Return a set of strings .", "title": "", "metadata": ""}
+{"_id": "ee2dade7559c5c20d913a19016103dc9", "text": "Takes a list of rows and a column name and returns a list containing a single row ( dict from columns to cells ) that has the maximum numerical value in the given column . We return a list instead of a single dict to be consistent with the return type of select and all_rows .", "title": "", "metadata": ""}
+{"_id": "74dfda72e6d57380916327cf3f1bf680", "text": "Try to infer an object s dtype for use in arithmetic ops", "title": "", "metadata": ""}
+{"_id": "a3dcd64cf673a574ed524e5ae680917f", "text": "Constructs the covariance matrix from PCA residuals", "title": "", "metadata": ""}
+{"_id": "6336cca3c72a90e35eb6ef1132092a24", "text": "Returns OK then waits approximately 1 second and restarts container", "title": "", "metadata": ""}
+{"_id": "5636cb3a2fe3f1cb4e7373ffb530c5f0", "text": "Calculate the Hamming distance between two strings . From Wikipedia article : Iterative with two matrix rows .", "title": "", "metadata": ""}
+{"_id": "63cea615045fef39091df5e1e9b0694e", "text": "Horizontally flip the given PIL Image .", "title": "", "metadata": ""}
+{"_id": "c7bab69d2200da7b35f7219342bf809d", "text": "Get unit vector for a given one .", "title": "", "metadata": ""}
+{"_id": "a368d6d8d4c8f7035ec1f094153ab4e3", "text": "Coerce value to an JSON - compatible representation .", "title": "", "metadata": ""}
+{"_id": "91fb695e1169a65ebb8e3da62e81bc66", "text": "simple method to determine if a url is relative or absolute", "title": "", "metadata": ""}
+{"_id": "1efa69c9ba6b5c51cd3f0de2cb137aa5", "text": "Returns index tuple in histogram of bin which contains value", "title": "", "metadata": ""}
+{"_id": "825da2b5a3b2617c75583a6c9036c480", "text": "Connect to MySQL with retries .", "title": "", "metadata": ""}
+{"_id": "3be8b99cc7c7b333db91500beabdaa6a", "text": "Convert to snake case .", "title": "", "metadata": ""}
+{"_id": "2b596ba6427803b230151b05c47d6133", "text": "Find and kill child processes of a process .", "title": "", "metadata": ""}
+{"_id": "95cb6df4b1ffa5ad180b2d6f629411b5", "text": "similar to blockshaped but splits an array into n0 * n1 blocks", "title": "", "metadata": ""}
+{"_id": "926a2b210c70d4bd22d076055f4b2f31", "text": "Crunch a 64 - bit int ( 8 bool bytes ) into a bitfield .", "title": "", "metadata": ""}
+{"_id": "965eb00371ae225916b7edc80c9e516a", "text": "is_valid_image_extension .", "title": "", "metadata": ""}
+{"_id": "e87bcd57b2e5253e6f682d7befe97b1d", "text": "Initiates a graceful stop of the processes", "title": "", "metadata": ""}
+{"_id": "34ad0935bd0e09403dcdf7e36e23883a", "text": "Get the list of distinct values with preserving order .", "title": "", "metadata": ""}
+{"_id": "8c2b3c1a7ae873e46d1c3b3e7469622c", "text": "Check if an element from a list is in a string .", "title": "", "metadata": ""}
+{"_id": "380dfdfc262d643cc0ff0377fac6e673", "text": "Compute boxplot for given pandas Series .", "title": "", "metadata": ""}
+{"_id": "994aaa6f01ba02b69fd90e261fd2ef48", "text": "MoveWindow from Win32 . handle : int the handle of a native window . x : int . y : int . width : int . height : int . repaint : int use 1 or 0 . Return bool True if succeed otherwise False .", "title": "", "metadata": ""}
+{"_id": "128234c6633e448a820d0839491ba9e7", "text": "Compute the mean value across a list of dictionaries", "title": "", "metadata": ""}
+{"_id": "5d5a54509b1ac2e5cb7acbb02e3ad76b", "text": "If given environment key is defined print it out .", "title": "", "metadata": ""}
+{"_id": "bec550f65ab7d556512f9871752ed12c", "text": "Compare two nodes for equality .", "title": "", "metadata": ""}
+{"_id": "c7813a733a1fbbb61a7a4f3121fb2f25", "text": "Get trace_id from flask request headers .", "title": "", "metadata": ""}
+{"_id": "c53ad2de3311db252d1a8fceed100320", "text": "React to a docstring event and append contracts to it .", "title": "", "metadata": ""}
+{"_id": "fc6e62712ccc0b1deb86fd91e09940c9", "text": "Set the exectuable bit on the given filename", "title": "", "metadata": ""}
+{"_id": "92f75ebbdba97f680d84880276022c6e", "text": "Calculates and returns a month number basing on PESEL standard .", "title": "", "metadata": ""}
+{"_id": "91b55cf6e8a451d99bdfe5f574145c1b", "text": "Check if string could be a valid python identifier", "title": "", "metadata": ""}
+{"_id": "41c53fded4dd96e8696424362a2e1ffa", "text": "A generator of n - length chunks of an input iterable", "title": "", "metadata": ""}
+{"_id": "9c92df95b9679d29c059884aeb78b356", "text": "Utility function to allow getting the arguments for a single command for Sphinx documentation", "title": "", "metadata": ""}
+{"_id": "f4b44f63de19636021733682e574c0c4", "text": "Checks if given value is a list tries to convert if it is not .", "title": "", "metadata": ""}
+{"_id": "66be5c21ba1f19a1ec76413c027bf6b0", "text": "Get the current mouse location ( coordinates and screen number ) .", "title": "", "metadata": ""}
+{"_id": "992169c4609c7dfd5e2f17ec02cb8ed7", "text": "Determine whether or not obj is iterable but not a string ( eg a list set tuple etc ) .", "title": "", "metadata": ""}
+{"_id": "0ee673f7a88f16662841012c07aa9b03", "text": "Return a dictionary of words and word counts in a string .", "title": "", "metadata": ""}
+{"_id": "784042584d22575093f1faf8df31520f", "text": "Convenience function for loading yaml - encoded data from disk .", "title": "", "metadata": ""}
+{"_id": "b26950f0436e570f6d9233effbed2426", "text": "Return True if the table * name * exists in the database .", "title": "", "metadata": ""}
+{"_id": "25dac4dbb59b079eb7915cc275a96c54", "text": "Return the unique elements of a collection even if those elements are unhashable and unsortable like dicts and sets", "title": "", "metadata": ""}
+{"_id": "b35fd16c5ba421b76c4c61bc8e580ab6", "text": "Calculates the request payload size", "title": "", "metadata": ""}
+{"_id": "00358150afc8a2b2881e284f3192a9bc", "text": "Returns a list with no repeated elements .", "title": "", "metadata": ""}
+{"_id": "d6def38371ada7de883923978d9581d0", "text": "Same as : meth : random . choice but also supports : class : set type to be passed as sequence .", "title": "", "metadata": ""}
+{"_id": "c8f01199ff48cb47fd7662511112592e", "text": "get a set of keys from redis", "title": "", "metadata": ""}
+{"_id": "e11ecdeb464f40c5fe52486963d59131", "text": "HTTP response for not - authorized access ( status code 403 )", "title": "", "metadata": ""}
+{"_id": "6ef5ca558a904c6898583a164106666f", "text": "Get the local ip of this device", "title": "", "metadata": ""}
+{"_id": "6ce8e54bddf1ccd017d2f00bd0ca67b4", "text": "Converts SoftLayer . CLI . formatting . Table instance to a prettytable .", "title": "", "metadata": ""}
+{"_id": "6777d05f645bfd09165e2e86405c3dd8", "text": "Removes all blank lines in @string", "title": "", "metadata": ""}
+{"_id": "a0845d52a3ecbe2fe9188de46b50ef86", "text": "count occurences in a list of lists >>> count ( [[ a b ] [ a ]] ) defaultdict ( int { a : 2 b : 1 } )", "title": "", "metadata": ""}
+{"_id": "74f9eccc02d02a156595647452c749a1", "text": "Removes trailing zeroes from indexable collection of numbers", "title": "", "metadata": ""}
+{"_id": "e80fd0a949be26ff056ed6f08784a559", "text": "writes the line and count newlines after the line", "title": "", "metadata": ""}
+{"_id": "9033e0e305f247c0c3c80d0c7848c8b3", "text": "!", "title": "", "metadata": ""}
+{"_id": "9157eeb18e27c55f94a7345b656e44d2", "text": "Decompress a Plan 9 image file . Assumes f is already cued past the initial compressed \\ n string .", "title": "", "metadata": ""}
+{"_id": "a15507d7a565542ae6a748ff37733c49", "text": "main entry point for the jardiff CLI", "title": "", "metadata": ""}
+{"_id": "8d9135660a93af235e4fe0f497d362b4", "text": "Jacobian matrix given Christophe s suggestion of f", "title": "", "metadata": ""}
+{"_id": "6b24221b2e66fc683bf578275a49005f", "text": "Return the md5 hash of the given file - object", "title": "", "metadata": ""}
+{"_id": "61338c482638d3928af679239dfd329c", "text": "Construction from a string raise a TypeError if not possible", "title": "", "metadata": ""}
+{"_id": "f23077b00e451ceae931ed48d2aba446", "text": "Return a name which includes the module name and function name .", "title": "", "metadata": ""}
+{"_id": "7ac6cb2cf82047138bedfcb58a10816f", "text": "Calls the specified Trigger of another Area with the optionally given parameters .", "title": "", "metadata": ""}
+{"_id": "ed22f081fc50aa8ce39c3a1e906fd40a", "text": "Internal helper to clone self . _properties if necessary .", "title": "", "metadata": ""}
+{"_id": "24604bb1863bf9566eab909a6a93ed57", "text": "Find a number using a given regular expression . If the string cannot be found returns None . The regex should contain one matching group as only the result of the first group is returned . The group should only contain numeric characters ( [ 0 - 9 ] + ) . s - The string to search . regex - A string containing the regular expression . Returns an integer or None .", "title": "", "metadata": ""}
+{"_id": "b11df424d1545faf1cfe28e66ce481a7", "text": "Helper parse action to convert tokens to upper case .", "title": "", "metadata": ""}
+{"_id": "192f708843c6f43e1409bcd488f46111", "text": "A background thread to kill the process if it takes too long .", "title": "", "metadata": ""}
+{"_id": "931a5b2ec1a28c7ee93ae8f421962655", "text": "Parses many YAML documents into a list of Python objects .", "title": "", "metadata": ""}
+{"_id": "b4912513d26255265b9d8cab3afcc2fc", "text": "Heuristic check if an object is a namedtuple .", "title": "", "metadata": ""}
+{"_id": "ad505ae9f8c42ac9301ab82e3f88804b", "text": "The parsed cookies attached to this request .", "title": "", "metadata": ""}
+{"_id": "4a3572ac5aa190658222084f50072c36", "text": "Union of masks .", "title": "", "metadata": ""}
+{"_id": "838352430d24dc29eea60dc31b9eb875", "text": "Log - normal function from scipy", "title": "", "metadata": ""}
+{"_id": "71a0796650e028518efac381854c82da", "text": "Shut down a specific process .", "title": "", "metadata": ""}
+{"_id": "c36985f63b4caf41e27161fd4451b324", "text": "Set foreground - and background colors and intensity .", "title": "", "metadata": ""}
+{"_id": "16e55639e8110a2f1d4a9f8370c30069", "text": "Reshape data into ( num_example batch_size )", "title": "", "metadata": ""}
+{"_id": "bca505bd6eab8ac03f18a628bddd10b4", "text": "Sample a colormap from matplotlib", "title": "", "metadata": ""}
+{"_id": "da01afcd898c2b3d4b03214061d049bd", "text": "A function that works for both Python 2 . x and Python 3 . x . It asks the user for input and returns it as a string .", "title": "", "metadata": ""}
+{"_id": "94cc751dc2ff3f66951fc6c0fc9b63ed", "text": "Argument class constructor should be used inside a class that inherits the BaseAction class .", "title": "", "metadata": ""}
+{"_id": "e42f2f40723075090b8d3b184df7396f", "text": "\\ kills the child and exits", "title": "", "metadata": ""}
+{"_id": "f0e04cd09e61c8fb6491f4be6738c4bb", "text": "Helper method that escapes parameters to a SQL query .", "title": "", "metadata": ""}
+{"_id": "1fd2e0ca1a0ae5773f0b979338292c21", "text": "This wraps a function that would normally only accept an array and allows it to operate on a DataFrame . Useful for applying numpy functions to DataFrames .", "title": "", "metadata": ""}
+{"_id": "05e968c3e8e3ff4024e388ce4578d55a", "text": "Returns a DataTable instance built from either the filename or STDIN if filename is None .", "title": "", "metadata": ""}
+{"_id": "506e13ddce381926aa858884b5f55392", "text": "Binary operator .", "title": "", "metadata": ""}
+{"_id": "c3ce60d98d0610cc20e55c1609af2cfd", "text": "Attempt to guess the title from the filename", "title": "", "metadata": ""}
+{"_id": "b4e2f79c8fc6be0278c0ea4276adbb48", "text": "Return system CPU times as a namedtuple .", "title": "", "metadata": ""}
+{"_id": "ac57a7a5645a790bf5603f4b509828cd", "text": "Function used internally to format string data for output to XML . Escapes back - slashes and quotes and wraps the resulting string in quotes .", "title": "", "metadata": ""}
+{"_id": "ff54bbb34604d45f30898470d53afa44", "text": "Frees all resources .", "title": "", "metadata": ""}
+{"_id": "58633c89cf260f9570ba08246cdbf3ce", "text": "Set additionnal options as plain text .", "title": "", "metadata": ""}
+{"_id": "1ac242736f4b5ff8ea2d9a0ff793ed6b", "text": "strips any namespaces from an xml string", "title": "", "metadata": ""}
+{"_id": "a0e01fc05a7792e29f9795dc2d2a9e98", "text": "HTTP PUT operation to API endpoint .", "title": "", "metadata": ""}
+{"_id": "8645f852871969481bbd6cc878b5a7c5", "text": "A magic method to implement shallow copy behavior .", "title": "", "metadata": ""}
+{"_id": "5fbb0bfd010b2bebbb7bedab46a5d86b", "text": "Returns some subset of the features . Parameters ---------- indices : : obj : list of : obj : int indices of the features in the list", "title": "", "metadata": ""}
+{"_id": "57ecfa79a214359c491b6a1cb23efedc", "text": "Rewrite a file adding a line to its beginning .", "title": "", "metadata": ""}
+{"_id": "48c9f21126d705cd844bbb244c142d57", "text": "Compatibility wrapper for the loop . create_task () call introduced in 3 . 4 . 2 .", "title": "", "metadata": ""}
+{"_id": "fdf7f60588c0c16c5c6decac8976ed42", "text": "Returns a random color between min and max .", "title": "", "metadata": ""}
+{"_id": "51f023d1b15024e75c1c76faeb44e293", "text": "Convert CamelCase to camel_case", "title": "", "metadata": ""}
+{"_id": "87052b92ef026bf1a718d401f28052a7", "text": "iterator for JSON - per - line in a file pattern", "title": "", "metadata": ""}
+{"_id": "b794e34e89389ba53d0150b66080af84", "text": "Read a block of data and parse using the given protobuf object .", "title": "", "metadata": ""}
+{"_id": "0316e8b8ba992ec0fed6815b58b0eee5", "text": "Checks whether all number in the sequence s lie inside the interval formed by l and r .", "title": "", "metadata": ""}
+{"_id": "04f2b2c2179caba6f03567f856259c00", "text": "Helper for plotting .", "title": "", "metadata": ""}
+{"_id": "b0253e4e652eeda6c12072d757ebaabd", "text": "numpy . ndarray dumper .", "title": "", "metadata": ""}
+{"_id": "08dfb63bc0ed18b5e2fd04805fc36d38", "text": "List all RDS thingys .", "title": "", "metadata": ""}
+{"_id": "a817ebc7ba1a0c6f0a9861cd2e6e2190", "text": "Loads a pushdb maintained in a properties file at the given path .", "title": "", "metadata": ""}
+{"_id": "d97bc6fab28ef44abbb56f1a122b3839", "text": "Concatenate two InferenceData objects .", "title": "", "metadata": ""}
+{"_id": "80815e8da3fe74e5ce2391aeb99fd52f", "text": "Like dict but does not hold any null values .", "title": "", "metadata": ""}
+{"_id": "19c2c365e61f4cdfb24eef0775d52508", "text": "Return the union of two RangeSets as a new RangeSet .", "title": "", "metadata": ""}
+{"_id": "12e55a7f5f06b48496f4040221a93822", "text": "Print n_top values from a LDA model s topic - word distributions .", "title": "", "metadata": ""}
+{"_id": "c00c41ece53a7adef940952013a0de3f", "text": "Create : class : PNG from raw bytes . : arg bytes b : The raw bytes of the PNG file . : rtype : : class : PNG", "title": "", "metadata": ""}
+{"_id": "e28ca8783f327e6081432f6d65589bd1", "text": "Returns seconds since 0h00 .", "title": "", "metadata": ""}
+{"_id": "001375005a83825c49e37f5f46a45078", "text": "Logarithmic loss with non - necessarily - binary labels .", "title": "", "metadata": ""}
+{"_id": "a218b20a0c604687fdb969fd3736c602", "text": "convert 3 3 a matrix to 6 element s list ( see Tauxe 1998 )", "title": "", "metadata": ""}
+{"_id": "9ffb639d12e8077b519cfc1bf69a33e6", "text": "Get the local variables in the caller s frame .", "title": "", "metadata": ""}
+{"_id": "f9fba668ee6f6286a7ced368669ac01a", "text": "Return a list of the files with the commas removed .", "title": "", "metadata": ""}
+{"_id": "28c5ebf7ceadb18ed06dd75f1b44d02c", "text": "Return the location of the static data directory .", "title": "", "metadata": ""}
+{"_id": "390d8432a7f4e43072f4f92858eefbd8", "text": "Check if the memory is too full for further caching .", "title": "", "metadata": ""}
+{"_id": "fc242a94928c0d333ecc8a5d298c9c11", "text": "Normalizes list", "title": "", "metadata": ""}
+{"_id": "c1e8e61523e3ac96d35d7cab3108b89f", "text": "r Call f n times with args and kwargs . Useful e . g . for simplistic timing .", "title": "", "metadata": ""}
+{"_id": "ca6f5e2db4519ee9687ae4c851de0976", "text": "Converts a dict to an encoded URL . Example : given data = { a : 1 b : 2 } it returns a = 1&b = 2", "title": "", "metadata": ""}
+{"_id": "d6fb25d7e50aea16cccc85df5b6e4757", "text": "will plot a stack of traces one above the other assuming marray . shape = numRows numSamples", "title": "", "metadata": ""}
+{"_id": "46d02788de28fc111c873bffd390a8d8", "text": "A non - optimal implementation of a regex filter", "title": "", "metadata": ""}
+{"_id": "d2093bc48320f2143a2fb74ad487a9e0", "text": "Delete a file safely . If it s not present no - op .", "title": "", "metadata": ""}
+{"_id": "0408613ec1694d1244f2a603c4a094a0", "text": "Return a new : class : DataFrame containing rows only in both this frame and another frame .", "title": "", "metadata": ""}
+{"_id": "40e02fcd21d4f877f5e9ce08a73e1ba8", "text": "Temporarily replace sys . argv with current arguments", "title": "", "metadata": ""}
+{"_id": "c6256c5f2a1e9e483e4510f44e176e3f", "text": "Split a string with comma or space - separated elements into a list .", "title": "", "metadata": ""}
+{"_id": "558db436e7808530faa8f7545b3fe9a7", "text": "takes a list of lists l and returns a flat list", "title": "", "metadata": ""}
+{"_id": "1ad1b5452616fae74a69afca4a767fe3", "text": "Validate if non empty string", "title": "", "metadata": ""}
+{"_id": "13d6a3fece02998d1c9c47846e0fd614", "text": "Returns uptime in seconds or None on Syllable .", "title": "", "metadata": ""}
+{"_id": "14cecb9f33b29f2495d1ff2da822bf38", "text": "Runs an asynchronous function without needing to use await - useful for lambda", "title": "", "metadata": ""}
+{"_id": "0ce98a190b2d7d5be4d0dfd7f50bfb98", "text": "Returns numpy array of natural logarithms of values .", "title": "", "metadata": ""}
+{"_id": "791e983917deb834d5fbe37e2eeec6bb", "text": "Convenience method for setting the value of an openpyxl cell", "title": "", "metadata": ""}
+{"_id": "fce7d667ae93b12d9120183e12dfe6a8", "text": "Like map but also chains the results .", "title": "", "metadata": ""}
+{"_id": "e0547801a957a9cc67ead43d97a555f1", "text": "Use openpyxl to read an Excel file .", "title": "", "metadata": ""}
+{"_id": "2233dbaff173cff8ba25129a40c1dde6", "text": "Internal helper to return the values of a dictionary sorted by key .", "title": "", "metadata": ""}
+{"_id": "db3f372ae5a15f0f8d927901c1d66823", "text": "Convert a string of a calculation energy e . g . - 1 . 2345 eV to a float .", "title": "", "metadata": ""}
+{"_id": "38281ae8acced7206bd4a43579e2fb0a", "text": "Calculate standard deviation weighted by errors", "title": "", "metadata": ""}
+{"_id": "04b84e0deb537a2f44a8c1209fd84afc", "text": "Generate the first value in each row .", "title": "", "metadata": ""}
+{"_id": "b80fc561e748f8ea4272c18df3ef3b9a", "text": "Value of property .", "title": "", "metadata": ""}
+{"_id": "c82301e145710eb57d0444ad3599becc", "text": "Fill an array from a list", "title": "", "metadata": ""}
+{"_id": "ade5117bf6a7ef30931a53e95858bc55", "text": "( for multiline edit ) . Move cursor to the previous line .", "title": "", "metadata": ""}
+{"_id": "9f5dbfbf61ad8d84c93c3be4fe6daabc", "text": "Create 2D rotation matrix", "title": "", "metadata": ""}
+{"_id": "3286bbdd4e41c60dcfa568c2cbb8a8d8", "text": "Check if the given name is used as a variadic argument .", "title": "", "metadata": ""}
+{"_id": "11364aaa97be59b2352f7359b560d48d", "text": "Compute a minimal rectangle that covers all the points .", "title": "", "metadata": ""}
+{"_id": "c185d1005d9ee0e3474bfa9903d9bc1b", "text": "Returns True if pip exists inside the virtual environment . Can be used as a naive way to verify that the environment is installed .", "title": "", "metadata": ""}
+{"_id": "5fa0d197f616750a4db43811f7db3810", "text": "Sets up the python include paths to include src", "title": "", "metadata": ""}
+{"_id": "07c9ceeba67c4c835f7900b04a8de49e", "text": "Print the values of all this object s Parameters .", "title": "", "metadata": ""}
+{"_id": "825a1eb48c0b3088b8603d2a44d1d0bc", "text": "Removes // - comments and single - line C - style / * * / comments .", "title": "", "metadata": ""}
+{"_id": "b3968bc6d6b77fef94c5336c4f809c35", "text": "sort a list of files by filename only ignoring the directory names", "title": "", "metadata": ""}
+{"_id": "fa451cb5a84eda7bbf709fc541f67bbe", "text": "Initialize a KeyValuePair object from a json dictionary .", "title": "", "metadata": ""}
+{"_id": "9abcef663ddfa11bb23bf83032017bce", "text": "Gaussian noise corruption to images .", "title": "", "metadata": ""}
+{"_id": "4fdc7fd2212afb4c4c9d3b22516b9c47", "text": "Add two 3 dimensional vectors . http : // naif . jpl . nasa . gov / pub / naif / toolkit_docs / C / cspice / vadd_c . html", "title": "", "metadata": ""}
+{"_id": "7fa4411c9a9774bbaa35fa4c3c439b50", "text": "return grandparent s path string", "title": "", "metadata": ""}
+{"_id": "045cd26cd488abd05f1d9c43a132e282", "text": "Center all lines of the text . It is assumed that all lines width is smaller then B { width } because the line width will not be checked . Args : text ( str ) : Text to wrap . width ( int ) : Maximum number of characters per line . Returns : str : Centered text .", "title": "", "metadata": ""}
+{"_id": "ab63dae63b9e0a115688013c3dda7a2d", "text": "Turn a list into a comma - and / or and - separated string .", "title": "", "metadata": ""}
+{"_id": "3771619acdc99e20b8ebd3864b222153", "text": "Given a datetime . timedelta object return the delta in milliseconds", "title": "", "metadata": ""}
+{"_id": "77a65dd4d90f9d397f9a6aab0fe5928b", "text": "Return the text for the given root node ( xml . dom . minidom ) .", "title": "", "metadata": ""}
+{"_id": "0da94831308e10b931fe060a1d338a64", "text": "Splits a string into parts at multiple characters", "title": "", "metadata": ""}
+{"_id": "d5b0fb4cd246159eff4a92cf7e85af66", "text": "Shape a list of lists into the appropriate shape and data type", "title": "", "metadata": ""}
+{"_id": "8037d820989dde51cf6d1a9c96724ce7", "text": "Search tuple array by index and value : param t : tuple array : param i : index of the value in each tuple : param v : value : return : the first tuple in the array with the specific index / value", "title": "", "metadata": ""}
+{"_id": "a53548bad73a81ba06ff16cd2820051c", "text": "Takes JSON formatted data converting it into native Python objects", "title": "", "metadata": ""}
+{"_id": "970c14c4e9b03dbc74baf964dbc896d8", "text": "Converts list to string with comma separated values . For string is no - op .", "title": "", "metadata": ""}
+{"_id": "16c422650028a5ecd2089df255b1f0d1", "text": "Returns the default stream encoding if not found .", "title": "", "metadata": ""}
+{"_id": "29a2ea126de10584c0ca70583b2b2601", "text": "Return u if u! = 0 return 1 if u == 0", "title": "", "metadata": ""}
+{"_id": "bfb1d4284316d1f8ec32eeb1f862fd34", "text": "Print at most limit elements of list .", "title": "", "metadata": ""}
+{"_id": "dc60e6d618a36eaeb1ac0d335da447e2", "text": "Show revision list", "title": "", "metadata": ""}
+{"_id": "9405a133c9ea01196601440d63ab3b6c", "text": "( str ) - > int All the digits in a given string are concatenated and converted into a single number .", "title": "", "metadata": ""}
+{"_id": "d7f1bd24f2cf6da6a0170da870e5e61f", "text": "Returns a list consisting of the cumulative sum of the items in the passed list .", "title": "", "metadata": ""}
+{"_id": "a13d493e220d787267020065aaea0a58", "text": "Finds the longest path in a dag between two nodes", "title": "", "metadata": ""}
+{"_id": "b12f688838e2ed06c9e4c466416a9e7a", "text": "Attempts to convert given object to a string object", "title": "", "metadata": ""}
+{"_id": "6926d0a2a93d7ed7bc68a5337051aa1d", "text": "Shorcut for self . run .", "title": "", "metadata": ""}
+{"_id": "dbf6af842c1564d02d670823dc2ba0fc", "text": "Return whether two objects are equal via recursion using : func : numpy . array_equal for comparing numpy arays .", "title": "", "metadata": ""}
+{"_id": "2b4d1308bf0da61e129e8605e1db48c4", "text": "Read tag data from file and return as numpy array .", "title": "", "metadata": ""}
+{"_id": "356e9fe4b3f14f760190faee3df71bb8", "text": "Extract a de - duped collection ( set ) of text from a file . Expected file format is one item per line .", "title": "", "metadata": ""}
+{"_id": "03910f752541a5427527a1f41b0e5082", "text": "Return file name ( s ) from Tkinter s file open dialog .", "title": "", "metadata": ""}
+{"_id": "f9b921e8aa1a4e4a13b222ce8bc5e3dc", "text": "Install or upgrade setuptools and EasyInstall", "title": "", "metadata": ""}
+{"_id": "9f45a6353e456b6f6e2f38bf6e7396c2", "text": "Wrapper to make map () behave the same on Py2 and Py3 .", "title": "", "metadata": ""}
+{"_id": "b645b03e0c85e3efd257a7619f1f6f49", "text": "Disable event loop integration with wxPython .", "title": "", "metadata": ""}
+{"_id": "19e48eb0c66a86a7fcbc8764ccb62978", "text": "Get the parent node of node whch is located in tree s node list .", "title": "", "metadata": ""}
+{"_id": "f74601fd7d7cd24f87c43b0b546483df", "text": "Fit a Gaussian to the data", "title": "", "metadata": ""}
+{"_id": "ad78639f5ceca0b2e24d1554a838987c", "text": "Wrapper on iter method callback gets an iterator result", "title": "", "metadata": ""}
+{"_id": "f79e9294efce73701c39bf162634f43a", "text": "Simplest required implementation of collections . Counter . Required as 2 . 6 does not have Counter in collections .", "title": "", "metadata": ""}
+{"_id": "b4cb1b0a521ea6af6b4abcaa4ebcf71e", "text": "Get the last weekday in a given month . e . g :", "title": "", "metadata": ""}
+{"_id": "1dde00c9ee03e5f55edddf8c402b6595", "text": "Computes l2 norm of params by flattening them into a vector .", "title": "", "metadata": ""}
+{"_id": "6fc8c17b330d933f81b566105af27907", "text": "Return flattened dictionary from MultiDict .", "title": "", "metadata": ""}
+{"_id": "3ed93cfda9450ba16e208462eb627aeb", "text": "Copy a file whole from input to output .", "title": "", "metadata": ""}
+{"_id": "e473fe9ad2ac0674c91d611a2e35c3f2", "text": "Remove key from dict and return value .", "title": "", "metadata": ""}
+{"_id": "45dd1afe3261395f7ba78855aafb2397", "text": "Establish tunnel connection early because otherwise httplib would improperly set Host : header to proxy s IP : port .", "title": "", "metadata": ""}
+{"_id": "37b675d2c7cdb9e0525ff6560abb173e", "text": "Returns the last location of the minimal value of x . The position is calculated relatively to the length of x .", "title": "", "metadata": ""}
+{"_id": "57054c83add4bddb7813389c43e9f9d1", "text": "Read helper method", "title": "", "metadata": ""}
+{"_id": "a5840c53b4f57e06a554ba3ad7ef4619", "text": "Returns true if all of the elements in the list are equal .", "title": "", "metadata": ""}
+{"_id": "0e83015554848982ae8a141e82133ef6", "text": "return an iterator that returns a chunk of a string every time it is called . notice that even though bufsize_type might be line buffered we re not doing any line buffering here . that s because our StreamBufferer handles all buffering . we just need to return a reasonable - sized chunk .", "title": "", "metadata": ""}
+{"_id": "4e4f342178d7980557d01b80c091a6d5", "text": "Replaces from a string ** input ** all the occurrences of some symbols according to mapping ** repls ** .", "title": "", "metadata": ""}
+{"_id": "493d5529fe774698111a318d0c208b45", "text": "Check whether the passed variable is a tuple with two floats or integers", "title": "", "metadata": ""}
+{"_id": "5d436f14760c7e0d5bafb388a7e2209b", "text": "Restores the state of the batched queue for writing .", "title": "", "metadata": ""}
+{"_id": "49eae42b75629cba2454c011d4d25ed6", "text": "Split a text into a list of tokens .", "title": "", "metadata": ""}
+{"_id": "0d2e983d8a9fd741661bd7bb29b7bf11", "text": "Initialize an API .", "title": "", "metadata": ""}
+{"_id": "6ada286cba6c2eb20d61ae19a11065c1", "text": "Called to implement the built - in function complex () .", "title": "", "metadata": ""}
+{"_id": "86aec567cf0de22157069c0dd9e55032", "text": "Load the state from the given file moving to the file s directory during load ( temporarily moving back after loaded )", "title": "", "metadata": ""}
+{"_id": "0d70782347c93b2ed02b37e1885d3edf", "text": "If values in a series match a specified value change them to np . nan .", "title": "", "metadata": ""}
+{"_id": "add9dd1d06bfcc143bca40b461cb5fba", "text": "Acquire the : attr : lock asynchronously", "title": "", "metadata": ""}
+{"_id": "b976d41a00f95cf9236298f753214b39", "text": "Return the number of days since January 1 of the given year .", "title": "", "metadata": ""}
+{"_id": "17404c0a9e39abc5570e5adbc9320610", "text": "consider the distance between two mapPoints ignoring all terrain pathing issues", "title": "", "metadata": ""}
+{"_id": "ce95313a738c48391f1adbb5fdc97aa7", "text": "Fill file at", "title": "", "metadata": ""}
+{"_id": "214f6166def4bc0637b0305fea295ca7", "text": "Whether any of the strings contains any of the candidates .", "title": "", "metadata": ""}
+{"_id": "a01a630816df6cd5e0d3cbd2428b8338", "text": "r Checks if l is a 2D numpy array of bools", "title": "", "metadata": ""}
+{"_id": "ef796c40215ff49d082abaa3f384b054", "text": "Used when the plot method defined does not create a figure nor calls save_plot Then the plot method has to use self . fig", "title": "", "metadata": ""}
+{"_id": "4ab13f9441e7c922111ef8b35873a43a", "text": "Uses box coordinates to crop an image without resizing it first .", "title": "", "metadata": ""}
+{"_id": "84789333ae353ce7162d89ddf5ebceae", "text": "Natural log of scipy norm function truncated at zero", "title": "", "metadata": ""}
+{"_id": "5eace94d1aaed55b35b27db9a7135b81", "text": "Add executable permissions to a file .", "title": "", "metadata": ""}
+{"_id": "dbe5d3bdb909db9c9182b318fac3258c", "text": "If output is string then print the string and also time used", "title": "", "metadata": ""}
+{"_id": "36836811433eafd0f9f001491970f19f", "text": "Retrieve a User object by ID .", "title": "", "metadata": ""}
+{"_id": "8846f795bbbaf4032b0d1730a8f16cc2", "text": "Convert anything to a bytearray . See - http : // stackoverflow . com / questions / 7585435 / best - way - to - convert - string - to - bytes - in - python - 3 - http : // stackoverflow . com / questions / 10459067 / how - to - convert - my - bytearrayb - x9e - x18k - x9a - to - something - like - this - x9e - x1", "title": "", "metadata": ""}
+{"_id": "9b1e9c794a2989cde3dd39e7d028f7e0", "text": "The main machinery of the Pipe calling the chosen callable with the recorded arguments .", "title": "", "metadata": ""}
+{"_id": "1a3f14b59546608832fcaf0aee3dace4", "text": "Read text from stdin and print a helpful message for ttys .", "title": "", "metadata": ""}
+{"_id": "3fa00f041b1943f8d7d0a0a1dae57614", "text": "Pull a file directly from S3 .", "title": "", "metadata": ""}
+{"_id": "6ed8ef4243692372cc6ee678fa5b3ece", "text": "split string into list of strings by specified number .", "title": "", "metadata": ""}
+{"_id": "4e6869a9486ccc8336ae1c0d8330b41b", "text": "Hook into Gunicorn to display message after launching .", "title": "", "metadata": ""}
+{"_id": "71a8f4788b6be977367a208487c3574b", "text": "Format a Python object into a pretty - printed representation .", "title": "", "metadata": ""}
+{"_id": "db52a2a091f64b34b334f3cdd2c08cee", "text": "Test if an array is a square matrix .", "title": "", "metadata": ""}
+{"_id": "7636f54f19f6b5a3e3f0e905ea78647c", "text": "Return indices of inputs to the node with the given index .", "title": "", "metadata": ""}
+{"_id": "696d26bfc6ea6453960d3656342b7cac", "text": "Step over the next statement", "title": "", "metadata": ""}
+{"_id": "42487f7ac3bc1ac155248c31b3580ab5", "text": "Is this an integer .", "title": "", "metadata": ""}
+{"_id": "6a0850ac44fb47b50b575a3f447f6b3c", "text": "Sets the title of the console window .", "title": "", "metadata": ""}
+{"_id": "d6553a7be9844a35b626999ad9326f4f", "text": "Make sure an object is JSON - serializable Use this to return errors and other info that does not need to be deserialized or does not contain important app data . Best for returning error info and such", "title": "", "metadata": ""}
+{"_id": "f5fbf3ef247ea59b1c1ac7a3faa71a82", "text": "update () extends rather than replaces existing key lists .", "title": "", "metadata": ""}
+{"_id": "22626881e24a9c65011682fe65cbbefc", "text": "Turn an SQLAlchemy model into a dict of field names and values .", "title": "", "metadata": ""}
+{"_id": "90c5b41168726b92c9cf5009eb74f695", "text": "Returns path to packaged static files", "title": "", "metadata": ""}
+{"_id": "7b352afd78660c2ef507be60d87e5db9", "text": "Remove a file from an AWS S3 bucket .", "title": "", "metadata": ""}
+{"_id": "9323f13e2b4bd5e67fa653737a134233", "text": "Max reduction op .", "title": "", "metadata": ""}
+{"_id": "783fc406acd14deacfb81034921e967b", "text": "Test if the argument is a string representing a valid hexadecimal digit .", "title": "", "metadata": ""}
+{"_id": "d48e81e12f1c99dc8a9abf065a23ed93", "text": "Quit signal handler .", "title": "", "metadata": ""}
+{"_id": "8d406d9f2c6d84fe28f96fd19a81c86e", "text": "Iterable - first replacement of Python s built - in map () function .", "title": "", "metadata": ""}
+{"_id": "2331d0754aa4934db8d8eaf2eb88ac53", "text": "Decide if the Ipython command line is running code .", "title": "", "metadata": ""}
+{"_id": "0b85e83d9a879c6e35de0bf6041f8d57", "text": "Takes in an object and a variable length amount of named attributes and checks to see if the object has each property . If any of the attributes are missing this returns false .", "title": "", "metadata": ""}
+{"_id": "2a56a6644f005d7a59bcc2a186dc7fc8", "text": "Get the absolute uri for a file", "title": "", "metadata": ""}
+{"_id": "e43b6f636ca05b25ed6df66ff887a784", "text": "Determines if a list is sorted", "title": "", "metadata": ""}
+{"_id": "9db011dfacd8151a0c950c71839c93c6", "text": "mono - exponential curve .", "title": "", "metadata": ""}
+{"_id": "0b13994c4a037d8c494b9a5ea5c5af19", "text": "Does this filename match any of the patterns?", "title": "", "metadata": ""}
+{"_id": "48eb62b5f8bf46064c76bac54eb0f733", "text": "Verifies that a string path actually exists and is a file", "title": "", "metadata": ""}
+{"_id": "ac7b6cdcccc667f81fb36bd90a1df43e", "text": "Skip a section", "title": "", "metadata": ""}
+{"_id": "22dc8abb6b164f5bbadeb6fd3c7299ed", "text": "Return the sum of the element - wise product of vectors x and y . >>> dotproduct ( [ 1 2 3 ] [ 1000 100 10 ] ) 1230", "title": "", "metadata": ""}
+{"_id": "f6b373951ef991966dcb04505cbe09f0", "text": "Return True if value is an integer .", "title": "", "metadata": ""}
+{"_id": "801625aca8529621bf4aed5a84b3c52b", "text": "Convert a grayscale image to BGR image .", "title": "", "metadata": ""}
+{"_id": "3bb3d91d3ed5bc6cbd284a07a4a558ab", "text": "Determine whether a system service is available", "title": "", "metadata": ""}
+{"_id": "a56d4a7a935a80505cd569de161860dc", "text": "Extracts the session data from cookie .", "title": "", "metadata": ""}
+{"_id": "785ab48e2a3d06b7e1221b07acd549d0", "text": "Determine the number of leaves in a tree", "title": "", "metadata": ""}
+{"_id": "4e7ccfaa84fb9ce0e30895c9cf11787b", "text": "Idempotent and None - safe version of strict_bool .", "title": "", "metadata": ""}
+{"_id": "8f83da104f85797a5428991c2e24b1e0", "text": "Clear all indexes in the es core", "title": "", "metadata": ""}
+{"_id": "bb547761e280da6505f359191e638b6d", "text": "Assert that text has n errors of type check .", "title": "", "metadata": ""}
+{"_id": "a3f43d4aec4c12a641714916ff940816", "text": "Convert a dict of 1d array to a numpy recarray", "title": "", "metadata": ""}
+{"_id": "1f5c00da2cce6fe1018525862c3e0538", "text": "Converts vtkImageData to a vtkTexture", "title": "", "metadata": ""}
+{"_id": "16247d7333e17509fc947ad6689494eb", "text": "Returns the index of the earliest occurence of an item from a list in a string", "title": "", "metadata": ""}
+{"_id": "55417b06698e1c0d77fb210d8af4d7c3", "text": "Perform actions before parent main window is closed", "title": "", "metadata": ""}
+{"_id": "2f2650c169cc377fd4c4e815991d3230", "text": "A non - negative integer .", "title": "", "metadata": ""}
+{"_id": "9f7d98850c2d7e95066ce2dde49dbd33", "text": "Return True if the directed graph g has a cycle . The directed graph should be represented as a dictionary mapping of edges for each node .", "title": "", "metadata": ""}
+{"_id": "0c25f929bb87b303609b15ee56ebb5f7", "text": "Convert datetime to epoch seconds .", "title": "", "metadata": ""}
+{"_id": "71674242f1ca0713be6f62b6749733f2", "text": "Call * func * with kwargs but only those kwargs that it accepts .", "title": "", "metadata": ""}
+{"_id": "f4753d5a01df8a29d5f736b23a2f593e", "text": "Get the next value in the page .", "title": "", "metadata": ""}
+{"_id": "98b817bb801cc9ed8c552345af1ae58c", "text": "Return the a new dict with underscores instead of hyphens in keys .", "title": "", "metadata": ""}
+{"_id": "8a4a711ac6d067e14f6474aaa4abb188", "text": "function to get return code of a url", "title": "", "metadata": ""}
+{"_id": "42abd0990869c30227f14e5484863359", "text": "Send the cmd info and collected stdout to logger .", "title": "", "metadata": ""}
+{"_id": "d6c8408d2b1993e7878398bf65e49ade", "text": "Given a list ( l ) will removing duplicates from the list preserving the original order of the list . Assumes that the list entrie are hashable .", "title": "", "metadata": ""}
+{"_id": "201a431a5cc6b4c05340ca16fa913f72", "text": "Die on SIGTERM or SIGINT", "title": "", "metadata": ""}
+{"_id": "083a88e637eda9025f6346dfd80380cd", "text": "Add a column to a FITS file .", "title": "", "metadata": ""}
+{"_id": "fb8f8c34caa8a0e65110e2b58c759228", "text": "r Repeat each item in iterable n times .", "title": "", "metadata": ""}
+{"_id": "0048899ac45cba2f8dc3e5a8b6a2aabe", "text": "Centre and normalize a given array .", "title": "", "metadata": ""}
+{"_id": "7b7e3ac3b88a28432d173470858dff42", "text": "Try to remove all comments from a file and save it if changes were made .", "title": "", "metadata": ""}
+{"_id": "c150e71f267e7b064757bfad31270add", "text": "Take the union of a list of lists .", "title": "", "metadata": ""}
+{"_id": "958c2ab6df5982f6f84e06ef6c7ca78d", "text": "Pre - order depth - first", "title": "", "metadata": ""}
+{"_id": "2fc8697e05748ad734779551c597186c", "text": "Return a prettier version of obj", "title": "", "metadata": ""}
+{"_id": "5254899a2c05811ec816ec8a6994045b", "text": "Cleanup generated document artifacts .", "title": "", "metadata": ""}
+{"_id": "d69f96049b37f2d73986b7fc4d1e684c", "text": "Test whether a stream can be written to .", "title": "", "metadata": ""}
+{"_id": "5a2c0767748b5cb969233bd72f4e0112", "text": "Returns the estimated standard error of the mean ( sx - bar ) of the values in the passed list . sem = stdev / sqrt ( n )", "title": "", "metadata": ""}
+{"_id": "93acad2c51dac9727e53ed2898e79e5b", "text": "Given a value wrap it in a 0 - D numpy . ndarray .", "title": "", "metadata": ""}
+{"_id": "4712232181e5e93018d4c2495a952dc9", "text": "Code due to Thomas Heller - published in Python Cookbook ( O Reilley )", "title": "", "metadata": ""}
+{"_id": "5569916e81286c3bfc55a54ebb69a685", "text": "Return view of the recarray with all int32 cast to int64 .", "title": "", "metadata": ""}
+{"_id": "c9e39af3ac534ca2d44f66113a5b100b", "text": "Given a sequence convert it to a comma separated string . If however the argument is a single object return its string representation .", "title": "", "metadata": ""}
+{"_id": "db05f1e52cc6204967cc32a5562d5e40", "text": "Function for running binary search on a sorted list .", "title": "", "metadata": ""}
+{"_id": "5e73866b77a1941ee73babbff7384526", "text": "Get longitudes from cartesian coordinates .", "title": "", "metadata": ""}
+{"_id": "17c6d10739c73f05dd61ccc2f10998a1", "text": "Set y limits for plot .", "title": "", "metadata": ""}
+{"_id": "7822edd3898c63285495f19a87418119", "text": "Flush all items from cache .", "title": "", "metadata": ""}
+{"_id": "8891887a80470c327885cae39f62ed9f", "text": "Parse val into a positive integer .", "title": "", "metadata": ""}
+{"_id": "dd01128e4f98c6b0977ac537d478c171", "text": "Private method for setting axis limits .", "title": "", "metadata": ""}
+{"_id": "377a9ef364cc215db4453c1c4c060373", "text": "Get from a list with an optional default value .", "title": "", "metadata": ""}
+{"_id": "5083aace0c0f77d11a52513b1e5aeb90", "text": "Cache the first return value of a function for all subsequent calls .", "title": "", "metadata": ""}
+{"_id": "437f08bbf3a575bff2a5214882fb01ac", "text": "Reads text file contents", "title": "", "metadata": ""}
+{"_id": "6f763c5138d6c0c5220ca083d10b2455", "text": "Opens the file and reads the value", "title": "", "metadata": ""}
+{"_id": "1f15a7e340b4d23c00da8c45eac72eee", "text": "Warn if nans exist in a numpy array .", "title": "", "metadata": ""}
+{"_id": "ff7c08f68564345deee5aefa37fe5f5d", "text": "Runs the function asynchronously taking care of exceptions .", "title": "", "metadata": ""}
+{"_id": "186f5c82681ad759d7af0921f77f53c9", "text": "DFS detect connected component recursive implementation", "title": "", "metadata": ""}
+{"_id": "5423f73d2946535e9448a33f7529ac6e", "text": "a normal old python function to return the Nth fibonacci number .", "title": "", "metadata": ""}
+{"_id": "e43b699bb4d46e8a0050bef09c66ccaf", "text": "Return True if the given DataFrame has a column of the given name ( string ) and there exists at least one non - NaN value in that column ; return False otherwise .", "title": "", "metadata": ""}
+{"_id": "354833a88d802f579de52fc47bb9fa3e", "text": "Toggle linear / log scale for Y - axis .", "title": "", "metadata": ""}
+{"_id": "2da6888bb6fb042a4442b1848eb2c2e4", "text": "Replace regex with string .", "title": "", "metadata": ""}
+{"_id": "c1a21b17f37c7f82d136c20612a2e995", "text": "Validates that the object itself is some kinda string", "title": "", "metadata": ""}
+{"_id": "a193353e650db2d09a2ed3fe35d37fb9", "text": "Checks if the user is rooted .", "title": "", "metadata": ""}
+{"_id": "d3e4278789ffb79dda583365857b93fd", "text": "Return a json array as a list", "title": "", "metadata": ""}
+{"_id": "d3fed53fe8f429fe25894289bee7b650", "text": "Convert input argument to bytes", "title": "", "metadata": ""}
+{"_id": "e9858df7debba2a1629441d079d64580", "text": "Make bars in horizontal bar chart thinner", "title": "", "metadata": ""}
+{"_id": "3494922f86c7d756cd103c19c2f47882", "text": "Get a type attribute statically circumventing the descriptor protocol .", "title": "", "metadata": ""}
+{"_id": "7115b4357bc12b36dc91c90443485c08", "text": "checks to see if list is equal everywhere", "title": "", "metadata": ""}
+{"_id": "6566f227a942bf8b91015a22bb53b5fb", "text": "reduces a multiline string to a single line of text .", "title": "", "metadata": ""}
+{"_id": "330a20e8a2be2e0741be9a8fffc85b6c", "text": "Wraps the given string with terminal color codes .", "title": "", "metadata": ""}
+{"_id": "42d9c8fb14a22b281edfa8720ae57972", "text": "Emulate what a Python set () does but keeping the element s order .", "title": "", "metadata": ""}
+{"_id": "51497ec0c0685d17746826223b7f3d34", "text": "Converts a dict to a querystring suitable to be appended to a URL .", "title": "", "metadata": ""}
+{"_id": "d338b496586e606e809dfcc04c7ec553", "text": "Wrapper for inserting int64 features into Example proto .", "title": "", "metadata": ""}
+{"_id": "0144a403cfcb26a858654977b3129315", "text": "htmlify string", "title": "", "metadata": ""}
+{"_id": "25a7a08805b3689fada338b027db6fb8", "text": "Converts a datetime to a millisecond accuracy timestamp", "title": "", "metadata": ""}
+{"_id": "247318ad2639f56677a25bdaa9c27549", "text": "Cleanup temporary directory .", "title": "", "metadata": ""}
+{"_id": "9e859b2267e5ea5c684e5dfb3d913ddf", "text": "Clears the console .", "title": "", "metadata": ""}
+{"_id": "9b9b805a1259a1e6d128e83742c0527a", "text": "Save object as json on CNS .", "title": "", "metadata": ""}
+{"_id": "9d9f831f40f7361e29595b2dfb6eb190", "text": "Get single system variable from CCU / Homegear", "title": "", "metadata": ""}
+{"_id": "6a5e1d2fa088a70a133d6230a617b5f4", "text": "Correct the timezone information on the given datetime", "title": "", "metadata": ""}
+{"_id": "4e4f89b590c064e022e0a6a2285d69ee", "text": "Return a string with terminal colors .", "title": "", "metadata": ""}
+{"_id": "3e2a98a60c93857ea59309eae1e93568", "text": "Concatenates blocks into a block diagonal matrix .", "title": "", "metadata": ""}
+{"_id": "1b8f140857331f7f1817295db3209a9a", "text": "Adds a chart to the worksheet at ( row col ) .", "title": "", "metadata": ""}
+{"_id": "5af48e03dfb365bd4b39790f6dc89805", "text": "Uses numpy . load to open the underlying file", "title": "", "metadata": ""}
+{"_id": "c156819db8f714d9e60f0d0d6b7582ce", "text": "Takes a nested list and returns the size of each dimension followed by the element type in the list", "title": "", "metadata": ""}
+{"_id": "49cf040f27697bd267a17068b376a9be", "text": "Write the given colored string to standard out .", "title": "", "metadata": ""}
+{"_id": "559594bea772ab34bf5b8a0b1f998820", "text": "Normal cumulative density function .", "title": "", "metadata": ""}
+{"_id": "3db2f984f3927c5d8096ccf62da83759", "text": "Moved out to make testing easier .", "title": "", "metadata": ""}
+{"_id": "b5f40cce02be05a5ff02b597608b4135", "text": "Computes average length of words", "title": "", "metadata": ""}
+{"_id": "b406e901860f9802e5294d723e2a254d", "text": "Get the first sunday of a month .", "title": "", "metadata": ""}
+{"_id": "28bfeeecfa0e80a7e9c435a931cf5786", "text": "Callback for comboboxes : notifies us that a combobox for the given item and column has changed", "title": "", "metadata": ""}
+{"_id": "a8cb32506f8d1c1d98ed80594fb5117f", "text": "Calculate the circular permutation for a given list of items .", "title": "", "metadata": ""}
+{"_id": "7ce6cee7c3a9d146d5e710d98f08908e", "text": "Decorator which adds correct MIME type for python source to the decorated bottle API function .", "title": "", "metadata": ""}
+{"_id": "0f85de7dfbd292abb6cc5356be0742de", "text": "Converts to float representing number of seconds since 1970 - 01 - 01 GMT .", "title": "", "metadata": ""}
+{"_id": "44ee0d7b409bbd97f2e9d5080be04ac9", "text": "Like from pairs but combines duplicate key values into arrays : param pairs : : return :", "title": "", "metadata": ""}
+{"_id": "e0e1c51c8706b96c34098328ed7c887c", "text": "generate random string with specified length", "title": "", "metadata": ""}
+{"_id": "20c40e0b9d3dc9c6f2f0227cad62f313", "text": "Return a list where the duplicates have been removed .", "title": "", "metadata": ""}
+{"_id": "0ffbc68108e62f9581f8fedb2015c120", "text": "Request that the Outstation perform a cold restart . Command syntax is : restart", "title": "", "metadata": ""}
+{"_id": "8f490390345c554591ec99b05b6fc594", "text": "This function returns the summary for a given model", "title": "", "metadata": ""}
+{"_id": "8d4530547c1021dd1ab5ae5c14e57bb3", "text": "Write data with column headers to a CSV .", "title": "", "metadata": ""}
+{"_id": "857954a94f93f4e519e7ed9709592e47", "text": "Return the angle between vectors a and b in degrees .", "title": "", "metadata": ""}
+{"_id": "8e1828f48029a2e6dcfbdd300bbc350a", "text": "Convert a python string to c array .", "title": "", "metadata": ""}
+{"_id": "f166cee55a03a03c9aaa8ba251cdbdf7", "text": "Returns the arithematic mean of the values in the passed list . Assumes a 1D list but will function on the 1st dim of an array ( ! ) .", "title": "", "metadata": ""}
+{"_id": "93b2e385a420a0e5e312384fb1ffb8b3", "text": "Yaml either have automatically converted it to a datetime object or it is a string that will be validated later .", "title": "", "metadata": ""}
+{"_id": "e154863924d1b86b17de435fa9f32baa", "text": "Check if cnr or cns files are empty ( only have a header )", "title": "", "metadata": ""}
+{"_id": "09e2624e04969febff8f25738ce5dd51", "text": "Sum the total number of cycles over a list of tokens .", "title": "", "metadata": ""}
+{"_id": "d2470545fafcaa2f796dc8298b9c5f83", "text": "Delete all the files and subdirectories in a directory .", "title": "", "metadata": ""}
+{"_id": "b08a6ecc03b05a02adce565970ce363e", "text": "read a simple text file from a private location to get username and password", "title": "", "metadata": ""}
+{"_id": "ba65c03c7e22d8c70649b9e7288194fe", "text": "Gets the user enter max and min values of where the raster points should appear on the y - axis", "title": "", "metadata": ""}
+{"_id": "db17f38bef34b80e9a51274515da6b7d", "text": "Return physical memory usage ( float ) Requires the cross - platform psutil ( > = v0 . 3 ) library ( https : // github . com / giampaolo / psutil )", "title": "", "metadata": ""}
+{"_id": "bc70d7b383a22a5216f75292c3ffa725", "text": "Wrapper for pymongo . Collection . ensure_index", "title": "", "metadata": ""}
+{"_id": "86710300502032fa7dbfe044f62c8a7d", "text": "Callback to go to the next tab . Called by the accel key .", "title": "", "metadata": ""}
+{"_id": "d1899e7c73cbb2b500d6d5d0f6fafcdc", "text": "r Copy object to the system clipboard .", "title": "", "metadata": ""}
+{"_id": "b801aa34202008d39fd6de16ab0a6a69", "text": "get the current month s last day : param year : default to current year : param month : default to current month : return : month s last day", "title": "", "metadata": ""}
+{"_id": "8666c542b14bdd975ce472e2ab1cee5a", "text": "Get all the database column names for the specified table .", "title": "", "metadata": ""}
+{"_id": "9dcb540f8ecbf531bb3c72384e312148", "text": "Check the syntax of the given URL .", "title": "", "metadata": ""}
+{"_id": "1c5162eab996870276fab5a4e8c5eb88", "text": "Returns the number of processors on this machine .", "title": "", "metadata": ""}
+{"_id": "3374ece7604bdc76ce69f534ecdc1e33", "text": "Indent given text using custom spacing default is set to 4 .", "title": "", "metadata": ""}
+{"_id": "9e60e28cd1975fa65971bba463596142", "text": "Removes a : py : class : . Series from the chart .", "title": "", "metadata": ""}
+{"_id": "1513aab74775ecbba0eb77b4002cc62f", "text": "Print a formatted indented text .", "title": "", "metadata": ""}
+{"_id": "f7c5c65e644e7cab1b363146c6e77b05", "text": "Runs a bash script in the local directory", "title": "", "metadata": ""}
+{"_id": "3e2ae4dcecd4ef281ad3d3d520060fe2", "text": "Convert a scalar validator in a list validator", "title": "", "metadata": ""}
+{"_id": "aa4020fd97ed6f05be25f478b02484c5", "text": "DOES NOT WORK WELL WITH MOPIDY Hack from https : // www . daniweb . com / software - development / python / code / 260268 / restart - your - python - program to support updating the settings since mopidy is not able to do that yet Restarts the current program Note : this function does not return . Any cleanup action ( like saving data ) must be done before calling this function", "title": "", "metadata": ""}
+{"_id": "18eba0cff652355de1c4fbbf7ac3367f", "text": "Sort the data .", "title": "", "metadata": ""}
+{"_id": "71ef23aa44b0b66f012c9d2a557553f4", "text": "Takes a list of dict like objects and uses champ_id field as Id", "title": "", "metadata": ""}
+{"_id": "67150f46d629e37ffc6fd4b7e4e88cf2", "text": "Internal convenience function for deprecation warnings", "title": "", "metadata": ""}
+{"_id": "72c6d02d42d36890cdcab3fd769a640b", "text": "Create a lambda code archive for running custodian .", "title": "", "metadata": ""}
+{"_id": "72800a9bd28d2d740ececbccde01fa48", "text": "Replaces occurrences of a match string in a given list of strings and returns a list of new strings . The match string can be a regex expression .", "title": "", "metadata": ""}
+{"_id": "623269164564baca270d991615d2dd94", "text": "Make a list unique retaining order of initial appearance .", "title": "", "metadata": ""}
+{"_id": "9af77a06046ef0f1189af174fb6f69ae", "text": "returns the shape after scaling ( should be the same as ndimage . zoom", "title": "", "metadata": ""}
+{"_id": "9440067397ddadd0bb0995743eac1938", "text": "Pop the head off the iterator and return it .", "title": "", "metadata": ""}
+{"_id": "93933ddd30204c7bf3b3ad1ae48bb053", "text": "Process a matplotlib image object and call renderer . draw_image", "title": "", "metadata": ""}
+{"_id": "d9bbb8b6ff3b555622c7ed0ed56e07e2", "text": "Helper function to unpickle data from picklefile .", "title": "", "metadata": ""}
+{"_id": "d205eba8439e32f385c9e1bad5c6af1d", "text": "Parse a string into a Message object model .", "title": "", "metadata": ""}
+{"_id": "72fe20b15628a58a371eeefb742c15ed", "text": "Explicitly reload context with DB usage to get access to complete DB object .", "title": "", "metadata": ""}
+{"_id": "b542ff269386dac411de4a9fc5c9ce63", "text": "Strips spaces : param x : : return :", "title": "", "metadata": ""}
+{"_id": "8b1fa491dc8d54ec45b8144d0ee1d9f3", "text": "Takes a decimal price and rounds to a number of decimal places", "title": "", "metadata": ""}
+{"_id": "d3ea3ad132548bb5c2c36e8e0a46197d", "text": "Get an SArray that contains the last n elements in the SArray .", "title": "", "metadata": ""}
+{"_id": "8420376c674d3803109288e40ac71258", "text": "interpret the dtype from a scalar or array . This is a convenience routines to infer dtype from a scalar or an array", "title": "", "metadata": ""}
+{"_id": "84a392cca4a67ed678d3055d4a5a2bfd", "text": "Remove instance from model", "title": "", "metadata": ""}
+{"_id": "8e674040f98fab28fc7eb44e6b6f260a", "text": "Remove any duplicate entries .", "title": "", "metadata": ""}
+{"_id": "50546d9d2d1f7f8213a1334905f4ac70", "text": "Places all the child widgets in the appropriate positions .", "title": "", "metadata": ""}
+{"_id": "c654efe328463b41aa3a261b5ee1f5df", "text": "Auto - scales the axes to fit all the data in plot index n . If n == None auto - scale everyone .", "title": "", "metadata": ""}
+{"_id": "4d34526560e9b6735f9fdfdc021c1323", "text": "Uses OLS to fit the regression .", "title": "", "metadata": ""}
+{"_id": "415b192e5d02d8ce05bc5a7bb78fe1c3", "text": "Helper to check valid options", "title": "", "metadata": ""}
+{"_id": "73fed546935f07d653e656c7896abd80", "text": "Run verbose PyLint on source . Optionally specify fmt = html for HTML output .", "title": "", "metadata": ""}
+{"_id": "10f664048a5079bd6286b5117fcb99ca", "text": "HTTP POST operation to API endpoint .", "title": "", "metadata": ""}
+{"_id": "1aa942d98b0b12df446b9b162af24a07", "text": "Provides hook for Python2 iterator functionality .", "title": "", "metadata": ""}
+{"_id": "9ca3776767a78bb83d651ae205e9b728", "text": "print the message to the predefined log file without newline", "title": "", "metadata": ""}
+{"_id": "5b8285c9c8676a00554a39cdd0b141dc", "text": "Create the file with the given content", "title": "", "metadata": ""}
+{"_id": "4a16f5f0e3e37840c0cc2be96e7cc0b6", "text": "Get the contents of an object stored in S3 as bytes", "title": "", "metadata": ""}
+{"_id": "d1efe2a4134c1b9d8e7b555ca5176e2f", "text": "Official way to get the extension of compiled files ( . pyc or . pyo )", "title": "", "metadata": ""}
+{"_id": "5d52e1beb320d807b81003b18974e19a", "text": "Get a value from a dict which contains just one item .", "title": "", "metadata": ""}
+{"_id": "2fa412ba63e482c040e35051b1322ec5", "text": "Emit a sine wave at the given frequency .", "title": "", "metadata": ""}
+{"_id": "c099690fa99d1c2c73ae493585937a8b", "text": "Generator for reading from standard input in nonblocking mode .", "title": "", "metadata": ""}
+{"_id": "4c7b8f3a0a269bd8c417e9bb1b744c5f", "text": "Executes a ( shell ) command in the background", "title": "", "metadata": ""}
+{"_id": "c38dd094bb7045d76d5787ec7670f8c0", "text": "Convert a object into dictionary with all of its readable attributes .", "title": "", "metadata": ""}
+{"_id": "98925bb8f0a4f53a3a416500e4799033", "text": "Return the distance between two points .", "title": "", "metadata": ""}
+{"_id": "830c9359044f4adf76d6fdfbc7365b47", "text": "This method removes columns in data", "title": "", "metadata": ""}
+{"_id": "a839c881400b76c89db2807e9bebc0b5", "text": "decorator to convert a method taking a iterable to a * args one", "title": "", "metadata": ""}
+{"_id": "b2c59c8a0597fb1c67675ceac0665e5f", "text": ">>> find_index ( [[ 0 1 2 ] [ 3 4 ] [ 5 6 7 ]] 0 ) 0 >>> find_index ( [[ 0 1 2 ] [ 3 4 ] [ 5 6 7 ]] 1 ) 0 >>> find_index ( [[ 0 1 2 ] [ 3 4 ] [ 5 6 7 ]] 5 ) 2 >>> find_index ( [[ 0 1 2 ] [ 3 4 ] [ 5 6 7 ]] 6 ) 2", "title": "", "metadata": ""}
+{"_id": "9fa407d43ac9725651dac82a2f03fb9c", "text": "Get width and height of a PDF", "title": "", "metadata": ""}
+{"_id": "15300ad84b8837e468411ed7ca7bf3c7", "text": "Removes non - alpha characters and converts spaces to hyphens . Useful for making file names . Source : http : // stackoverflow . com / questions / 5574042 / string - slugification - in - python", "title": "", "metadata": ""}
+{"_id": "be7ea31b3226446fd000a4b837232a85", "text": "Update inplace widgets position when doing vertical scroll", "title": "", "metadata": ""}
+{"_id": "f6038cd5a4d3b45a4ee308c47cf851b6", "text": "must be an iterable ( list array tuple )", "title": "", "metadata": ""}
+{"_id": "2ce5b85dd50f3427d969f2cc9f2877ef", "text": "Shot noise corruption to images .", "title": "", "metadata": ""}
+{"_id": "834c2a2e712a3345bf5053fb45607b4e", "text": "Returns a string representing a numpy array of 0 s and 1 s", "title": "", "metadata": ""}
+{"_id": "5c02be5a912c2d980a542aba979af88f", "text": "Add an additional response header not removing duplicates .", "title": "", "metadata": ""}
+{"_id": "2530b28db9c6ab46080a30c916009373", "text": "Calculate the average color from the list of colors where each color is a 3 - tuple of ( r g b ) values .", "title": "", "metadata": ""}
+{"_id": "0835d2cc997863356a451f667a000f6e", "text": "verify the validity of the given file . Never trust the End - User", "title": "", "metadata": ""}
+{"_id": "bcca6b6926696bd25b41de943d3b3e43", "text": "Wrapper over time module to produce Unix epoch time as a float", "title": "", "metadata": ""}
+{"_id": "c51d00e8afc8851de8b6d2428364fa5b", "text": "Return a tuple that contains ( width height ) Pass in a url to an image and find out its size without loading the whole file If the image wxh could not be found the tuple will contain None values", "title": "", "metadata": ""}
+{"_id": "ae9f7f2ed4480f370914462b19cd2aa9", "text": "Sends plain text using _send_text () .", "title": "", "metadata": ""}
+{"_id": "aa0370ac9b6e534fb53dcec4aa2b565a", "text": "Gaussian model m is [ psill range nugget ]", "title": "", "metadata": ""}
+{"_id": "9f9991fc48818d1db292497c360fba32", "text": "Close log", "title": "", "metadata": ""}
+{"_id": "249a16ed624b1b20f088b71e3798f44a", "text": "Old style use JSONTemplateResponse instead of this .", "title": "", "metadata": ""}
+{"_id": "a007d00eb9d9ada6446b817622e2e7aa", "text": "Checks for an empty image .", "title": "", "metadata": ""}
+{"_id": "86578e648c21135ca948d3498533a7b1", "text": "Helper for matplotlib imshow", "title": "", "metadata": ""}
+{"_id": "37f71e1772a5e67d023fe758b15d0f6b", "text": "Return the dot product of two vectors", "title": "", "metadata": ""}
+{"_id": "f415d90a3ec442246a293d05f997876f", "text": "Return all ( and only ) the uppercase chars in the given string .", "title": "", "metadata": ""}
+{"_id": "1ad3d79bcf1825d0b177416e8e654f98", "text": "Command line interface for PyBEL .", "title": "", "metadata": ""}
+{"_id": "cceab8a5c140d66020e077487df5e917", "text": "Compress object to bytes .", "title": "", "metadata": ""}
+{"_id": "bc1e1a7e9f55add2e428a478a0a38d8a", "text": "Transparently unzip the file handle", "title": "", "metadata": ""}
+{"_id": "da5631609fa5921ec7211d292048968f", "text": "sample data from given histogram and min max values within range", "title": "", "metadata": ""}
+{"_id": "d9efec48c722c827999a7876bb62e431", "text": "Convert CamelCase to lower_and_underscore .", "title": "", "metadata": ""}
+{"_id": "786ebc0ee467904a4acd8a78609a2fd2", "text": "Read and return an entire section", "title": "", "metadata": ""}
+{"_id": "4485bbd18664ac7b93af410b5cf5d7cf", "text": "Converts an dict to a Enum .", "title": "", "metadata": ""}
+{"_id": "1c9c59a42b9d55206298f391aa4afdec", "text": "Return True if val is of integer type .", "title": "", "metadata": ""}
+{"_id": "24cbed5881616adaa41419453da33260", "text": "Function for fast reading from sensor files .", "title": "", "metadata": ""}
+{"_id": "70aa1e1aae3c17237cb9b9e452da1b54", "text": "Takes a text and drops all non - printable and non - ascii characters and also any whitespace characters that aren t space .", "title": "", "metadata": ""}
+{"_id": "d3788677ca03ecc74a085e48a7b03539", "text": "Print warning about interrupt and empty the job queue .", "title": "", "metadata": ""}
+{"_id": "01c1bf8b90b3fa85b1f0a1866949647b", "text": "add arrow to plot", "title": "", "metadata": ""}
+{"_id": "ed082c8f31b1a44bc939563b4dc96275", "text": "Make a header request to the endpoint .", "title": "", "metadata": ""}
+{"_id": "498be81b3da3908ea9163272f487a34b", "text": "Imputes data set containing Nan values", "title": "", "metadata": ""}
+{"_id": "1f7070e48be35e11226c17d2d0ee01e1", "text": "Return the products from a query response as a Pandas DataFrame with the values in their appropriate Python types .", "title": "", "metadata": ""}
+{"_id": "955e64755780b995b0fd8fbac6c0f4e7", "text": "Return all child objects in nested lists of strings .", "title": "", "metadata": ""}
+{"_id": "e51fa7e9a2481b1be563a67214d0a2c1", "text": "Raises a requests . exceptions . HTTPError if the response has a non - 200 status code .", "title": "", "metadata": ""}
+{"_id": "2db3ddc85603c6c982ec5ebf5fb0807c", "text": "Parse markdown sintaxt to html .", "title": "", "metadata": ""}
+{"_id": "2d889c50b1d885b4b23bf0588e9df6ad", "text": "Generate all matches found within a string for a regex and yield each match as a string", "title": "", "metadata": ""}
+{"_id": "52e5b47857b3600f885ee905ab5f25b7", "text": "Generates a LaTeX table from parameter summaries .", "title": "", "metadata": ""}
+{"_id": "82fc208091eed7853731ac6aff04eb75", "text": "Convert a Stripe API timestamp response ( unix epoch ) to a native datetime .", "title": "", "metadata": ""}
+{"_id": "d1f371aa4d0edc2de8a3ad2e461ca7c9", "text": "Checks whether the re module can compile the given regular expression .", "title": "", "metadata": ""}
+{"_id": "aa2babe1b36e7046d74f92456b26009f", "text": "Run Python test cases against Java runtime classes .", "title": "", "metadata": ""}
+{"_id": "1b009ddf3fb73a0be5dab53d649efa9d", "text": "An argparse type representing an email address .", "title": "", "metadata": ""}
+{"_id": "4eee92db53081d5ea844d9a80bb2927c", "text": "Takes a list of ( key value ) pairs and turns it into a dict .", "title": "", "metadata": ""}
+{"_id": "dc0f048378fa749135e57f85b970f9d4", "text": "Return a list of unique items ( similar to set functionality ) .", "title": "", "metadata": ""}
+{"_id": "709f722049b5eaa1482a59cdc80dd060", "text": "Gets the log level from the environment variable .", "title": "", "metadata": ""}
+{"_id": "10c52effceb383271ac0336aca168555", "text": "Discover the current time zone and it s standard string representation ( for source { d } ) .", "title": "", "metadata": ""}
+{"_id": "16094470f5c5c55be06cfaa2c5229a44", "text": "Add global variables to JavaScript about the location and latest version of transpiled files . Usage :: { % static_urls_js % }", "title": "", "metadata": ""}
+{"_id": "6842e92054755a18465ca6e456040c94", "text": "Returns system clipboard contents .", "title": "", "metadata": ""}
+{"_id": "31dbd18c066a802737ae19886f51ee6e", "text": "Are two indexes equal? Checks by comparing str () versions of them . ( AM UNSURE IF THIS IS ENOUGH . )", "title": "", "metadata": ""}
+{"_id": "7e3c15857eb48fcc9bf1ff56d5ab7782", "text": "Return the approximate size of the queue ( not reliable! ) .", "title": "", "metadata": ""}
+{"_id": "bd57703f498e7d898b7c3e1653b5709c", "text": "Convert a CSV object to a numpy array .", "title": "", "metadata": ""}
+{"_id": "c6c4b58b2dcfc7012a0272250cf17450", "text": "Try to get a number out of a string and cast it .", "title": "", "metadata": ""}
+{"_id": "2e82db08eb33cefe30df03270fe02772", "text": "Right replaces count occurrences of old with new in string . For example ::", "title": "", "metadata": ""}
+{"_id": "7924a0c6726ea4063916805c295ffcd9", "text": "Check if arg is a valid file that already exists on the file system .", "title": "", "metadata": ""}
+{"_id": "eb47fec8a4280bb9d7f0849e1e15a08d", "text": "Loads and returns a class for a given fully qualified name .", "title": "", "metadata": ""}
+{"_id": "2203c3cb903177d4d90f72bddea9f717", "text": ">>> sort_key (( name ( ROUTE URL ))) - 3", "title": "", "metadata": ""}
+{"_id": "5098a2662ac8e56cc93445234a455bb6", "text": "Utility function to remove duplicates from a list : param seq : The sequence ( list ) to deduplicate : return : A list with original duplicates removed", "title": "", "metadata": ""}
+{"_id": "fd222c085a11ac306afa47c2bfab7d32", "text": "Convert an int of form yyyymmdd to a python date object .", "title": "", "metadata": ""}
+{"_id": "41a9a8ba2c8634620c2280392a1d83c1", "text": "Call a function after a delay unless another function is set in the meantime .", "title": "", "metadata": ""}
+{"_id": "d8ec3680dfe4c2e2b7c589b5173ffeae", "text": "Count number of item in generator .", "title": "", "metadata": ""}
+{"_id": "a4df0c0b4d26fa0f426726fc8f1fd1bf", "text": "SPSS . sav files to Pandas DataFrame through Rpy2", "title": "", "metadata": ""}
+{"_id": "7cf8564ca71b68eb443a40d84110da6f", "text": "This will equal 124 for the V1 database .", "title": "", "metadata": ""}
+{"_id": "7958f0df786f87ffcc47b9977bf0a188", "text": "Convert a byte value to boolean ( 0 or 1 ) if the global flag strictBool is True", "title": "", "metadata": ""}
+{"_id": "9b39de5080aa0330b96ab5daafb924e4", "text": "Sort files or folders by modified time", "title": "", "metadata": ""}
+{"_id": "546e825258f88f85778b8c1b56bd93c0", "text": "Writes a file if it doesn t already exist with the same content .", "title": "", "metadata": ""}
+{"_id": "84787f416fa4a4de46e71540a069185d", "text": "Add data to send queue .", "title": "", "metadata": ""}
+{"_id": "e3839aa9d155d6d28fa8b3051504dfcb", "text": "Return the number of dimensions of a tensor", "title": "", "metadata": ""}
+{"_id": "41ac264fb769a7b4a4bd9804bdd00c3d", "text": "Sends all messages to logger . [ mthd ] () for handling", "title": "", "metadata": ""}
+{"_id": "ead6dc9990db14c495cbed6992b374bf", "text": "Get the modified time for a file as a datetime instance", "title": "", "metadata": ""}
+{"_id": "38317ebed88ca7d115420ecaeaafa1cd", "text": "Stop the resolver threads .", "title": "", "metadata": ""}
+{"_id": "bb559df18b0f0fff2e084c26e25bbacd", "text": "Determine the largest contig for each strain : param contig_lengths_dict : dictionary of strain name : reverse - sorted list of all contig lengths : return : longest_contig_dict : dictionary of strain name : longest contig", "title": "", "metadata": ""}
+{"_id": "5222d0a8dd1fbe38eb8bb299c7a1c39b", "text": "Applies the sofplus activation function element - wise to the input .", "title": "", "metadata": ""}
+{"_id": "728e6fb184dde181894739fd13e9166b", "text": "image resize function used by quite a few image problems .", "title": "", "metadata": ""}
+{"_id": "bec5b4a485c0d54cd3f2d7ac7ceea5a4", "text": "Returns nr of first entry parseable to float in ll None otherwise", "title": "", "metadata": ""}
+{"_id": "f14741eff3c319b9fa0b922fd65d2634", "text": "Returns a file descriptor from stdin or opening a file from a given path .", "title": "", "metadata": ""}
+{"_id": "c5ca85ba52797b245b36f1f6d6892d51", "text": "returns a random element from seq n times . If n is None it continues indefinitly", "title": "", "metadata": ""}
+{"_id": "12ee214e8ca3a854d234038e3fb1db43", "text": "Add a leading hash # at the beginning of every line in the source .", "title": "", "metadata": ""}
+{"_id": "d05cd9f352778e8daafc36615866f166", "text": "Build a C ++ binary executable", "title": "", "metadata": ""}
+{"_id": "4def25d5b416e81e53047116389e5c40", "text": "Get user name provide by operating system", "title": "", "metadata": ""}
+{"_id": "fd0e7a794011f039a5ee310a3944491d", "text": "Turns a werkzeug . MultiDict or django . MultiValueDict into a dict with list values : param d : a MultiDict or MultiValueDict instance : return : a dict instance", "title": "", "metadata": ""}
+{"_id": "5621febddaa4d1ce1502559d5e3fb647", "text": "Just sends the request using its send method and returns its response .", "title": "", "metadata": ""}
+{"_id": "163992273132628746ddc5fe7df34ed8", "text": "Interpolate linearly variable x in rangeX onto rangeY .", "title": "", "metadata": ""}
+{"_id": "b03042976cc914891c0c808d16cc73df", "text": "This should only be used for testing . The primary mode of operation is as an imported library .", "title": "", "metadata": ""}
+{"_id": "95a0b00b1fcdab8d3ddaeb4a30bfbc9f", "text": "Constructs a numpy - compatible polygon from a page representation .", "title": "", "metadata": ""}
+{"_id": "b81d0b94610f46eb161183df1edeea1b", "text": "Convenient interface to the ecstasy package .", "title": "", "metadata": ""}
+{"_id": "14db424e07f058a9993d8b17bce7257c", "text": "Function called everytime a new file is modified .", "title": "", "metadata": ""}
+{"_id": "f10526bf00e4530cd2eef1169e778853", "text": "convert iterable object into numpy array", "title": "", "metadata": ""}
+{"_id": "595b56e5629c39c83a5ba412b7eecdba", "text": "Assert that a value must be a given type .", "title": "", "metadata": ""}
+{"_id": "a3d5e87b5d406b984e80a056bb9ea83d", "text": "Join helper", "title": "", "metadata": ""}
+{"_id": "fe6eda0a2fb494eaaa3c0e1b2b58ec22", "text": "Return a string with punctuation removed .", "title": "", "metadata": ""}
+{"_id": "8e4944b7c1de106a4b456a524dbadf33", "text": "Converts a 1D list to a single long string for file output using the string . join function .", "title": "", "metadata": ""}
+{"_id": "6f8ccd81c40e8b738764cf19b92be08f", "text": "Find longest ORF from the given list of ORFs .", "title": "", "metadata": ""}
+{"_id": "dc8ab3d5c6730bd2f552a0ba7fe08d3d", "text": "This function flatten given nested list . Argument : nested list Returns : flat list", "title": "", "metadata": ""}
+{"_id": "2bbd0ec59fa14819fd965ba76f2b7f3b", "text": "Set the screen clear color", "title": "", "metadata": ""}
+{"_id": "3ea09f13aaf02bd00ec266fd824e9062", "text": "check code coverage quickly with the default Python", "title": "", "metadata": ""}
+{"_id": "9d7bd199e5245ad4c45a2d0d9b48c651", "text": "create a graphviz graph from text", "title": "", "metadata": ""}
+{"_id": "69073ec21b3b1c52278e14d61c48658d", "text": "must be a float", "title": "", "metadata": ""}
+{"_id": "82a69f2e2e5cd13d91b94d68db2b8880", "text": "Round a datetime object to a multiple of a timedelta dt : datetime . datetime object default now .", "title": "", "metadata": ""}
+{"_id": "dd3bc0f89de31f7040ebb49781b08021", "text": "Acquire a lock on the output file prevents collisions between multiple runs .", "title": "", "metadata": ""}
+{"_id": "bf0cf16523860dbdb88fa8813a04a39a", "text": "Asynchronously run the worker does not close connections . Useful when testing .", "title": "", "metadata": ""}
+{"_id": "6aff045051493748bd7b34efc7302dcf", "text": "Checks if the filename exists under the path .", "title": "", "metadata": ""}
+{"_id": "5ce93fb8348907ec42c5c07240eb1a51", "text": "Returns a dictionary from a URL params", "title": "", "metadata": ""}
+{"_id": "95e8f42cf2e66873c557d245fde413cc", "text": "Finish up a session .", "title": "", "metadata": ""}
+{"_id": "8a854047b952ee7d880f2b3da25ba537", "text": "zfill ( x width ) - > string", "title": "", "metadata": ""}
+{"_id": "c6dfc3ffac64efcc74fac639e0ec04c3", "text": "Has a 50 / 50 chance of calling a function", "title": "", "metadata": ""}
+{"_id": "b0a0e7c7dd2fbbf41eb5df216cdb5ff4", "text": "Return the top - level element of a document sub - tree containing the YAML serialization of a Python object .", "title": "", "metadata": ""}
+{"_id": "2937921b11df445fd424448e8849b12f", "text": "Add up a list of freq counts to get the total counts .", "title": "", "metadata": ""}
+{"_id": "ffaa2c8b09152104d0120dec3cead89c", "text": "Call a remote api method but don t raise if an error occurred .", "title": "", "metadata": ""}
+{"_id": "d23c951465661b5c27c15d1778d14bd6", "text": "last row or column of square A", "title": "", "metadata": ""}
+{"_id": "73118067cdecdf2521ea23a732257cc7", "text": "Convert to lowercase and strip spaces", "title": "", "metadata": ""}
+{"_id": "305e474fb34e801d80e8afe600ac9051", "text": "Determine if unicode string only contains ASCII characters .", "title": "", "metadata": ""}
+{"_id": "e575f7412d1276340ea742c5f4e36016", "text": "Hacked run function which installs the trace .", "title": "", "metadata": ""}
+{"_id": "a1b4328c88a249bfd7deaadc45305e1a", "text": "Return the value of a float property .", "title": "", "metadata": ""}
+{"_id": "035a645e13520128257858126d88f774", "text": "Adds execute permission to file . : param filename : : return :", "title": "", "metadata": ""}
+{"_id": "7b3a3b8e1fb8ccd1663b01a9343890f6", "text": "Return a virtual concatenate of several NumPy arrays .", "title": "", "metadata": ""}
+{"_id": "0880707f5a2b98e6f9f669b94a57ed49", "text": "Convert a string to a list with sanitization .", "title": "", "metadata": ""}
+{"_id": "7087b9f2c92fb2c99724a51cc0585be6", "text": "Unpickles the classifier used", "title": "", "metadata": ""}
+{"_id": "bf1b52ee5d80aab98be22b91db7bacbd", "text": "Run application tests", "title": "", "metadata": ""}
+{"_id": "67bea779c17e1e5d9835e745d8bf7c75", "text": "Create a function to map from rows with the structure of the headers to the structure of the table .", "title": "", "metadata": ""}
+{"_id": "895a5995d96fe7a2597e219f12594d4f", "text": "Returns a string containing the type and text of the exception .", "title": "", "metadata": ""}
+{"_id": "c79ef104957630d9e0c2d0a2b1a14701", "text": "Print the given item and all children items", "title": "", "metadata": ""}
+{"_id": "9216cc35faa06bf83713c46d763caefb", "text": "convert string to int or float .", "title": "", "metadata": ""}
+{"_id": "a3ae3b6372b9ebbc3813504dd375e612", "text": "Exit on system end of file character", "title": "", "metadata": ""}
+{"_id": "72b682147e1acc8ccc17d456532593b6", "text": "get a list and return a string with comma separated list values Examples [ to ta ] will return to ta .", "title": "", "metadata": ""}
+{"_id": "b90e0d7054c78770ab90a3bfc20cade9", "text": "Make sure thre is no whitespace in the given string . Will raise a ValueError if whitespace is detected", "title": "", "metadata": ""}
+{"_id": "d07557b2c1e8d3b39c395282ab2da7a3", "text": "Compute the angle between vector x and y", "title": "", "metadata": ""}
+{"_id": "c1bf3ec4e98fdca482a01c6c5215c8ce", "text": "Exit the shell session .", "title": "", "metadata": ""}
+{"_id": "ddc79cd29a920be30759fccc5200601c", "text": "Get the help text ( signature + docstring ) for a command ( function ) .", "title": "", "metadata": ""}
+{"_id": "33bf65225840b926a77e38557ff44a6b", "text": "r Directly reads text data from url", "title": "", "metadata": ""}
+{"_id": "b4c764ea5b3b04471a8ce8713fd8f811", "text": "Delete index entirely ( removes all documents and mapping ) .", "title": "", "metadata": ""}
+{"_id": "561f5245adb757ec6aefb93d214c34a1", "text": "Dump bel specification dictionary using YAML", "title": "", "metadata": ""}
+{"_id": "6f17e9ffd0563c97b22082726551a309", "text": "Decision Tree", "title": "", "metadata": ""}
+{"_id": "101ea03edbdeae0fd7457a1d989f91c2", "text": "Check if the argument is a readable file - like object .", "title": "", "metadata": ""}

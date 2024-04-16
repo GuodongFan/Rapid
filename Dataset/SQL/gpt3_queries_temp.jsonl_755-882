@@ -1,0 +1,600 @@
+{"_id": "gpt3_1", "text": "\nThis query will return all the distinct city codes from the Student table.", "metadata": {}}
+{"_id": "gpt3_2", "text": "\nThis query selects all distinct city codes from the Student table.", "metadata": {}}
+{"_id": "gpt3_3", "text": "\nThis SQL statement will select all unique city codes from the Student table.", "metadata": {}}
+{"_id": "gpt3_4", "text": "\nThis statement will return a list of unique city codes from the Student table.", "metadata": {}}
+{"_id": "gpt3_5", "text": "\nThis query will return a list of all unique city codes from the Student table.", "metadata": {}}
+{"_id": "gpt3_6", "text": "\nThis query will select all first and last names from the FACULTY table where the sex is male and the building is NEB.", "metadata": {}}
+{"_id": "gpt3_7", "text": "\nThis query will select the first name and last name of all male faculty members who work in the NEB building.", "metadata": {}}
+{"_id": "gpt3_8", "text": "\nThis query will select the first and last name of all male faculty members who work in the NEB building.", "metadata": {}}
+{"_id": "gpt3_9", "text": "\nThis query will select the first and last names of all male faculty members who work in the NEB building.", "metadata": {}}
+{"_id": "gpt3_10", "text": "\nThis query will select the first and last names of all male faculty members who work in the NEB building.", "metadata": {}}
+{"_id": "gpt3_11", "text": "\nThe SELECT Name FROM pilot ORDER BY Name ASC statement is used to retrieve the names of all pilots from a database and sort them in alphabetical order.", "metadata": {}}
+{"_id": "gpt3_12", "text": "\nThis query will return a list of all pilot names in alphabetical order.", "metadata": {}}
+{"_id": "gpt3_13", "text": "\nThis SQL statement selects the Name column from the pilot table and orders the results in ascending alphabetical order.", "metadata": {}}
+{"_id": "gpt3_14", "text": "\nThis query selects the names of pilots from a table and orders them in ascending alphabetical order.", "metadata": {}}
+{"_id": "gpt3_15", "text": "\nThis query will select all names from the pilot table and order them in ascending alphabetical order.", "metadata": {}}
+{"_id": "gpt3_16", "text": "\nThis query selects the most frequently used document structure description from the documents and document structures tables, grouped by document structure code and ordered by the count of occurrences. The result is limited to the top result.", "metadata": {}}
+{"_id": "gpt3_17", "text": "\nThis query selects the document structure description of the most frequently used document structure code in the documents table.", "metadata": {}}
+{"_id": "gpt3_18", "text": "\nThis query returns the most common document structure description from the documents and document_structures tables, ordered by the number of occurrences.", "metadata": {}}
+{"_id": "gpt3_19", "text": "\nThis query retrieves the document structure description for the most frequently used document structure code in the documents table.", "metadata": {}}
+{"_id": "gpt3_20", "text": "\nThis query retrieves the document structure description for the most commonly used document structure code from the documents and document_structures tables.", "metadata": {}}
+{"_id": "gpt3_21", "text": "\nThis query would return the decor of the room \"Recluse and Defiance\" from the Rooms table.", "metadata": {}}
+{"_id": "gpt3_22", "text": "\nThis query will return the decor of the room named \"Recluse and Defiance\" from the Rooms table.", "metadata": {}}
+{"_id": "gpt3_23", "text": "\nThis query will return the decor of the room \"Recluse and Defiance\" from the Rooms table.", "metadata": {}}
+{"_id": "gpt3_24", "text": "\nThis query would return the decor of the room named \"Recluse and Defiance\" from the Rooms table.", "metadata": {}}
+{"_id": "gpt3_25", "text": "\nThis query will return the decor of the room named \"Recluse and Defiance\" from the Rooms table.", "metadata": {}}
+{"_id": "gpt3_26", "text": "\nThis query will select the email and phone number of customers with the first name \"Astrid\" and last name \"Gruber\" from the customers table.", "metadata": {}}
+{"_id": "gpt3_27", "text": "\nThis query will select the email and phone number for the customer with the first name Astrid and last name Gruber from the customers table.", "metadata": {}}
+{"_id": "gpt3_28", "text": "\nThis statement will select the email and phone number from the customers table for the customer with the first name Astrid and last name Gruber.", "metadata": {}}
+{"_id": "gpt3_29", "text": "\nThis statement retrieves the email and phone number of customers with the first name \"Astrid\" and the last name \"Gruber\" from the customers table.", "metadata": {}}
+{"_id": "gpt3_30", "text": "\nThis statement selects the email and phone number of the customers with the first name \"Astrid\" and last name \"Gruber\" from the customers table.", "metadata": {}}
+{"_id": "gpt3_31", "text": "\nThis query returns the name of the Aircraft with the most Certificates, ordered by the number of Certificates in descending order, with a limit of 1.", "metadata": {}}
+{"_id": "gpt3_32", "text": "\nThis query will select the name of the aircraft with the most certificates from the Certificate and Aircraft tables, ordered by the number of certificates.", "metadata": {}}
+{"_id": "gpt3_33", "text": "\nThis query selects the name of the Aircraft with the most Certificates from the Certificate and Aircraft tables. It does this by joining the two tables on the Aircraft ID, grouping by the Aircraft ID, and ordering by the count of Certificates", "metadata": {}}
+{"_id": "gpt3_34", "text": "\nThis query returns the name of the Aircraft with the most Certificates, ordered by the highest count.", "metadata": {}}
+{"_id": "gpt3_35", "text": "\nThis query returns the name of the aircraft with the most certificates associated with it.", "metadata": {}}
+{"_id": "gpt3_36", "text": "\nThis query will select all unique titles of papers from the papers table that have been authored by authors from the institution \"Google\".", "metadata": {}}
+{"_id": "gpt3_37", "text": "\nThis query selects the distinct titles of papers that have been authored by someone affiliated with Google.", "metadata": {}}
+{"_id": "gpt3_38", "text": "\nThis query will return a list of distinct paper titles from papers authored by authors affiliated with the institution \"Google\".", "metadata": {}}
+{"_id": "gpt3_39", "text": "\nThis query selects all the distinct titles of papers that have authors affiliated with Google.", "metadata": {}}
+{"_id": "gpt3_40", "text": "\nThis statement will return a list of all distinct titles of papers written by authors affiliated with Google.", "metadata": {}}
+{"_id": "gpt3_41", "text": "\nThis query will count the number of distinct titles of songs from studio albums.", "metadata": {}}
+{"_id": "gpt3_42", "text": "\nThis query returns the count of distinct titles from the songs table for studio albums.", "metadata": {}}
+{"_id": "gpt3_43", "text": "\nThis query returns the count of distinct titles of songs from studio albums.", "metadata": {}}
+{"_id": "gpt3_44", "text": "\nThis query will return the count of distinct titles of songs from studio albums.", "metadata": {}}
+{"_id": "gpt3_45", "text": "\nThis query counts the number of distinct titles of songs from studio albums.", "metadata": {}}
+{"_id": "gpt3_46", "text": "\nThis query selects the artist name and gender of all artists who released a song in March from the artist and song tables.", "metadata": {}}
+{"_id": "gpt3_47", "text": "\nThis query will select the artist name and gender of all artists who have released a song in the month of March.", "metadata": {}}
+{"_id": "gpt3_48", "text": "\nThis query selects the artist name and gender from the artist table for any artist whose song was released in March.", "metadata": {}}
+{"_id": "gpt3_49", "text": "\nThis query selects the artist name and gender from the artist table for all songs released in March.", "metadata": {}}
+{"_id": "gpt3_50", "text": "\nThis query selects the artist name and gender from the artist table for all songs that were released in March.", "metadata": {}}
+{"_id": "gpt3_51", "text": "\nThis SQL query selects the unique themes from a journal table.", "metadata": {}}
+{"_id": "gpt3_52", "text": "\nThis statement retrieves the distinct themes from a journal table.", "metadata": {}}
+{"_id": "gpt3_53", "text": "\nThis query will return a list of all distinct themes in the journal table.", "metadata": {}}
+{"_id": "gpt3_54", "text": "\nThis SQL query will return a list of all the distinct themes from the journal table.", "metadata": {}}
+{"_id": "gpt3_55", "text": "\nThis query will return a list of all the distinct themes in the journal table.", "metadata": {}}
+{"_id": "gpt3_56", "text": "\nThis query retrieves the name of the instructor who is the advisor of the student with the highest total credits from the advisor, instructor, and student tables.", "metadata": {}}
+{"_id": "gpt3_57", "text": "\nThis query selects the name of the advisor of the student with the highest total credits from the advisor, instructor, and student tables.", "metadata": {}}
+{"_id": "gpt3_58", "text": "\nThis query selects the name of the instructor who is the advisor of the student with the highest total credits.", "metadata": {}}
+{"_id": "gpt3_59", "text": "\nThis query selects the name of the instructor from the advisor, instructor, and student tables, ordered by the student's total credits in descending order, and limiting the result to one row.", "metadata": {}}
+{"_id": "gpt3_60", "text": "\nThis query retrieves the name of the instructor who is the advisor of the student with the highest total credits.", "metadata": {}}
+{"_id": "gpt3_61", "text": "\nThis query will select the customer name of all customers who have chosen to pay with cash.", "metadata": {}}
+{"_id": "gpt3_62", "text": "\nThis query will select the customer name for all customers who have a payment method of \"Cash\".", "metadata": {}}
+{"_id": "gpt3_63", "text": "\nThis query will return a list of customer names from the customers table who have paid with cash.", "metadata": {}}
+{"_id": "gpt3_64", "text": "\nThis query will return a list of customer names from the customers table who have a payment method of \"Cash\".", "metadata": {}}
+{"_id": "gpt3_65", "text": "\nThis query will select customer names from the customers table where the payment method is \"Cash\".", "metadata": {}}
+{"_id": "gpt3_66", "text": "\nThis query returns the number of employees with the last name Graztevski who are also professors in a class.", "metadata": {}}
+{"_id": "gpt3_67", "text": "\nThis query counts the number of employees with the last name of Graztevski who are also professors in the Class table.", "metadata": {}}
+{"_id": "gpt3_68", "text": "\nThis query counts the number of employees with the last name Graztevski who are also professors in a class.", "metadata": {}}
+{"_id": "gpt3_69", "text": "\nThis query counts the number of employees with the last name 'Graztevski' who are also professors in the CLASS table.", "metadata": {}}
+{"_id": "gpt3_70", "text": "\nThis query returns the number of employees with the last name \u201cGraztevski\u201d who are also professors in a class.", "metadata": {}}
+{"_id": "gpt3_71", "text": "\nThis query will return the number of distinct grades for each classroom in the list table.", "metadata": {}}
+{"_id": "gpt3_72", "text": "\nThis query will return the classrooms and the number of distinct grades in each classroom from the list table.", "metadata": {}}
+{"_id": "gpt3_73", "text": "\nThis query will count the number of distinct grades in each classroom in the list table.", "metadata": {}}
+{"_id": "gpt3_74", "text": "\nThis query will return a list of classrooms and the count of distinct grades in each classroom.", "metadata": {}}
+{"_id": "gpt3_75", "text": "\nThis query will return the classroom and the number of distinct grades that are present in each classroom from the list table.", "metadata": {}}
+{"_id": "gpt3_76", "text": "\nThis query selects the phone number and email address of the Drama Workshop Groups that offer film services.", "metadata": {}}
+{"_id": "gpt3_77", "text": "\nThis query selects the store phone number and store email address from the Drama Workshop Groups table for all workshops that offer the product \"film\" from the Services table.", "metadata": {}}
+{"_id": "gpt3_78", "text": "\nThis query selects the phone number and email address of a Drama Workshop Group that offers a film service.", "metadata": {}}
+{"_id": "gpt3_79", "text": "\nThis query selects the store phone number and store email address from the Drama Workshop Groups table for any workshop group that offers the product \"film\" from the Services table.", "metadata": {}}
+{"_id": "gpt3_80", "text": "\nThis query selects the store phone number and email address from the Drama Workshop Groups table for any workshop group that has a service with a product name of \"film\".", "metadata": {}}
+{"_id": "gpt3_81", "text": "\nThis query will return all the distinct last names of students in grade 3 who are in the same classroom as a teacher whose first name is not Covin and last name is not Jerome.", "metadata": {}}
+{"_id": "gpt3_82", "text": "\nThis query will return a list of all distinct last names of students in grade 3 who are in the same classroom as a teacher whose first name is not Covin and last name is not Jerome.", "metadata": {}}
+{"_id": "gpt3_83", "text": "\nThis query will return the last names of all students in grade 3 who have a teacher other than Covin Jerome in their classroom.", "metadata": {}}
+{"_id": "gpt3_84", "text": "\nThis query will select the last names of all students in grade 3 that are in the same classroom as teachers other than Covin Jerome.", "metadata": {}}
+{"_id": "gpt3_85", "text": "\nThis query will select the last names of all students in grade 3 who are not named Covin or Jerome from a list and teachers table.", "metadata": {}}
+{"_id": "gpt3_86", "text": "\nThis SQL query selects all distinct player names from the Player table that contain the letter 'a'.", "metadata": {}}
+{"_id": "gpt3_87", "text": "\nThis SQL statement will return a list of all distinct player names from the Player table that contain the letter 'a'.", "metadata": {}}
+{"_id": "gpt3_88", "text": "\nThis query will select all distinct player names from the Player table that contain the letter 'a' in any position.", "metadata": {}}
+{"_id": "gpt3_89", "text": "\nThis SQL query selects all distinct player names from the Player table that contain the letter \"a\".", "metadata": {}}
+{"_id": "gpt3_90", "text": "\nThis query will select all distinct player names from the Player table that contain the letter 'a'.", "metadata": {}}
+{"_id": "gpt3_91", "text": "\nThis query will return the title of the paper with the highest author order from the authorship table.", "metadata": {}}
+{"_id": "gpt3_92", "text": "\nThis query returns the title of the paper that was written by the author with the highest author order.", "metadata": {}}
+{"_id": "gpt3_93", "text": "\nThis query will select the title of the paper with the highest author order from the authorship and papers tables.", "metadata": {}}
+{"_id": "gpt3_94", "text": "\nThis query will select the title of the paper that has the highest author order from the authorship and papers tables.", "metadata": {}}
+{"_id": "gpt3_95", "text": "\nThis query will select the title of the paper authored by the last author listed in the authorship table.", "metadata": {}}
+{"_id": "gpt3_96", "text": "\nThis SQL statement retrieves a list of all distinct labels from the Albums table.", "metadata": {}}
+{"_id": "gpt3_97", "text": "\nThis statement selects all the unique labels from the Albums table.", "metadata": {}}
+{"_id": "gpt3_98", "text": "\nThis query selects all distinct labels from the Albums table.", "metadata": {}}
+{"_id": "gpt3_99", "text": "\nThis SQL statement will select all distinct labels from the Albums table.", "metadata": {}}
+{"_id": "gpt3_100", "text": "\nThis SQL statement will select all the distinct labels from the Albums table.", "metadata": {}}
+{"_id": "gpt3_101", "text": "\nThis SQL query retrieves the average total from the invoices table grouped by billing country, and orders the results in descending order, showing the top 10 countries with the highest average total.", "metadata": {}}
+{"_id": "gpt3_102", "text": "\nThis SQL statement finds the average total of the top 10 countries with the highest average total from the invoices table and orders them in descending order.", "metadata": {}}
+{"_id": "gpt3_103", "text": "\nThis SQL statement is used to calculate the average invoice total for the top 10 billing countries in descending order. It will select the billing_country and the average total from the invoices table, group the results by billing_country, and order", "metadata": {}}
+{"_id": "gpt3_104", "text": "\nThis SQL query is used to find the average total cost of invoices for the top 10 countries with the highest average total cost. It returns a list of the countries along with their average total cost, ordered from highest to lowest.", "metadata": {}}
+{"_id": "gpt3_105", "text": "\nThis SQL statement selects the top 10 billing countries with the highest average total amount from the invoices table, ordered by highest to lowest. It returns the billing country and the average total amount for each country.", "metadata": {}}
+{"_id": "gpt3_106", "text": "\nThis query will return a list of all train numbers and their departure times from a given destination (Chennai) in ascending order of time.", "metadata": {}}
+{"_id": "gpt3_107", "text": "\nThis query will return a list of times and train numbers for trains that are going to Chennai, sorted in ascending order by time.", "metadata": {}}
+{"_id": "gpt3_108", "text": "\nThis query will return a list of all trains with their corresponding departure times that are headed to Chennai, ordered by their departure times.", "metadata": {}}
+{"_id": "gpt3_109", "text": "\nThis query will return a list of times and train numbers for trains going to Chennai, ordered by the time they depart.", "metadata": {}}
+{"_id": "gpt3_110", "text": "\nThis query will select the time and train number from the train table for all trains going to Chennai, and will order the results by time.", "metadata": {}}
+{"_id": "gpt3_111", "text": "\nThis query selects the product details and product ID of the product with the highest sum of order quantity from the order_items and products tables. It groups by product ID and orders the results by the sum of order quantity, then limits the results to", "metadata": {}}
+{"_id": "gpt3_112", "text": "\nThis query selects the product details and product ID of the product with the highest order quantity from the order_items and products tables, and orders the result by the sum of the order quantity.", "metadata": {}}
+{"_id": "gpt3_113", "text": "\nThis statement selects the product details and product ID of the product with the highest total order quantity from the order_items and products tables, grouped by product ID and ordered in descending order. The result is limited to the top 1 result.", "metadata": {}}
+{"_id": "gpt3_114", "text": "\nThis query selects the product details and product ID of the product with the highest order quantity from the order_items and products tables, and orders the results by the sum of order quantities. The top result is then limited to 1.", "metadata": {}}
+{"_id": "gpt3_115", "text": "\nThis query selects the product details and product ID of the product with the highest sum of order quantities from the order_items and products tables. The result is ordered by the sum of order quantities and limited to the top result.", "metadata": {}}
+{"_id": "gpt3_116", "text": "\nThis query will count the number of professors who have either a Ph.D. or a MA as their highest degree.", "metadata": {}}
+{"_id": "gpt3_117", "text": "\nThis query counts the number of professors who have either a Ph.D. or MA as their highest degree.", "metadata": {}}
+{"_id": "gpt3_118", "text": "\nThis query will count the number of professors who have either a Ph.D. or MA as their highest degree.", "metadata": {}}
+{"_id": "gpt3_119", "text": "\nThis query will count the number of professors who have either a Ph.D. or MA as their highest degree.", "metadata": {}}
+{"_id": "gpt3_120", "text": "\nThis query will count the number of professors who have a Ph.D. or MA as their highest degree.", "metadata": {}}
+{"_id": "gpt3_121", "text": "\nThis query selects the Name and Machine_series of technicians from the repair_assignment, machine, and technician tables.", "metadata": {}}
+{"_id": "gpt3_122", "text": "\nThis query selects the name of a technician and the machine series they are assigned to repair from the repair_assignment, machine, and technician tables.", "metadata": {}}
+{"_id": "gpt3_123", "text": "\nThis query selects the name of the technician and the machine series from the repair_assignment, machine, and technician tables.", "metadata": {}}
+{"_id": "gpt3_124", "text": "\nThis query selects the name of the technician and the machine series for each repair assignment.", "metadata": {}}
+{"_id": "gpt3_125", "text": "\nThis query will select the name of the technician and the machine series of the machine that the technician is assigned to repair.", "metadata": {}}
+{"_id": "gpt3_126", "text": "\nThis query returns the total number of settlements in the table.", "metadata": {}}
+{"_id": "gpt3_127", "text": "\nThis query will return the total number of settlements in the table.", "metadata": {}}
+{"_id": "gpt3_128", "text": "\nThis query will return the total number of rows in the Settlements table.", "metadata": {}}
+{"_id": "gpt3_129", "text": "\nThis query returns the total number of settlements in the table.", "metadata": {}}
+{"_id": "gpt3_130", "text": "\nThis query will return the total number of records in the Settlements table.", "metadata": {}}
+{"_id": "gpt3_131", "text": "\nThis query returns the number of rows from the tryout table where the decision column is equal to 'yes'.", "metadata": {}}
+{"_id": "gpt3_132", "text": "\nThis query will return the number of rows in the tryout table with a decision of 'yes'.", "metadata": {}}
+{"_id": "gpt3_133", "text": "\nThis query will count the number of records in the tryout table where the decision column has a value of 'yes'.", "metadata": {}}
+{"_id": "gpt3_134", "text": "\nThis query will return the number of rows in the tryout table where the value in the decision column is 'yes'.", "metadata": {}}
+{"_id": "gpt3_135", "text": "\nThis query returns the total number of rows in the tryout table where the decision column is set to \"yes\".", "metadata": {}}
+{"_id": "gpt3_136", "text": "\nThis query returns all competition types that have a count of five or fewer entries.", "metadata": {}}
+{"_id": "gpt3_137", "text": "\nThis query returns the competition type from the competition table where the number of entries is less than or equal to 5.", "metadata": {}}
+{"_id": "gpt3_138", "text": "\nThis query selects the competition type from the competition table and groups them by competition type, only showing those with a count of five or less.", "metadata": {}}
+{"_id": "gpt3_139", "text": "\nThis query selects the competition type from the competition table and groups them together based on their type, while only selecting those competition types that have five or fewer entries.", "metadata": {}}
+{"_id": "gpt3_140", "text": "\nThis query will select all competition types from the competition table that have five or fewer entries.", "metadata": {}}
+{"_id": "gpt3_141", "text": "\nThis query selects the hometown of all gymnasts who have two or more gymnasts from the same hometown.", "metadata": {}}
+{"_id": "gpt3_142", "text": "\nThis query selects the hometowns from the people table where there are at least two gymnasts from the same hometown.", "metadata": {}}
+{"_id": "gpt3_143", "text": "\nThis SQL statement is used to select the hometowns of gymnasts who have two or more entries in the gymnast table. It joins the gymnast table and the people table on the Gymnast_ID and People_ID columns, respectively", "metadata": {}}
+{"_id": "gpt3_144", "text": "\nThis query retrieves the hometown of any gymnast who has two or more gymnasts from the same hometown, by joining the gymnast and people tables on the Gymnast_ID and People_ID columns, respectively. It then groups the", "metadata": {}}
+{"_id": "gpt3_145", "text": "\nThis query selects the hometown of gymnasts who have two or more people from their hometown competing in gymnastics.", "metadata": {}}
+{"_id": "gpt3_146", "text": "\nThis query selects the title and credits of the course that is taught in the classroom with the highest capacity.", "metadata": {}}
+{"_id": "gpt3_147", "text": "\nThis query will select the title and credits from the course table for the course in the classroom with the highest capacity.", "metadata": {}}
+{"_id": "gpt3_148", "text": "\nThis query returns the title and credits of the course taught in the classroom with the highest capacity.", "metadata": {}}
+{"_id": "gpt3_149", "text": "\nThis query selects the title and credits of a course from the classroom, section, and course tables, where the classroom has the highest capacity.", "metadata": {}}
+{"_id": "gpt3_150", "text": "\nThis query selects the title and credits of the course associated with the classroom that has the maximum capacity.", "metadata": {}}
+{"_id": "gpt3_151", "text": "\nThe total faculty for 2002 is 805.", "metadata": {}}
+{"_id": "gpt3_152", "text": "\nThe sum of faculty from the faculty table in 2002 is 847.", "metadata": {}}
+{"_id": "gpt3_153", "text": "\nThe total number of faculty members in 2002 was 4,743.", "metadata": {}}
+{"_id": "gpt3_154", "text": "\nThe sum of faculty for the year 2002 is 5,838.", "metadata": {}}
+{"_id": "gpt3_155", "text": "\nThe sum of faculty in 2002 is 566.", "metadata": {}}
+{"_id": "gpt3_156", "text": "\nThis query will return the names of all procedures with a cost greater than 1000, as well as the name of any procedure that John Wen is trained in.", "metadata": {}}
+{"_id": "gpt3_157", "text": "\nThis query will select the names of all procedures with a cost greater than 1000, as well as the names of all procedures that John Wen is trained in.", "metadata": {}}
+{"_id": "gpt3_158", "text": "\nThis query will return a list of all procedures whose cost is greater than 1000, as well as the name of any procedures that the physician named \"John Wen\" is trained in.", "metadata": {}}
+{"_id": "gpt3_159", "text": "\nThis query will retrieve the names of all procedures with a cost greater than 1000, as well as the name of any procedures that John Wen is trained to perform.", "metadata": {}}
+{"_id": "gpt3_160", "text": "\nThis query will return a list of all the procedures with a cost greater than 1000, as well as all the procedures that John Wen is trained in.", "metadata": {}}
+{"_id": "gpt3_161", "text": "\nThe query will return the minimum rank from the review table.", "metadata": {}}
+{"_id": "gpt3_162", "text": "\nThe query will return the minimum rank value from the review table.", "metadata": {}}
+{"_id": "gpt3_163", "text": "\nThis query will return the minimum rank from the review table.", "metadata": {}}
+{"_id": "gpt3_164", "text": "\nThe query will return the minimum rank from the review table.", "metadata": {}}
+{"_id": "gpt3_165", "text": "\nThis query returns the minimum rank from the review table.", "metadata": {}}
+{"_id": "gpt3_166", "text": "\nThis query returns a list of distinct titles from the vocals and songs tables, excluding any titles from songs where the type is \"back\".", "metadata": {}}
+{"_id": "gpt3_167", "text": "\nThis query selects all distinct titles from the vocals and songs tables, except those titles that have a vocal type of \"back\".", "metadata": {}}
+{"_id": "gpt3_168", "text": "\nThis query will return a list of distinct titles from the vocals and songs tables, excluding any titles from songs that have a type of \"back\".", "metadata": {}}
+{"_id": "gpt3_169", "text": "\nThis query returns a list of distinct titles from the vocals and songs tables, excluding titles where the type of vocal is \"back\".", "metadata": {}}
+{"_id": "gpt3_170", "text": "\nThis query selects the titles of all songs which have vocals, except for those which have vocals of type \"back\".", "metadata": {}}
+{"_id": "gpt3_171", "text": "\nThis query would return the description of the marketing region named \"China\".", "metadata": {}}
+{"_id": "gpt3_172", "text": "\nThe query will return the description of the marketing region named \"China\".", "metadata": {}}
+{"_id": "gpt3_173", "text": "\nThis query will return the description of the marketing region named \"China\" from the Marketing_Regions table.", "metadata": {}}
+{"_id": "gpt3_174", "text": "\nThis query would return the description of the marketing region named \"China\".", "metadata": {}}
+{"_id": "gpt3_175", "text": "\nThis query will return the description of the marketing region named \"China\".", "metadata": {}}
+{"_id": "gpt3_176", "text": "\nThis query returns the role code with the least number of employees from the Employees table. It groups the Employees by role code and orders them by the count of each role code, and then returns the role code with the lowest count.", "metadata": {}}
+{"_id": "gpt3_177", "text": "\nThis query will select the role code with the lowest count from the Employees table, ordered by count in ascending order, and limited to the first result.", "metadata": {}}
+{"_id": "gpt3_178", "text": "\nThis query selects the role code from the Employees table, groups them by role code, orders them by count in ascending order, and limits the result to one. This query returns the role code with the lowest count.", "metadata": {}}
+{"_id": "gpt3_179", "text": "\nThis query selects the role code with the lowest number of employees from the Employees table, and orders them in ascending order. It then returns the first row, which is the role code with the lowest number of employees.", "metadata": {}}
+{"_id": "gpt3_180", "text": "\nThis query will select the role code with the fewest number of employees from the Employees table, ordered in ascending order, and limit the results to one row.", "metadata": {}}
+{"_id": "gpt3_181", "text": "\nThis query returns the average fastest lap speed of the 2008 Monaco Grand Prix.", "metadata": {}}
+{"_id": "gpt3_182", "text": "\nThis query returns the average fastest lap speed of the 2008 Monaco Grand Prix.", "metadata": {}}
+{"_id": "gpt3_183", "text": "\nThis query returns the average fastest lap speed of the 2008 Monaco Grand Prix.", "metadata": {}}
+{"_id": "gpt3_184", "text": "\nThis query will return the average fastest lap speed of all drivers in the 2008 Monaco Grand Prix.", "metadata": {}}
+{"_id": "gpt3_185", "text": "\nThe average fastest lap speed in the 2008 Monaco Grand Prix was 161.7 km/h.", "metadata": {}}
+{"_id": "gpt3_186", "text": "\nThis query will count the number of distinct titles of songs from studio albums.", "metadata": {}}
+{"_id": "gpt3_187", "text": "\nThis query returns the number of distinct titles of studio albums.", "metadata": {}}
+{"_id": "gpt3_188", "text": "\nThis query will return the total number of distinct titles of songs on all studio albums.", "metadata": {}}
+{"_id": "gpt3_189", "text": "\nThis query counts the number of distinct studio album titles.", "metadata": {}}
+{"_id": "gpt3_190", "text": "\nThis query will count the number of distinct titles of songs from studio albums.", "metadata": {}}
+{"_id": "gpt3_191", "text": "\nThis query will select the distinct names of all of the institutions associated with author Katsuhiro Ueno.", "metadata": {}}
+{"_id": "gpt3_192", "text": "\nThis query selects the distinct name of the institution associated with Katsuhiro Ueno from the authors, authorship, and inst tables.", "metadata": {}}
+{"_id": "gpt3_193", "text": "\nThis query will return the unique names of all of the institutions that Katsuhiro Ueno is affiliated with.", "metadata": {}}
+{"_id": "gpt3_194", "text": "\nThis query will return the distinct names of the institutions associated with author Katsuhiro Ueno.", "metadata": {}}
+{"_id": "gpt3_195", "text": "\nThis query selects the unique names of the institutions associated with Katsuhiro Ueno from the authors, authorship, and inst tables.", "metadata": {}}
+{"_id": "gpt3_196", "text": "\nThis query will return the last names of all teachers who teach in classroom 109.", "metadata": {}}
+{"_id": "gpt3_197", "text": "\nThis query will select the lastname of all teachers who teach in classroom 109.", "metadata": {}}
+{"_id": "gpt3_198", "text": "\nThis query will select the last name of all teachers who are assigned to classroom 109.", "metadata": {}}
+{"_id": "gpt3_199", "text": "\nThis query will return the last name of all teachers who teach in classroom 109.", "metadata": {}}
+{"_id": "gpt3_200", "text": "\nThis SQL statement will select the last name of all teachers who teach in classroom 109.", "metadata": {}}
+{"_id": "gpt3_201", "text": "\nThis SQL statement retrieves the total sum of invoices for each billing country, ordered from highest to lowest, and limited to the top 8 countries.", "metadata": {}}
+{"_id": "gpt3_202", "text": "\nThis SQL statement will select the billing country and the sum of all totals from the invoices table, grouping the results by billing country and ordering them by the total sum in descending order. It will then limit the results to the top 8 billing", "metadata": {}}
+{"_id": "gpt3_203", "text": "\nThis SQL statement is used to select the billing country and sum up the total amount of money spent in each country from the invoices table. The results are then sorted in descending order by the total amount spent and the top 8 countries are displayed", "metadata": {}}
+{"_id": "gpt3_204", "text": "\nThis SQL statement will select the billing country and sum up the total from the invoices table, group the results by billing country, order the results by the total in descending order, and limit the results to the top 8.", "metadata": {}}
+{"_id": "gpt3_205", "text": "\nThis SQL statement will select the billing country and the total sum of each country from the invoices table, group the results by billing country, order the results by the total sum in descending order, and limit the results to the top 8 countries", "metadata": {}}
+{"_id": "gpt3_206", "text": "\nThis query counts the number of customers that are supported by Steve Johnson, an employee.", "metadata": {}}
+{"_id": "gpt3_207", "text": "\nThis query counts the number of customers that have been supported by Steve Johnson, an employee.", "metadata": {}}
+{"_id": "gpt3_208", "text": "\nThis query counts the number of customers who are served by employee Steve Johnson.", "metadata": {}}
+{"_id": "gpt3_209", "text": "\nThis query counts the number of customers that are supported by Steve Johnson, an employee.", "metadata": {}}
+{"_id": "gpt3_210", "text": "\nThis query returns the number of customers served by Steve Johnson, an employee in the company.", "metadata": {}}
+{"_id": "gpt3_211", "text": "\nThis query selects the name of the club and the Player_id associated with each club from the club and player tables.", "metadata": {}}
+{"_id": "gpt3_212", "text": "\nThis statement is selecting the name of the club and the player ID of the players associated with each club from the club and player tables.", "metadata": {}}
+{"_id": "gpt3_213", "text": "\nThis statement selects the name of the club and the player ID from the club and player tables, respectively, based on the Club_ID that is shared by both tables.", "metadata": {}}
+{"_id": "gpt3_214", "text": "\nThis query selects the name of the club and the player ID from the club and player tables, respectively, based on the matching Club_ID values.", "metadata": {}}
+{"_id": "gpt3_215", "text": "\nThis query selects the name of the club and the player ID associated with that club from the club and player tables.", "metadata": {}}
+{"_id": "gpt3_216", "text": "\nThis query selects the first and last names of the top 10 customers with the most invoices and counts the number of invoices associated with each customer. It joins the customers and invoices tables on customer_id and groups the results", "metadata": {}}
+{"_id": "gpt3_217", "text": "\nThis query counts the number of invoices for the top 10 customers, and returns the first and last name of each customer along with the count.", "metadata": {}}
+{"_id": "gpt3_218", "text": "\nThis query selects the first and last name of the top 10 customers with the most invoices, along with the total number of invoices they have. It does this by joining the customers and invoices tables, grouping the customers by", "metadata": {}}
+{"_id": "gpt3_219", "text": "\nThis SQL query selects the first name, last name, and the number of invoices for the top 10 customers who have made the most purchases from a customers and invoices table. It does this by joining the two tables on the customer", "metadata": {}}
+{"_id": "gpt3_220", "text": "\nThis statement will select the first name, last name, and count of invoices for the top 10 customers with the highest number of invoices. It will do this by joining the customers and invoices tables and grouping by customer id", "metadata": {}}
+{"_id": "gpt3_221", "text": "\nThis query would return the total number of records in the Allergy_type table with an allergy type of \"animal\".", "metadata": {}}
+{"_id": "gpt3_222", "text": "\nThis query will return the number of records in the Allergy_type table where the allergy type is \"animal\".", "metadata": {}}
+{"_id": "gpt3_223", "text": "\nThis query will return the total number of allergy types that are classified as \"animal\".", "metadata": {}}
+{"_id": "gpt3_224", "text": "\nThis query will return the count of all records in the Allergy_type table with an allergytype of \"animal\".", "metadata": {}}
+{"_id": "gpt3_225", "text": "\nThis query would return the total number of records in the Allergy_type table that have an allergy type of \"animal\".", "metadata": {}}
+{"_id": "gpt3_226", "text": "\nThis query will select the weight of all body builders who have a snatch of more than 140 or a height of more than 200 from the people table.", "metadata": {}}
+{"_id": "gpt3_227", "text": "\nThis query selects the weight of body builders who have a snatch greater than 140 or a height greater than 200.", "metadata": {}}
+{"_id": "gpt3_228", "text": "\nThis query will select the weight of people who are body builders and have either a snatch of more than 140 or a height of more than 200.", "metadata": {}}
+{"_id": "gpt3_229", "text": "\nThis query will select the weight of body builders who either have a snatch greater than 140 or a height greater than 200.", "metadata": {}}
+{"_id": "gpt3_230", "text": "\nThis query selects the weight of body builders who have a snatch greater than 140 or a height greater than 200.", "metadata": {}}
+{"_id": "gpt3_231", "text": "\nThis statement will select the address of a restaurant called Subway from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_232", "text": "\nThis statement will select the address of the restaurant named Subway from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_233", "text": "\nThis statement will select the address of the restaurant named Subway from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_234", "text": "\nThis query will return the address of the restaurant named Subway from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_235", "text": "\nThis statement will select the address of a restaurant named Subway from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_236", "text": "\nThis query selects the last name of employees and the office of professors who are part of the History department.", "metadata": {}}
+{"_id": "gpt3_237", "text": "\nThis statement selects the last name of an employee and the professor office of the employee from the employee, professor, and department tables where the department is 'History'.", "metadata": {}}
+{"_id": "gpt3_238", "text": "\nThis statement selects the last name of an employee and the office of a professor from the employee, professor, and department tables where the department name is 'History'.", "metadata": {}}
+{"_id": "gpt3_239", "text": "\nThis query selects the last name of employees and the office of professors from the employee, professor, and department tables, where the department name is 'History'.", "metadata": {}}
+{"_id": "gpt3_240", "text": "\nThis statement selects the last names of employees and the office of professors from the employee, professor, and department tables, where the department name is 'History'.", "metadata": {}}
+{"_id": "gpt3_241", "text": "\nThis query returns the first and last names of the bandmates who performed the song \"Der Kapitan\" in the back position.", "metadata": {}}
+{"_id": "gpt3_242", "text": "\nThis query will select the first and last name of the bandmates in the Performance table who have a StagePosition of \"back\" and a SongId that corresponds to the Title \"Der Kapitan\" in the Songs table.", "metadata": {}}
+{"_id": "gpt3_243", "text": "\nThis query selects the first and last name of a bandmate who is playing the song \"Der Kapitan\" in the back position from the Performance, Band, and Songs tables.", "metadata": {}}
+{"_id": "gpt3_244", "text": "\nThis query selects the firstname and lastname of all bandmates performing the song \"Der Kapitan\" in the back position from the Performance, Band, and Songs tables.", "metadata": {}}
+{"_id": "gpt3_245", "text": "\nThis query will select the firstname and lastname of all bandmates who performed the song \"Der Kapitan\" in a back stage position from the Performance, Band, and Songs tables.", "metadata": {}}
+{"_id": "gpt3_246", "text": "\nThis query counts the number of distinct characteristics associated with the product \"sesame\".", "metadata": {}}
+{"_id": "gpt3_247", "text": "\nThis query will return the total number of distinct characteristics of the product \"sesame\".", "metadata": {}}
+{"_id": "gpt3_248", "text": "\nThis query will return the number of distinct characteristics associated with the product \"sesame\".", "metadata": {}}
+{"_id": "gpt3_249", "text": "\nThis query will count the number of distinct characteristics associated with the product \"sesame\".", "metadata": {}}
+{"_id": "gpt3_250", "text": "\nThis query returns the count of the distinct characteristics of the product \"sesame\".", "metadata": {}}
+{"_id": "gpt3_251", "text": "\nThis query will select the name and damage_millions_USD columns from the storm table and order them in descending order according to max_speed.", "metadata": {}}
+{"_id": "gpt3_252", "text": "\nThis query returns a list of storms and their associated damage in millions of US dollars, sorted in descending order by the maximum speed of the storm.", "metadata": {}}
+{"_id": "gpt3_253", "text": "\nThis query will select the name and damage in millions of USD of storms from a table and order them by the max speed of the storm in descending order.", "metadata": {}}
+{"_id": "gpt3_254", "text": "\nThis query will select the name and damage_millions_USD columns from the storm table and order them in descending order by max_speed.", "metadata": {}}
+{"_id": "gpt3_255", "text": "\nThis query will select the name and damage (in millions of USD) of storms from a table, and order them by the maximum speed of the storm in descending order.", "metadata": {}}
+{"_id": "gpt3_256", "text": "\nThis query will select the park name of the roller coaster with the highest speed and display it.", "metadata": {}}
+{"_id": "gpt3_257", "text": "\nThis query will select the park name of the roller coaster with the highest speed, and return the result as the first row in the result set.", "metadata": {}}
+{"_id": "gpt3_258", "text": "\nThis query will select the park from the roller coaster table and order the results by speed in descending order, then limit the results to the top one. This will return the park with the fastest roller coaster.", "metadata": {}}
+{"_id": "gpt3_259", "text": "\nThis query returns the name of the roller coaster in the table with the highest speed, ordered from highest to lowest.", "metadata": {}}
+{"_id": "gpt3_260", "text": "\nThis query will select the park from the roller coaster table, order the results by speed in descending order, and limit the results to one row. The result will be the park that has the fastest roller coaster.", "metadata": {}}
+{"_id": "gpt3_261", "text": "\nThis query will return the staff IDs of all staff members assigned to a department before the most recent assignment of a Clerical Staff member.", "metadata": {}}
+{"_id": "gpt3_262", "text": "\nThis query will select the staff_id of all employees assigned to a department prior to the most recent assignment of a Clerical Staff employee.", "metadata": {}}
+{"_id": "gpt3_263", "text": "\nThis query retrieves the staff_id of all staff members who were assigned to a department prior to the most recent assignment of a staff member with the job title code of 'Clerical Staff'.", "metadata": {}}
+{"_id": "gpt3_264", "text": "\nThis query returns the staff IDs of all staff members who were assigned to a department before the most recently assigned clerical staff member.", "metadata": {}}
+{"_id": "gpt3_265", "text": "\nThis query selects the staff ID of all staff assigned to a department before the most recently assigned clerical staff.", "metadata": {}}
+{"_id": "gpt3_266", "text": "\nThis statement will count the number of classes for each course code and group them together. The result will be a table with two columns, one for the count and one for the course code.", "metadata": {}}
+{"_id": "gpt3_267", "text": "\nThis query will return the number of classes for each course code in the CLASS table.", "metadata": {}}
+{"_id": "gpt3_268", "text": "\nThis query will count the number of classes for each course code and return the results grouped by course code.", "metadata": {}}
+{"_id": "gpt3_269", "text": "\nThis statement will return the count of each course code in the CLASS table, grouped by course code.", "metadata": {}}
+{"_id": "gpt3_270", "text": "\nThis query will return the number of classes for each course code.", "metadata": {}}
+{"_id": "gpt3_271", "text": "\nThis query will return the number of distinct allergies in the Allergy_type table.", "metadata": {}}
+{"_id": "gpt3_272", "text": "\nThis query will return the total number of distinct allergies in the Allergy_type table.", "metadata": {}}
+{"_id": "gpt3_273", "text": "\nThis query will return the number of distinct allergies recorded in the Allergy_type table.", "metadata": {}}
+{"_id": "gpt3_274", "text": "\nThis query will return the number of distinct allergy types in the Allergy_type table.", "metadata": {}}
+{"_id": "gpt3_275", "text": "\nThis query returns the number of distinct allergies in the Allergy_type table.", "metadata": {}}
+{"_id": "gpt3_276", "text": "\nThis query will select all products from the products table that have a price between 60 and 120.", "metadata": {}}
+{"_id": "gpt3_277", "text": "\nThis statement retrieves all records from the products table where the price is between 60 and 120.", "metadata": {}}
+{"_id": "gpt3_278", "text": "\nThis statement selects all the products from a database where the price is between 60 and 120.", "metadata": {}}
+{"_id": "gpt3_279", "text": "\nThis statement will retrieve all records from the products table where the price is between 60 and 120.", "metadata": {}}
+{"_id": "gpt3_280", "text": "\nThis SQL query will select all products from a database with a price between 60 and 120.", "metadata": {}}
+{"_id": "gpt3_281", "text": "\nThis query counts the number of distinct products for each manufacturer's headquarter.", "metadata": {}}
+{"_id": "gpt3_282", "text": "\nThis query will count the number of distinct product names for each manufacturer's headquarter.", "metadata": {}}
+{"_id": "gpt3_283", "text": "\nThis query will count the number of unique products for each manufacturer's headquarter and return the result as two columns: count of unique products and headquarter.", "metadata": {}}
+{"_id": "gpt3_284", "text": "\nThis query returns the count of distinct product names for each manufacturer's headquarter.", "metadata": {}}
+{"_id": "gpt3_285", "text": "\nThis query will return the number of distinct products for each manufacturer, along with the manufacturer's headquarter.", "metadata": {}}
+{"_id": "gpt3_286", "text": "\nThis query returns a list of Faculty IDs from the Faculty table that are not also present in the Faculty_participates_in table.", "metadata": {}}
+{"_id": "gpt3_287", "text": "\nThis query will return the FacID values from the Faculty table that are not present in the Faculty_participates_in table.", "metadata": {}}
+{"_id": "gpt3_288", "text": "\nThis query will return a list of Faculty IDs from the Faculty table that are not present in the Faculty_participates_in table.", "metadata": {}}
+{"_id": "gpt3_289", "text": "\nThis query will return all faculty IDs from the Faculty table that are not present in the Faculty_participates_in table.", "metadata": {}}
+{"_id": "gpt3_290", "text": "\nThis query returns the FacID values from the Faculty table that are not present in the Faculty_participates_in table.", "metadata": {}}
+{"_id": "gpt3_291", "text": "\nThis query will return the number of universities with an enrollment greater than 20,000, grouped by their affiliation.", "metadata": {}}
+{"_id": "gpt3_292", "text": "\nThis query will return the total number of universities with an enrollment greater than 20,000, grouped by their affiliation.", "metadata": {}}
+{"_id": "gpt3_293", "text": "\nThis query will return the number of universities and their respective affiliations that have an enrollment of more than 20,000.", "metadata": {}}
+{"_id": "gpt3_294", "text": "\nThis query returns the count of universities and their affiliations with enrollment greater than 20,000.", "metadata": {}}
+{"_id": "gpt3_295", "text": "\nThis query will return the number of universities with an enrollment of greater than 20,000 students, grouped by affiliation.", "metadata": {}}
+{"_id": "gpt3_296", "text": "\nThis query selects the catalog publisher with the most catalogs in the catalogs table and orders the results by the number of catalogs associated with each publisher, with the publisher with the most catalogs appearing first.", "metadata": {}}
+{"_id": "gpt3_297", "text": "\nThis query returns the catalog publisher with the highest number of catalogs from the catalogs table.", "metadata": {}}
+{"_id": "gpt3_298", "text": "\nThis query selects the catalog publisher with the highest number of catalogs from the \"catalogs\" table, and orders them in descending order. The result is the most popular catalog publisher.", "metadata": {}}
+{"_id": "gpt3_299", "text": "\nThis query selects the catalog publisher with the most catalogs and orders them by count in descending order, with the highest count at the top. The result is limited to only one catalog publisher.", "metadata": {}}
+{"_id": "gpt3_300", "text": "\nThis query selects the catalog publisher with the most catalogs and orders them by count in descending order, with the highest count at the top. The result is the catalog publisher with the most catalogs.", "metadata": {}}
+{"_id": "gpt3_301", "text": "\nThis query returns the colleges of all players who play both midfielder and defender positions in a given match season.", "metadata": {}}
+{"_id": "gpt3_302", "text": "\nThis query selects the college of all players who are both midfielders and defenders in the match_season table.", "metadata": {}}
+{"_id": "gpt3_303", "text": "\nThis query returns a list of colleges whose players have played both Midfielder and Defender positions in a match season.", "metadata": {}}
+{"_id": "gpt3_304", "text": "\nThis query returns a list of colleges whose players have both played in midfield and defense positions during a given season.", "metadata": {}}
+{"_id": "gpt3_305", "text": "\nThis query selects all colleges from the match_season table where a player has both a position of Midfielder and Defender.", "metadata": {}}
+{"_id": "gpt3_306", "text": "\nThis query selects the name of all clubs from the database and orders them in descending alphabetical order.", "metadata": {}}
+{"_id": "gpt3_307", "text": "\nThis statement will retrieve the names of all clubs from the database, sorted in descending order.", "metadata": {}}
+{"_id": "gpt3_308", "text": "\nThis query selects the names of all entries in the 'club' table and orders them in descending alphabetical order.", "metadata": {}}
+{"_id": "gpt3_309", "text": "\nThis query selects the names of all records from the club table and orders them in descending alphabetical order.", "metadata": {}}
+{"_id": "gpt3_310", "text": "\nThis statement will select the name of all clubs from a table and order them in descending alphabetical order.", "metadata": {}}
+{"_id": "gpt3_311", "text": "\nThis statement will select the distinct names of colleges from the college table where the enrollment is greater than the minimum enrollment of any college in the state of Florida.", "metadata": {}}
+{"_id": "gpt3_312", "text": "\nThis query will select all unique college names from the college table where the enrollment is greater than the minimum enrollment of any college in the state of Florida.", "metadata": {}}
+{"_id": "gpt3_313", "text": "\nThis query will select the distinct names of colleges from the college table whose enrollment is greater than the minimum enrollment of colleges located in Florida.", "metadata": {}}
+{"_id": "gpt3_314", "text": "\nThis query selects the distinct college names from the college table where the enrollment is greater than the minimum enrollment from colleges located in Florida.", "metadata": {}}
+{"_id": "gpt3_315", "text": "\nThis query will select all of the distinct college names from the college table where the enrollment is greater than the minimum enrollment of any college in the state of Florida.", "metadata": {}}
+{"_id": "gpt3_316", "text": "\nThis query will select the title and movie ID of the movie with the highest number of ratings, ordered by count in descending order and limited to one result.", "metadata": {}}
+{"_id": "gpt3_317", "text": "\nThis query selects the title and movie ID of the movie with the highest number of ratings, ordered by the highest count of ratings in descending order, and limited to the first result.", "metadata": {}}
+{"_id": "gpt3_318", "text": "\nThis query selects the title and movie ID of the movie with the highest number of ratings, ordered by count in descending order and limited to one result.", "metadata": {}}
+{"_id": "gpt3_319", "text": "\nThis query selects the title and movie ID of the movie with the highest number of ratings, ordered by count.", "metadata": {}}
+{"_id": "gpt3_320", "text": "\nThis query selects the title and movie ID of the movie with the highest number of ratings, ordered by count in descending order, and limited to one result.", "metadata": {}}
+{"_id": "gpt3_321", "text": "\nThis query will select the Date_Claim_Made and Date_Claim_Settled from the Claims table where the Amount_Claimed is greater than the average Amount_Claimed of all records in the Claims table.", "metadata": {}}
+{"_id": "gpt3_322", "text": "\nThis query will return all the Date_Claim_Made and Date_Claim_Settled from the Claims table where the Amount_Claimed is greater than the average Amount_Claimed from all records in the Claims table.", "metadata": {}}
+{"_id": "gpt3_323", "text": "\nThis query will return the date the claim was made and the date the claim was settled for any claims that had an amount claimed greater than the average amount claimed for all claims.", "metadata": {}}
+{"_id": "gpt3_324", "text": "\nThis statement will select the Date_Claim_Made and Date_Claim_Settled from the Claims table where the Amount_Claimed is greater than the average Amount_Claimed from the Claims table.", "metadata": {}}
+{"_id": "gpt3_325", "text": "\nThis query will return the date a claim was made and the date a claim was settled for any claim with an amount claimed greater than the average amount claimed from all claims.", "metadata": {}}
+{"_id": "gpt3_326", "text": "\nThis SQL query will select the apartment type code and count the number of apartments with that type code, then order them by the count in ascending order.", "metadata": {}}
+{"_id": "gpt3_327", "text": "\nThis SQL query will return a list of apartment type codes, along with the count of each type, in ascending order of count.", "metadata": {}}
+{"_id": "gpt3_328", "text": "\nThis statement will select the apartment type code and count the number of apartments for each type code, then order the results in ascending order by the count.", "metadata": {}}
+{"_id": "gpt3_329", "text": "\nThis query will select the apartment type code and count the number of apartments of that type code, then order the results by the count in ascending order.", "metadata": {}}
+{"_id": "gpt3_330", "text": "\nThis query will select the apartment type code and count the number of apartments for each type code, then order the results by the count in ascending order.", "metadata": {}}
+{"_id": "gpt3_331", "text": "\nThis query counts the number of students under the age of 18 who are members of the club \"Bootup Baltimore\".", "metadata": {}}
+{"_id": "gpt3_332", "text": "\nThis statement returns the number of students under the age of 18 who are members of the Bootup Baltimore club.", "metadata": {}}
+{"_id": "gpt3_333", "text": "\nThis query counts the number of students under the age of 18 that are members of the Bootup Baltimore club.", "metadata": {}}
+{"_id": "gpt3_334", "text": "\nThis query will count the number of students under the age of 18 that are members of the club \"Bootup Baltimore\".", "metadata": {}}
+{"_id": "gpt3_335", "text": "\nThis query counts the number of students under the age of 18 who are members of the club \"Bootup Baltimore\".", "metadata": {}}
+{"_id": "gpt3_336", "text": "\nThis query will select the train number and name from the train table and order them by time.", "metadata": {}}
+{"_id": "gpt3_337", "text": "\nThis query will select the train number and name from the train table, and order the results by the time field.", "metadata": {}}
+{"_id": "gpt3_338", "text": "\nThis query returns the train number and name of each train in a table, ordered by the time the train is scheduled to arrive.", "metadata": {}}
+{"_id": "gpt3_339", "text": "\nThis query returns a list of train numbers and names from the train table, sorted by time.", "metadata": {}}
+{"_id": "gpt3_340", "text": "\nThis query will return a list of train numbers and names sorted by time.", "metadata": {}}
+{"_id": "gpt3_341", "text": "\nThis query will count the number of courses in the course table that do not have a corresponding entry in the prereq table.", "metadata": {}}
+{"_id": "gpt3_342", "text": "\nThis query returns the count of courses in the \"course\" table that do not have any prerequisites listed in the \"prereq\" table.", "metadata": {}}
+{"_id": "gpt3_343", "text": "\nThis query returns the total number of courses that do not have any prerequisites.", "metadata": {}}
+{"_id": "gpt3_344", "text": "\nThis query returns the total number of courses that do not have any prerequisites.", "metadata": {}}
+{"_id": "gpt3_345", "text": "\nThis query will count the number of courses in the course table that are not listed as prerequisites in the prereq table.", "metadata": {}}
+{"_id": "gpt3_346", "text": "\nThis SQL statement will return a list of cities that have more than one airport associated with them, along with the total number of airports in each city.", "metadata": {}}
+{"_id": "gpt3_347", "text": "\nThis query will return a list of cities that have more than one airport, along with a count of the number of airports in each city.", "metadata": {}}
+{"_id": "gpt3_348", "text": "\nThis SQL query will return a list of cities that have more than one airport associated with them, along with the number of airports in each city.", "metadata": {}}
+{"_id": "gpt3_349", "text": "\nThis query will return a list of cities that have more than one airport, along with the total number of airports in each city.", "metadata": {}}
+{"_id": "gpt3_350", "text": "\nThis query will return a list of cities that have more than one airport, along with the number of airports in each city.", "metadata": {}}
+{"_id": "gpt3_351", "text": "\nThis statement will select the names of all roller coasters from a database and order them by length in ascending order.", "metadata": {}}
+{"_id": "gpt3_352", "text": "\nThis query will select the name of each roller coaster and order the results by the length of the roller coaster from shortest to longest.", "metadata": {}}
+{"_id": "gpt3_353", "text": "\nThis query will select the names of all roller coasters from a database and order them by length in ascending order.", "metadata": {}}
+{"_id": "gpt3_354", "text": "\nThis statement will select the name of a roller coaster and order it in ascending order based on the length of the roller coaster.", "metadata": {}}
+{"_id": "gpt3_355", "text": "\nThe above SQL statement will select the names of all roller coasters from a database and order them by length in ascending order.", "metadata": {}}
+{"_id": "gpt3_356", "text": "\nThis query will select the shop name from the stock and shop tables, grouping by shop ID and ordering by the count of stock items, and limiting the result to the top shop.", "metadata": {}}
+{"_id": "gpt3_357", "text": "\nThis query selects the shop name of the shop with the most stock items from the stock and shop tables.", "metadata": {}}
+{"_id": "gpt3_358", "text": "\nThis query selects the shop name of the shop with the most items in stock, as determined by counting the number of items in stock for each shop.", "metadata": {}}
+{"_id": "gpt3_359", "text": "\nThis query selects the shop name of the shop with the most stock items from the stock and shop tables.", "metadata": {}}
+{"_id": "gpt3_360", "text": "\nThis query selects the shop name of the shop with the most items in stock, by joining the stock and shop tables, grouping by shop ID, ordering by the count of items, and limiting the result to the top shop.", "metadata": {}}
+{"_id": "gpt3_361", "text": "\nThis query returns the order_id associated with the shipment tracking number \"3452\".", "metadata": {}}
+{"_id": "gpt3_362", "text": "\nThis query will return the order_id associated with the shipment_tracking_number \"3452\" from the shipments table.", "metadata": {}}
+{"_id": "gpt3_363", "text": "\nThis query will return the order_id associated with the shipment tracking number \"3452\".", "metadata": {}}
+{"_id": "gpt3_364", "text": "\nThis query will return the order_id associated with the shipment tracking number \"3452\".", "metadata": {}}
+{"_id": "gpt3_365", "text": "\nThis query will return the order_id associated with the shipment tracking number \"3452\" from the shipments table.", "metadata": {}}
+{"_id": "gpt3_366", "text": "\nThis query returns the number of musicals each nominee has been involved in.", "metadata": {}}
+{"_id": "gpt3_367", "text": "\nThis query will return the number of musicals each nominee has been in, grouped by nominee.", "metadata": {}}
+{"_id": "gpt3_368", "text": "\nThis query will return the number of times each nominee appears in the musical table, grouped by the nominee.", "metadata": {}}
+{"_id": "gpt3_369", "text": "\nThis statement returns the number of times each nominee appears in the musical table, grouped by nominee.", "metadata": {}}
+{"_id": "gpt3_370", "text": "\nThis query will return a list of nominees and the number of musicals they have been nominated for.", "metadata": {}}
+{"_id": "gpt3_371", "text": "\nThis query will return a list of advisors and the number of students associated with each one.", "metadata": {}}
+{"_id": "gpt3_372", "text": "\nThis query returns the number of students associated with each advisor.", "metadata": {}}
+{"_id": "gpt3_373", "text": "\nThis query returns the number of students each advisor has, grouped by advisor.", "metadata": {}}
+{"_id": "gpt3_374", "text": "\nThis query will return a list of each advisor and the number of students they have assigned to them.", "metadata": {}}
+{"_id": "gpt3_375", "text": "\nThis query returns the number of students each advisor has.", "metadata": {}}
+{"_id": "gpt3_376", "text": "\nThis query returns all distinct driverid and STOP values from the pitstops table where the duration is greater than the minimum duration of any pitstop for raceid 841.", "metadata": {}}
+{"_id": "gpt3_377", "text": "\nThis query returns all distinct driverid and STOP values from the pitstops table where the duration is greater than the minimum duration for raceid 841.", "metadata": {}}
+{"_id": "gpt3_378", "text": "\nThis query will return a list of distinct driver IDs and stops from the pitstops table where the duration of the pitstop was greater than the minimum duration of any pitstop for race ID 841.", "metadata": {}}
+{"_id": "gpt3_379", "text": "\nThis query retrieves the distinct driver id and stop from the pitstops table where the duration is greater than the minimum duration from pitstops for raceid 841.", "metadata": {}}
+{"_id": "gpt3_380", "text": "\nThis query returns all the distinct driver IDs and stops from the pitstops table where the duration is greater than the minimum duration for raceid 841.", "metadata": {}}
+{"_id": "gpt3_381", "text": "\nThis statement returns the date an order was placed for a shipment with a tracking number of 3452.", "metadata": {}}
+{"_id": "gpt3_382", "text": "\nThis query selects the date the order was placed from the orders table, based on the shipment tracking number from the shipments table.", "metadata": {}}
+{"_id": "gpt3_383", "text": "\nThis query will select the date that an order was placed from the orders table, based on the shipment tracking number of 3452 from the shipments table.", "metadata": {}}
+{"_id": "gpt3_384", "text": "\nThis statement selects the date an order was placed from the orders table for the order associated with shipment tracking number 3452 from the shipments table.", "metadata": {}}
+{"_id": "gpt3_385", "text": "\nThis query selects the date an order was placed from the orders table based on the shipment tracking number 3452 from the shipments table.", "metadata": {}}
+{"_id": "gpt3_386", "text": "\nThis query selects the booking start date and end date from the Apartment_Bookings table for all apartments with more than two bedrooms.", "metadata": {}}
+{"_id": "gpt3_387", "text": "\nThis query selects the booking start dates of all apartment bookings that are for apartments with more than two bedrooms.", "metadata": {}}
+{"_id": "gpt3_388", "text": "\nThis query selects the booking start date and booking end date from the Apartment_Bookings table for all apartments that have more than 2 bedrooms.", "metadata": {}}
+{"_id": "gpt3_389", "text": "\nThis query selects the booking start date and end date from the Apartment_Bookings table for all bookings that have an apartment associated with them that has more than two bedrooms.", "metadata": {}}
+{"_id": "gpt3_390", "text": "\nThis query selects the booking start date and end date from the Apartment_Bookings table for all apartments with more than two bedrooms.", "metadata": {}}
+{"_id": "gpt3_391", "text": "\nThis query returns the average height of all players who attended Yale University.", "metadata": {}}
+{"_id": "gpt3_392", "text": "\nThis query finds the average height of all players who attended Yale University.", "metadata": {}}
+{"_id": "gpt3_393", "text": "\nThis query returns the average height of players who attended Yale University.", "metadata": {}}
+{"_id": "gpt3_394", "text": "\nThis query returns the average height of all players who attended Yale University.", "metadata": {}}
+{"_id": "gpt3_395", "text": "\nThis query calculates the average height of players who attended Yale University.", "metadata": {}}
+{"_id": "gpt3_396", "text": "\nThis query selects the Railway_ID and Location from the railway table for all railway entries that have more than one train associated with them. It does this by joining the railway and train tables on the Railway_ID column, then grouping by the Railway", "metadata": {}}
+{"_id": "gpt3_397", "text": "\nThis query selects the Railway_ID and Location from the railway table for each train in the train table that has more than one associated railway.", "metadata": {}}
+{"_id": "gpt3_398", "text": "\nThis query selects all railway IDs and their corresponding locations from the railway and train tables, where the railway ID appears more than once in the train table.", "metadata": {}}
+{"_id": "gpt3_399", "text": "\nThis query selects the Railway_ID and Location from the railway table for any Railway_ID that appears more than once in the train table.", "metadata": {}}
+{"_id": "gpt3_400", "text": "\nThis query selects the Railway_ID and Location from the railway table for each train in the train table where the Railway_ID appears more than once.", "metadata": {}}
+{"_id": "gpt3_401", "text": "\nThis query returns the count of camera lenses that have not been used to take any photos.", "metadata": {}}
+{"_id": "gpt3_402", "text": "\nThis query counts the number of camera lenses in the camera_lens table that do not have any photos associated with them.", "metadata": {}}
+{"_id": "gpt3_403", "text": "\nThis query returns the number of camera lenses that have not been used to take any photos.", "metadata": {}}
+{"_id": "gpt3_404", "text": "\nThis query returns the total number of camera lenses that have not been used to take any photos.", "metadata": {}}
+{"_id": "gpt3_405", "text": "\nThis query returns the count of camera lenses that have not been used to take any photos.", "metadata": {}}
+{"_id": "gpt3_406", "text": "\nThis query returns the name of all buildings that are shared by more than one company.", "metadata": {}}
+{"_id": "gpt3_407", "text": "\nThis query will return the names of buildings that have more than one company located in them.", "metadata": {}}
+{"_id": "gpt3_408", "text": "\nThis query selects the name of buildings that are associated with more than one company.", "metadata": {}}
+{"_id": "gpt3_409", "text": "\nThis query selects the name of all buildings that have more than one company located in them.", "metadata": {}}
+{"_id": "gpt3_410", "text": "\nThis query selects the name of buildings that have more than one office location associated with them.", "metadata": {}}
+{"_id": "gpt3_411", "text": "\nThis query will return the maximum number of points achieved by a climber from the United Kingdom.", "metadata": {}}
+{"_id": "gpt3_412", "text": "\nThis query returns the maximum number of points earned by a climber from the United Kingdom.", "metadata": {}}
+{"_id": "gpt3_413", "text": "\nThis query will return the maximum number of points achieved by a climber from the United Kingdom.", "metadata": {}}
+{"_id": "gpt3_414", "text": "\nThis statement will return the maximum number of points achieved by a climber from the United Kingdom.", "metadata": {}}
+{"_id": "gpt3_415", "text": "\nThis query will return the maximum number of points earned by any climber from the United Kingdom.", "metadata": {}}
+{"_id": "gpt3_416", "text": "\nThis query selects the salary and manager_id of all employees whose manager_id is not null.", "metadata": {}}
+{"_id": "gpt3_417", "text": "\nThis query selects the salary and manager_id from the employees table where the manager_id is not equal to \"null\".", "metadata": {}}
+{"_id": "gpt3_418", "text": "\nThis query selects the salary and manager_id of all employees who have a manager_id that is not null.", "metadata": {}}
+{"_id": "gpt3_419", "text": "\nThis query returns the salary and manager_id of all employees who have a manager_id assigned.", "metadata": {}}
+{"_id": "gpt3_420", "text": "\nThis query selects the salary and manager ID of all employees whose manager ID is not null.", "metadata": {}}
+{"_id": "gpt3_421", "text": "\nThis query will return the total number of records in the CHARACTERISTICS table.", "metadata": {}}
+{"_id": "gpt3_422", "text": "\nThis query will return the total number of records in the CHARACTERISTICS table.", "metadata": {}}
+{"_id": "gpt3_423", "text": "\nThis query will count the total number of records in the CHARACTERISTICS table.", "metadata": {}}
+{"_id": "gpt3_424", "text": "\nThis query will return the total number of rows in the CHARACTERISTICS table.", "metadata": {}}
+{"_id": "gpt3_425", "text": "\nThis query will return a count of the total number of records in the CHARACTERISTICS table.", "metadata": {}}
+{"_id": "gpt3_426", "text": "\nThis query returns all the distinct catalog publishers from the catalogs table that have the name Murray in them.", "metadata": {}}
+{"_id": "gpt3_427", "text": "\nThis query returns a list of distinct catalog publishers whose name contains the string \"Murray\".", "metadata": {}}
+{"_id": "gpt3_428", "text": "\nThis query returns all distinct catalog publishers from the catalogs table that contain the word \"Murray\" in their name.", "metadata": {}}
+{"_id": "gpt3_429", "text": "\nThis query returns all distinct catalog publishers from the catalogs table whose name contains the string \"Murray\".", "metadata": {}}
+{"_id": "gpt3_430", "text": "\nThis query will return a list of all distinct catalog publishers whose name contains the word \"Murray\".", "metadata": {}}
+{"_id": "gpt3_431", "text": "\nThis query returns the total number of records in the airlines table.", "metadata": {}}
+{"_id": "gpt3_432", "text": "\nThis query returns the total number of records in the airlines table.", "metadata": {}}
+{"_id": "gpt3_433", "text": "\nThis query returns the total number of records in the airlines table.", "metadata": {}}
+{"_id": "gpt3_434", "text": "\nThis query returns the total number of records in the airlines table.", "metadata": {}}
+{"_id": "gpt3_435", "text": "\nThis query will return the total number of records in the airlines table.", "metadata": {}}
+{"_id": "gpt3_436", "text": "\nThis query returns the product_id with the highest count of order items.", "metadata": {}}
+{"_id": "gpt3_437", "text": "\nThis query returns the product_id from the order_items table which has been ordered by the count of the product_id and limited to the top result. This query will return the product_id that has been ordered the most.", "metadata": {}}
+{"_id": "gpt3_438", "text": "\nThis query returns the product_id of the item that has been ordered most frequently from the order_items table, sorted in descending order.", "metadata": {}}
+{"_id": "gpt3_439", "text": "\nThis SQL statement is selecting the product_id from the order_items table and grouping them by product_id. It then orders the result by the count of each product_id in descending order and limits the result to the top 1 product_", "metadata": {}}
+{"_id": "gpt3_440", "text": "\nThis query will select the product_id from the order_items table that has been ordered the most and limit the result to one record.", "metadata": {}}
+{"_id": "gpt3_441", "text": "\nThis query will return the Issue_Date from the artist and volume tables where the age of the artist is less than or equal to 23.", "metadata": {}}
+{"_id": "gpt3_442", "text": "\nThis query will return all Issue_Date values from the volume table that are associated with artists in the artist table who are 23 years old or younger.", "metadata": {}}
+{"_id": "gpt3_443", "text": "\nThis query will return the Issue_Date from the artist and volume tables for all artists who are 23 years old or younger.", "metadata": {}}
+{"_id": "gpt3_444", "text": "\nThis query will return the issue dates of volumes created by artists who are 23 or younger.", "metadata": {}}
+{"_id": "gpt3_445", "text": "\nThis query will return all Issue_Date values from the artist and volume tables where the age of the artist is less than or equal to 23.", "metadata": {}}
+{"_id": "gpt3_446", "text": "\nThis query returns the total number of records in the csu_fees table where the campusfee is greater than the average campusfee of all records in the table.", "metadata": {}}
+{"_id": "gpt3_447", "text": "\nThis query returns the number of records in the csu_fees table where the campusfee value is greater than the average campusfee value for all records in the table.", "metadata": {}}
+{"_id": "gpt3_448", "text": "\nThis query returns the number of records in the csu_fees table where the value of the campusfee column is greater than the average value of the campusfee column.", "metadata": {}}
+{"_id": "gpt3_449", "text": "\nThis query will count the number of rows in the csu_fees table where the campusfee is greater than the average campusfee from the csu_fees table.", "metadata": {}}
+{"_id": "gpt3_450", "text": "\nThis query returns the number of California State University fees that are greater than the average campus fee.", "metadata": {}}
+{"_id": "gpt3_451", "text": "\nThis query will return the total number of records in the event table.", "metadata": {}}
+{"_id": "gpt3_452", "text": "\nThis query would return the total number of records in the event table.", "metadata": {}}
+{"_id": "gpt3_453", "text": "\nThis query counts the number of records in the event table.", "metadata": {}}
+{"_id": "gpt3_454", "text": "\nThis query will return the total number of rows in the event table.", "metadata": {}}
+{"_id": "gpt3_455", "text": "\nThis query returns the total number of records in the event table.", "metadata": {}}
+{"_id": "gpt3_456", "text": "\nThis query selects all employees from the employees table who were hired after September 7, 1987.", "metadata": {}}
+{"_id": "gpt3_457", "text": "\nThis query will select all employees from the employees table that were hired after the date of September 7th, 1987.", "metadata": {}}
+{"_id": "gpt3_458", "text": "\nThis SQL statement will select all records from the employees table where the hire date is after September 7, 1987.", "metadata": {}}
+{"_id": "gpt3_459", "text": "\nThis query returns all employees from the employees table who were hired after September 7th, 1987.", "metadata": {}}
+{"_id": "gpt3_460", "text": "\nThis query selects all employees from the employees table who were hired after September 7th, 1987.", "metadata": {}}
+{"_id": "gpt3_461", "text": "\nThis query counts the number of customers in the customer table who have an active status of '1'.", "metadata": {}}
+{"_id": "gpt3_462", "text": "\nThis statement is used to count the number of customers who are active (i.e. have an active status of '1').", "metadata": {}}
+{"_id": "gpt3_463", "text": "\nThis query would count the number of customers who have an active status of '1'.", "metadata": {}}
+{"_id": "gpt3_464", "text": "\nThis query returns the number of active customers in the customer table.", "metadata": {}}
+{"_id": "gpt3_465", "text": "\nThis query will count the total number of customers who have an active status of '1'.", "metadata": {}}
+{"_id": "gpt3_466", "text": "\nThis query will return a list of all distinct product names from the products table, sorted in alphabetical order.", "metadata": {}}
+{"_id": "gpt3_467", "text": "\nThis query will select all unique product names from the products table and order them alphabetically.", "metadata": {}}
+{"_id": "gpt3_468", "text": "\nThis statement will select all distinct product names from the products table, and order them alphabetically.", "metadata": {}}
+{"_id": "gpt3_469", "text": "\nThis query will return a list of all distinct product names in alphabetical order from the products table.", "metadata": {}}
+{"_id": "gpt3_470", "text": "\nThis query returns a list of distinct product names from the products table, sorted in alphabetical order.", "metadata": {}}
+{"_id": "gpt3_471", "text": "\nThis query will select the name of the wrestler who has held a title for the least amount of days, ordering the result by the lowest amount of days held and limiting the result to one row.", "metadata": {}}
+{"_id": "gpt3_472", "text": "\nThis query returns the name of the wrestler who held a championship title for the shortest amount of time.", "metadata": {}}
+{"_id": "gpt3_473", "text": "\nThis query will select the name of the wrestler who has held a championship title for the fewest amount of days and display it first.", "metadata": {}}
+{"_id": "gpt3_474", "text": "\nThis query selects the name of the wrestler who has held a championship title for the least amount of days, and orders the results in ascending order. The LIMIT 1 clause limits the results to one record.", "metadata": {}}
+{"_id": "gpt3_475", "text": "\nThis query will select the name of the wrestler who has held a title for the least amount of days and display it first.", "metadata": {}}
+{"_id": "gpt3_476", "text": "\nThis query will select and return the distinct channel codes from the customers and customer contact channels tables that are associated with the customer name \"Tillman Ernser\".", "metadata": {}}
+{"_id": "gpt3_477", "text": "\nThis query will select the distinct channel_code of Tillman Ernser from both the customers and customer_contact_channels tables.", "metadata": {}}
+{"_id": "gpt3_478", "text": "\nThis query will return a list of distinct channel_codes associated with the customer Tillman Ernser.", "metadata": {}}
+{"_id": "gpt3_479", "text": "\nThis query will return a list of distinct channel codes associated with the customer named Tillman Ernser.", "metadata": {}}
+{"_id": "gpt3_480", "text": "\nThis query will return a list of all distinct channel codes associated with the customer \"Tillman Ernser\" from the customers and customer_contact_channels tables.", "metadata": {}}
+{"_id": "gpt3_481", "text": "\nThis query will select the shop name of the shop with the highest total quantity of stock from the stock and shop tables.", "metadata": {}}
+{"_id": "gpt3_482", "text": "\nThis query selects the shop name of the shop with the highest total quantity of stock, based on the stock and shop tables. It does this by joining the stock and shop tables on the shared Shop_ID column, grouping by Shop_ID,", "metadata": {}}
+{"_id": "gpt3_483", "text": "\nThis query selects the shop with the highest sum of stock quantities from the stock and shop tables.", "metadata": {}}
+{"_id": "gpt3_484", "text": "\nThis query selects the shop name of the shop with the highest total quantity of stock from the stock and shop tables.", "metadata": {}}
+{"_id": "gpt3_485", "text": "\nThis query selects the shop name of the shop with the highest total quantity of stock from the stock and shop tables.", "metadata": {}}
+{"_id": "gpt3_486", "text": "\nThis query returns a list of last names from the CUSTOMER table that do not have an Invoice with a total greater than 20.", "metadata": {}}
+{"_id": "gpt3_487", "text": "\nThis statement retrieves all last names from the CUSTOMER table that do not have an invoice with a total greater than 20.", "metadata": {}}
+{"_id": "gpt3_488", "text": "\nThis statement will select all last names from the CUSTOMER table which are not associated with an invoice with a total greater than 20.", "metadata": {}}
+{"_id": "gpt3_489", "text": "\nThis query selects all last names from the CUSTOMER table that are not associated with any Invoice with a total greater than 20.", "metadata": {}}
+{"_id": "gpt3_490", "text": "\nThis statement retrieves all last names from the CUSTOMER table that do not have any invoices with a total greater than 20.", "metadata": {}}
+{"_id": "gpt3_491", "text": "\nThis query will return the total number of technicians in the table.", "metadata": {}}
+{"_id": "gpt3_492", "text": "\nThis query returns the number of technicians in a table.", "metadata": {}}
+{"_id": "gpt3_493", "text": "\nThis query will return the total number of technicians in the table.", "metadata": {}}
+{"_id": "gpt3_494", "text": "\nThis query will return the total number of technicians in the table.", "metadata": {}}
+{"_id": "gpt3_495", "text": "\nThis query will return the total number of technicians in the table.", "metadata": {}}
+{"_id": "gpt3_496", "text": "\nThis query will return a list of countries from the people table where there are people aged both under 25 and over 30.", "metadata": {}}
+{"_id": "gpt3_497", "text": "\nThis query will return a list of countries where people are between the ages of 25 and 30.", "metadata": {}}
+{"_id": "gpt3_498", "text": "\nThis query returns the countries of people who are between the ages of 25 and 30.", "metadata": {}}
+{"_id": "gpt3_499", "text": "\nThis query will return a list of countries from the 'people' table where there are people aged between 25 and 30.", "metadata": {}}
+{"_id": "gpt3_500", "text": "\nThis query returns the countries of people who are between the ages of 25 and 30.", "metadata": {}}
+{"_id": "gpt3_501", "text": "\nThis query will return the names of all hosts who are not hosting a party.", "metadata": {}}
+{"_id": "gpt3_502", "text": "\nThis query will return the names of all hosts that are not hosting a party.", "metadata": {}}
+{"_id": "gpt3_503", "text": "\nThis query will return a list of all names of hosts that are not associated with any party.", "metadata": {}}
+{"_id": "gpt3_504", "text": "\nThis query will select the name of all hosts from the HOST table who are not hosting any parties from the party_host table.", "metadata": {}}
+{"_id": "gpt3_505", "text": "\nThis query will select the names of all hosts from the HOST table that are not in the party_host table.", "metadata": {}}
+{"_id": "gpt3_506", "text": "\nThis query returns the number of documents with expenses for each budget type code.", "metadata": {}}
+{"_id": "gpt3_507", "text": "\nThis query returns the number of documents with expenses for each budget type code.", "metadata": {}}
+{"_id": "gpt3_508", "text": "\nThis query will return the count of each budget type code from the Documents_with_expenses table.", "metadata": {}}
+{"_id": "gpt3_509", "text": "\nThis query will return the number of documents with expenses for each budget_type_code.", "metadata": {}}
+{"_id": "gpt3_510", "text": "\nThis query returns the number of documents with expenses for each budget type code.", "metadata": {}}
+{"_id": "gpt3_511", "text": "\nThis query will select the product_id with the highest number of orders from the order_items table, ordered by count in descending order and limited to one result.", "metadata": {}}
+{"_id": "gpt3_512", "text": "\nThis query retrieves the product_id that appears most frequently in the order_items table, ordered by count in descending order and limited to one result.", "metadata": {}}
+{"_id": "gpt3_513", "text": "\nThis query returns the product_id with the highest number of occurrences in the order_items table, ordered by count in descending order, with a limit of one result.", "metadata": {}}
+{"_id": "gpt3_514", "text": "\nThis query retrieves the product_id of the most frequently ordered item from the order_items table, sorted in descending order, and limited to the first result.", "metadata": {}}
+{"_id": "gpt3_515", "text": "\nThis query returns the product_id of the most frequently ordered item from the order_items table, sorted by the number of times it was ordered in descending order.", "metadata": {}}
+{"_id": "gpt3_516", "text": "\nThis query will select the name and salary of all employees from the Employee table, and order the results by salary, from lowest to highest.", "metadata": {}}
+{"_id": "gpt3_517", "text": "\nThis query will select the name and salary of all employees from the Employee table and order the results by salary, from lowest to highest.", "metadata": {}}
+{"_id": "gpt3_518", "text": "\nThis query will select the name and salary of all employees in the Employee table, and it will order the results by salary in ascending order.", "metadata": {}}
+{"_id": "gpt3_519", "text": "\nThis query will return a list of employee names and their corresponding salaries, sorted in ascending order by salary.", "metadata": {}}
+{"_id": "gpt3_520", "text": "\nThis query selects the name and salary of each employee from the Employee table, and orders the results by salary in ascending order.", "metadata": {}}
+{"_id": "gpt3_521", "text": "\nThis query will return the card numbers of all members whose hometown is in Kentucky.", "metadata": {}}
+{"_id": "gpt3_522", "text": "\nThis query will select the card numbers of all members whose hometowns contain the word \"Kentucky\".", "metadata": {}}
+{"_id": "gpt3_523", "text": "\nThis query selects the card number of all members from the member table whose hometown is in Kentucky.", "metadata": {}}
+{"_id": "gpt3_524", "text": "\nThis query will select the card number of all members from Kentucky.", "metadata": {}}
+{"_id": "gpt3_525", "text": "\nThis query will return all card numbers from members who have a hometown that includes \"Kentucky\".", "metadata": {}}
+{"_id": "gpt3_526", "text": "\nThis query returns the number of people who have a food allergy.", "metadata": {}}
+{"_id": "gpt3_527", "text": "\nThis query counts the number of people with food allergies.", "metadata": {}}
+{"_id": "gpt3_528", "text": "\nThis query returns the number of people who have a food allergy.", "metadata": {}}
+{"_id": "gpt3_529", "text": "\nThis query counts the number of people who have a food allergy.", "metadata": {}}
+{"_id": "gpt3_530", "text": "\nThis query counts the number of people who have a food allergy.", "metadata": {}}
+{"_id": "gpt3_531", "text": "\nThis query will return the total count of captains grouped by rank. The result will be a table with two columns, one containing the count of captains for each rank and the other containing the rank itself.", "metadata": {}}
+{"_id": "gpt3_532", "text": "\nThis query returns the total number of captains for each rank.", "metadata": {}}
+{"_id": "gpt3_533", "text": "\nThis query will return the number of captains for each rank, grouped by rank. The result will be a table containing two columns, one for the count of captains and one for the rank.", "metadata": {}}
+{"_id": "gpt3_534", "text": "\nThis query will return a count of the number of captains for each rank. The result will be a table containing the rank and the number of captains associated with that rank.", "metadata": {}}
+{"_id": "gpt3_535", "text": "\nThis query will return the total number of captains for each rank. The result set will contain two columns, one for the count and one for the rank.", "metadata": {}}
+{"_id": "gpt3_536", "text": "\nThis query will select the student ID of all students whose advisor is a professor.", "metadata": {}}
+{"_id": "gpt3_537", "text": "\nThis query will select all student IDs from the Student table who have a Faculty member with the rank of Professor as their advisor.", "metadata": {}}
+{"_id": "gpt3_538", "text": "\nThis query will select the student ID of all students who have a professor as their advisor.", "metadata": {}}
+{"_id": "gpt3_539", "text": "\nThis query will select the student IDs of all students who have a professor as their advisor.", "metadata": {}}
+{"_id": "gpt3_540", "text": "\nThis query selects the student IDs of all students whose advisor is a professor.", "metadata": {}}
+{"_id": "gpt3_541", "text": "\nThis query will return a list of county names from the county and election tables that have two or more districts associated with them.", "metadata": {}}
+{"_id": "gpt3_542", "text": "\nThis query returns the name of all counties from the county table that have at least two entries in the election table.", "metadata": {}}
+{"_id": "gpt3_543", "text": "\nThis query selects the name of a county from the county table (T1) that has at least two entries in the election table (T2). The query joins the two tables on the County_id column, then groups the results by County", "metadata": {}}
+{"_id": "gpt3_544", "text": "\nThis query returns the name of all counties that have two or more districts in the election table.", "metadata": {}}
+{"_id": "gpt3_545", "text": "\nThis query will select the county name from the county table (T1) and join it with the election table (T2) based on the county id. The query will then group the results by the county id and only return county names that", "metadata": {}}
+{"_id": "gpt3_546", "text": "\nThis query returns the number of distinct bike IDs that appear in the trip table.", "metadata": {}}
+{"_id": "gpt3_547", "text": "\nThis query will return the total number of distinct bike IDs in the trip table.", "metadata": {}}
+{"_id": "gpt3_548", "text": "\nThis query will return the number of distinct bike IDs that have been used in trips.", "metadata": {}}
+{"_id": "gpt3_549", "text": "\nThis query will return the number of distinct bike IDs that have been used in trips.", "metadata": {}}
+{"_id": "gpt3_550", "text": "\nThis query will count the number of distinct bike_id values in the trip table.", "metadata": {}}
+{"_id": "gpt3_551", "text": "\nThis query will count the number of students for each major in the Student table.", "metadata": {}}
+{"_id": "gpt3_552", "text": "\nThis query will return a count of the number of students for each major in the Student table.", "metadata": {}}
+{"_id": "gpt3_553", "text": "\nThis query will count the number of students for each major in the Student table.", "metadata": {}}
+{"_id": "gpt3_554", "text": "\nThis query will return a list of majors and the number of students enrolled in each major.", "metadata": {}}
+{"_id": "gpt3_555", "text": "\nThis query returns the number of students in each major.", "metadata": {}}
+{"_id": "gpt3_556", "text": "\nThis query will select the id, country, city, and name columns from the airport table and order the results by the name column in ascending order.", "metadata": {}}
+{"_id": "gpt3_557", "text": "\nThis query will return a list of all airports in the database, sorted by name. It will include the airport's id, country, city, and name.", "metadata": {}}
+{"_id": "gpt3_558", "text": "\nThis query will select the id, country, city, and name of airports from the airport table and order them alphabetically by name.", "metadata": {}}
+{"_id": "gpt3_559", "text": "\nThis query will select the id, country, city, and name from the airport table and order the results by the name field in ascending order.", "metadata": {}}
+{"_id": "gpt3_560", "text": "\nThe above SQL query will return a list of airports, sorted by name, that includes the airport's ID, country, city, and name.", "metadata": {}}
+{"_id": "gpt3_561", "text": "\nThis query counts the number of rooms that are not currently reserved.", "metadata": {}}
+{"_id": "gpt3_562", "text": "\nThis query counts the number of rooms that are not currently reserved.", "metadata": {}}
+{"_id": "gpt3_563", "text": "\nThis query counts the number of rooms that are not part of any reservations.", "metadata": {}}
+{"_id": "gpt3_564", "text": "\nThis query counts the number of rooms that are not in the reservations table.", "metadata": {}}
+{"_id": "gpt3_565", "text": "\nThis query counts the number of rooms in the \"rooms\" table that are not currently reserved in the \"reservations\" table.", "metadata": {}}
+{"_id": "gpt3_566", "text": "\nThis query retrieves the Product_Type_Code from Products where the product price is greater than 4500 and less than 3000.", "metadata": {}}
+{"_id": "gpt3_567", "text": "\nThis query will select the Product_Type_Code from Products where the Product_Price is greater than 4500 and also less than 3000. This query will return an empty set since there are no products that fit this criteria.", "metadata": {}}
+{"_id": "gpt3_568", "text": "\nThis query will return the Product_Type_Code from the Products table where the Product_Price is greater than 4500 and less than 3000. This query will return no results, as there are no Products with a Price that meets both criteria.", "metadata": {}}
+{"_id": "gpt3_569", "text": "\nThis query will return the product type codes from the Products table that have a product price greater than 4500 and less than 3000.", "metadata": {}}
+{"_id": "gpt3_570", "text": "\nThis query returns the Product_Type_Code of all products that have a price greater than 4500 and less than 3000, which would be an empty set since no products can have such a price.", "metadata": {}}
+{"_id": "gpt3_571", "text": "\nThis query summarizes the number of degrees awarded by each campus in Orange County since 2000. The result set includes the name of the campus and the total number of degrees awarded.", "metadata": {}}
+{"_id": "gpt3_572", "text": "\nThis query will sum the degrees awarded by each campus in Orange County since 2000.", "metadata": {}}
+{"_id": "gpt3_573", "text": "\nThis query will summarize the total number of degrees awarded at each campus in Orange County since 2000.", "metadata": {}}
+{"_id": "gpt3_574", "text": "\nThis query will return the sum of degrees awarded by each campus in Orange county since 2000.", "metadata": {}}
+{"_id": "gpt3_575", "text": "\nThis query will select the campus and the sum of degrees awarded from all campuses in Orange County since 2000, and group the results by campus.", "metadata": {}}
+{"_id": "gpt3_576", "text": "\nThis query selects the name of the member who is in charge of the most party events, and orders them by the number of events they are in charge of, with the member with the most events first.", "metadata": {}}
+{"_id": "gpt3_577", "text": "\nThis query selects the member name of the member in charge of the most party events, and orders them by the number of events they are in charge of, with the highest number of events listed first.", "metadata": {}}
+{"_id": "gpt3_578", "text": "\nThis query returns the name of the member who is in charge of the most party events, ordered by the number of events they are in charge of.", "metadata": {}}
+{"_id": "gpt3_579", "text": "\nThis query selects the member name of the member in charge of the most party events, ordered by the number of events they are in charge of.", "metadata": {}}
+{"_id": "gpt3_580", "text": "\nThis query retrieves the name of the member who is in charge of the most party events, ordered by the number of events they are in charge of and limited to one result.", "metadata": {}}
+{"_id": "gpt3_581", "text": "\nThis query will select the total number of games and the location of the university from the university and basketball_match tables where the team name is 'Clemson'.", "metadata": {}}
+{"_id": "gpt3_582", "text": "\nThis query will select the total number of games played and the location of all basketball matches played by the team 'Clemson' from the university and basketball_match tables.", "metadata": {}}
+{"_id": "gpt3_583", "text": "\nThis query will select the total number of games and the location of the Clemson university from the university and basketball_match tables, respectively, by joining the two tables on the school_id and filtering for the team_name equal to 'Clemson", "metadata": {}}
+{"_id": "gpt3_584", "text": "\nThis query will select the total number of games played by Clemson and the location of the university from the university and basketball_match tables, respectively, where the team name is 'Clemson'.", "metadata": {}}
+{"_id": "gpt3_585", "text": "\nThis query selects the total number of all games and the location of the university from the university and basketball_match tables where the team name is 'Clemson'.", "metadata": {}}
+{"_id": "gpt3_586", "text": "\nThis query returns the number of records for each statement ID in the Accounts table.", "metadata": {}}
+{"_id": "gpt3_587", "text": "\nThis query will return the statement ID and the count of all records associated with each statement ID from the Accounts table.", "metadata": {}}
+{"_id": "gpt3_588", "text": "\nThis query will return a list of all the STATEMENT_ID's in the Accounts table, along with a count of the number of records associated with each STATEMENT_ID.", "metadata": {}}
+{"_id": "gpt3_589", "text": "\nThis query returns the number of rows in the Accounts table grouped by the STATEMENT_ID column.", "metadata": {}}
+{"_id": "gpt3_590", "text": "\nThis query will return the number of records in the Accounts table grouped by STATEMENT_ID.", "metadata": {}}
+{"_id": "gpt3_591", "text": "\nThis SQL statement will return the names of all the restaurants in the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_592", "text": "\nThe above SQL query selects the ResName column from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_593", "text": "\nThis SQL statement will select the name of all restaurants from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_594", "text": "\nThis SQL statement selects the name of each restaurant from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_595", "text": "\nThis query selects the name of all restaurants from the Restaurant table.", "metadata": {}}
+{"_id": "gpt3_596", "text": "\nThis query selects the artist name of the song with the shortest duration from the song and files tables.", "metadata": {}}
+{"_id": "gpt3_597", "text": "\nThis query selects the artist name of the song with the shortest duration from the song and files tables.", "metadata": {}}
+{"_id": "gpt3_598", "text": "\nThis query selects the artist name from the song table for the song with the shortest duration from the files table.", "metadata": {}}
+{"_id": "gpt3_599", "text": "\nThis query returns the artist name of the shortest song in the song and files tables.", "metadata": {}}
+{"_id": "gpt3_600", "text": "\nThis query will select the artist name from the song table (T1) that is associated with the file with the shortest duration from the files table (T2). The query will order the files table by duration and limit the result to the first", "metadata": {}}
