@@ -7,7 +7,7 @@ from tqdm import tqdm
 import time
 
 # Load your API key from an environment variable or secret management service
-openai.api_key = "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"
+openai.api_key = ""
 
 lang = 'SQL'
 ROOT_PATH = './Dataset/'
